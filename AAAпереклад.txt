@@ -24,19 +24,19 @@ diplomacy_l_ukrainian.yml - в.1.22, перекладено
 diplomatic_action_l_ukrainian.yml - в.1.22, перекладено
 eldorado_l_ukrainian.yml - в.1.22, перекладено
 EU4_l_ukrainian.yml - в.1.22, без перекладу рядки: 2-75 (74), 96-99 (4), 161-292 (132), 265-290 (26), 306-314 (9), 350-370 (21), 749-751 (3), 2323-2329 (7), 5011-5029 (19), 5045-5048 (4)
-flavor_events_l_ukrainian.yml - в.1.21.1, без перекладу рядки: угор.394-498 (28), яп.2934-2981 (47), нор.3212-3304 (92), tus.3436-3493 (57), 4453-4500 (58) 
-generic_events_l_ukrainian.yml - в.1.21.1, без перекладу рядки: 143-175, 1659-1923, 4211-4249
-government_names_l_ukrainian.yml - в.1.21.1, перекладено
+flavor_events_l_ukrainian.yml - в.1.22, без перекладу рядки: угор.394-498 (28), яп.2934-2981 (47), нор.3212-3304 (92), tus.3436-3493 (57), 4453-4500 (58) 
+generic_events_l_ukrainian.yml - в.1.22, без перекладу рядки: 143-175, 1659-1923, 4211-4250
+government_names_l_ukrainian.yml - в.1.22, без перекладу рядки: 105-111
 hinduism_l_ukrainian.yml - в.1.22, перекладено
-hints_l_ukrainian.yml - в.1.21.1, перекладено
+hints_l_ukrainian.yml - в.1.22, перекладено
 institutions_l_ukrainian.yml - в.1.22, перекладено
 ledger_l_ukrainian.yml - в.1.22, перекладено
-loadingtips_l_ukrainian.yml - в.1.21.1, перекладено
+loadingtips_l_ukrainian.yml - в.1.22, перекладено
 maghreb_formations_l_ukrainian.yml - в.1.22, перекладено
-mandate_of_heaven_l_ukrainian.yml - в.1.21.1, без перекладу рядки: tributary_events 91-205 (108), sinto 535-756 (223)
-mare_nostrum_l_ukrainian.yml - в.1.21.1, перекладено
+mandate_of_heaven_l_ukrainian.yml - в.1.22, без перекладу рядки: tributary_events 91-205 (108), 311, sinto 535-756 (223)
+mare_nostrum_l_ukrainian.yml - в.1.22, без перекладу рядки: 447
 mercantilism_l_ukrainian.yml - в.1.22, перекладено
-messages_l_ukrainian.yml - в.1.21.1, перекладено
+messages_l_ukrainian.yml - в.1.22, без перекладу рядки: 7525-7534 (7)
 missions_l_ukrainian.yml - в.1.21.1, перекладено
 modifers_l_ukrainian.yml - в.1.21.1, без перекладу рядки: 745-768 (23), 779-843 (64), 864-993 (130)
 muslim_dlc_l_ukrainian.yml - в.1.22, перекладено
