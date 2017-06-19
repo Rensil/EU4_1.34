@@ -37,7 +37,7 @@ mandate_of_heaven_l_ukrainian.yml - в.1.22, без перекладу рядк�
 mare_nostrum_l_ukrainian.yml - в.1.22, без перекладу рядки: 447
 mercantilism_l_ukrainian.yml - в.1.22, перекладено
 messages_l_ukrainian.yml - в.1.22, без перекладу рядки: 7525-7534 (7)
-missions_l_ukrainian.yml - в.1.21.1, перекладено
+missions_l_ukrainian.yml - в.1.22, перекладено
 modifers_l_ukrainian.yml - в.1.21.1, без перекладу рядки: 745-768 (23), 779-843 (64), 864-993 (130)
 muslim_dlc_l_ukrainian.yml - в.1.22, перекладено
 native_flavor_events_l_ukrainian.yml - в.1.22, перекладено
