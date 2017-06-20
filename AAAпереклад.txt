@@ -14,7 +14,7 @@ areas_regions_l_ukrainian.yml - в.1.22, без перекладу рядки: 6
 common_sense_l_ukrainian.yml - в.1.22, без перекладу рядки: buddhism_events 1168-1301 (133)
 conquest_of_constantinople_l_ukrainian.yml - в.1.22, перекладено
 core_l_ukrainian.yml - в.1.22, перекладено
-cossacks_l_ukrainian.yml - в.1.22, без перекладу рядки: tengri_events 373-617 (245)
+cossacks_l_ukrainian.yml - в.1.22, без перекладу рядки: tengri_events 406-617 (212)
 countries_l_ukrainian.yml - в.1.22, перекладено
 cultures_phase4_l_ukrainian.yml - в.1.22, перекладено
 custom_localisation_l_ukrainian.yml - в.1.22, перекладено
@@ -54,20 +54,20 @@ prov_names_l_ukrainian.yml - в.1.22, без перекладу рядки: 3164
 Purple_Phoenix_l_ukrainian.yml - в.1.22, перекладено
 random_new_world_l_ukrainian.yml - в.1.22, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.22, перекладено
-religion_l_ukrainian.yml - в.1.21.1, перекладено
+religion_l_ukrainian.yml - в.1.22, перекладено
 res_publica_l_ukrainian.yml - в.1.22, перекладено
-rights_of_man_l_ukrainian.yml - в.1.21.1, без перекладу рядки: 225-290 (65), 1615-1680 (65)
+rights_of_man_l_ukrainian.yml - в.1.22, без перекладу рядки: 225-290 (65), 665-1083 (419), 1614-1673 (65)
 rus_awaken_l_ukrainian.txt - в.1.22, перекладено
 sikh_l_ukrainian.yml - в.1.22, перекладено
 subject_type_l_ukrainian.yml - в.1.22, перекладено
 tags_phase4_l_ukrainian.yml - в.1.22, перекладено
-technology_l_ukrainian.yml - в.1.21.1, перекладено
+technology_l_ukrainian.yml - в.1.22, перекладено
 terrain_stuff_l_ukrainian.yml - в.1.22, перекладено
-text_l_ukrainian.yml - в.1.21.1, перекладено
-text_l_ukrainian_0_815.txt
+text_l_ukrainian.yml - в.1.22, перекладено
+text_l_ukrainian_0_815.txt - файл відсутній в в.1.22
 third_rome_l_ukrainian.txt - в.1.22, без перекладу рядки: 386
 tradenodes_l_ukrainian.yml - в.1.22, перекладено
-triggers_and_effects_l_ukrainian.yml - в.1.21.1, без перекладу рядки: 494-550 (57)
-tutorial_l_ukrainian.yml - в.1.21.1, перекладено
+triggers_and_effects_l_ukrainian.yml - в.1.22, без перекладу рядки: 510-566 (57)
+tutorial_l_ukrainian.yml - в.1.22, перекладено
 USA_dlc_l_ukrainian.txt - в.1.22, перекладено
-womeninhistory_l_ukrainian.yml - в.1.21.1, перекладено
+womeninhistory_l_ukrainian.yml - в.1.22, перекладено
