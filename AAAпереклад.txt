@@ -35,7 +35,7 @@ ledger_l_ukrainian.yml - в.1.22, перекладено
 loadingtips_l_ukrainian.yml - в.1.22, перекладено
 maghreb_formations_l_ukrainian.yml - в.1.22, перекладено
 mandate_of_heaven_l_ukrainian.yml - в.1.22, без перекладу рядки: tributary_events 91-205 (108), 311, sinto 535-756 (223)
-mare_nostrum_l_ukrainian.yml - в.1.22, без перекладу рядки: 447
+mare_nostrum_l_ukrainian.yml - в.1.22, перекладено
 mercantilism_l_ukrainian.yml - в.1.22, перекладено
 messages_l_ukrainian.yml - в.1.22, без перекладу рядки: 7525-7534 (7)
 missions_l_ukrainian.yml - в.1.22, перекладено
