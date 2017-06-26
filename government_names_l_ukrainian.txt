@@ -324,7 +324,7 @@
  KRALJICA:0 "Кральіца"
  CAR:0 "Цар"
  CARICA:0 "Цариця"
- SHOGUNATE:0 "Сьогунат"
+ SHOGUNATE:0 "Сьоґунат"
  SHOGUN:0 "Сьогун"
  SHOGUNESS:0 "Сьогунка"
  DOMAIN:0 "Домен"
