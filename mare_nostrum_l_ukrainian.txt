@@ -444,4 +444,4 @@
  EST_IS_TERRITORIAL_CORE:0 "Провінція є територіальною"
  religious_turmoil_timelimit_tt:0 "Має §YРелігійні заворушення§! на 25 років"
  custom_idea_slave_raiders:1 "Прибережні набіги"
- custom_idea_slave_raiders_desc:1 "Our country has a long tradition of raiding the coastlines for what it requires in the form of sailors, money and all other good things in life."
+ custom_idea_slave_raiders_desc:1 "Наша країна має давні традиції набігів на узбережжя заради грошей, золота та інших життєвих благ."
