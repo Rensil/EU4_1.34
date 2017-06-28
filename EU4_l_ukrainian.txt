@@ -1,4 +1,4 @@
-l_ukrainian:
+﻿l_ukrainian:
  DEV_MAKE_STATE:0 " з $VAL|Y$¤1"
  PROV_MAKE_STATE:0 " $COLOR$$PROV$/$SIZE$¤2§!"
  MAKE_STATE_TOO_MANY:0 "і на $AMOUNT|Y$ територій більше..."
