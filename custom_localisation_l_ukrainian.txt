@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  string_middle_ages:0 "Середньовіччя"
  string_song_era:0 "Сун"
  string_pre_islamic:0 "до ісламу"
