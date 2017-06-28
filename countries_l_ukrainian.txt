@@ -1,4 +1,4 @@
-﻿﻿l_ukrainian:
+﻿l_ukrainian:
  ADA:0 "Адал"
  ADE:0 "Ємен"
  AKK:0 "Ак-Коюнлу"
