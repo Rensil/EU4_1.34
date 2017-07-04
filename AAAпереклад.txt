@@ -66,7 +66,7 @@ technology_l_ukrainian.yml - в.1.22, перекладено
 terrain_stuff_l_ukrainian.yml - в.1.22, перекладено
 text_l_ukrainian.yml - в.1.22, перекладено
 text_l_ukrainian_0_815.txt - файл відсутній в в.1.22
-third_rome_l_ukrainian.txt - в.1.22, без перекладу рядки: 386
+third_rome_l_ukrainian.txt - в.1.22, без перекладу рядки: 54-387
 tradenodes_l_ukrainian.yml - в.1.22, перекладено
 triggers_and_effects_l_ukrainian.yml - в.1.22, без перекладу рядки: 510-566 (57)
 tutorial_l_ukrainian.yml - в.1.22, перекладено
