@@ -5,7 +5,7 @@
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
 vla_dos - в перекладі - third_rome
-sergey-astral - в перекладі - flavor_events, powers_and_ideas
+sergey-astral - в перекладі - flavor_events, powers_and_ideas, personalityoptions - коміти d не перекладаю.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)
 
