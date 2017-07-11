@@ -66,7 +66,7 @@
  DIPLO_COALITION:0 "Коаліційна війна: "
  DIPLO_IS_REVOLUTION_TARGET:0 "$WHO$ - ціль революціонерів: "
  DIPLO_NOT_HAVE_LOCATION:0 "Не має контролю над провінцією $NAME$: "
- DIPLO_WAR_PEACE_SCORE:0 "Військовий рахунок більший ніж вартість пропозиції миру: "
+ DIPLO_WAR_PEACE_SCORE:0 "Воєнний рахунок більший ніж вартість пропозиції миру: "
  DIPLO_QUIET_BONUS:0 "Бездіяльність у війні: "
  DIPLO_PEACE_SCORE_TOO_HIGH:0 "Вимоги миру безпричинно великі: "
  DIPLO_PEACE_OFFER_TOO_MUCH:0 "Пропозиція занадто великодушна: "
@@ -356,4 +356,5 @@
  DIPLO_VASSAL_WAR:0 "Форма правління дозволяє васалам вести війни: "
  DIPLO_TRIBUTARIES:0 "Число данників: "
  DIPLO_IS_CELESTIAL_EMPEROR:0 "$WHO$ – Імператор Піднебесної: "
- DIPLO_IS_HORDE_EMPIRE:0 "$WHO$ – Ординська Імперія: " 
+ DIPLO_IS_HORDE_EMPIRE:0 "$WHO$ – Ординська Імперія: "
+ 
