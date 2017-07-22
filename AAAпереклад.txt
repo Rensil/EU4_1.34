@@ -48,7 +48,7 @@ nw2_l_ukrainian.yml - в.1.22, перекладено
 nw_l_ukrainian.yml - в.1.22, перекладено
 opinions_l_ukrainian.yml - в.1.22, перекладено
 personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядки: per.events d 142-464 (125)
-powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 448-453 (6), 769-780 (12), 813-826 (14), 4623-5179 (557)
+powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 813-826 (14), 4623-5179 (557)
 privateers_l_ukrainian.yml - в.1.22, перекладено
 prov_names_adj_l_ukrainian.yml - в.1.22, не перекладається
 prov_names_l_ukrainian.yml - в.1.22, без перекладу рядки: 3164-3251 (88)
