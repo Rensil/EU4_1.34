@@ -5048,4 +5048,3 @@
  PRESS_SAILORS_TITLE_DESCRIPTION:0 "Ви отримаєте від них $SAILORS|Y$ моряків.\n"
  MACRO_BUILDING_LIST_WINDOW_TITLE:0 "Збудувати $BUILDINGNAME$ у провінціях."
  MACRO_BUILDING_LIST_WINDOW_CLOSE:0 "Закрити список провінцій."
-
