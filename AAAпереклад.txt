@@ -13,7 +13,7 @@ sergey-astral - в перекладі - flavor_events, powers_and_ideas, persona
 achievements_l_ukrainian.yml - в.1.22, перекладено
 aow_l_ukrainian.yml - в.1.22, перекладено
 areas_regions_l_ukrainian.yml - в.1.22, без перекладу рядки: 668-736 (68), 1311-1313 (3), 1326-1358 (33), 1416-1425 (10), 1735-2033 (299), 2436-2487 (52)
-common_sense_l_ukrainian.yml - в.1.22, без перекладу рядки: buddhism_events 1168-1301 (133)
+common_sense_l_ukrainian.yml - в.1.22, без перекладу рядки: buddhism_events d 1167-1299 (31)
 conquest_of_constantinople_l_ukrainian.yml - в.1.22, перекладено
 core_l_ukrainian.yml - в.1.22, перекладено
 cossacks_l_ukrainian.yml - в.1.22, без перекладу рядки: tengri_events 406-617 (212)
@@ -52,7 +52,7 @@ personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядк
 powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 814-818 (3), 4626-5179 (554)
 privateers_l_ukrainian.yml - в.1.22, перекладено
 prov_names_adj_l_ukrainian.yml - в.1.22, не перекладається
-prov_names_l_ukrainian.yml - в.1.22, без перекладу рядки: 3164-3251 (88)
+prov_names_l_ukrainian.yml - в.1.22, перекладено
 Purple_Phoenix_l_ukrainian.yml - в.1.22, перекладено
 random_new_world_l_ukrainian.yml - в.1.22, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.22, перекладено
