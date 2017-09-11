@@ -16,7 +16,7 @@ areas_regions_l_ukrainian.yml - в.1.22, без перекладу рядки: 6
 common_sense_l_ukrainian.yml - в.1.22, перекладено
 conquest_of_constantinople_l_ukrainian.yml - в.1.22, перекладено
 core_l_ukrainian.yml - в.1.22, перекладено
-cossacks_l_ukrainian.yml - в.1.22, без перекладу рядки: tengri_events 406-617 (212)
+cossacks_l_ukrainian.yml - в.1.22, без перекладу рядки: tengri_events d 407-615 (52)
 countries_l_ukrainian.yml - в.1.22, перекладено
 cultures_phase4_l_ukrainian.yml - в.1.22, перекладено
 custom_localisation_l_ukrainian.yml - в.1.22, перекладено
