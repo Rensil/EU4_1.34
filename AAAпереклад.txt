@@ -6,7 +6,7 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
-sergey-astral - в перекладі - flavor_events, powers_and_ideas, personalityoptions.
+sergey-astral - в перекладі - flavor_events, personalityoptions, generic_events.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)
 
@@ -27,7 +27,7 @@ diplomatic_action_l_ukrainian.yml - в.1.22, перекладено
 eldorado_l_ukrainian.yml - в.1.22, перекладено
 EU4_l_ukrainian.yml - в.1.22, без перекладу рядки: 40-75 (26)
 flavor_events_l_ukrainian.yml - в.1.22, без перекладу рядки: прус.2442-2465 (5), яп.2934-2975 (13), tus.3437-3487 (12), cri.4454-4486 (7)
-generic_events_l_ukrainian.yml - в.1.22, без перекладу рядки: china_events 1660-1923 (198)
+generic_events_l_ukrainian.yml - в.1.22, без перекладу рядки: china_events 1660-1923 (115)
 government_names_l_ukrainian.yml - в.1.22, перекладено
 hinduism_l_ukrainian.yml - в.1.22, перекладено
 hints_l_ukrainian.yml - в.1.22, перекладено
