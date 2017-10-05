@@ -27,7 +27,7 @@ diplomatic_action_l_ukrainian.yml - в.1.22, перекладено
 eldorado_l_ukrainian.yml - в.1.22, перекладено
 EU4_l_ukrainian.yml - в.1.22, без перекладу рядки: 40-75 (26)
 flavor_events_l_ukrainian.yml - в.1.22, без перекладу рядки: прус.2442-2465 (5), яп.2934-2975 (13), tus.3437-3487 (12), cri.4454-4486 (7)
-generic_events_l_ukrainian.yml - в.1.22, без перекладу рядки: china_events 1701-1890 (32)
+generic_events_l_ukrainian.yml - в.1.22, без перекладу рядки: china_events 1753-1890 (25)
 government_names_l_ukrainian.yml - в.1.22, перекладено
 hinduism_l_ukrainian.yml - в.1.22, перекладено
 hints_l_ukrainian.yml - в.1.22, перекладено
