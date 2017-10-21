@@ -6,7 +6,7 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
-sergey-astral - в перекладі - flavor_events, personalityoptions, generic_events.
+sergey-astral - в перекладі - flavor_events, personalityoptions, mandate_of_heaven.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)
 
