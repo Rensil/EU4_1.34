@@ -8,68 +8,69 @@
 
 sergey-astral - в перекладі - personalityoptions, rights_of_man.
 
-Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)
+Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
+Загальна кількість рядків 62095 / не перекладено 1275 
 
-achievements_l_ukrainian.yml - в.1.22, перекладено
-aow_l_ukrainian.yml - в.1.22, перекладено
-areas_regions_l_ukrainian.yml - в.1.22, перекладено
-common_sense_l_ukrainian.yml - в.1.22, перекладено
-conquest_of_constantinople_l_ukrainian.yml - в.1.22, перекладено
-core_l_ukrainian.yml - в.1.22, перекладено
-cossacks_l_ukrainian.yml - в.1.22, без перекладу рядки: tengri_events d 407-615 (52)
-countries_l_ukrainian.yml - в.1.22, перекладено
-cultures_phase4_l_ukrainian.yml - в.1.22, перекладено
-custom_localisation_l_ukrainian.yml - в.1.22, перекладено
-decisions_l_ukrainian.yml - в.1.22, перекладено
-diplo_reasons_l_ukrainian.yml - в.1.22, перекладено
-diplomacy_l_ukrainian.yml - в.1.22, перекладено
-diplomatic_action_l_ukrainian.yml - в.1.22, перекладено
-eldorado_l_ukrainian.yml - в.1.22, перекладено
-EU4_l_ukrainian.yml - в.1.22, перекладено
-flavor_events_l_ukrainian.yml - в.1.22, без перекладу рядки: прус.2442-2465 (6), яп.2934-2975 (13)
-generic_events_l_ukrainian.yml - в.1.22, перекладено
-government_names_l_ukrainian.yml - в.1.22, перекладено
-hinduism_l_ukrainian.yml - в.1.22, перекладено
-hints_l_ukrainian.yml - в.1.22, перекладено
-institutions_l_ukrainian.yml - в.1.22, перекладено
-ledger_l_ukrainian.yml - в.1.22, перекладено
-loadingtips_l_ukrainian.yml - в.1.22, перекладено
-maghreb_formations_l_ukrainian.yml - в.1.22, перекладено
-mandate_of_heaven_l_ukrainian.yml - в.1.22, без перекладу рядки: tributary_events d 98-205 (35)
-mare_nostrum_l_ukrainian.yml - в.1.22, перекладено
-mercantilism_l_ukrainian.yml - в.1.22, перекладено
-messages_l_ukrainian.yml - в.1.22, перекладено
-missions_l_ukrainian.yml - в.1.22, перекладено
-modifers_l_ukrainian.yml - в.1.22, без перекладу рядки: 748-758 (5), 779-841 (60), 864-1007 (144)
-muslim_dlc_l_ukrainian.yml - в.1.22, перекладено
-native_flavor_events_l_ukrainian.yml - в.1.22, перекладено
-notlocalized_l_ukrainian.yml - в.1.22, перекладено
-nudge_l_ukrainian.yml - в.1.22, перекладено
-nw2_l_ukrainian.yml - в.1.22, перекладено
-nw_l_ukrainian.yml - в.1.22, перекладено
-opinions_l_ukrainian.yml - в.1.22, перекладено
-personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядки: per.events d 312-460 (27) 
-powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 814-818 (3), 4626-5179 (548)
-privateers_l_ukrainian.yml - в.1.22, перекладено
+achievements_l_ukrainian.yml - в.1.22, перекладено 245
+aow_l_ukrainian.yml - в.1.22, перекладено 2280
+areas_regions_l_ukrainian.yml - в.1.22, перекладено 2487
+common_sense_l_ukrainian.yml - в.1.22, перекладено 1682
+conquest_of_constantinople_l_ukrainian.yml - в.1.22, перекладено 4
+core_l_ukrainian.yml - в.1.22, перекладено 889
+cossacks_l_ukrainian.yml - в.1.22, без перекладу рядки: tengri_events d 407-615 (52) 1410
+countries_l_ukrainian.yml - в.1.22, перекладено 1149
+cultures_phase4_l_ukrainian.yml - в.1.22, перекладено 41
+custom_localisation_l_ukrainian.yml - в.1.22, перекладено 44
+decisions_l_ukrainian.yml - в.1.22, перекладено 129
+diplo_reasons_l_ukrainian.yml - в.1.22, перекладено 359
+diplomacy_l_ukrainian.yml - в.1.22, перекладено 882
+diplomatic_action_l_ukrainian.yml - в.1.22, перекладено 7
+eldorado_l_ukrainian.yml - в.1.22, перекладено 1113
+EU4_l_ukrainian.yml - в.1.22, перекладено 5050
+flavor_events_l_ukrainian.yml - в.1.22, без перекладу рядки: прус.2442-2465 (6), яп.2934-2975 (13) 4515
+generic_events_l_ukrainian.yml - в.1.22, перекладено 4251
+government_names_l_ukrainian.yml - в.1.22, перекладено 481
+hinduism_l_ukrainian.yml - в.1.22, перекладено 224
+hints_l_ukrainian.yml - в.1.22, перекладено 342
+institutions_l_ukrainian.yml - в.1.22, перекладено 117
+ledger_l_ukrainian.yml - в.1.22, перекладено 208
+loadingtips_l_ukrainian.yml - в.1.22, перекладено 104
+maghreb_formations_l_ukrainian.yml - в.1.22, перекладено 9
+mandate_of_heaven_l_ukrainian.yml - в.1.22, без перекладу рядки: tributary_events d 98-205 (35) 816
+mare_nostrum_l_ukrainian.yml - в.1.22, перекладено 447
+mercantilism_l_ukrainian.yml - в.1.22, перекладено 56
+messages_l_ukrainian.yml - в.1.22, перекладено 7718
+missions_l_ukrainian.yml - в.1.22, перекладено 178
+modifers_l_ukrainian.yml - в.1.22, без перекладу рядки: 748-758 (5), 779-841 (60), 864-1007 (144) 1007
+muslim_dlc_l_ukrainian.yml - в.1.22, перекладено 161
+native_flavor_events_l_ukrainian.yml - в.1.22, перекладено 106
+notlocalized_l_ukrainian.yml - в.1.22, перекладено 6
+nudge_l_ukrainian.yml - в.1.22, перекладено 8
+nw2_l_ukrainian.yml - в.1.22, перекладено 440
+nw_l_ukrainian.yml - в.1.22, перекладено 238
+opinions_l_ukrainian.yml - в.1.22, перекладено 193
+personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядки: per.events d 312-460 (27) 703
+powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 814-818 (3), 4626-5179 (548) 5180
+privateers_l_ukrainian.yml - в.1.22, перекладено 82
 prov_names_adj_l_ukrainian.yml - в.1.22, не перекладається
-prov_names_l_ukrainian.yml - в.1.22, перекладено
-Purple_Phoenix_l_ukrainian.yml - в.1.22, перекладено
+prov_names_l_ukrainian.yml - в.1.22, перекладено 3346
+Purple_Phoenix_l_ukrainian.yml - в.1.22, перекладено 93
 random_new_world_l_ukrainian.yml - в.1.22, не перекладається
-regions_phase4_l_ukrainian.yml - в.1.22, перекладено
-religion_l_ukrainian.yml - в.1.22, перекладено
-res_publica_l_ukrainian.yml - в.1.22, перекладено
-rights_of_man_l_ukrainian.yml - в.1.22, без перекладу рядки: fetishist_flavor 665-1083 (419), stat_wars 1614-1673 (28)
-rus_awaken_l_ukrainian.txt - в.1.22, перекладено
-sikh_l_ukrainian.yml - в.1.22, перекладено
-subject_type_l_ukrainian.yml - в.1.22, перекладено
-tags_phase4_l_ukrainian.yml - в.1.22, перекладено
-technology_l_ukrainian.yml - в.1.22, перекладено
-terrain_stuff_l_ukrainian.yml - в.1.22, перекладено
-text_l_ukrainian.yml - в.1.22, перекладено
+regions_phase4_l_ukrainian.yml - в.1.22, перекладено 38
+religion_l_ukrainian.yml - в.1.22, перекладено 94
+res_publica_l_ukrainian.yml - в.1.22, перекладено 549
+rights_of_man_l_ukrainian.yml - в.1.22, без перекладу рядки: fetishist_flavor 665-1083 (419), stat_wars 1614-1673 (28) 1679
+rus_awaken_l_ukrainian.txt - в.1.22, перекладено 4
+sikh_l_ukrainian.yml - в.1.22, перекладено 63
+subject_type_l_ukrainian.yml - в.1.22, перекладено 65
+tags_phase4_l_ukrainian.yml - в.1.22, перекладено 93
+technology_l_ukrainian.yml - в.1.22, перекладено 259
+terrain_stuff_l_ukrainian.yml - в.1.22, перекладено 3
+text_l_ukrainian.yml - в.1.22, перекладено 8161
 text_l_ukrainian_0_815.txt - файл відсутній в в.1.22
-third_rome_l_ukrainian.txt - в.1.22, перекладено
-tradenodes_l_ukrainian.yml - в.1.22, перекладено
-triggers_and_effects_l_ukrainian.yml - в.1.22, перекладено
-tutorial_l_ukrainian.yml - в.1.22, перекладено
-USA_dlc_l_ukrainian.txt - в.1.22, перекладено
-womeninhistory_l_ukrainian.yml - в.1.22, перекладено
+third_rome_l_ukrainian.txt - в.1.22, перекладено 387
+tradenodes_l_ukrainian.yml - в.1.22, перекладено 198
+triggers_and_effects_l_ukrainian.yml - в.1.22, перекладено 566
+tutorial_l_ukrainian.yml - в.1.22, перекладено 370
+USA_dlc_l_ukrainian.txt - в.1.22, перекладено 294
+womeninhistory_l_ukrainian.yml - в.1.22, перекладено 472
