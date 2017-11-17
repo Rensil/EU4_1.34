@@ -1,4 +1,4 @@
-В файлі прогрес перекладу до версії 1.22. Пошук та зміну тексту виконано за допомогою WinMerge.
+В файлі прогрес перекладу до версії 1.23. Пошук та зміну тексту виконано за допомогою WinMerge.
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013)
 Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 Неперекладені рядки азійських релігій та подій не нададуть можливості насолодитися грою за країни Азії.
@@ -9,17 +9,19 @@
 sergey-astral - в перекладі - personalityoptions, rights_of_man.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
-Загальна кількість рядків 62095 / не перекладено 1275 
+Загальна кількість рядків версії 1.22 62095 / не перекладено 1275 
 
-achievements_l_ukrainian.yml - в.1.22, перекладено 245
-aow_l_ukrainian.yml - в.1.22, перекладено 2280
-areas_regions_l_ukrainian.yml - в.1.22, перекладено 2487
-common_sense_l_ukrainian.yml - в.1.22, перекладено 1682
-conquest_of_constantinople_l_ukrainian.yml - в.1.22, перекладено 4
-core_l_ukrainian.yml - в.1.22, перекладено 889
-cossacks_l_ukrainian.yml - в.1.22, без перекладу рядки: tengri_events d 407-615 (52) 1410
-countries_l_ukrainian.yml - в.1.22, перекладено 1149
-cultures_phase4_l_ukrainian.yml - в.1.22, перекладено 41
+achievement_tooltips_l_ukrainian - в.1.23, без перекладу рядки: 2-39 (38) / 39
+achievements_l_ukrainian.yml - в.1.23, без перекладу рядки: 246-473 (227) / 472
+aow_l_ukrainian.yml - в.1.23, без перекладу рядки: 1845-1847 (2), prices 2122-2180 (59) / 2339
+areas_regions_l_ukrainian.yml - в.1.23, без перекладу рядки: 2491-2583 (92) / 2487
+common_sense_l_ukrainian.yml - в.1.23, перекладено 1682
+conquest_of_constantinople_l_ukrainian.yml - в.1.23, перекладено 4
+core_l_ukrainian.yml - в.1.23, без перекладу рядки: 140 (1), 343 (1) / 892
+cossacks_l_ukrainian.yml - в.1.23, без перекладу рядки: tengri_events d 407-615 (52) / 1414
+countries_l_ukrainian.yml - в.1.23, без перекладу рядки: 1150-1213 (64) / 1213
+cradle_of_civilization_l_ukrainian- в.1.23, без перекладу рядки: 2-849 (848) / 849
+cultures_phase4_l_ukrainian.yml - в.1.23, перекладено 41
 custom_localisation_l_ukrainian.yml - в.1.22, перекладено 44
 decisions_l_ukrainian.yml - в.1.22, перекладено 129
 diplo_reasons_l_ukrainian.yml - в.1.22, перекладено 359
