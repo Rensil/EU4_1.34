@@ -243,7 +243,7 @@
  atleast_10_mahayana_tooltip:0 "Щонайменше 10 держав повинні сповідувати віру махаяна."
  achievement_sakoku_law_tooltip:0 "Виберіть шлях повного ізоляціоніста у щонайменше шести інцидентах."
  achievement_live_long_and_prosper_tooltip:0 "Щонайменше 30 Володінь повинні бути Заможними."
-NEW_ACHIEVEMENT_8_29_NAME:0 "Colonial Management"
+ NEW_ACHIEVEMENT_8_29_NAME:0 "Colonial Management"
  NEW_ACHIEVEMENT_8_29_DESC:0 "Have 3 colonial governors that were directly appointed by you at the same time."
  NEW_ACHIEVEMENT_8_30_NAME:0 "Voting Streak"
  NEW_ACHIEVEMENT_8_30_DESC:0 "Successfully pass 11 issues in a row in Parliament."
@@ -470,4 +470,3 @@ NEW_ACHIEVEMENT_8_29_NAME:0 "Colonial Management"
  NEW_ACHIEVEMENT_13_9_DESC:0 "Form Greece and own and have cores on Zeta, Thatta, Lamba, and Roh."
  NEW_ACHIEVEMENT_13_10_NAME:0 "The 52 Garhs"
  NEW_ACHIEVEMENT_13_10_DESC:0 "As Garhwal own and maintain 52 forts without going into debt"
-
