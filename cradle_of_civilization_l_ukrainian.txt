@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  ARMY_PROFESSIONALISM_VALUE:0 "Army Professionalism: $VALUE|Y%2$"
  supply_depot_modifier:1 "Salaried Soldiers"
  refill_garrison_modifier:1 "Regimental Mustering"
