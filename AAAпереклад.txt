@@ -49,7 +49,7 @@ nudge_l_ukrainian.yml - в.1.22, перекладено 8
 nw2_l_ukrainian.yml - в.1.22, перекладено 440
 nw_l_ukrainian.yml - в.1.22, перекладено 238
 opinions_l_ukrainian.yml - в.1.22, перекладено 193
-personalityoptions_l_ukrainian.yml - в.1.22, без перекладу рядки: per.events d 360-460 (17) 703
+personalityoptions_l_ukrainian.yml - в.1.22, перекладено 703
 powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 814-818 (3), 4626-5179 (548) 5180
 privateers_l_ukrainian.yml - в.1.22, перекладено 82
 prov_names_adj_l_ukrainian.yml - в.1.22, не перекладається
