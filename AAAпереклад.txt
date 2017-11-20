@@ -31,17 +31,17 @@ eldorado_l_ukrainian.yml - в.1.23, перекладено 1113
 EU4_l_ukrainian.yml - в.1.23, без перекладу рядки: 2-44 (43), 114-154 (41) / 1572
 flavor_events_l_ukrainian.yml - в.1.23, правка, без перекладу рядки: 1132 (1), тур.1785-1791 (5), прус.2442-2465 (6), яп.2934-2975 (13) 4515
 generic_events_l_ukrainian.yml - в.1.23, без перекладу рядки: мус.706-778 (73), 4199-4204 (6), 4264-4409 (46) / 4409
-government_names_l_ukrainian.yml - в.1.22, перекладено 481
-hinduism_l_ukrainian.yml - в.1.22, перекладено 224
-hints_l_ukrainian.yml - в.1.22, перекладено 342
-institutions_l_ukrainian.yml - в.1.22, перекладено 117
-ledger_l_ukrainian.yml - в.1.22, перекладено 208
-loadingtips_l_ukrainian.yml - в.1.22, перекладено 104
-maghreb_formations_l_ukrainian.yml - в.1.22, перекладено 9
-mandate_of_heaven_l_ukrainian.yml - в.1.22, без перекладу рядки: tributary_events d 98-205 (35) 816
-mare_nostrum_l_ukrainian.yml - в.1.22, перекладено 447
-mercantilism_l_ukrainian.yml - в.1.22, перекладено 56
-messages_l_ukrainian.yml - в.1.22, перекладено 7718
+government_names_l_ukrainian.yml - в.1.23, перекладено / 489
+hinduism_l_ukrainian.yml - в.1.23, перекладено / 224
+hints_l_ukrainian.yml - в.1.23, перекладено / 342
+institutions_l_ukrainian.yml - в.1.23, перекладено / 117
+ledger_l_ukrainian.yml - в.1.23, перекладено / 208
+loadingtips_l_ukrainian.yml - в.1.23, перекладено / 104
+maghreb_formations_l_ukrainian.yml - в.1.23, перекладено / 9
+mandate_of_heaven_l_ukrainian.yml - в.1.23, без перекладу рядки: tributary_events d 98-204 (32) / 817
+mare_nostrum_l_ukrainian.yml - в.1.23, перекладено / 447
+mercantilism_l_ukrainian.yml - в.1.23, перекладено / 56
+messages_l_ukrainian.yml - в.1.23, без перекладу рядки: 2-56 (55), 4212-4238 (27), 7864-7910 (47) / 7910
 missions_l_ukrainian.yml - в.1.22, перекладено 178
 modifers_l_ukrainian.yml - в.1.22, без перекладу рядки: 748-758 (5), 779-841 (60), 864-1007 (144) 1007
 muslim_dlc_l_ukrainian.yml - в.1.22, перекладено 161
