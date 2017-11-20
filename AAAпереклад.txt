@@ -41,9 +41,9 @@ maghreb_formations_l_ukrainian.yml - в.1.23, перекладено / 9
 mandate_of_heaven_l_ukrainian.yml - в.1.23, без перекладу рядки: tributary_events d 98-204 (32) / 817
 mare_nostrum_l_ukrainian.yml - в.1.23, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.23, перекладено / 56
-messages_l_ukrainian.yml - в.1.23, без перекладу рядки: 2-56 (55), 4212-4238 (27), 7864-7910 (47) / 7910
-missions_l_ukrainian.yml - в.1.22, перекладено 178
-modifers_l_ukrainian.yml - в.1.22, без перекладу рядки: 748-758 (5), 779-841 (60), 864-1007 (144) 1007
+messages_l_ukrainian.yml - в.1.23, перекладено
+missions_l_ukrainian.yml - в.1.23, без перекладу рядки: 179-280 (102) / 280
+modifers_l_ukrainian.yml - в.1.23, без перекладу рядки: 288-297 (10), 304-318 (15), 536-537 (2), 773-779 (5), 804-866 (61), 889-1120 (232) / 1120
 muslim_dlc_l_ukrainian.yml - в.1.22, перекладено 161
 native_flavor_events_l_ukrainian.yml - в.1.22, перекладено 106
 notlocalized_l_ukrainian.yml - в.1.22, перекладено 6
