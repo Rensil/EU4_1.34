@@ -44,18 +44,18 @@ mercantilism_l_ukrainian.yml - в.1.23, перекладено / 56
 messages_l_ukrainian.yml - в.1.23, перекладено
 missions_l_ukrainian.yml - в.1.23, без перекладу рядки: 179-280 (102) / 280
 modifers_l_ukrainian.yml - в.1.23, без перекладу рядки: 288-297 (10), 304-318 (15), 536-537 (2), 773-779 (5), 804-866 (61), 889-1120 (232) / 1120
-muslim_dlc_l_ukrainian.yml - в.1.22, перекладено 161
-native_flavor_events_l_ukrainian.yml - в.1.22, перекладено 106
-notlocalized_l_ukrainian.yml - в.1.22, перекладено 6
-nudge_l_ukrainian.yml - в.1.22, перекладено 8
-nw2_l_ukrainian.yml - в.1.22, перекладено 440
-nw_l_ukrainian.yml - в.1.22, перекладено 238
-opinions_l_ukrainian.yml - в.1.22, перекладено 193
-personalityoptions_l_ukrainian.yml - в.1.22, перекладено 703
+muslim_dlc_l_ukrainian.yml - в.1.23, перекладено / 161
+native_flavor_events_l_ukrainian.yml - в.1.23, перекладено / 106
+notlocalized_l_ukrainian.yml - в.1.23, перекладено / 6
+nudge_l_ukrainian.yml - в.1.23, перекладено / 8
+nw2_l_ukrainian.yml - в.1.23, перекладено / 440
+nw_l_ukrainian.yml - в.1.23, перекладено / 238
+opinions_l_ukrainian.yml - в.1.23, перекладено / 200
+personalityoptions_l_ukrainian.yml - в.1.23, перекладено, необхідна зміна тексту 469-496  / 706
 powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 814-818 (3), 4626-5179 (548) 5180
-privateers_l_ukrainian.yml - в.1.22, перекладено 82
-prov_names_adj_l_ukrainian.yml - в.1.22, не перекладається
-prov_names_l_ukrainian.yml - в.1.22, перекладено 3346
+privateers_l_ukrainian.yml - в.1.23, перекладено / 82
+prov_names_adj_l_ukrainian.yml - в.1.23, не перекладається / 3307
+prov_names_l_ukrainian.yml - в.1.23, без перекладу рядки: 3252-3332 (81) / 3346
 Purple_Phoenix_l_ukrainian.yml - в.1.22, перекладено 93
 random_new_world_l_ukrainian.yml - в.1.22, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.22, перекладено 38
