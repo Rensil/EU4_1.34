@@ -483,7 +483,7 @@
  DEATH_RANDOM_9:0 "[Root.Monarch.GetSheHeCap] помер(ла) від дизентерії."
  #Generals/Admirals:
  leader_death_reason_accident:0 "[GetSheHeCap] помер(ла) в результаті нещасного випадку, ведучи [GetHerHis] війська під час навчань."
- leader_death_reason_age:0 "[GetSheHe] ніколи не здригнувся(сь) перед лицем небезпеки і помер(а) від [GetHerHim] похилого віку."
+ leader_death_reason_age:0 "[GetSheHeCap] ніколи не здригнувся(сь) перед лицем небезпеки і помер(а) від [GetHerHim] похилого віку."
  leader_death_reason_disease:0 "[GetSheHeCap] помер(ла) від хвороби."
  leader_death_reason_siege:0 "[GetSheHeCap] був вбитий(а) випадковою кулею відважно оглядаючи окопи під час облоги."
  leader_death_reason_naval_battle:0 "[GetSheHeCap] пішов(ла) на дно з [GetHerHis] кораблем, як справжній капітан."
@@ -493,6 +493,7 @@
  leader_death_reason_navy_idle:0 "[GetSheHeCap] помер(ла) в море від невдалого перебігу захворювання."
  leader_death_reason_land_idle:0 "[GetSheHeCap] помер у військовому таборі в провінції $PROVINCE$."
  leader_death_reason_event_default:0 "[GetSheHeCap] помер за загадкових обставин у провінції $PROVINCE$."
+ leader_death_reason_drilling:1 "Нещасний випадок на муштрі обірвав [GetHerHis] життя.\nМуштру зупинено."
  #Obituaries
  just_personality_die_desc:0 "Нашій державі буде не вистачати [Root.Monarch.GetHerHis] справедливого і неупередженого правління."
  righteous_personality_die_desc:0 "Наші люди оплакують велику втрату в нашому житті такого доброчесного правителя, як [Root.Monarch.GetTitle]."
