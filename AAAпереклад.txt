@@ -5,28 +5,29 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
-sergey-astral - в перекладі - personalityoptions, rights_of_man.
+sergey-astral - редагування до в.1.23 - flavor_events, powers_and_ideas.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
-Загальна кількість рядків версії 1.22 62095 / не перекладено 1275 
+Загальна кількість рядків версії 1.22 62095 
+Загальна кількість рядків версії 1.23 ?? / не перекладено ??
 
 achievement_tooltips_l_ukrainian - в.1.23, без перекладу рядки: 2-39 (38) / 39
 achievements_l_ukrainian.yml - в.1.23, без перекладу рядки: 246-473 (227) / 472
 aow_l_ukrainian.yml - в.1.23, без перекладу рядки: 1845-1847 (2), prices 2122-2180 (59) / 2339
 areas_regions_l_ukrainian.yml - в.1.23, без перекладу рядки: 2491-2583 (92) / 2487
-common_sense_l_ukrainian.yml - в.1.23, перекладено 1682
-conquest_of_constantinople_l_ukrainian.yml - в.1.23, перекладено 4
+common_sense_l_ukrainian.yml - в.1.23, перекладено / 1682
+conquest_of_constantinople_l_ukrainian.yml - в.1.23, перекладено / 4
 core_l_ukrainian.yml - в.1.23, без перекладу рядки: 140 (1), 343 (1) / 892
 cossacks_l_ukrainian.yml - в.1.23, без перекладу рядки: tengri_events d 407-615 (52) / 1414
 countries_l_ukrainian.yml - в.1.23, без перекладу рядки: 1150-1213 (64) / 1213
 cradle_of_civilization_l_ukrainian- в.1.23, без перекладу рядки: 2-849 (848) / 849
-cultures_phase4_l_ukrainian.yml - в.1.23, перекладено 41
+cultures_phase4_l_ukrainian.yml - в.1.23, перекладено / 41
 custom_localisation_l_ukrainian.yml - в.1.23, без перекладу рядки: 46-126 (81) / 81
 decisions_l_ukrainian.yml - в.1.23, без перекладу рядки: 130-155 (26) / 155
-diplo_reasons_l_ukrainian.yml - в.1.23, перекладено 361
-diplomacy_l_ukrainian.yml - в.1.23, перекладено 884
-diplomatic_action_l_ukrainian.yml - в.1.23, перекладено 7
-eldorado_l_ukrainian.yml - в.1.23, перекладено 1113
+diplo_reasons_l_ukrainian.yml - в.1.23, перекладено / 361
+diplomacy_l_ukrainian.yml - в.1.23, перекладено / 884
+diplomatic_action_l_ukrainian.yml - в.1.23, перекладено / 7
+eldorado_l_ukrainian.yml - в.1.23, перекладено / 1113
 EU4_l_ukrainian.yml - в.1.23, без перекладу рядки: 2-44 (43), 114-154 (41) / 1572
 flavor_events_l_ukrainian.yml - в.1.23, правка, без перекладу рядки: 1132 (1), тур.1785-1791 (5), прус.2442-2465 (6), яп.2934-2975 (13) 4515
 generic_events_l_ukrainian.yml - в.1.23, без перекладу рядки: мус.706-778 (73), 4199-4204 (6), 4264-4409 (46) / 4409
@@ -67,7 +68,7 @@ subject_type_l_ukrainian.yml - в.1.23, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.23, перекладено / 93
 technology_l_ukrainian.yml - в.1.23, перекладено 259
 terrain_stuff_l_ukrainian.yml - в.1.23, перекладено / 3
-text_l_ukrainian.yml - в.1.22, перекладено 8161
+text_l_ukrainian.yml - в.1.23, перекладено / 8208
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.23, перекладено / 387
 tradenodes_l_ukrainian.yml - в.1.23, перекладено / 198
