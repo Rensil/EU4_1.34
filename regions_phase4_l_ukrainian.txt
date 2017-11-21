@@ -36,3 +36,4 @@
  maranhao_region:0 "Мараньян"
  grao_para_region:0 "Гран-Пара"
  transoxiana_region:0 "Трансоксанія"
+
