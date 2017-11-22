@@ -29,7 +29,7 @@ diplomacy_l_ukrainian.yml - в.1.23, перекладено / 884
 diplomatic_action_l_ukrainian.yml - в.1.23, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.23, перекладено / 1113
 EU4_l_ukrainian.yml - в.1.23, без перекладу рядки: 2-44 (43), 114-154 (41) / 1572
-flavor_events_l_ukrainian.yml - в.1.23, правка, без перекладу рядки: 1132 (1), тур.1785-1791 (5), прус.2442-2465 (6), яп.2934-2975 (13) 4515
+flavor_events_l_ukrainian.yml - в.1.23, без перекладу рядки: тур.1785-1789 (2), тур.1828-1838 (2), тур.1906-1926 (21), янич.1927-1961 (35), перс.1966-1967 (2), порт.1986-1988 (3), прус.2466-2498 (6), тім.2809-2822 (14), яп.2972-3013 (13), 3816 (1)
 generic_events_l_ukrainian.yml - в.1.23, без перекладу рядки: мус.706-778 (73), 4199-4204 (6), 4264-4409 (46) / 4409
 government_names_l_ukrainian.yml - в.1.23, перекладено / 489
 hinduism_l_ukrainian.yml - в.1.23, перекладено / 224
@@ -51,8 +51,8 @@ nudge_l_ukrainian.yml - в.1.23, перекладено / 8
 nw2_l_ukrainian.yml - в.1.23, перекладено / 440
 nw_l_ukrainian.yml - в.1.23, перекладено / 238
 opinions_l_ukrainian.yml - в.1.23, перекладено / 200
-personalityoptions_l_ukrainian.yml - в.1.23, перекладено, необхідна зміна тексту 469-496  / 706
-powers_and_ideas_l_ukrainian.yml - в.1.22, без перекладу рядки: 814-818 (3), 4626-5179 (548) 5180
+personalityoptions_l_ukrainian.yml - в.1.23, перекладено, необхідна зміна тексту 469-496 / 706
+powers_and_ideas_l_ukrainian.yml - в.1.23, без перекладу рядки: 820-824 (3), 4635-5555 (910) / 5555
 privateers_l_ukrainian.yml - в.1.23, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.23, не перекладається / 3307
 prov_names_l_ukrainian.yml - в.1.23, без перекладу рядки: 3252-3332 (81) / 3346
