@@ -5,7 +5,7 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
-sergey-astral - редагування до в.1.23 - flavor_events, powers_and_ideas.
+sergey-astral - переклад cradle_of_civilization - проф.армії, торг.політіка.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
@@ -20,7 +20,7 @@ conquest_of_constantinople_l_ukrainian.yml - в.1.23, перекладено / 4
 core_l_ukrainian.yml - в.1.23, перекладено / 892
 cossacks_l_ukrainian.yml - в.1.23, без перекладу рядки: tengri_events d 407-615 (52) / 1414
 countries_l_ukrainian.yml - в.1.23, без перекладу рядки: 1150-1213 (60) / 1213
-cradle_of_civilization_l_ukrainian- в.1.23, без перекладу рядки: 2-849 (768) / 849
+cradle_of_civilization_l_ukrainian - в.1.23, без перекладу рядки: 2-849 (768) / 849
 cultures_phase4_l_ukrainian.yml - в.1.23, перекладено / 41
 custom_localisation_l_ukrainian.yml - в.1.23, без перекладу рядки: 46-126 (81) / 81
 decisions_l_ukrainian.yml - в.1.23, без перекладу рядки: 130-155 (26) / 155
