@@ -2581,4 +2581,3 @@
  mogostan_area:0 "Mogostan"
  mogostan_area_name:0 "Mogostan"
  mogostan_area_adj:0 "Mogostani"
- 
