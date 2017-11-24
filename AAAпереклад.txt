@@ -20,7 +20,7 @@ conquest_of_constantinople_l_ukrainian.yml - в.1.23, перекладено / 4
 core_l_ukrainian.yml - в.1.23, перекладено / 892
 cossacks_l_ukrainian.yml - в.1.23, без перекладу рядки: tengri_events d 407-615 (52) / 1414
 countries_l_ukrainian.yml - в.1.23, без перекладу рядки: 1150-1213 (60) / 1213
-cradle_of_civilization_l_ukrainian - в.1.23, без перекладу рядки: 2-849 (768) / 849
+cradle_of_civilization_l_ukrainian - в.1.23, без перекладу рядки: 2-849 (726) / 849
 cultures_phase4_l_ukrainian.yml - в.1.23, перекладено / 41
 custom_localisation_l_ukrainian.yml - в.1.23, без перекладу рядки: 46-126 (81) / 81
 decisions_l_ukrainian.yml - в.1.23, без перекладу рядки: 130-155 (26) / 155
@@ -43,7 +43,7 @@ mare_nostrum_l_ukrainian.yml - в.1.23, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.23, перекладено / 56
 messages_l_ukrainian.yml - в.1.23, перекладено / 7877
 missions_l_ukrainian.yml - в.1.23, без перекладу рядки: 179-280 (102) / 280
-modifers_l_ukrainian.yml - в.1.23, без перекладу рядки: 288-297 (10), 304-318 (15), 536-537 (2), 773-779 (5), 804-866 (61), 889-1120 (232) / 1120
+modifers_l_ukrainian.yml - в.1.23, без перекладу рядки: 288-299 (10), 305-318 (14), 536-537 (2), 773-779 (5), 804-866 (61), 889-1120 (232) / 1120
 muslim_dlc_l_ukrainian.yml - в.1.23, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.23, перекладено / 106
 notlocalized_l_ukrainian.yml - в.1.23, перекладено / 6
@@ -55,7 +55,7 @@ personalityoptions_l_ukrainian.yml - в.1.23, перекладено, необх
 powers_and_ideas_l_ukrainian.yml - в.1.23, без перекладу рядки: 820-824 (3), 4635-5555 (910) / 5555
 privateers_l_ukrainian.yml - в.1.23, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.23, не перекладається / 3307
-prov_names_l_ukrainian.yml - в.1.23, без перекладу рядки: 3252-3332 (81) / 3346
+prov_names_l_ukrainian.yml - в.1.23, без перекладу рядки: 3252-3330 (79) / 3346
 Purple_Phoenix_l_ukrainian.yml - в.1.23, перекладено / 93
 random_new_world_l_ukrainian.yml - в.1.23, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.23, перекладено / 38
