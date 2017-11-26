@@ -790,7 +790,7 @@
  CREATEJANISSARIES_TEXT:0 "$EFFECT$"
  STATE_JANISSARIES_CREATED_REGIMENTS:0 "$NUM|Y$ Janissaries will spawn in $PROV|Y$"
  STATE_JANISSARIES_HEATHEN_PROVINCES:0 "State needs at least $AMOUNT|Y$ development of Heathen faith controlled by you."
- ALREADY_BULDING_TO_UNIT:0 "§RВже збираються полки для об'єднання з цією армією..§!\n"
+ ALREADY_BULDING_TO_UNIT:0 "§RВже збираються полки для об'єднання з цією армією.§!\n"
  CONFORM_TO_TEMPLATE_BUILD_DESC_ARMY:0 "$PROVS|Y$ Provinces will be used to build:\n$INF$ £infantry_icon_small£ / $CAV$ £cavalry_icon_small£ / $ART$ £artillery_icon_small£ ($MERCS|Y$ Mercenaries)"
  CONFORM_TO_TEMPLATE_BUILD_DESC_NAVY:0 "$PROVS|Y$ Provinces will be used to build:\n$HEAVY$ £big_ship_icon_small£ / $LIGHT$ £light_ship_icon_small£ / $GALLEY$ £galley_icon_small£ / $TRANSPORT$ £transport_icon_small£"
  CONFORM_TO_TEMPLATE_MANPOWER_COST:0 "Manpower cost: $VAL|Y$ £icon_manpower_in_text\n"
