@@ -127,7 +127,7 @@
  MAMLUK_POWER_EXTRA_DESC:0 "Це значення обнулиться коли $RULER$ помре."
  NO_PROVINCES_OF_CULTURE:1 "У вас немає провінцій, що відносяться до культури $CULTURE|Y$.\n"
  enlist_general:0 "Завербувати генерала"
- enlist_general_desc:0 "Вы получите нового генерала при традициях в $TRADITION|Y$.\n"
+ enlist_general_desc:0 "Ви отримаєте нового генерала при традиціях в $TRADITION|Y$.\n"
  train_horsemanship:0 "Навчати верховій їзді"
  train_horsemanship_desc:0 ""
  conscript_from_tribes:0 "Закликати племена"
