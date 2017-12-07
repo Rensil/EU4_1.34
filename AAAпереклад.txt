@@ -22,7 +22,7 @@ cossacks_l_ukrainian.yml - в.1.23, без перекладу рядки: tengri
 countries_l_ukrainian.yml - в.1.23, без перекладу рядки: 1150-1213 (60) / 1213
 cradle_of_civilization_l_ukrainian - в.1.23, без перекладу рядки: 124-136 (7), 243-849 (588) / 849
 cultures_phase4_l_ukrainian.yml - в.1.23, перекладено / 41
-custom_localisation_l_ukrainian.yml - в.1.23, без перекладу рядки: 46-126 (81) / 81
+custom_localisation_l_ukrainian.yml - в.1.23, перекладено / 81
 decisions_l_ukrainian.yml - в.1.23, перекладено / 155
 diplo_reasons_l_ukrainian.yml - в.1.23, перекладено / 361
 diplomacy_l_ukrainian.yml - в.1.23, перекладено / 884
