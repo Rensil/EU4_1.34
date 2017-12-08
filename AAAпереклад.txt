@@ -30,7 +30,7 @@ diplomatic_action_l_ukrainian.yml - в.1.23, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.23, перекладено / 1113
 EU4_l_ukrainian.yml - в.1.23, перекладено / 1572
 flavor_events_l_ukrainian.yml - в.1.23, без перекладу рядки: тур.1786-1789 (2), тур.1828 (1), тур.1906-1926 (21), янич.1927-1961 (35), перс.1966-1967 (2), прус.2466-2498 (6), тім.2809-2822 (14), яп.2972-3013 (13) / 4551
-generic_events_l_ukrainian.yml - в.1.23, без перекладу рядки: мус.706-778 (72), 4341-4409 (32) / 4409
+generic_events_l_ukrainian.yml - в.1.23, без перекладу рядки: мус.706-778 (72), 4371-4409 (19) / 4409
 government_names_l_ukrainian.yml - в.1.23, перекладено / 489
 hinduism_l_ukrainian.yml - в.1.23, перекладено / 224
 hints_l_ukrainian.yml - в.1.23, перекладено / 342
