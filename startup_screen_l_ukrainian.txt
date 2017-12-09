@@ -1,5 +1,5 @@
 ﻿l_ukrainian:
- string_screen_title:0 "The [Root.GovernmentName] держави [Root.GetName], [GetYear] рік"
+ string_screen_title:0 "[Root.GovernmentName] держави [Root.GetName], [GetYear] рік"
  string_screen_title_plural:0 "[Root.GetAdjective]а форма правління: [Root.GovernmentName], [GetYear] рік"
  string_start_title_hisn_kayfa:0 "Айюбіди з Хісн Кайфа"
  string_start_title_great_ming:0 "Велика династія Мін"
