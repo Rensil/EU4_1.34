@@ -5,7 +5,8 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
-sergey-astral - переклад generic_events_l_ukrainian - крім подій мусульманського благочестя, modifers_l_ukrainian.
+sergey-astral - переклад modifers_l_ukrainian, generic_events_l_ukrainian (крім подій мусульманського благочестя), missions_l_ukrainian, countries_l_ukrainian.
+Antigonius - переклад aow_l_ukrainian. 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
@@ -43,7 +44,7 @@ mare_nostrum_l_ukrainian.yml - в.1.23, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.23, перекладено / 56
 messages_l_ukrainian.yml - в.1.23, перекладено / 7877
 missions_l_ukrainian.yml - в.1.23, без перекладу рядки: 179-283 (103) / 283
-modifers_l_ukrainian.yml - в.1.23, без перекладу рядки: 305-318 (14), 773-779 (5), 804-866 (61), 889-1120 (232) / 1120
+modifers_l_ukrainian.yml - в.1.23, без перекладу рядки: 305-318 (14), 773-779 (5), 804-866 (61), 889-953 (65), 978-1028 (51), 1065-1120 (49) / 1120
 muslim_dlc_l_ukrainian.yml - в.1.23, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.23, перекладено / 106
 notlocalized_l_ukrainian.yml - в.1.23, перекладено / 6
