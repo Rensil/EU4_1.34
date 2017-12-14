@@ -18,10 +18,10 @@ aow_l_ukrainian.yml - в.1.24, без перекладу рядки: prices 2136
 areas_regions_l_ukrainian.yml - в.1.24, без перекладу рядки: 2491-2598 (108) / 2598
 common_sense_l_ukrainian.yml - в.1.24, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
-core_l_ukrainian.yml - в.1.24, без перекладу рядки: 265 (1), 894 (1) / 894
+core_l_ukrainian.yml - в.1.24, перекладено / 894
 cossacks_l_ukrainian.yml - в.1.24, без перекладу рядки: tengri_events d 412-620 (52) / 1416
-countries_l_ukrainian.yml - в.1.24, без перекладу рядки: 1150-1227 (78) / 1227
-cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: 124-136 (7), 243-850 (589) / 850
+countries_l_ukrainian.yml - в.1.24, без перекладу рядки: 1150-1227 (76) / 1227
+cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: 124-136 (7), мус.243-401 (159), 461-786 (314) / 850
 cultures_phase4_l_ukrainian.yml - в.1.24, перекладено / 41
 custom_localisation_l_ukrainian.yml - в.1.24, перекладено / 128
 decisions_l_ukrainian.yml - в.1.24, без перекладу рядки: 156-160 (5) / 160
