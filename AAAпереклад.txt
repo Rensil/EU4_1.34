@@ -15,7 +15,7 @@ Antigonius - переклад aow_l_ukrainian.
 achievement_tooltips_l_ukrainian - в.1.24, перекладено / 39
 achievements_l_ukrainian.yml - в.1.24, без перекладу рядки: 112-121 (10), 222-472 (251) / 472
 aow_l_ukrainian.yml - в.1.24, без перекладу рядки: prices 2136-2180 (45) / 2339
-areas_regions_l_ukrainian.yml - в.1.24, без перекладу рядки: 2491-2598 (108) / 2598
+areas_regions_l_ukrainian.yml - в.1.24, без перекладу рядки: 2491-2598 (80) / 2598
 common_sense_l_ukrainian.yml - в.1.24, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.24, перекладено / 894
@@ -24,7 +24,7 @@ countries_l_ukrainian.yml - в.1.24, без перекладу рядки: 1150-
 cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: 124-136 (7), мус.243-401 (159), 461-786 (314) / 850
 cultures_phase4_l_ukrainian.yml - в.1.24, перекладено / 41
 custom_localisation_l_ukrainian.yml - в.1.24, перекладено / 128
-decisions_l_ukrainian.yml - в.1.24, без перекладу рядки: 156-160 (5) / 160
+decisions_l_ukrainian.yml - в.1.24, перекладено / 160
 diplo_reasons_l_ukrainian.yml - в.1.24, перекладено / 362
 diplomacy_l_ukrainian.yml - в.1.24, перекладено / 884
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
@@ -65,7 +65,7 @@ res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.24, без перекладу рядки: fetishist_flavor 665-1083 (401), stat_wars 1614-1673 (28) / 1679
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.24, не перекладено 10-19 (4), 29-223 (188) / 223
+startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 29-223 (188) / 223
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено 259
