@@ -56,7 +56,7 @@ personalityoptions_l_ukrainian.yml - в.1.24, перекладено / 706
 powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 820-824 (3), 4635-5776 (1130) / 5776
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.24, не перекладається / 3318
-prov_names_l_ukrainian.yml - в.1.24, без перекладу рядки: 3252-3344 (91) / 3344
+prov_names_l_ukrainian.yml - в.1.24, перекладено / 3344
 Purple_Phoenix_l_ukrainian.yml - в.1.24, перекладено / 93
 random_new_world_l_ukrainian.yml - в.1.24, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
