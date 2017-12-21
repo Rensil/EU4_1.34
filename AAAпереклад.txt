@@ -44,7 +44,7 @@ mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.24, перекладено / 7877
 missions_l_ukrainian.yml - в.1.24, без перекладу рядки: 179-283 (103) / 283
-modifers_l_ukrainian.yml - в.1.24, без перекладу рядки: 773-783 (5), 816-866 (50), 889-953 (65), 978-1028 (50), 1122-1142 (21) / 1142
+modifers_l_ukrainian.yml - в.1.24, без перекладу рядки: 902-953 (52), 978-1028 (50), 1122-1142 (21) / 1142
 muslim_dlc_l_ukrainian.yml - в.1.24, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
 notlocalized_l_ukrainian.yml - в.1.24, перекладено / 6
