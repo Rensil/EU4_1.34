@@ -5,7 +5,7 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
-sergey-astral - переклад prov_names_l_ukrainian, missions_l_ukrainian, modifers_l_ukrainian, rights_of_man_l_ukrainian.
+sergey-astral - переклад rights_of_man_l_ukrainian, missions_l_ukrainian, modifers_l_ukrainian.
 Antigonius - переклад aow_l_ukrainian. 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
