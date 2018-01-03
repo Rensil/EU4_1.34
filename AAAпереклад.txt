@@ -21,7 +21,7 @@ conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.24, перекладено / 894
 cossacks_l_ukrainian.yml - в.1.24, без перекладу рядки: tengri_events d 412-620 (52) / 1416
 countries_l_ukrainian.yml - в.1.24, перекладено / 1227
-cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: мус.300-401 (56), 461-665 (194), 685-786 (102) / 850
+cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: мус.300-394 (20), 461-665 (194), 685-786 (102) / 850
 cultures_phase4_l_ukrainian.yml - в.1.24, перекладено / 41
 custom_localisation_l_ukrainian.yml - в.1.24, перекладено / 128
 decisions_l_ukrainian.yml - в.1.24, перекладено / 160
@@ -65,7 +65,7 @@ res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.24, без перекладу рядки: fetishist_flavor 665-1083 (401), stat_wars 1614-1673 (28) / 1679
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 29-48 (20), 60-223 (131) / 223
+startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 29-48 (20), 60-223 (129) / 223
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено 259
