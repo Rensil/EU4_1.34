@@ -53,7 +53,7 @@ nw2_l_ukrainian.yml - в.1.24, перекладено / 440
 nw_l_ukrainian.yml - в.1.24, перекладено / 238
 opinions_l_ukrainian.yml - в.1.24, перекладено / 200
 personalityoptions_l_ukrainian.yml - в.1.24, перекладено / 706
-powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 820-824 (3), 4635-5776 (1126) / 5776
+powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 820-824 (3), 4635-5776 (1081) / 5776
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.24, не перекладається / 3318
 prov_names_l_ukrainian.yml - в.1.24, перекладено / 3344
