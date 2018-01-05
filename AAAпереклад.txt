@@ -21,7 +21,7 @@ conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.24, перекладено / 894
 cossacks_l_ukrainian.yml - в.1.24, без перекладу рядки: tengri_events d 412-620 (52) / 1416
 countries_l_ukrainian.yml - в.1.24, перекладено / 1227
-cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: мус.300-394 (20), 461-665 (194), 685-786 (102) / 850
+cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: mus._school_events d 300-394 (20), 461-665 (194), 685-786 (102) / 850
 cultures_phase4_l_ukrainian.yml - в.1.24, перекладено / 41
 custom_localisation_l_ukrainian.yml - в.1.24, перекладено / 128
 decisions_l_ukrainian.yml - в.1.24, перекладено / 160
@@ -31,7 +31,7 @@ diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.24, перекладено / 1113
 EU4_l_ukrainian.yml - в.1.24, перекладено / 5169
 flavor_events_l_ukrainian.yml - в.1.24, без перекладу рядки: прус.2466-2498 (6), яп.2972-3013 (13), дайм.4553-4651 (99) / 4651
-generic_events_l_ukrainian.yml - в.1.24, без перекладу рядки: мус.706-778 (70) / 4409
+generic_events_l_ukrainian.yml - в.1.24, без перекладу рядки: mus._piety d 707-758 (13) / 4409
 government_names_l_ukrainian.yml - в.1.24, перекладено / 496
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
 hints_l_ukrainian.yml - в.1.24, перекладено / 342
