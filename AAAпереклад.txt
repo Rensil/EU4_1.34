@@ -53,7 +53,7 @@ nw2_l_ukrainian.yml - в.1.24, перекладено / 440
 nw_l_ukrainian.yml - в.1.24, перекладено / 238
 opinions_l_ukrainian.yml - в.1.24, перекладено / 200
 personalityoptions_l_ukrainian.yml - в.1.24, перекладено / 706
-powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 820-824 (3), 4635-5776 (1081) / 5776
+powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5776 (1081) / 5776
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.24, не перекладається / 3318
 prov_names_l_ukrainian.yml - в.1.24, перекладено / 3344
@@ -65,7 +65,7 @@ res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.24, без перекладу рядки: fetishist_flavor 665-1083 (401), stat_wars 1614-1673 (28) / 1679
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 29-48 (20), 60-223 (128) / 223
+startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 29-48 (20), 61-223 (116) / 223
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено 259
