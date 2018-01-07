@@ -65,7 +65,7 @@ res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.24, без перекладу рядки: fetishist_flavor 665-1083 (401), stat_wars 1614-1673 (28) / 1679
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 29-48 (20), 61-223 (116) / 223
+startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 29-48 (20), 61-223 (115) / 223
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено 259
