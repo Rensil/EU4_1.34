@@ -29,7 +29,7 @@ diplomacy_l_ukrainian.yml - в.1.24, перекладено / 884
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.24, перекладено / 1113
 EU4_l_ukrainian.yml - в.1.24, перекладено / 5169
-flavor_events_l_ukrainian.yml - в.1.24, без перекладу рядки: прус.2466-2498 (6), яп.2972-3013 (13), дайм.4553-4651 (99) / 4651
+flavor_events_l_ukrainian.yml - в.1.24, без перекладу рядки: прус.2466-2498 (6), яп.2977-3013 (9), дайм.4553-4651 (99) / 4651
 generic_events_l_ukrainian.yml - в.1.24, перекладено / 4409
 government_names_l_ukrainian.yml - в.1.24, перекладено / 496
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
@@ -64,7 +64,7 @@ res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.24, без перекладу рядки: fetishist_flavor 665-1083 (401), stat_wars 1614-1673 (28) / 1679
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 31-48 (18), 62-223 (112) / 223
+startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 31-48 (18), 62-223 (111) / 223
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено 259
