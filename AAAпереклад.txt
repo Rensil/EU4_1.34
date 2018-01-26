@@ -13,7 +13,7 @@ Antigonius - переклад aow_l_ukrainian, cradle_of_civilization_l_ukrainia
 
 achievement_tooltips_l_ukrainian - в.1.24, перекладено / 39
 achievements_l_ukrainian.yml - в.1.24, перекладено / 472
-aow_l_ukrainian.yml - в.1.24, без перекладу рядки: prices 2169-2180 (12) / 2339
+aow_l_ukrainian.yml - в.1.24, перекладено / 2339
 areas_regions_l_ukrainian.yml - в.1.24, перекладено / 2598
 common_sense_l_ukrainian.yml - в.1.24, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
@@ -52,7 +52,7 @@ nw2_l_ukrainian.yml - в.1.24, перекладено / 440
 nw_l_ukrainian.yml - в.1.24, перекладено / 238
 opinions_l_ukrainian.yml - в.1.24, перекладено / 200
 personalityoptions_l_ukrainian.yml - в.1.24, перекладено / 706
-powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5776 (728) / 5776
+powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5776 (704) / 5776
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.24, не перекладається / 3318
 prov_names_l_ukrainian.yml - в.1.24, перекладено / 3344
