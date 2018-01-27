@@ -5,12 +5,12 @@
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
 sergey-astral - powers_and_ideas_ukrainian, яп.startup_screen_l_ukrainian.
-Antigonius - переклад aow_l_ukrainian, cradle_of_civilization_l_ukrainian.
-Lodr222 - переклад cradle_of_civilization_l_ukrainian.
+Antigonius - переклад mamluk_events з cradle_of_civilization_l_ukrainian.
+Lodr222 - переклад propagate_religion_events з cradle_of_civilization_l_ukrainian.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
-Загальна кількість рядків версії 1.24 65334 / не перекладено 2039
+Загальна кількість рядків версії 1.24 65334 / не перекладено 2013
 
 achievement_tooltips_l_ukrainian - в.1.24, перекладено / 39
 achievements_l_ukrainian.yml - в.1.24, перекладено / 472
@@ -21,7 +21,7 @@ conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.24, перекладено / 894
 cossacks_l_ukrainian.yml - в.1.24, без перекладу рядки: tengri_events d 412-620 (52) / 1416
 countries_l_ukrainian.yml - в.1.24, перекладено / 1227
-cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: 534-665 (118), 729-784 (27) / 850
+cradle_of_civilization_l_ukrainian - в.1.24, без перекладу рядки: 534-575 (42), 616-665 (50), 729-784 (27) / 850
 cultures_phase4_l_ukrainian.yml - в.1.24, перекладено / 41
 custom_localisation_l_ukrainian.yml - в.1.24, перекладено / 128
 decisions_l_ukrainian.yml - в.1.24, перекладено / 160
