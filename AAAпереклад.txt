@@ -5,7 +5,8 @@
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
 sergey-astral - powers_and_ideas_ukrainian, яп.startup_screen_l_ukrainian.
-Antigonius - переклад aow_l_ukrainian, cradle_of_civilization_l_ukrainian. 
+Antigonius - переклад aow_l_ukrainian, cradle_of_civilization_l_ukrainian.
+Lodr222 - переклад cradle_of_civilization_l_ukrainian.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
