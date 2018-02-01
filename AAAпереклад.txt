@@ -4,7 +4,7 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
-sergey-astral - tributary_events з mandate_of_heaven, powers_and_ideas_ukrainian, яп.startup_screen_l_ukrainian.
+sergey-astral - powers_and_ideas_ukrainian, яп.startup_screen_l_ukrainian.
 Antigonius - переклад mamluk_events з cradle_of_civilization_l_ukrainian.
 Lodr222 - переклад propagate_religion_events з cradle_of_civilization_l_ukrainian.
 
