@@ -7,6 +7,7 @@
 sergey-astral - powers_and_ideas_ukrainian, яп.startup_screen_l_ukrainian.
 Antigonius - переклад mamluk_events з cradle_of_civilization_l_ukrainian.
 Lodr222 - переклад propagate_religion_events з cradle_of_civilization_l_ukrainian.
+DarkZeus - переклад missions_l_ukrainian, рядки 179-283 (103) 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
