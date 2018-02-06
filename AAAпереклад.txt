@@ -7,11 +7,11 @@
 sergey-astral - powers_and_ideas_ukrainian, яп.startup_screen_l_ukrainian.
 Antigonius - переклад mamluk_events з cradle_of_civilization_l_ukrainian.
 Lodr222 - переклад propagate_religion_events з cradle_of_civilization_l_ukrainian.
-DarkZeus - переклад missions_l_ukrainian, рядки 179-283 (103) 
+DarkZeus - переклад powers_and_ideas_ukrainian, рядки 5003-5219 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
-Загальна кількість рядків версії 1.24 65334 / не перекладено 1982
+Загальна кількість рядків версії 1.24 65334 / не перекладено 1879
 
 achievement_tooltips_l_ukrainian - в.1.24, перекладено / 39
 achievements_l_ukrainian.yml - в.1.24, перекладено / 472
@@ -44,7 +44,7 @@ mandate_of_heaven_l_ukrainian.yml - в.1.24, перекладено / 817
 mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.24, перекладено / 7877
-missions_l_ukrainian.yml - в.1.24, без перекладу рядки: 179-283 (103) / 283
+missions_l_ukrainian.yml - в.1.24, перекладено / 283
 modifers_l_ukrainian.yml - в.1.24, перекладено / 1142
 muslim_dlc_l_ukrainian.yml - в.1.24, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
