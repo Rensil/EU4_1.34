@@ -44,7 +44,7 @@ mandate_of_heaven_l_ukrainian.yml - в.1.24, перекладено / 817
 mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.24, перекладено / 7877
-missions_l_ukrainian.yml - в.1.24, без перекладу рядки: 179-283 (103) / 283
+missions_l_ukrainian.yml - в.1.24, перекладено / 283
 modifers_l_ukrainian.yml - в.1.24, перекладено / 1142
 muslim_dlc_l_ukrainian.yml - в.1.24, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
@@ -54,7 +54,7 @@ nw2_l_ukrainian.yml - в.1.24, перекладено / 440
 nw_l_ukrainian.yml - в.1.24, перекладено / 238
 opinions_l_ukrainian.yml - в.1.24, перекладено / 200
 personalityoptions_l_ukrainian.yml - в.1.24, перекладено / 706
-powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5776 (683) / 5776
+powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5776 (673) / 5776
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.24, не перекладається / 3318
 prov_names_l_ukrainian.yml - в.1.24, перекладено / 3344
