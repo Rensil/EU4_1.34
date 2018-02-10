@@ -11,7 +11,7 @@ DarkZeus - переклад powers_and_ideas_l_ukrainian, рядки 5003-5219
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
-Загальна кількість рядків версії 1.24 65334 / не перекладено 1551
+Загальна кількість рядків версії 1.24 65334 / не перекладено 1535
 
 achievement_tooltips_l_ukrainian - в.1.24, перекладено / 39
 achievements_l_ukrainian.yml - в.1.24, перекладено / 472
@@ -54,7 +54,7 @@ nw2_l_ukrainian.yml - в.1.24, перекладено / 440
 nw_l_ukrainian.yml - в.1.24, перекладено / 238
 opinions_l_ukrainian.yml - в.1.24, перекладено / 200
 personalityoptions_l_ukrainian.yml - в.1.24, перекладено / 706
-powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5776 (673) / 5776
+powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5776 (658) / 5776
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.24, не перекладається / 3318
 prov_names_l_ukrainian.yml - в.1.24, перекладено / 3344
@@ -66,7 +66,7 @@ res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.24, без перекладу рядки: fetishist_flavor 656-1081 (352), stat_wars 1614-1673 (28) / 1679
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 31-48 (18), 62-223 (109) / 223
+startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 31-48 (17), 62-223 (109) / 223
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено 259
