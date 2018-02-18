@@ -4,9 +4,9 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
 
-sergey-astral - powers_and_ideas_ukrainian, яп.startup_screen_l_ukrainian.
-Antigonius - переклад mamluk_events з cradle_of_civilization_l_ukrainian.
-Lodr222 - переклад propagate_religion_events з cradle_of_civilization_l_ukrainian.
+sergey-astral - powers_and_ideas_ukrainian, tribal_federation_events з cradle_of_civilization_l_ukrainian, рядки 616-665.
+Antigonius - переклад mamluk_events з cradle_of_civilization_l_ukrainian, рядки 729-784.
+Lodr222 - переклад propagate_religion_events з cradle_of_civilization_l_ukrainian, рядки 534-575.
 DarkZeus - переклад powers_and_ideas_l_ukrainian, рядки 5003-5219 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
