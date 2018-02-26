@@ -2,7 +2,7 @@
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-Фінансова допомога проекту: ПриватБанк: 5168 7427 0685 8705
+Фінансова допомога проекту: ПриватБанк: 5168 7427 0771 1705
 
 sergey-astral - powers_and_ideas_ukrainian, tribal_federation_events з cradle_of_civilization_l_ukrainian, рядки 616-665.
 Antigonius - переклад mamluk_events з cradle_of_civilization_l_ukrainian, рядки 767-784 (9).
