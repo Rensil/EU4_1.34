@@ -1414,3 +1414,4 @@
  PERMIT_SELF_GOVERNANCE:1 "Дозволити самоврядування"
  EST_VAL_SELF_GOVERNANCE:1 "Дозволено самоврядування"
  RANDOM_NEW_WORLD_ALREADY_CREATED:0 "§RВипадковий Новий Світ вже вибрано.§!"
+
