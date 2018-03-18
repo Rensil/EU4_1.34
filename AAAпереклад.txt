@@ -29,7 +29,7 @@ diplomacy_l_ukrainian.yml - в.1.24, перекладено / 884
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.24, перекладено / 1113
 EU4_l_ukrainian.yml - в.1.24, перекладено / 5169
-flavor_events_l_ukrainian.yml - в.1.24, без перекладу рядки: прус.2466-2498 (6), дайм.4553-4651 (99) / 4651
+flavor_events_l_ukrainian.yml - в.1.24, без перекладу рядки: прус.2466-2498 (6), дайм.4553-4651 (63) / 4651
 generic_events_l_ukrainian.yml - в.1.24, перекладено / 4409
 government_names_l_ukrainian.yml - в.1.24, перекладено / 496
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
