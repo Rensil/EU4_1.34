@@ -4,9 +4,8 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0771 1705
 
-sergey-astral - powers_and_ideas_ukrainian, tribal_federation_events з cradle_of_civilization_l_ukrainian, рядки 616-665.
-Antigonius - переклад mamluk_events з cradle_of_civilization_l_ukrainian, рядки 767-784 (9).
-DarkZeus - переклад powers_and_ideas_l_ukrainian, рядки 5063-5219 
+sergey-astral - powers_and_ideas_ukrainian япон.клани, flavor_events_l_ukrainian тексти t, a, b, рядки 4552-4650.
+Antigonius - переклад flavor_events_l_ukrainian тексти d, рядки 4552-4650.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
