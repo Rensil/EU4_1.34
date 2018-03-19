@@ -9,7 +9,7 @@ Antigonius - переклад flavor_events_l_ukrainian тексти d, рядк
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
-Загальна кількість рядків версії 1.24 65334 / не перекладено 1136
+Загальна кількість рядків версії 1.24 65334 / не перекладено 1098
 
 achievement_tooltips_l_ukrainian - в.1.24, перекладено / 39
 achievements_l_ukrainian.yml - в.1.24, перекладено / 472
@@ -29,7 +29,7 @@ diplomacy_l_ukrainian.yml - в.1.24, перекладено / 884
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.24, перекладено / 1113
 EU4_l_ukrainian.yml - в.1.24, перекладено / 5169
-flavor_events_l_ukrainian.yml - в.1.24, без перекладу рядки: прус.2466-2498 (6), дайм.4553-4651 (63) / 4651
+flavor_events_l_ukrainian.yml - в.1.24, без перекладу рядки: прус.2466-2498 (6), дайм.4553-4651 (30) / 4651
 generic_events_l_ukrainian.yml - в.1.24, перекладено / 4409
 government_names_l_ukrainian.yml - в.1.24, перекладено / 496
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
@@ -52,7 +52,7 @@ nw2_l_ukrainian.yml - в.1.24, перекладено / 440
 nw_l_ukrainian.yml - в.1.24, перекладено / 238
 opinions_l_ukrainian.yml - в.1.24, перекладено / 200
 personalityoptions_l_ukrainian.yml - в.1.24, перекладено / 706
-powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5776 (536) / 5776
+powers_and_ideas_l_ukrainian.yml - в.1.24, без перекладу рядки: 4635-5708 (521) / 5776
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.24, не перекладається / 3318
 prov_names_l_ukrainian.yml - в.1.24, перекладено / 3344
