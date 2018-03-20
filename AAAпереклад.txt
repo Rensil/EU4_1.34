@@ -4,21 +4,21 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0771 1705
 
-sergey-astral - powers_and_ideas_ukrainian япон.клани, flavor_events_l_ukrainian тексти t, a, b, рядки 4552-4650.
+sergey-astral - оновлення до в.1.25, powers_and_ideas_ukrainian япон.клани, flavor_events_l_ukrainian тексти t, a, b, рядки 4552-4650.
 Antigonius - переклад flavor_events_l_ukrainian тексти d, рядки 4552-4650.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.22 62095 
 Загальна кількість рядків версії 1.24 65334 / не перекладено 1098
 
-achievement_tooltips_l_ukrainian - в.1.24, перекладено / 39
-achievements_l_ukrainian.yml - в.1.24, перекладено / 472
-aow_l_ukrainian.yml - в.1.24, перекладено / 2339
-areas_regions_l_ukrainian.yml - в.1.24, перекладено / 2598
-common_sense_l_ukrainian.yml - в.1.24, перекладено / 1682
+achievement_tooltips_l_ukrainian - в.1.25, без перекладу рядки: 40-41 (2) / 41
+achievements_l_ukrainian.yml - в.1.25, без перекладу рядки: 222-534 (313) / 534
+aow_l_ukrainian.yml - в.1.25, без перекладу рядки: 104-112 (9), 2188-2191 (4) / 2350
+areas_regions_l_ukrainian.yml - в.1.25, без перекладу рядки: 44-52 (9), 158-175 (8), 2629-2640 (12) / 2640
+common_sense_l_ukrainian.yml - в.1.25, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
-core_l_ukrainian.yml - в.1.24, перекладено / 894
-cossacks_l_ukrainian.yml - в.1.24, без перекладу рядки: tengri_events d 412-620 (52) / 1416
+core_l_ukrainian.yml - в.1.25, перекладено / 896
+cossacks_l_ukrainian.yml - в.1.25, без перекладу рядки: tengri_events d 413-621 (52) / 1417
 countries_l_ukrainian.yml - в.1.24, перекладено / 1227
 cradle_of_civilization_l_ukrainian - в.1.24, перекладено / 850
 cultures_phase4_l_ukrainian.yml - в.1.24, перекладено / 41
@@ -46,6 +46,7 @@ missions_l_ukrainian.yml - в.1.24, перекладено / 283
 modifers_l_ukrainian.yml - в.1.24, перекладено / 1142
 muslim_dlc_l_ukrainian.yml - в.1.24, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
+new_missions_l_ukrainian.yml - в.1.25, не перекладено / 686 
 notlocalized_l_ukrainian.yml - в.1.24, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.24, перекладено / 440
@@ -62,6 +63,7 @@ regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
 res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.24, без перекладу рядки: fetishist_flavor 656-1081 (352), stat_wars 1614-1673 (24) / 1679
+rule_britannia_l_ukrainian.yml - в.1.25, не перекладено / 470
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
 startup_screen_l_ukrainian.yml - в.1.24, без перекладу рядки: 31 (1) 39-48 (10), 62-63 (2) 78-123 (21) 147-223 (35) / 223
