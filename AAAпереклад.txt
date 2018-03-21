@@ -32,7 +32,7 @@ diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.25, перекладено / 1100
 EU4_l_ukrainian.yml - в.1.25, перекладено / 5191
 flavor_events_l_ukrainian.yml - в.1.24, без перекладу рядки: прус.2466-2498 (6), дайм.4553-4651 (30) / 4651
-generic_events_l_ukrainian.yml - в.1.24, перекладено / 4409
+generic_events_l_ukrainian.yml - в.1.25, перекладено / 4409
 government_names_l_ukrainian.yml - в.1.24, перекладено / 496
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
 hints_l_ukrainian.yml - в.1.24, перекладено / 342
@@ -43,7 +43,7 @@ maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 mandate_of_heaven_l_ukrainian.yml - в.1.24, перекладено / 817
 mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.24, перекладено / 7877
+messages_l_ukrainian.yml - в.1.25, без перекладу рядки: 7151-7176 (17) / 7980
 missions_l_ukrainian.yml - в.1.24, перекладено / 283
 modifers_l_ukrainian.yml - в.1.24, перекладено / 1142
 muslim_dlc_l_ukrainian.yml - в.1.24, перекладено / 161
