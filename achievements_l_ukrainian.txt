@@ -532,3 +532,4 @@
  NEW_ACHIEVEMENT_14_9_DESC:0 "Have 10 furnaces built in your nation."
  NEW_ACHIEVEMENT_14_10_NAME:0 "Chop Chop"
  NEW_ACHIEVEMENT_14_10_DESC:0 "With only one Monarch, have six different Consorts."
+
