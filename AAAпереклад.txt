@@ -13,9 +13,9 @@ Antigonius - переклад flavor_events_l_ukrainian тексти d, рядк
 Загальна кількість рядків версії 1.22 62095 
 
 
-achievement_tooltips_l_ukrainian - в.1.25, без перекладу рядки: 40-41 (2) / 41
+achievement_tooltips_l_ukrainian - в.1.25, перекладено / 41
 achievements_l_ukrainian.yml - в.1.25, без перекладу рядки: 222-534 (313) / 534
-aow_l_ukrainian.yml - в.1.25, без перекладу рядки: 104-112 (9) / 2350
+aow_l_ukrainian.yml - в.1.25, перекладено / 2350
 areas_regions_l_ukrainian.yml - в.1.25, перекладено / 2640
 common_sense_l_ukrainian.yml - в.1.25, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
