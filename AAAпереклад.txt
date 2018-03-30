@@ -6,6 +6,7 @@
 
 sergey-astral - оновлення до в.1.25, powers_and_ideas_ukrainian япон.клани, flavor_events_l_ukrainian тексти t, a, b, рядки 4552-4650.
 Antigonius - переклад flavor_events_l_ukrainian тексти d, рядки 4552-4650.
+VaultDweller - переклад modifers_l_ukrainian, рядки: 1135-1553 (411).
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.25
