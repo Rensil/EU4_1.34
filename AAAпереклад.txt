@@ -79,6 +79,6 @@ text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.24, перекладено / 387
 tradenodes_l_ukrainian.yml - в.1.24, перекладено / 198
 triggers_and_effects_l_ukrainian.yml - в.1.25, перекладено / 616
-tutorial_l_ukrainian.yml - в.1.24, перекладено / 370
+tutorial_l_ukrainian.yml - в.1.25, перекладено / 370
 USA_dlc_l_ukrainian.txt - в.1.24, перекладено / 296
-womeninhistory_l_ukrainian.yml - в.1.24, перекладено / 472
+womeninhistory_l_ukrainian.yml - в.1.25, перекладено / 473
