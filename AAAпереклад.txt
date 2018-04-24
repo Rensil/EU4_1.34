@@ -66,7 +66,7 @@ regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
 res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.25, без перекладу рядки: fetishist_flavor 652-1077 (352), stat_wars 1610-1669 (24) / 1675
-rule_britannia_l_ukrainian.yml - в.1.25, без перекладу рядки: 41-117 (24), 133-196 (15), 265-324 (60) / 470
+rule_britannia_l_ukrainian.yml - в.1.25, без перекладу рядки: 41-117 (24), 133-196 (15), 266-322 (15) / 470
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
 startup_screen_l_ukrainian.yml - в.1.25, без перекладу рядки: 31-37 (5) 45-54 (10), 68-69 (2) 84-129 (21) 153-228 (34) / 231
