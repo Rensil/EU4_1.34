@@ -69,7 +69,7 @@ rights_of_man_l_ukrainian.yml - в.1.25, без перекладу рядки: f
 rule_britannia_l_ukrainian.yml - в.1.25, без перекладу рядки: 141-190 (12), 266-322 (15) / 470
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.25, без перекладу рядки: 31-37 (5), 45-54 (10), 68-69 (2), 84-129 (18), 153-228 (34) / 231
+startup_screen_l_ukrainian.yml - в.1.25, без перекладу рядки: 31-37 (5), 45-54 (10), 68-69 (2), 84-129 (15), 153-228 (34) / 231
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено 259
