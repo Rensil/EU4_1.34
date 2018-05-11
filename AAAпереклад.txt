@@ -4,8 +4,8 @@
 
 Фінансова допомога проекту: ПриватБанк: 5168 7427 0771 1705
 
-sergey-astral - оновлення до в.1.25, powers_and_ideas_ukrainian япон.клани, flavor_events_l_ukrainian тексти t, a, b, рядки 4552-4650.
-Antigonius - переклад flavor_events_l_ukrainian тексти d, рядки 4552-4650.
+sergey-astral - new_missions, modifers, missions - вибірково, powers_and_ideas_ukrainian япон.клани.
+Antigonius - переклад flavor_events_l_ukrainian тексти d (8), рядки 4646-4672.
 VaultDweller - переклад modifers_l_ukrainian, рядки: 1135-1553 (411).
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
@@ -32,7 +32,7 @@ diplomacy_l_ukrainian.yml - в.1.24, перекладено / 884
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.25, перекладено / 1100
 EU4_l_ukrainian.yml - в.1.25, перекладено / 5191
-flavor_events_l_ukrainian.yml - в.1.25, без перекладу рядки: дайм.4576-4676 (33) / 4676
+flavor_events_l_ukrainian.yml - в.1.25, без перекладу рядки: дайм.4576-4676 (8) / 4676
 generic_events_l_ukrainian.yml - в.1.25, перекладено / 4409
 government_names_l_ukrainian.yml - в.1.24, перекладено / 496
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
@@ -66,7 +66,7 @@ regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
 res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
 rights_of_man_l_ukrainian.yml - в.1.25, без перекладу рядки: fetishist_flavor 652-1077 (352), stat_wars 1610-1669 (24) / 1675
-rule_britannia_l_ukrainian.yml - в.1.25, без перекладу рядки: 266-322 (15) / 470
+rule_britannia_l_ukrainian.yml - в.1.25, перекладено / 470
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
 startup_screen_l_ukrainian.yml - в.1.25, без перекладу рядки: 31-37 (5), 45-54 (10), 68-69 (2), 84-129 (15), 153-228 (34) / 231
