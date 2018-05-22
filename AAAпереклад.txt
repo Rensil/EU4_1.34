@@ -48,7 +48,7 @@ missions_l_ukrainian.yml - в.1.25, перекладено / 360
 modifers_l_ukrainian.yml - в.1.25, без перекладу рядки: 1167-1532 (283) / 1553
 muslim_dlc_l_ukrainian.yml - в.1.24, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
-new_missions_l_ukrainian.yml - в.1.25, без перекладу рядки: 37-686 (650) / 686 
+new_missions_l_ukrainian.yml - в.1.25, без перекладу рядки: 37-113 (77), 190-241 (52), 275-686 (409) / 686 
 notlocalized_l_ukrainian.yml - в.1.24, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.25, перекладено / 440
