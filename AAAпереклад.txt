@@ -16,6 +16,7 @@ Europa Universalis IV – спільний переклад.
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
 sergey-astral - new_missions, modifers - вибірково, powers_and_ideas_ukrainian япон.клани.
+Ukrainianguy - powers_and_ideas_ukrainian.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.25
