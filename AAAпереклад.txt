@@ -17,6 +17,7 @@ Europa Universalis IV – спільний переклад.
 
 sergey-astral - new_missions, modifers - вибірково, powers_and_ideas_ukrainian япон.клани.
 Ukrainianguy - powers_and_ideas_ukrainian.
+Antigonius - cossacks_l_ukrainian. 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.25
@@ -59,7 +60,7 @@ missions_l_ukrainian.yml - в.1.25, перекладено / 360
 modifers_l_ukrainian.yml - в.1.25, без перекладу рядки: 1167-1532 (283) / 1553
 muslim_dlc_l_ukrainian.yml - в.1.24, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
-new_missions_l_ukrainian.yml - в.1.25, без перекладу рядки: 38-50 (7), 337-686 (130) / 686 
+new_missions_l_ukrainian.yml - в.1.25, без перекладу рядки: 38-50 (7), 406-595 (91) / 686 
 notlocalized_l_ukrainian.yml - в.1.24, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.25, перекладено / 440
