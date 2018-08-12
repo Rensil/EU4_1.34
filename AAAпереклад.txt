@@ -15,9 +15,10 @@ Europa Universalis IV – спільний переклад.
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-sergey-astral - rights_of_man_l_ukrainian - рядки t, a, b, c fetishist_flavor.
+sergey-astral - rights_of_man_l_ukrainian - рядки fetishist_flavor.
 Ukrainianguy - powers_and_ideas_ukrainian.
 Antigonius - cossacks_l_ukrainian. 
+vla_dos - startup_screen.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.25
@@ -76,7 +77,7 @@ random_new_world_l_ukrainian.yml - в.1.24, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
 res_publica_l_ukrainian.yml - в.1.24, перекладено / 549
-rights_of_man_l_ukrainian.yml - в.1.25, без перекладу рядки: fetishist_flavor 652-1076 (80), stat_wars 1610-1669 (24) / 1675
+rights_of_man_l_ukrainian.yml - в.1.25, без перекладу рядки: fetishist_flavor 654-1076 (68), stat_wars 1610-1669 (24) / 1675
 rule_britannia_l_ukrainian.yml - в.1.25, перекладено / 470
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
