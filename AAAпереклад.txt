@@ -33,7 +33,7 @@ areas_regions_l_ukrainian.yml - в.1.25, перекладено / 2640
 common_sense_l_ukrainian.yml - в.1.25, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.25, перекладено / 896
-cossacks_l_ukrainian.yml - в.1.25, без перекладу рядки: tengri_events d 413-621 (52) / 1417
+cossacks_l_ukrainian.yml - в.1.25, без перекладу рядки: tengri_events d 436-621 (46) / 1417
 countries_l_ukrainian.yml - в.1.25, перекладено / 1239
 cradle_of_civilization_l_ukrainian - в.1.25, перекладено / 856
 cultures_phase4_l_ukrainian.yml - в.1.24, перекладено / 41
@@ -81,7 +81,7 @@ rights_of_man_l_ukrainian.yml - в.1.25, без перекладу рядки: f
 rule_britannia_l_ukrainian.yml - в.1.25, перекладено / 470
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.25, без перекладу рядки: 37 (1), 45-54 (10), 68 (1), 85-86 (2), 153-228 (17) / 231
+startup_screen_l_ukrainian.yml - в.1.25, без перекладу рядки: 49-54 (6), 68 (1), 85-86 (2), 153-228 (17) / 231
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено 259
