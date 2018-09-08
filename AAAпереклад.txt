@@ -16,12 +16,9 @@ Europa Universalis IV – спільний переклад.
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
 sergey-astral - rights_of_man_l_ukrainian - рядки fetishist_flavor.
-Ukrainianguy - powers_and_ideas_ukrainian.
-Antigonius - cossacks_l_ukrainian. 
-vla_dos - startup_screen.
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
-Загальна кількість рядків версії 1.26, 45 файлів змінено + 2 нових
+Загальна кількість рядків версії 1.26, 45 файлів змінено + 5 нових
 Загальна кількість рядків версії 1.25 71014 / не перекладено 1313
 Загальна кількість рядків версії 1.24 65334 / не перекладено 1098
 Загальна кількість рядків версії 1.22 62095 /
@@ -44,32 +41,36 @@ dharma_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-947 (9
 diplo_reasons_l_ukrainian.yml - в.1.26, перекладено / 371
 diplomacy_l_ukrainian.yml - в.1.26, перекладено / 889
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
-eldorado_l_ukrainian.yml - в.1.25, перекладено / 1100 НЕ ПЕРЕВІРЕНО
+eldorado_l_ukrainian.yml - в.1.25, перекладено / 1100
 EU4_l_ukrainian.yml - в.1.25, перекладено / 5191 НЕ ПЕРЕВІРЕНО
 flavor_events_l_ukrainian.yml - в.1.25, перекладено / 4676 НЕ ПЕРЕВІРЕНО
-generic_events_l_ukrainian.yml - в.1.25, перекладено / 4409 НЕ ПЕРЕВІРЕНО
-government_names_l_ukrainian.yml - в.1.24, перекладено / 496 НЕ ПЕРЕВІРЕНО
+generic_events_l_ukrainian.yml - в.1.26, перекладено / 4409
+government_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-298 (297) / 298
+government_names_l_ukrainian.yml - в.1.26, перекладено / 498
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
 hints_l_ukrainian.yml - в.1.24, перекладено / 342
-institutions_l_ukrainian.yml - в.1.24, перекладено / 117 НЕ ПЕРЕВІРЕНО
+institutions_l_ukrainian.yml - в.1.26, перекладено / 118
+insults_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-70 (69) / 70
 ledger_l_ukrainian.yml - в.1.24, перекладено / 208
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-mandate_of_heaven_l_ukrainian.yml - в.1.24, перекладено / 817 НЕ ПЕРЕВІРЕНО
+mandate_of_heaven_l_ukrainian.yml - в.1.26, перекладено / 819
 mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.25, перекладено / 7980 НЕ ПЕРЕВІРЕНО
-missions_l_ukrainian.yml - в.1.25, перекладено / 360 НЕ ПЕРЕВІРЕНО
-modifers_l_ukrainian.yml - в.1.25, перекладено / 1553 НЕ ПЕРЕВІРЕНО
-muslim_dlc_l_ukrainian.yml - в.1.24, перекладено / 161 НЕ ПЕРЕВІРЕНО
+messages_l_ukrainian.yml - в.1.26, без перекладу рядки: 3407-3447 (41), 4963-4976 (14), 5005-5018 (14), 5047-5060 (14), 6507-6519 (13), 8079-8133 (55) / 8134
+missions_l_ukrainian.yml - в.1.26, перекладено / 361
+modifers_l_ukrainian.yml - в.1.26, без перекладу рядки: 1558-2078 (521) / 2078
+mughal_government_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-93 (92) / 93
+muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
-new_missions_l_ukrainian.yml - в.1.25, перекладено / 686 НЕ ПЕРЕВІРЕНО 
+new_missions_l_ukrainian.yml - в.1.26, без перекладу рядки: 688-1377 (690) / 1377 
 notlocalized_l_ukrainian.yml - в.1.24, перекладено / 6 НЕ ПЕРЕВІРЕНО
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
-nw2_l_ukrainian.yml - в.1.25, перекладено / 440 НЕ ПЕРЕВІРЕНО
+nw2_l_ukrainian.yml - в.1.26, перекладено / 440
 nw_l_ukrainian.yml - в.1.24, перекладено / 238 НЕ ПЕРЕВІРЕНО
 opinions_l_ukrainian.yml - в.1.24, перекладено / 200 НЕ ПЕРЕВІРЕНО
 personalityoptions_l_ukrainian.yml - в.1.24, перекладено / 706 НЕ ПЕРЕВІРЕНО
+policies_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-347 (346) / 347
 powers_and_ideas_l_ukrainian.yml - в.1.25, без перекладу рядки: 4635-5708 (521), 5796-6165 (370) / 6165 НЕ ПЕРЕВІРЕНО
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.25, не перекладається / 3349
