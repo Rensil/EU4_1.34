@@ -1554,7 +1554,7 @@ muslim_enforced_religion:0 "Примусова релігійна єдність
  desc_rb_eng_divine_common:0 "Простолюд по всій країні раді до нестями чути або читати про важливість їхнього місця у Царстві Божому."
  rb_eng_national_economy:0 "Економічні дослідження"
  desc_rb_eng_national_economy:0 "Тільки фінансово компетентні зрозуміють суть цього фоліанту, однак, його наслідки вже помітні на нашій скарбниці."
-# VIJ mission rewards
+ # VIJ mission rewards
  vij_maratha_modifier:0 "Marathi Cavalry"
  desc_vij_maratha_modifier:0 "Our conquest of Maharashtra allows us to add the expertise of Marathi horsemanship to our own."
  east_africa_conquest:0 "East African Trade Dominance"
