@@ -32,7 +32,8 @@ areas_regions_l_ukrainian.yml - в.1.25, перекладено / 2640 НЕ ПЕ
 common_sense_l_ukrainian.yml - в.1.26, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.26, перекладено / 903
-cossacks_l_ukrainian.yml - в.1.25, без перекладу рядки: tengri_events d 436-621 (46) / 1417 НЕ ПЕРЕВІРЕНО
+cossacks_l_ukrainian.yml - в.1.26, без перекладу рядки: 56-71 (10), 95-131 (6), 198-206 (5), 249-250 (2), 450-635 (46), 1157, 1209, 
+1229, 1233, 1378-1437 (39), 1479-1499 (21) / 1499
 countries_l_ukrainian.yml - в.1.25, перекладено / 1239 НЕ ПЕРЕВІРЕНО
 cradle_of_civilization_l_ukrainian - в.1.26, перекладено / 864
 cultures_phase4_l_ukrainian.yml - в.1.26, перекладено / 42
@@ -44,7 +45,7 @@ diplomacy_l_ukrainian.yml - в.1.26, перекладено / 889
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.25, перекладено / 1100
 EU4_l_ukrainian.yml - в.1.25, перекладено / 5191 НЕ ПЕРЕВІРЕНО
-flavor_events_l_ukrainian.yml - в.1.25, перекладено / 4676 НЕ ПЕРЕВІРЕНО
+flavor_events_l_ukrainian.yml - в.1.26, без перекладу рядки: 1327-1337 (11), 3400-3406 (7), 3498-3514 (17) / 4712
 generic_events_l_ukrainian.yml - в.1.26, перекладено / 4409
 government_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-298 (297) / 298 НОВИЙ ФАЙЛ
 government_names_l_ukrainian.yml - в.1.26, перекладено / 498
@@ -72,7 +73,7 @@ nw_l_ukrainian.yml - в.1.26, перекладено / 240
 opinions_l_ukrainian.yml - в.1.26, перекладено / 206
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
 policies_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-347 (346) / 347 НОВИЙ ФАЙЛ
-powers_and_ideas_l_ukrainian.yml - в.1.25, без перекладу рядки: 4635-5708 (521), 5796-6165 (370) / 6165 НЕ ПЕРЕВІРЕНО
+powers_and_ideas_l_ukrainian.yml - в.1.26, без перекладу рядки: 4635-5708 (521), 5796-6446 (651) / 6446
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.26, не перекладається / 3475
 prov_names_l_ukrainian.yml - в.1.25, перекладено / 3471 НЕ ПЕРЕВІРЕНО
