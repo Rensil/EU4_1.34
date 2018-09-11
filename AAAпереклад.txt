@@ -66,7 +66,7 @@ mughal_government_l_ukrainian.yml - в.1.26, без перекладу рядк�
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
 new_missions_l_ukrainian.yml - в.1.26, без перекладу рядки: 688-1377 (688) / 1377 
-notlocalized_l_ukrainian.yml - в.1.24, перекладено / 6 НЕ ПЕРЕВІРЕНО
+notlocalized_l_ukrainian.yml - в.1.26, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.26, перекладено / 440
 nw_l_ukrainian.yml - в.1.26, перекладено / 240
