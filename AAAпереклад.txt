@@ -28,13 +28,13 @@ Ukrainianguy - insults_l_ukrainian.yml
 achievement_tooltips_l_ukrainian - в.1.26, без перекладу рядки: 42-49 (8) / 49
 achievements_l_ukrainian.yml - в.1.26, без перекладу рядки: 222-575 (353) / 575
 aow_l_ukrainian.yml - в.1.26, без перекладу рядки: 1077-1085 (8), 1509-1511 (3) / 2350
-areas_regions_l_ukrainian.yml - в.1.25, перекладено / 2640 НЕ ПЕРЕВІРЕНО
+areas_regions_l_ukrainian.yml - в.1.26, без перекладу рядки: 1122-1257 (35), 1242-1274 (28) / 2731
 common_sense_l_ukrainian.yml - в.1.26, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.26, перекладено / 903
 cossacks_l_ukrainian.yml - в.1.26, без перекладу рядки: 56-71 (10), 95-131 (6), 198-206 (5), 249-250 (2), 450-635 (46), 1157, 1209, 
 1229, 1233, 1378-1437 (39), 1479-1499 (21) / 1499
-countries_l_ukrainian.yml - в.1.25, перекладено / 1239 НЕ ПЕРЕВІРЕНО
+countries_l_ukrainian.yml - в.1.26, без перекладу рядки: 1240-1325 (86) / 1325
 cradle_of_civilization_l_ukrainian - в.1.26, перекладено / 864
 cultures_phase4_l_ukrainian.yml - в.1.26, перекладено / 42
 custom_localisation_l_ukrainian.yml - в.1.25, перекладено / 130
@@ -44,7 +44,7 @@ diplo_reasons_l_ukrainian.yml - в.1.26, перекладено / 371
 diplomacy_l_ukrainian.yml - в.1.26, перекладено / 889
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.25, перекладено / 1100
-EU4_l_ukrainian.yml - в.1.25, перекладено / 5191 НЕ ПЕРЕВІРЕНО
+EU4_l_ukrainian.yml - в.1.26, перекладено / 4974
 flavor_events_l_ukrainian.yml - в.1.26, без перекладу рядки: 1327-1337 (11), 3400-3406 (7), 3498-3514 (17) / 4712
 generic_events_l_ukrainian.yml - в.1.26, перекладено / 4409
 government_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-298 (297) / 298 НОВИЙ ФАЙЛ
