@@ -76,12 +76,12 @@ policies_l_ukrainian.yml - в.1.26, без перекладу рядки: 234-23
 powers_and_ideas_l_ukrainian.yml - в.1.26, без перекладу рядки: 4635-5708 (521), 5796-6446 (651) / 6446
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.26, не перекладається / 3475
-prov_names_l_ukrainian.yml - в.1.25, перекладено / 3471 НЕ ПЕРЕВІРЕНО
+prov_names_l_ukrainian.yml - в.1.26, без перекладу рядки: 3377-3506 (129) / 3601
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.24, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
-res_publica_l_ukrainian.yml - в.1.24, перекладено / 549 НЕ ПЕРЕВІРЕНО
+res_publica_l_ukrainian.yml - в.1.26, без перекладу рядки: 9-28 (8), dutch_republic 39-123 (15) / 575 НЕ ПЕРЕВІРЕНО
 rights_of_man_l_ukrainian.yml - в.1.26, без перекладу рядки: fetishist_flavor 728-813 (17), stat_wars 1614-1672 (24) / 1679 
 rule_britannia_l_ukrainian.yml - в.1.26, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
