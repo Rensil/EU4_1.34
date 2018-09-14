@@ -81,7 +81,7 @@ Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.24, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
-res_publica_l_ukrainian.yml - в.1.26, без перекладу рядки: 9-28 (8), dutch_republic 39-123 (15) / 575 НЕ ПЕРЕВІРЕНО
+res_publica_l_ukrainian.yml - в.1.26, без перекладу рядки: 9-28 (8), dutch_republic 39-170 (19) / 581
 rights_of_man_l_ukrainian.yml - в.1.26, без перекладу рядки: fetishist_flavor 728-813 (17), stat_wars 1614-1672 (24) / 1679 
 rule_britannia_l_ukrainian.yml - в.1.26, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
