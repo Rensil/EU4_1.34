@@ -15,7 +15,8 @@ Europa Universalis IV – спільний переклад.
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-sergey-astral - перевірка змін в файлах в.1.26.
+sergey-astral - 275-947 Дхарма, без перекладу подій.
+vla_dos - 0-274 Дхарма, без перекладу подій.
 Ukrainianguy - insults_l_ukrainian.yml
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
@@ -72,7 +73,7 @@ nw2_l_ukrainian.yml - в.1.26, перекладено / 440
 nw_l_ukrainian.yml - в.1.26, перекладено / 240
 opinions_l_ukrainian.yml - в.1.26, перекладено / 206
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
-policies_l_ukrainian.yml - в.1.26, без перекладу рядки: 234-237 (4), 258-259 (2), 283-347 (65) / 347
+policies_l_ukrainian.yml - в.1.26, перекладено / 347
 powers_and_ideas_l_ukrainian.yml - в.1.26, без перекладу рядки: 4635-5708 (521), 5796-6446 (651) / 6446
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.26, не перекладається / 3475
