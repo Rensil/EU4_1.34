@@ -91,7 +91,7 @@ subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено / 259
 terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
-text_l_ukrainian.yml - в.1.25, перекладено / 8077 НЕ ПЕРЕВІРЕНО
+text_l_ukrainian.yml - в.1.26, перекладено / 8065
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.26, перекладено / 389
 tradenodes_l_ukrainian.yml - в.1.26, перекладено / 216
