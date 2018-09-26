@@ -40,7 +40,7 @@ cradle_of_civilization_l_ukrainian - в.1.26, перекладено / 864
 cultures_phase4_l_ukrainian.yml - в.1.26, перекладено / 42
 custom_localisation_l_ukrainian.yml - в.1.25, перекладено / 130
 decisions_l_ukrainian.yml - в.1.26, без перекладу рядки: 165-185 (21) / 185
-dharma_l_ukrainian.yml - в.1.26, без перекладу рядки: 1-274 (273), 281-385 (21), 513-947 (398) / 947
+dharma_l_ukrainian.yml - в.1.26, без перекладу рядки: 1-274 (273), 281-385 (21), 598-881 (284) 910-947 (29) / 947
 diplo_reasons_l_ukrainian.yml - в.1.26, перекладено / 371
 diplomacy_l_ukrainian.yml - в.1.26, перекладено / 889
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
