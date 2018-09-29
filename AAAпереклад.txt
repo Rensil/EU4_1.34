@@ -33,8 +33,7 @@ areas_regions_l_ukrainian.yml - в.1.26, без перекладу рядки: 1
 common_sense_l_ukrainian.yml - в.1.26, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.26, перекладено / 903
-cossacks_l_ukrainian.yml - в.1.26, без перекладу рядки: 56-71 (10), 95-131 (6), 198-206 (5), 249-250 (2), 450-635 (46), 1157, 1209, 
-1229, 1233, 1378-1437 (39), 1479-1499 (21) / 1499
+cossacks_l_ukrainian.yml - в.1.26, без перекладу рядки: 56-71 (10), 450-635 (46), 1209, 1229, 1233, 1378-1437 (39) / 1499
 countries_l_ukrainian.yml - в.1.26, без перекладу рядки: 1240-1325 (86) / 1325
 cradle_of_civilization_l_ukrainian - в.1.26, перекладено / 864
 cultures_phase4_l_ukrainian.yml - в.1.26, перекладено / 42
@@ -60,7 +59,7 @@ maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 mandate_of_heaven_l_ukrainian.yml - в.1.26, перекладено / 819
 mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.26, без перекладу рядки: 3407-3447 (41), 4963-4976 (14), 5005-5018 (14), 5047-5060 (14), 6507-6519 (13), 8079-8133 (55) / 8134
+messages_l_ukrainian.yml - в.1.26, без перекладу рядки: 3407-3447 (32), 4963-4976 (11), 5005-5018 (11), 5047-5060 (11), 6507-6519 (10), 8079-8133 (46) / 8134
 missions_l_ukrainian.yml - в.1.26, перекладено / 361
 modifers_l_ukrainian.yml - в.1.26, без перекладу рядки: 1558-2078 (521) / 2078
 mughal_government_l_ukrainian.yml - в.1.26, без перекладу рядки: 2-93 (92) / 93 НОВИЙ ФАЙЛ
