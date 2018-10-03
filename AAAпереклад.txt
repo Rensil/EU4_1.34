@@ -35,9 +35,9 @@ aow_l_ukrainian.yml - в.1.26, без перекладу рядки: 1077-1085 (
 areas_regions_l_ukrainian.yml - в.1.27, без перекладу рядки: 266-307 (21), 1140-1175 (35), 1260-1292 (28) / 2749
 common_sense_l_ukrainian.yml - в.1.27, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
-core_l_ukrainian.yml - в.1.27, без перекладу рядки: 732 / 904
-cossacks_l_ukrainian.yml - в.1.26, без перекладу рядки: 56-71 (10), 452-637 (46), 1382-1410 (29) / 1504
-countries_l_ukrainian.yml - в.1.26, без перекладу рядки: 1240-1331 (92) / 1331
+core_l_ukrainian.yml - в.1.27, без перекладу рядки: 732 (1) / 904
+cossacks_l_ukrainian.yml - в.1.27, без перекладу рядки: 56-71 (10), 452-637 (46), 1382-1410 (29) / 1504
+countries_l_ukrainian.yml - в.1.27, без перекладу рядки: 1240-1331 (92) / 1331
 cradle_of_civilization_l_ukrainian - в.1.27, перекладено / 865
 cultures_phase4_l_ukrainian.yml - в.1.26, перекладено / 42
 custom_localisation_l_ukrainian.yml - в.1.25, перекладено / 130
@@ -86,7 +86,7 @@ random_new_world_l_ukrainian.yml - в.1.27, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
 res_publica_l_ukrainian.yml - в.1.26, без перекладу рядки: 9-28 (8), dutch_republic 39-170 (19) / 581
-rights_of_man_l_ukrainian.yml - в.1.26, без перекладу рядки: fetishist_flavor 728-813 (17), stat_wars 1614-1672 (24) / 1679
+rights_of_man_l_ukrainian.yml - в.1.27, без перекладу рядки: fetishist_flavor 728-813 (17), stat_wars 1614-1672 (24) / 1679
 rule_britannia_l_ukrainian.yml - в.1.26, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
