@@ -634,7 +634,7 @@
  HAVE_MORE_THAN_ADM_POWER_COST_TRIGGER:0 "Кількість адміністративних балів дорівнює $AMOUNT|Y$.\n"
  HAVE_MORE_THAN_DIP_POWER_COST_TRIGGER:0 "Кількість дипломатичних балів дорівнює $AMOUNT|Y$.\n"
  HAVE_MORE_THAN_MIL_POWER_COST_TRIGGER:0 "Кількість військових балів дорівнює $AMOUNT|Y$.\n"
- ADM_POWER_COST_EFFECT:0 "Буде втрачено адміністративних балів:  $AMOUNT|-R$.\n"
- DIP_POWER_COST_EFFECT:0 "Буде втрачено дипломатичних балів:  $AMOUNT|-R$.\n"
- MIL_POWER_COST_EFFECT:0 "Буде втрачено військових балів:  $AMOUNT|-R$.\n"
+ ADM_POWER_COST_EFFECT:0 "Буде втрачено адміністративних балів: $AMOUNT|R$.\n"
+ DIP_POWER_COST_EFFECT:0 "Буде втрачено дипломатичних балів: $AMOUNT|R$.\n"
+ MIL_POWER_COST_EFFECT:0 "Буде втрачено військових балів: $AMOUNT|R$.\n"
 
