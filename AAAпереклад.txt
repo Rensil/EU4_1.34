@@ -50,7 +50,7 @@ eldorado_l_ukrainian.yml - в.1.27, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.27, перекладено / 4986
 flavor_events_l_ukrainian.yml - в.1.27, без перекладу рядки: 1327-1337 (11), 3394-3419 (20), 3511-3527 (17), 4607-4611 (5), 4730-4769 (40) / 4769
 generic_events_l_ukrainian.yml - в.1.27, перекладено / 4410
-government_l_ukrainian.yml - в.1.27, без перекладу рядки: 2-330 (330) / 298 НОВИЙ ФАЙЛ
+government_l_ukrainian.yml - в.1.27, без перекладу рядки: 2-330 (329) / 298 НОВИЙ ФАЙЛ
 government_names_l_ukrainian.yml - в.1.27, перекладено / 501
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
 hints_l_ukrainian.yml - в.1.24, перекладено / 342
