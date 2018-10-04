@@ -92,7 +92,7 @@ rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
 startup_screen_l_ukrainian.yml - в.1.27, без перекладу рядки: 31-32 (2), 161-238 (18) / 241
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
-synthetic_dawn_l_ukrainian.yml - в.1.27, без перекладу рядки: 2-47 (45) / 47 НОВИЙ ФАЙЛ
+synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено / 259
 terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
