@@ -62,8 +62,7 @@ maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 mandate_of_heaven_l_ukrainian.yml - в.1.27, перекладено / 821
 mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.27, без перекладу рядки: 3407-3447 (32), 4963-4976 (11), 5005-5018 (11), 5047-5060 (11), 6507-6519 (10), 
-8079-8133 (46) / 8134
+messages_l_ukrainian.yml - в.1.27, перекладено / 8134
 missions_l_ukrainian.yml - в.1.27, перекладено / 361
 modifers_l_ukrainian.yml - в.1.27.1, без перекладу рядки: 1558-2142 (586) / 2143
 mughal_government_l_ukrainian.yml - в.1.27, без перекладу рядки: 2-93 (92) / 93 НОВИЙ ФАЙЛ
@@ -80,7 +79,7 @@ policies_l_ukrainian.yml - в.1.26, перекладено / 347
 powers_and_ideas_l_ukrainian.yml - в.1.27, без перекладу рядки: 4635-5708 (521), 5796-6529 (734) / 6579
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.27, не перекладається / 3498
-prov_names_l_ukrainian.yml - в.1.27, без перекладу рядки: 3377-3529 (153) / 3624
+prov_names_l_ukrainian.yml - в.1.27, перекладено / 3624
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.27, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
