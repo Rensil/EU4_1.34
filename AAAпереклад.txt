@@ -36,7 +36,7 @@ areas_regions_l_ukrainian.yml - в.1.27, перекладено / 2749
 common_sense_l_ukrainian.yml - в.1.27, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.27, перекладено / 904
-cossacks_l_ukrainian.yml - в.1.27, без перекладу рядки: 452-637 (46) / 1504
+cossacks_l_ukrainian.yml - в.1.27, без перекладу рядки: 479-637 (41) / 1504
 countries_l_ukrainian.yml - в.1.27, перекладено / 1331
 cradle_of_civilization_l_ukrainian - в.1.27, перекладено / 865
 cultures_phase4_l_ukrainian.yml - в.1.26, перекладено / 42
@@ -50,7 +50,7 @@ eldorado_l_ukrainian.yml - в.1.27, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.27, перекладено / 4986
 flavor_events_l_ukrainian.yml - в.1.27, без перекладу рядки: 1327-1337 (11), 3394-3419 (20), 3511-3527 (17), 4608-4611 (4), 4730-4769 (40) / 4769
 generic_events_l_ukrainian.yml - в.1.27, перекладено / 4410
-government_l_ukrainian.yml - в.1.27, без перекладу рядки: 2-153 (152), 198-217 (19) / 330
+government_l_ukrainian.yml - в.1.27, перекладено / 330
 government_names_l_ukrainian.yml - в.1.27, перекладено / 501
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
 hints_l_ukrainian.yml - в.1.24, перекладено / 342
@@ -84,7 +84,7 @@ Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.27, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
-res_publica_l_ukrainian.yml - в.1.26, без перекладу рядки: 9-28 (8), dutch_republic 39-170 (19) / 581
+res_publica_l_ukrainian.yml - в.1.27, без перекладу рядки: dutch_republic 44-170 (18) / 581
 rights_of_man_l_ukrainian.yml - в.1.27, без перекладу рядки: fetishist_flavor 728-813 (17), stat_wars 1614-1672 (24) / 1679
 rule_britannia_l_ukrainian.yml - в.1.26, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
