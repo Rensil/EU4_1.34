@@ -31,7 +31,7 @@ Ukrainianguy - startup_screen_l_ukrainian.yml рядки 31-32 (2).
 
 achievement_tooltips_l_ukrainian - в.1.27, без перекладу рядки: 42-49 (8) / 49
 achievements_l_ukrainian.yml - в.1.27, без перекладу рядки: 222-575 (353) / 575
-aow_l_ukrainian.yml - в.1.26, без перекладу рядки: 1078-1085 (8), 1509-1511 (3) / 2350
+aow_l_ukrainian.yml - в.1.26, без перекладу рядки: 1079-1084 (2) / 2350
 areas_regions_l_ukrainian.yml - в.1.27, перекладено / 2749
 common_sense_l_ukrainian.yml - в.1.27, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
