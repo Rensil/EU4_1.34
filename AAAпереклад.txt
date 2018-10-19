@@ -65,7 +65,7 @@ mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.27, перекладено / 8134
 missions_l_ukrainian.yml - в.1.27, перекладено / 361
 modifers_l_ukrainian.yml - в.1.27.1, без перекладу рядки: 1558-2142 (586) / 2143
-mughal_government_l_ukrainian.yml - в.1.27, без перекладу рядки: 2-93 (92) / 93 НОВИЙ ФАЙЛ
+mughal_government_l_ukrainian.yml - в.1.27, без перекладу рядки: 29-93 (33) / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
 new_missions_l_ukrainian.yml - в.1.27, без перекладу рядки: 688-1375 (687) / 1472
