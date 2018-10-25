@@ -17,9 +17,11 @@ Discord") (бажано) або на толоці. Будемо раді не л
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-sergey-astral - 1558-1608 modifers.
-vla_dos - mughal_government_l_ukrainian.yml.
-Ukrainianguy - startup_screen_l_ukrainian.yml рядки 31-32 (2).
+sergey-astral - powers_and_ideas вибірково, dharma.
+vla_dos - modifers.
+Ukrainianguy - startup_screen рядки 31-32 (2).
+Antigonius - cossacks_l_ukrainian рядки tengri_events 479-637 (41).
+
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
 Загальна кількість рядків версії 1.27, 34 файла змінено + 1 новий 
@@ -65,7 +67,7 @@ mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.27, перекладено / 8134
 missions_l_ukrainian.yml - в.1.27, перекладено / 361
 modifers_l_ukrainian.yml - в.1.27.1, без перекладу рядки: 1610-1660 (51), 1702-1740 (39), 1807-2073 (267) / 2143
-mughal_government_l_ukrainian.yml - в.1.27, без перекладу рядки: 29-93 (33) / 93
+mughal_government_l_ukrainian.yml - в.1.27, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
 new_missions_l_ukrainian.yml - в.1.27, без перекладу рядки: 688-1375 (687) / 1472
@@ -76,7 +78,7 @@ nw_l_ukrainian.yml - в.1.26, перекладено / 240
 opinions_l_ukrainian.yml - в.1.27, перекладено / 212
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
 policies_l_ukrainian.yml - в.1.26, перекладено / 347
-powers_and_ideas_l_ukrainian.yml - в.1.27, без перекладу рядки: 4635-5708 (518), 5796-6182 (387), 6253-6529 (271) / 6579
+powers_and_ideas_l_ukrainian.yml - в.1.27, без перекладу рядки: 4654-4683 (15), 5128-5238 (94), 5279-5608 (302), 5643-5727 (85), 5796-6182 (387), 6253-6529 (226) / 6579
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.27, не перекладається / 3498
 prov_names_l_ukrainian.yml - в.1.27, перекладено / 3624
