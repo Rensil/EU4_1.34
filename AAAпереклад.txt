@@ -66,7 +66,7 @@ mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.27, перекладено / 8134
 missions_l_ukrainian.yml - в.1.27, перекладено / 361
-modifers_l_ukrainian.yml - в.1.27.1, без перекладу рядки: 1610-1660 (51), 1702-1740 (39), 1807-2073 (267) / 2143
+modifers_l_ukrainian.yml - в.1.27.1, без перекладу рядки: 1610-1660 (51), 1702-1740 (39) / 2143
 mughal_government_l_ukrainian.yml - в.1.27, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
@@ -78,7 +78,7 @@ nw_l_ukrainian.yml - в.1.26, перекладено / 240
 opinions_l_ukrainian.yml - в.1.27, перекладено / 212
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
 policies_l_ukrainian.yml - в.1.26, перекладено / 347
-powers_and_ideas_l_ukrainian.yml - в.1.27, без перекладу рядки: 4654-4683 (15), 5128-5238 (94), 5279-5608 (295), 5643-5727 (85), 5796-6182 (387), 6268-6529 (164) / 6579
+powers_and_ideas_l_ukrainian.yml - в.1.27, без перекладу рядки: 4654-4683 (15), 5128-5238 (94), 5279-5608 (295), 5643-5727 (85), 5796-6182 (387), 6302-6514 (137) / 6579
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.27, не перекладається / 3498
 prov_names_l_ukrainian.yml - в.1.27, перекладено / 3624
