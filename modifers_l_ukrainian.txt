@@ -2141,3 +2141,4 @@ muslim_enforced_religion:0 "Примусова релігійна єдність
  IDEA_MAY_CONVERT_TERRITORIES:0 "На територіях можна переходити в іншу віру."
  territory_core:0 "Територія"
  territory_non_core:0 "Територія"
+
