@@ -70,7 +70,7 @@ modifers_l_ukrainian.yml - в.1.27.1, без перекладу рядки: 1610
 mughal_government_l_ukrainian.yml - в.1.27, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
-new_missions_l_ukrainian.yml - в.1.27, без перекладу рядки: 688-1375 (687) / 1472
+new_missions_l_ukrainian.yml - в.1.27, без перекладу рядки: 1281-1373 (45) / 1472
 notlocalized_l_ukrainian.yml - в.1.26, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.26, перекладено / 440
