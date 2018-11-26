@@ -50,7 +50,7 @@ diplomacy_l_ukrainian.yml - в.1.26, перекладено / 889
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.27, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.27, перекладено / 4986
-flavor_events_l_ukrainian.yml - в.1.27, без перекладу рядки: 1327-1337 (11), 3394-3419 (20), 3511-3527 (17), 4608-4611 (4), 4730-4769 (40) / 4769
+flavor_events_l_ukrainian.yml - в.1.27, без перекладу рядки: 1327-1337 (11), 3394-3409 (15), 4730-4749 (20) / 4769
 generic_events_l_ukrainian.yml - в.1.27, перекладено / 4410
 government_l_ukrainian.yml - в.1.27, перекладено / 330
 government_names_l_ukrainian.yml - в.1.27, перекладено / 501
