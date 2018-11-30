@@ -37,7 +37,7 @@ areas_regions_l_ukrainian.yml - в.1.27, перекладено / 2749
 common_sense_l_ukrainian.yml - в.1.27, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.27, перекладено / 904
-cossacks_l_ukrainian.yml - в.1.27, без перекладу рядки: 479-637 (41) / 1504
+cossacks_l_ukrainian.yml - в.1.27, без перекладу рядки: 510-637 (33) / 1504
 countries_l_ukrainian.yml - в.1.27, перекладено / 1331
 cradle_of_civilization_l_ukrainian - в.1.27, перекладено / 865
 cultures_phase4_l_ukrainian.yml - в.1.26, перекладено / 42
@@ -90,7 +90,7 @@ rights_of_man_l_ukrainian.yml - в.1.27, без перекладу рядки: f
 rule_britannia_l_ukrainian.yml - в.1.26, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.27, без перекладу рядки: 31-32 (2), 161-167 (7) / 241
+startup_screen_l_ukrainian.yml - в.1.27, без перекладу рядки: 161-167 (7) / 241
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
