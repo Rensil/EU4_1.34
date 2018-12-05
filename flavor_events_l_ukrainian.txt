@@ -3407,7 +3407,7 @@
  flavor_wal.EVTNAME3:0 "The Sultan's Impalement"
  flavor_wal.EVTDESC3:0 "The cruel barbarians of [From.Country.GetName] have murdered our noble [Root.Monarch.GetTitle] alongside [Root.Monarch.GetHerHis] children and harem in a most inhuman fashion. Their bodies stand impaled on a hill overlooking the burning city of [Root.Capital.GetName]."
  flavor_wal.EVTOPTA3:0 "These monstrous savages will pay for this!"
- flavor_tib.EVTNAME1:0 "Далай Лама при владі"
+ flavor_tib.EVTNAME1:0 "Далай-лама при владі"
  flavor_tib.EVTDESC1:0 "Після довгих років свавілля слабких королів, які були маріонетками в руках іноземців, далай лама, духовний вождь народу Тибету, взяв у свої руки всю повноту влади. Його Святість далай лама, просить Вашої поради. Яким має бути наш напрямок у зовнішній політиці?"
  flavor_tib.EVTOPTA1:0 "Зайнятися своїми справами і створити мирний Шангрі-Ла"
  flavor_tib.EVTOPTB1:0 "Покарати сусідів зрадників!"
