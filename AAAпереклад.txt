@@ -60,10 +60,10 @@ insults_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 71-76
 ledger_l_ukrainian.yml - в.1.28.1, перекладено / 208
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-mandate_of_heaven_l_ukrainian.yml - в.1.27, перекладено / 821
+mandate_of_heaven_l_ukrainian.yml - в.1.28.1, перекладено / 819
 mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.27, перекладено / 8134
+messages_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 8051-8060 (9), 8150-8175 (25) / 8175
 missions_l_ukrainian.yml - в.1.27, перекладено / 361
 modifers_l_ukrainian.yml - в.1.27.1, без перекладу рядки: 1610-1660 (51) / 2143
 mughal_government_l_ukrainian.yml - в.1.27, перекладено / 93
