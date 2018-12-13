@@ -77,20 +77,20 @@ nw_l_ukrainian.yml - в.1.26, перекладено / 240
 opinions_l_ukrainian.yml - в.1.28.1, перекладено / 216
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
 policies_l_ukrainian.yml - в.1.26, перекладено / 347
-powers_and_ideas_l_ukrainian.yml - в.1.27, без перекладу рядки: 4654-4683 (15), 5128-5238 (94), 5279-5608 (262), 5643-5727 (85), 5796-6182 (387), 6318-6348 (59), 6384-6514 (96) / 6579
+powers_and_ideas_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 13-15 (2), 4655-4684 (15), 5129-5239 (94), 5280-5609 (262), 5644-5728 (85), 5797-6183 (387), 6319-6349 (59), 6385-6515 (96), 6531-6674 (144) / 6674
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
-prov_names_adj_l_ukrainian.yml - в.1.27, не перекладається / 3498
-prov_names_l_ukrainian.yml - в.1.27, перекладено / 3624
+prov_names_adj_l_ukrainian.yml - в.1.28.1, не перекладається / 3603
+prov_names_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 3530-3634 (105) / 3739
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
-random_new_world_l_ukrainian.yml - в.1.27, не перекладається
+random_new_world_l_ukrainian.yml - в.1.28.1, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
 res_publica_l_ukrainian.yml - в.1.27, перекладено / 581
-rights_of_man_l_ukrainian.yml - в.1.27, без перекладу рядки: stat_wars 1614-1673 (23) / 1679
-rule_britannia_l_ukrainian.yml - в.1.26, перекладено / 471
+rights_of_man_l_ukrainian.yml - в.1.28.1, без перекладу рядки: stat_wars 1614-1673 (23) / 1679
+rule_britannia_l_ukrainian.yml - в.1.28.1, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.27, без перекладу рядки: 162-167 (6) / 241
+startup_screen_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 31, 49-50 (2), 67, 167-172 (6) / 246
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
