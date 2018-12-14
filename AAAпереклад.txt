@@ -101,7 +101,7 @@ terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
 text_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 783, 6738, 8073-8076 (4) / 8071
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.26, перекладено / 389
-tradenodes_l_ukrainian.yml - в.1.26, перекладено / 216
+tradenodes_l_ukrainian.yml - в.1.28.1, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.27.1, перекладено / 639
 tutorial_l_ukrainian.yml - в.1.26, перекладено / 370
 USA_dlc_l_ukrainian.txt - в.1.26, перекладено / 300
