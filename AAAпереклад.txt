@@ -53,7 +53,7 @@ eldorado_l_ukrainian.yml - в.1.28.1, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.28.1, перекладено / 4997
 flavor_events_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 1327-1337 (11), 1510-1517 (8), 4738-4757 (20), 4779-4798 (20) / 4798
 generic_events_l_ukrainian.yml - в.1.28.1, перекладено / 4410
-golden_century_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 67-86 (20) 135-159 (25), 213-517 (305) / 528
+golden_century_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 67-86 (20), 214-309 (96), 324-429 (103), 446-481 (34), 500-517 (18) / 528
 government_l_ukrainian.yml - в.1.28.1, перекладено / 299
 government_names_l_ukrainian.yml - в.1.28.1, перекладено / 498
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
@@ -66,7 +66,7 @@ maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 mandate_of_heaven_l_ukrainian.yml - в.1.28.1, перекладено / 819
 mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 8051-8060 (9), 8150-8175 (25) / 8175
+messages_l_ukrainian.yml - в.1.28.1, перекладено / 8175
 missions_l_ukrainian.yml - в.1.28.1, перекладено / 361
 modifers_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 1610-1660 (51), 2145-2355 (211) / 2355
 mughal_government_l_ukrainian.yml - в.1.27, перекладено / 93
