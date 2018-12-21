@@ -35,7 +35,7 @@ Antigonius - cossacks_l_ukrainian рядки tengri_events 479-637 (41).
 achievement_tooltips_l_ukrainian - в.1.28.1, без перекладу рядки: 50-54 (5) / 54
 achievements_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 222-596 (375) / 596
 aow_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 1317-1326 (10) / 2360
-areas_regions_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 2756-2818 (63) / 2818
+areas_regions_l_ukrainian.yml - в.1.28.1, перекладено / 2818
 common_sense_l_ukrainian.yml - в.1.28.1, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.28.1, перекладено / 903
