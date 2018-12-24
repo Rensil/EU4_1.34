@@ -40,7 +40,7 @@ common_sense_l_ukrainian.yml - в.1.28.1, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.28.1, перекладено / 903
 cossacks_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 508-635 (33) / 1504
-countries_l_ukrainian.yml -  в.1.28.1, без перекладу рядки: 1336-1401 (66) / 1401
+countries_l_ukrainian.yml -  в.1.28.1, перекладено / 1401
 cradle_of_civilization_l_ukrainian - в.1.28.1, перекладено / 864
 cultures_phase4_l_ukrainian.yml - в.1.28.1, перекладено / 54
 custom_localisation_l_ukrainian.yml - в.1.25, перекладено / 130
