@@ -17,7 +17,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-sergey-astral - golden_century вибірково без текстів d, flavor - події Еспанії та Гранади, powers_and_ideas - Кастілія, Марокко, Астурія, Андалузія. 
+sergey-astral - golden_century вибірково без текстів d, powers_and_ideas - Кастілія, Марокко, Астурія, Андалузія. 
 Solaris - countries_l_ukrainian.
 Rensil - new_missions_l_ukrainian.
 Antigonius - cossacks_l_ukrainian рядки tengri_events 479-637 (33).
@@ -51,7 +51,7 @@ diplomacy_l_ukrainian.yml - в.1.28.1, перекладено / 890
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.28.1, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.28.1, перекладено / 4997
-flavor_events_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 1327-1337 (11), 1510-1517 (8), 4738-4757 (20), 4779-4798 (20) / 4798
+flavor_events_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 1327-1337 (11), 4738-4757 (20) / 4798
 generic_events_l_ukrainian.yml - в.1.28.1, перекладено / 4410
 golden_century_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 67-87 (21), 214-309 (96), 371-429 (59) / 528
 government_l_ukrainian.yml - в.1.28.1, перекладено / 299
@@ -80,7 +80,7 @@ nw_l_ukrainian.yml - в.1.26, перекладено / 240
 opinions_l_ukrainian.yml - в.1.28.1, перекладено / 216
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
 policies_l_ukrainian.yml - в.1.26, перекладено / 347
-powers_and_ideas_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 4655-4684 (15), 5129-5239 (94), 5280-5609 (262), 5644-5728 (85), 5797-6183 (387), 6319-6349 (59), 6385-6515 (96), 6531-6674 (144) / 6674
+powers_and_ideas_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 4655-4684 (15), 5129-5239 (94), 5280-5609 (262), 5644-5728 (85), 5797-6183 (387), 6319-6349 (59), 6385-6515 (96), 6531-6547 (17), 6548-6593 cas/mor (20), 6594-6640 (47), 6641-6674 asu/adu (34) / 6674
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.28.1, не перекладається / 3603
 prov_names_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 3538-3634 (97) / 3739
