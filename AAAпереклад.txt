@@ -53,7 +53,7 @@ eldorado_l_ukrainian.yml - в.1.28.1, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.28.1, перекладено / 4997
 flavor_events_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 1327-1337 (11), 4738-4757 (20) / 4798
 generic_events_l_ukrainian.yml - в.1.28.1, перекладено / 4410
-golden_century_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 67-87 (21), 214-309 (96), 371-429 (59) / 528
+golden_century_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 67-87 (21), 214-309 (96), 371-386 (16), 400-429 (28) / 528
 government_l_ukrainian.yml - в.1.28.1, перекладено / 299
 government_names_l_ukrainian.yml - в.1.28.1, перекладено / 498
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
