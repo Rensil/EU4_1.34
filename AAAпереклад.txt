@@ -32,6 +32,7 @@ Antigonius - cossacks_l_ukrainian рядки tengri_events 479-637 (33).
 Загальна кількість рядків версії 1.22 62095 /
 
 
+1283_l_ukrainian - в.1.28.3, перекладено / 2
 achievement_tooltips_l_ukrainian - в.1.28.1, без перекладу рядки: 50-54 (5) / 54
 achievements_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 222-596 (375) / 596
 aow_l_ukrainian.yml - в.1.28.3, перекладено / 2361
@@ -39,14 +40,14 @@ areas_regions_l_ukrainian.yml - в.1.28.3, перекладено / 2820
 common_sense_l_ukrainian.yml - в.1.28.3, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.28.1, перекладено / 904
-cossacks_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 510-637 (33) / 1504 - в процесі
-countries_l_ukrainian.yml -  в.1.28.1, перекладено / 1401
-cradle_of_civilization_l_ukrainian - в.1.28.1, перекладено / 864
+cossacks_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 510-637 (33) / 1508
+countries_l_ukrainian.yml -  в.1.28.3, перекладено / 1401
+cradle_of_civilization_l_ukrainian - в.1.28.3, перекладено / 864
 cultures_phase4_l_ukrainian.yml - в.1.28.1, перекладено / 54
 custom_localisation_l_ukrainian.yml - в.1.25, перекладено / 130
-decisions_l_ukrainian.yml - в.1.28.1, перекладено / 204
-dharma_l_ukrainian.yml - в.1.28.1, перекладено / 967
-diplo_reasons_l_ukrainian.yml - в.1.26, перекладено / 371
+decisions_l_ukrainian.yml - в.1.28.3, перекладено / 206
+dharma_l_ukrainian.yml - в.1.28.3, перекладено / 969
+diplo_reasons_l_ukrainian.yml - в.1.28.3, перекладено / 372
 diplomacy_l_ukrainian.yml - в.1.28.1, перекладено / 890
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.28.1, перекладено / 1112
