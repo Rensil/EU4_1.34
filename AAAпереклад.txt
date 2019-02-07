@@ -55,8 +55,8 @@ EU4_l_ukrainian.yml - в.1.28.3, перекладено / 5004
 flavor_events_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 1327-1337 (11), 4738-4757 (20) / 4798
 generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 216-315 (100), 413-435 (23) / 538
-government_l_ukrainian.yml - в.1.28.1, перекладено / 330
-government_names_l_ukrainian.yml - в.1.28.1, перекладено / 498
+government_l_ukrainian.yml - в.1.28.3, перекладено / 332
+government_names_l_ukrainian.yml - в.1.28.3, перекладено / 507
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
 hints_l_ukrainian.yml - в.1.24, перекладено / 342
 institutions_l_ukrainian.yml - в.1.28.1, перекладено / 118
