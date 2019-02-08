@@ -78,23 +78,23 @@ notlocalized_l_ukrainian.yml - в.1.26, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.26, перекладено / 440
 nw_l_ukrainian.yml - в.1.26, перекладено / 240
-opinions_l_ukrainian.yml - в.1.28.1, перекладено / 216
+opinions_l_ukrainian.yml - в.1.28.3, перекладено / 217
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
-policies_l_ukrainian.yml - в.1.26, перекладено / 347
+policies_l_ukrainian.yml - в.1.28.3, перекладено / 347
 powers_and_ideas_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 4655-4684 (15), 5129-5239 (94), 5280-5609 (262), 5644-5728 (85), 5797-6183 (387), 6319-6349 (59), 6385-6515 (96), 6531-6547 (17), 6594-6640 (47) / 6674
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.28.1, не перекладається / 3603
-prov_names_l_ukrainian.yml - в.1.28.1, перекладено / 3739
+prov_names_l_ukrainian.yml - в.1.28.3, перекладено / 3739
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
-random_new_world_l_ukrainian.yml - в.1.28.1, не перекладається
+random_new_world_l_ukrainian.yml - в.1.28.3, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
 res_publica_l_ukrainian.yml - в.1.27, перекладено / 581
-rights_of_man_l_ukrainian.yml - в.1.28.1, перекладено / 1679
+rights_of_man_l_ukrainian.yml - в.1.28.3, перекладено / 1682
 rule_britannia_l_ukrainian.yml - в.1.28.1, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 49-50 (2), 167-172 (6) / 246
+startup_screen_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 49-50 (2), 167-172 (6) / 246
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
@@ -104,7 +104,7 @@ text_l_ukrainian.yml - в.1.28.1, перекладено / 8071
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.26, перекладено / 389
 tradenodes_l_ukrainian.yml - в.1.28.1, перекладено / 216
-triggers_and_effects_l_ukrainian.yml - в.1.28.1, перекладено / 641
-tutorial_l_ukrainian.yml - в.1.26, перекладено / 370
+triggers_and_effects_l_ukrainian.yml - в.1.28.3, перекладено / 642
+tutorial_l_ukrainian.yml - в.1.28.3, перекладено / 370
 USA_dlc_l_ukrainian.txt - в.1.26, перекладено / 300
 womeninhistory_l_ukrainian.yml - в.1.27, перекладено / 473
