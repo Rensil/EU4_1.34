@@ -59,17 +59,17 @@ government_l_ukrainian.yml - в.1.28.3, перекладено / 332
 government_names_l_ukrainian.yml - в.1.28.3, перекладено / 507
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
 hints_l_ukrainian.yml - в.1.24, перекладено / 342
-institutions_l_ukrainian.yml - в.1.28.1, перекладено / 118
-insults_l_ukrainian.yml - в.1.28.1, перекладено / 76
-ledger_l_ukrainian.yml - в.1.28.1, перекладено / 208
+institutions_l_ukrainian.yml - в.1.28.3, перекладено / 117
+insults_l_ukrainian.yml - в.1.28.3, перекладено / 76
+ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-mandate_of_heaven_l_ukrainian.yml - в.1.28.1, перекладено / 819
-mare_nostrum_l_ukrainian.yml - в.1.24, перекладено / 447
+mandate_of_heaven_l_ukrainian.yml - в.1.28.3, перекладено / 823
+mare_nostrum_l_ukrainian.yml - в.1.28.3, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.28.1, перекладено / 8175
-missions_l_ukrainian.yml - в.1.28.1, перекладено / 361
-modifers_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 1610-1660 (51) / 2355
+missions_l_ukrainian.yml - в.1.28.3, перекладено / 361
+modifers_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 1610-1660 (51) / 2357
 mughal_government_l_ukrainian.yml - в.1.27, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
