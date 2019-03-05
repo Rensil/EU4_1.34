@@ -19,7 +19,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 
 sergey-astral - powers_and_ideas - 5344-5418 (49), 5562-5575 (14), 6347-6349 (2).
 Rensil - new_missions - 1549-1776 (228), 1798-1903 (106).
-Antigonius - cossacks_l_ukrainian рядки tengri_events 479-637 (33).
+Antigonius - cossacks_l_ukrainian рядки tengri_events 626-637 (4).
 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
@@ -40,7 +40,7 @@ areas_regions_l_ukrainian.yml - в.1.28.3, перекладено / 2820
 common_sense_l_ukrainian.yml - в.1.28.3, перекладено / 1682
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.28.1, перекладено / 904
-cossacks_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 510-637 (33) / 1508
+cossacks_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 535-637 (27) / 1508
 countries_l_ukrainian.yml -  в.1.28.3, перекладено / 1401
 cradle_of_civilization_l_ukrainian - в.1.28.3, перекладено / 864
 cultures_phase4_l_ukrainian.yml - в.1.28.1, перекладено / 54
