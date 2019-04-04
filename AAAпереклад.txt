@@ -73,7 +73,7 @@ modifers_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 1610
 mughal_government_l_ukrainian.yml - в.1.28.3, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
-new_missions_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 1288-1380 (45), 1560-1790 (231), 1812-1917 (106) / 1917
+new_missions_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 1288-1380 (45), 1560-1561 (2), 1718-1719 (2), 1763 (1), 1778-1790 (13), 1880-1917 (38) / 1917
 notlocalized_l_ukrainian.yml - в.1.26, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.26, перекладено / 440
