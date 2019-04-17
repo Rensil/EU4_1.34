@@ -17,7 +17,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-sergey-astral - golden_century, new_missions - все про піратів, powers_and_ideas - 5344-5418 (49), 5562-5575 (14), 6347-6349 (2).
+sergey-astral - golden_century, new_missions - все про піратів, powers_and_ideas - 5344-5418 (49), 5562-5575 (14).
 Antigonius - cossacks_l_ukrainian рядки tengri_events 626-637 (4).
 
 
@@ -80,7 +80,7 @@ nw_l_ukrainian.yml - в.1.26, перекладено / 240
 opinions_l_ukrainian.yml - в.1.28.3, перекладено / 217
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
 policies_l_ukrainian.yml - в.1.28.3, перекладено / 347
-powers_and_ideas_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 4655-4684 (15), 5129-5239 (94), 5280-5290 (11), 5359-5418 (42), 5422-5575 (130), 5593-5609 (17), 5644-5728 (85), 5797-6183 (387), 6319-6349 (2), 6385-6515 (96), 6531-6547 (17), 6594-6640 (47) / 6674
+powers_and_ideas_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 4655-4684 (15), 5129-5239 (94), 5280-5290 (11), 5359-5418 (42), 5422-5575 (130), 5593-5609 (17), 5644-5728 (85), 5797-6183 (387), 6385-6515 (96), 6594-6640 (47) / 6674
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.28.1, не перекладається / 3603
 prov_names_l_ukrainian.yml - в.1.28.3, перекладено / 3739
