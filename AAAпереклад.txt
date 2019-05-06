@@ -56,6 +56,10 @@ generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 216-315 (100) / 538
 government_l_ukrainian.yml - в.1.28.3, перекладено / 332
 government_names_l_ukrainian.yml - в.1.28.3, перекладено / 507
+gukr_customizable_l_ukrainian.yml - кастомні змінні
+gukr_religion_l_ukrainian.yml - кастомні змінні
+gukr_title_l_ukrainian.yml - кастомні змінні
+gukr_titleCAP_l_ukrainian.yml - кастомні змінні
 hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
 hints_l_ukrainian.yml - в.1.24, перекладено / 342
 institutions_l_ukrainian.yml - в.1.28.3, перекладено / 117
