@@ -17,7 +17,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-sergey-astral - golden_century - 217-315 (44), powers_and_ideas - 5376-5418 (19).
+sergey-astral - golden_century - 217-309 (20), powers_and_ideas - 5376-5418 (19).
 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
@@ -52,7 +52,7 @@ eldorado_l_ukrainian.yml - в.1.28.3, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.28.3, перекладено / 5004
 flavor_events_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 1327-1337 (11), 4738-4757 (20) / 4798
 generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
-golden_century_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 217-315 (44) / 538
+golden_century_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.28.3, перекладено / 332
 government_names_l_ukrainian.yml - в.1.28.3, перекладено / 507
 gukr_customizable_l_ukrainian.yml - кастомні змінні
