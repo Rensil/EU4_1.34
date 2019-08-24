@@ -92,6 +92,11 @@
  MALE_ENDING_LjKA:0 "ь" #GetEndLjKa
  FEMALE_ENDING_LjKA:0 "ька" #GetEndLjKa
 
+ NAME_GUKR:0 "Назва" #кастомна локалізація
+ PROV_NAME_GUKR:0 "Провінція" #кастомна локалізація
+ CULT_NAME_GUKR:0 "Культурa" #кастомна локалізація
+ COUNTRY_MODIFIERS_GUKR:0 "Moдифікaтopи" #кастомна локалізація
+
 ###Мусульманські мазгаби
  hanafi_scool:0 "ханафіти" #GetReligiousSсhoolSmall
  hanbali_scool:0 "ханбаліти" #GetReligiousSсhoolSmall
