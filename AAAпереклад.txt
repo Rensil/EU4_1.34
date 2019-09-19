@@ -33,24 +33,24 @@ sergey-astral - оновлення до версії 1.29; golden_century - 217-
 
 1283_l_ukrainian - в.1.28.3, перекладено / 2
 achievement_tooltips_l_ukrainian - в.1.28.1, без перекладу рядки: 50-54 (5) / 54
-achievements_l_ukrainian.yml - в.1.28.1, без перекладу рядки: 222-596 (375) / 596
+achievements_l_ukrainian.yml - в.1.29, без перекладу рядки: 222-596 (375) / 596
 aow_l_ukrainian.yml - в.1.29, перекладено / 2361
-areas_regions_l_ukrainian.yml - в.1.28.3, перекладено / 2820
-common_sense_l_ukrainian.yml - в.1.28.3, перекладено / 1682
+areas_regions_l_ukrainian.yml - в.1.29, перекладено / 2820
+common_sense_l_ukrainian.yml - в.1.29, перекладено / 1686
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
-core_l_ukrainian.yml - в.1.28.1, перекладено / 904
+core_l_ukrainian.yml - в.1.29, перекладено / 905
 cossacks_l_ukrainian.yml - в.1.28.3, перекладено / 1508
-countries_l_ukrainian.yml -  в.1.28.3, перекладено / 1401
-cradle_of_civilization_l_ukrainian - в.1.28.3, перекладено / 864
+countries_l_ukrainian.yml -  в.1.29, перекладено / 1401
+cradle_of_civilization_l_ukrainian - в.1.29, перекладено / 864
 cultures_phase4_l_ukrainian.yml - в.1.28.1, перекладено / 54
 custom_localisation_l_ukrainian.yml - в.1.25, перекладено / 130
-decisions_l_ukrainian.yml - в.1.28.3, перекладено / 206
-dharma_l_ukrainian.yml - в.1.28.3, перекладено / 969
-diplo_reasons_l_ukrainian.yml - в.1.28.3, перекладено / 372
+decisions_l_ukrainian.yml - в.1.29, перекладено / 208
+dharma_l_ukrainian.yml - в.1.29, перекладено / 971
+diplo_reasons_l_ukrainian.yml - в.1.29, перекладено / 373
 diplomacy_l_ukrainian.yml - в.1.28.1, перекладено / 890
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.28.3, перекладено / 1112
-EU4_l_ukrainian.yml - в.1.28.3, перекладено / 5004
+EU4_l_ukrainian.yml - в.1.29, без перекладу рядки: 5005-5008 (4) / 5008
 flavor_events_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 1327-1337 rus (11), 4738-4757 mold (20) / 4798
 generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 217-309 (20) / 538
@@ -67,12 +67,13 @@ insults_l_ukrainian.yml - в.1.28.3, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
+manchu_l_ukrainian_l_ukrainian.yml - в.1.29, не перекладено / 786
 mandate_of_heaven_l_ukrainian.yml - в.1.28.3, перекладено / 823
 mare_nostrum_l_ukrainian.yml - в.1.28.3, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.28.1, перекладено / 8175
 missions_l_ukrainian.yml - в.1.28.3, перекладено / 361
-modifers_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 1610-1660 rus (51) / 2357
+modifers_l_ukrainian.yml - в.1.29, без перекладу рядки: 1610-1660 rus (51) / 2357
 mughal_government_l_ukrainian.yml - в.1.28.3, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
@@ -86,8 +87,8 @@ personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
 policies_l_ukrainian.yml - в.1.28.3, перекладено / 347
 powers_and_ideas_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 4655-4684 (15), 5129-5239 (94), 5280-5290 (11), 5327-5339 (13), 5422-5575 (121), 5596-5609 (14), 5644-5728 (85), 5797-6183 (387), 6385-6515 (96), 6610-6640 (31) / 6674
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
-prov_names_adj_l_ukrainian.yml - в.1.28.1, не перекладається / 3603
-prov_names_l_ukrainian.yml - в.1.28.3, перекладено / 3739
+prov_names_adj_l_ukrainian.yml - в.1.29, не перекладається / 3603
+prov_names_l_ukrainian.yml - в.1.29, перекладено / 3739
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.28.3, не перекладається
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
@@ -97,7 +98,7 @@ rights_of_man_l_ukrainian.yml - в.1.28.3, перекладено / 1682
 rule_britannia_l_ukrainian.yml - в.1.28.1, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 49-50 (2) / 246
+startup_screen_l_ukrainian.yml - в.1.29, без перекладу рядки: 39-40 (2), 49-50 (2), 247-249 (2) / 250
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
@@ -107,7 +108,7 @@ text_l_ukrainian.yml - в.1.28.3, перекладено / 8071
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.26, перекладено / 389
 tradenodes_l_ukrainian.yml - в.1.28.1, перекладено / 216
-triggers_and_effects_l_ukrainian.yml - в.1.28.3, перекладено / 642
+triggers_and_effects_l_ukrainian.yml - в.1.29, перекладено / 644
 tutorial_l_ukrainian.yml - в.1.28.3, перекладено / 370
 USA_dlc_l_ukrainian.txt - в.1.26, перекладено / 300
 womeninhistory_l_ukrainian.yml - в.1.27, перекладено / 473
