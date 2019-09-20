@@ -594,4 +594,4 @@
  NEW_ACHIEVEMENT_43_DESC:0 "Starting as Huastec, form Maya."
  NEW_ACHIEVEMENT_44_NAME:0 "Where Am I?"
  NEW_ACHIEVEMENT_44_DESC:0 "As a New World native with Random New World active, explore the entire New World."
- 
+
