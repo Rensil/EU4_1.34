@@ -51,7 +51,7 @@ diplomacy_l_ukrainian.yml - в.1.28.1, перекладено / 890
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.28.3, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.29, перекладено / 5008
-flavor_events_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 1327-1337 rus (11), 4738-4757 mold (20) / 4798
+flavor_events_l_ukrainian.yml - в.1.29, без перекладу рядки: 1327-1337 rus (11), 1814-1818 fra (5), 4744-4763 mold (20) / 4804
 generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.28.3, перекладено / 332
@@ -85,7 +85,7 @@ nw_l_ukrainian.yml - в.1.26, перекладено / 240
 opinions_l_ukrainian.yml - в.1.28.3, перекладено / 217
 personalityoptions_l_ukrainian.yml - в.1.26, перекладено / 706
 policies_l_ukrainian.yml - в.1.28.3, перекладено / 347
-powers_and_ideas_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 4655-4684 (15), 5129-5239 (94), 5280-5290 (11), 5327-5339 (13), 5422-5575 (121), 5596-5609 (14), 5644-5728 (85), 5797-6183 (387), 6385-6515 (96), 6610-6640 (31) / 6674
+powers_and_ideas_l_ukrainian.yml - в.1.29, без перекладу рядки: 4655-4684 (15), 5129-5239 (94), 5280-5290 (11), 5327-5339 (13), 5422-5575 (121), 5596-5609 (14), 5644-5728 (85), 5797-6183 (387), 6385-6515 (96), 6610-6640 (31) / 6674
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.29, не перекладається / 3603
 prov_names_l_ukrainian.yml - в.1.29, перекладено / 3739
@@ -104,7 +104,7 @@ synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.24, перекладено / 259
 terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
-text_l_ukrainian.yml - в.1.28.3, перекладено / 8071
+text_l_ukrainian.yml - в.1.29, перекладено / 8080
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.26, перекладено / 389
 tradenodes_l_ukrainian.yml - в.1.28.1, перекладено / 216
