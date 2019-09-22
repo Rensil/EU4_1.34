@@ -67,7 +67,7 @@ insults_l_ukrainian.yml - в.1.28.3, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-manchu_l_ukrainian_l_ukrainian.yml - в.1.29, без перекладу рядки: 2-213 (211), 253-557 (305), 600-715 (116), 741-786 (85) / 786
+manchu_l_ukrainian_l_ukrainian.yml - в.1.29, без перекладу рядки: 2-213 (205), 253-557 (285), 600-715 (113), 741-786 (85) / 786
 mandate_of_heaven_l_ukrainian.yml - в.1.28.3, перекладено / 823
 mare_nostrum_l_ukrainian.yml - в.1.28.3, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
@@ -91,9 +91,11 @@ prov_names_adj_l_ukrainian.yml - в.1.29, не перекладається / 36
 prov_names_l_ukrainian.yml - в.1.29, перекладено / 3739
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.28.3, не перекладається
+red_queen_text_l_ukrainian.yml - в.1.29, не перекладено / 639
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.24, перекладено / 94
 res_publica_l_ukrainian.yml - в.1.27, перекладено / 581
+richpresence_l_ukrainian.yml - в.1.29, перекладено / 10
 rights_of_man_l_ukrainian.yml - в.1.28.3, перекладено / 1682
 rule_britannia_l_ukrainian.yml - в.1.28.1, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
