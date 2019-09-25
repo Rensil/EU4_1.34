@@ -51,7 +51,7 @@ diplomacy_l_ukrainian.yml - в.1.28.1, перекладено / 890
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.28.3, перекладено / 1112
 EU4_l_ukrainian.yml - в.1.29, перекладено / 5008
-flavor_events_l_ukrainian.yml - в.1.29, без перекладу рядки: 1327-1337 rus (11), 1814-1818 fra (5), 4744-4763 mold (20) / 4804
+flavor_events_l_ukrainian.yml - в.1.29, без перекладу рядки: 1327-1337 rus (11), 4745-4762 mold (6) / 4804
 generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.28.3, перекладено / 332
@@ -67,7 +67,7 @@ insults_l_ukrainian.yml - в.1.28.3, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-manchu_l_ukrainian_l_ukrainian.yml - в.1.29, без перекладу рядки: 2-213 (180), 257-557 (254), 623-715 (87), 741-786 (46) / 786
+manchu_l_ukrainian_l_ukrainian.yml - в.1.29, без перекладу рядки: 19-213 (128), 257-557 (254), 623-715 (87), 741-786 (46) / 786
 mandate_of_heaven_l_ukrainian.yml - в.1.28.3, перекладено / 823
 mare_nostrum_l_ukrainian.yml - в.1.28.3, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
