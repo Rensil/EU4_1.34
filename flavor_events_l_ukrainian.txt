@@ -4759,7 +4759,7 @@
  flavor_mol.3.b:0 "Чорт би забрав цих нав'язливих мадьярів!"
  flavor_mol.3.c:0 "Неприємна невдача."
  flavor_mol.EVTNAME4:0 "Молдова шукає підтримки Угорщини"
- flavor_mol.EVTDESC4:0 "Backed by the Kingdom of Poland, Prince Roman of Moldavia has launched a bid for the Moldavian throne. The Lords of Moldavia refuse to submit to Polish rule and have elected to pledge themselves to Hungary instead, in exchange for our protection against further Polish interference in their affairs."
+ flavor_mol.EVTDESC4:0 "За підтримки Польського Королівства, князь Роман Молдавії почав заявку на молдавський престол. Молдавські князі відмовляються підкорятися польському правлінню і вирішили взяти на себе зобов'язання перед Угорщиною, в обмін на наш захист від подальшого втручання Польщі в їхні справи."
  flavor_mol.4.a:0 "Ми повинні запропонувати свій захист."
  flavor_teu.EVTNAME1:0 "Пруська конфедерація повстає"
  flavor_teu.EVTDESC1:0 "Попри всі наші зусилля, ми виявилися нездатні протистояти спробам Пруської конфедерації повалити [Root.GetAdjective]у владу. Міста, що заявили про свою підтримку Конфедерації, зібрали армію та підняли відкрите повстання. Як ми й припускали, багато учасників заколоту мають зв'язки з Польщею і вже попросили її про втручання в майбутній конфлікт. Здається, що кривава боротьба в Прусії неминуча, якщо ми не відмовимося від нашого панування над цими містами."
