@@ -18,7 +18,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
 sergey-astral - manchu_l_ukrainian; golden_century - 217-309 (20).
-rencil - manchu_l_ukrainian 256-279 (24), jap 292-345 (54).
+rencil - manchu_l_ukrainian 123-189 (67), 256-279 (24), jap 292-345 (54).
 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
@@ -68,7 +68,7 @@ insults_l_ukrainian.yml - в.1.28.3, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-manchu_l_ukrainian_l_ukrainian.yml - в.1.29, без перекладу рядки: 19-213 (117), 257-358 (89), 386-557 (151), 623-715 (87), 741-786 (46) / 786
+manchu_l_ukrainian_l_ukrainian.yml - в.1.29, без перекладу рядки: 24 (1), 88-120 (33), 124-213 (87), 257-358 (102), 386-557 (151), 623-715 (87), 741-768 (28) / 786
 mandate_of_heaven_l_ukrainian.yml - в.1.28.3, перекладено / 823
 mare_nostrum_l_ukrainian.yml - в.1.28.3, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
