@@ -17,7 +17,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-sergey-astral - golden_century - 217-309 (20), startup - 49-50 (2).
+sergey-astral - golden_century - 217-309 (20), startup - 50 (1).
 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
@@ -100,7 +100,7 @@ rights_of_man_l_ukrainian.yml - в.1.28.3, перекладено / 1682
 rule_britannia_l_ukrainian.yml - в.1.28.1, перекладено / 471
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.29, без перекладу рядки: 49-50 (2) / 250
+startup_screen_l_ukrainian.yml - в.1.29, без перекладу рядки: 50 (1) / 250
 subject_type_l_ukrainian.yml - в.1.24, перекладено / 65
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
