@@ -69,8 +69,8 @@ emperor_revolutions_l_ukrainian.yml - в.1.30.1, без перекладу ря�
 EU4_l_ukrainian.yml - в.1.29, перекладено / 5008
 flavor_events_l_ukrainian.yml - в.1.29, без перекладу рядки: 1327-1337 rus (11) / 4804
 generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
-golden_century_l_ukrainian.yml - в.1.28.3, без перекладу рядки: 217-309 (20) / 538
-government_l_ukrainian.yml - в.1.28.3, перекладено / 332
+golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
+government_l_ukrainian.yml - в.1.30.1, перекладено / 332
 government_names_l_ukrainian.yml - в.1.28.3, перекладено / 507
 gukr_customizable_l_ukrainian.yml - кастомні змінні
 gukr_religion_l_ukrainian.yml - кастомні змінні
