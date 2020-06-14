@@ -88,7 +88,7 @@ manchu_l_ukrainian.yml - в.1.29, перекладено / 786
 mandate_of_heaven_l_ukrainian.yml - в.1.28.3, перекладено / 823
 mare_nostrum_l_ukrainian.yml - в.1.28.3, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.29, перекладено / 6983
+messages_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 7010-7050 (25) / 7053
 missions_l_ukrainian.yml - в.1.28.3, перекладено / 361
 modifers_l_ukrainian.yml - в.1.29, без перекладу рядки: 1610-1660 rus (51) / 2357
 mughal_government_l_ukrainian.yml - в.1.28.3, перекладено / 93
