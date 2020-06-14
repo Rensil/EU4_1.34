@@ -19,6 +19,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 
 sergey-astral - перевірка файлів на зміни в.1.30.1.
 Roman_Hamster - emperor_content, рядки 117-194 (77).
+Roman_Hamster - emperor_missions рядки 1419-1539
 Emerex - emperor_content, рядки 79-115 (37).
 Nina_Romanivna - emperor_content_рядки 1968-1981 (14).
 помічник Санти 1 - emperor_content, рядки 195-235 (40).
@@ -88,7 +89,7 @@ manchu_l_ukrainian.yml - в.1.29, перекладено / 786
 mandate_of_heaven_l_ukrainian.yml - в.1.28.3, перекладено / 823
 mare_nostrum_l_ukrainian.yml - в.1.28.3, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 7010-7050 (25) / 7053
+messages_l_ukrainian.yml - в.1.30.1, перекладено / 7053
 missions_l_ukrainian.yml - в.1.28.3, перекладено / 361
 modifers_l_ukrainian.yml - в.1.29, без перекладу рядки: 1610-1660 rus (51) / 2357
 mughal_government_l_ukrainian.yml - в.1.28.3, перекладено / 93
