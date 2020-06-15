@@ -21,11 +21,13 @@ sergey-astral - перевірка файлів на зміни в.1.30.1.
 Roman_Hamster - emperor_missions рядки 1419-1539 (120).
 Rensil - emperor_missions рядки 1540-1654 (114).
 Emerex - emperor_content, рядки 79-115 (37).
-Nina_Romanivna - emperor_content_рядки 1968-1981 (14).
 помічник Санти 1 - emperor_content, рядки 195-235 (40) - триває перевірка.
+Solaris - emperor_content, рядки 260-340 (81).
+ГЕЛІКОПТЕР - emperor_content, рядки 74-384 (9).
 помічник Санти 4 - emperor_content_1368-1381 (13).
 помічник Санти 5 - emperor_content_1433-1441 (8).
-Solaris - emperor_content, рядки 260-340 (81).
+Nina_Romanivna - emperor_content_рядки 1968-1981 (14).
+
 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
