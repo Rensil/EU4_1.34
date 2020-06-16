@@ -13,14 +13,14 @@ Discord") (бажано) або на толоці. Будемо раді не л
 
 ПриватБанк: 5168 7427 0122 4887
 
-В файлі прогрес перекладу до версії 1.30.1. Пошук та зміну тексту виконано за допомогою WinMerge.
+В файлі прогрес перекладу до версії 1.30.2. Пошук та зміну тексту виконано за допомогою WinMerge.
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
 sergey-astral - перевірка файлів на зміни в.1.30.1.
 Roman_Hamster - emperor_missions рядки 1419-1539 (120).
 Rensil - emperor_missions рядки 1540-1654 (114).
-Emerex - emperor_content, рядки 79-115 (37).
+Emerex - emperor_content, рядки 79-115 (37) - триває перевірка.
 помічник Санти 1 - emperor_content, рядки 195-235 (40) - триває перевірка.
 Solaris - emperor_content, рядки 260-340 (81).
 ГЕЛІКОПТЕР - emperor_content, рядки 74-384 (9).
@@ -78,7 +78,7 @@ gukr_customizable_l_ukrainian.yml - кастомні змінні
 gukr_religion_l_ukrainian.yml - кастомні змінні
 gukr_title_l_ukrainian.yml - кастомні змінні
 gukr_titleCAP_l_ukrainian.yml - кастомні змінні
-hinduism_l_ukrainian.yml - в.1.24, перекладено / 224
+hinduism_l_ukrainian.yml - в.1.30.2, перекладено / 224
 hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
 institutions_l_ukrainian.yml - в.1.28.3, перекладено / 117
 insults_l_ukrainian.yml - в.1.28.3, перекладено / 76
