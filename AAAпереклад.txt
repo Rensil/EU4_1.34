@@ -68,7 +68,7 @@ emperor_map_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2
 emperor_mercs_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-209 (208) / 209
 emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 3-362 (), 384-463 (79), 535-2548 (2013) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-261 (228) / 261
-EU4_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 393 (1), 1195 (1), рядок 1928 - триває редагування / 5008
+EU4_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 393 (1), 1195 (1), 1928 (1), 3787 (1) / 5008
 flavor_events_l_ukrainian.yml - в.1.29, без перекладу рядки: 1327-1337 rus (11) / 4804
 generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
