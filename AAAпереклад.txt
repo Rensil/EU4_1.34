@@ -85,8 +85,8 @@ insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-manchu_l_ukrainian.yml - в.1.29, перекладено, рядок 400 - триває редагування / 786
-mandate_of_heaven_l_ukrainian.yml - в.1.28.3, перекладено / 823
+manchu_l_ukrainian.yml - в.1.30.1, перекладено / 796
+mandate_of_heaven_l_ukrainian.yml - в.1.30.1, перекладено / 823
 mare_nostrum_l_ukrainian.yml - в.1.28.3, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.30.1, перекладено / 7053
