@@ -26,7 +26,7 @@ Solaris - emperor_content, рядки 260-340 (81).
 sergey-astral - emperor_content, рядки 445-609 (135).
 Roman_Hamster - emperor_content, рядки 655-688 (34).
 Emerex - emperor_content, рядки 1039-1124 (80).
-Nina_Romanivna - emperor_content рядки 1982-2006 (25), 2026-2038 (11).
+Nina_Romanivna - emperor_content рядки 1982-2006 (25), 2026-2038 (11), 2040-2117 (78).
 
 
 
