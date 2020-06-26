@@ -26,7 +26,8 @@ sergey-astral - emperor_content, рядки 445-609 (135).
 Roman_Hamster - emperor_content, рядки 655-688 (34).
 Emerex - emperor_content, рядки 1039-1124 (80).
 Nina_Romanivna - emperor_content рядки 1982-2006 (25), 2026-2038 (11), 2040-2117 (78).
-Yamtom - emperor_map - весь файл
+Yamtom - emperor_map - весь файл.
+Subota - emperor - весь файл.
 
 
 
@@ -69,7 +70,7 @@ emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 3-362 (360), 384-463 (79), 535-1418 (883), 1675-2548 (873) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-261 (228) / 261
 EU4_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 393 (1), 1195 (1), 1928 (1), 3787 (1) / 5008
-flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 132 (1), 254 (1), 322-326 (2), 516-523 (3), 862-866 (3), 1327-1337 rus (11), 1644-1657 fra (7), 1785-1808 (12) (7), 2788-2801 (4) pol, 2966-2968 (3) bur, рядок 3455 - триває редагування / 4804
+flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 132 (1), 254 (1), 322-326 (2), 516-523 (3), 862-866 (3), 1327-1337 rus (11), 1644-1657 fra (7), 1785-1808 (12) (7), 2788-2801 (4) pol, 2966-2968 (3) bur, 3456-3463 (4) pap, рядок 3455 - триває редагування / 4804
 generic_events_l_ukrainian.yml - в.1.28.3, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.30.1, перекладено / 332
