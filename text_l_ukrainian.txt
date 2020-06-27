@@ -2584,7 +2584,7 @@
  FE_BACK:0 "Назад"
  FE_PLAYER:0 "Гравець"
  FE_PLAYER_NAME:0 "Ім'я гравця:"
- FE_SINGLE_PLAYER:0 "Одиночна гра"
+ FE_SINGLE_PLAYER:0 "Самітна гра"
  FE_MULTI_PLAYER:0 "Мережева гра"
  FE_GENERAL:0 "Основні"
  FE_OPTIONS:0 "Налаштування"
