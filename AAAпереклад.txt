@@ -64,7 +64,7 @@ diplomacy_l_ukrainian.yml - в.1.30.1, перекладено / 894
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
 emperor_content_l_ukrainian.yml - в.1.30.2, без перекладу рядки: 237-246 (10), 260-654 (373), 689-1367 (679), 1386-1431 (46), 1443-3372 (1915) / 3372
-emperor_estates_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-1276 (1275) / 1276
+emperor_estates_l_ukrainian.yml - в.1.30.2, без перекладу рядки: 19-1276 (1246) / 1276
 emperor_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 380-1040 (660) / 1040
 emperor_map_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-330 (329) / 330
 emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
@@ -72,7 +72,7 @@ emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядк
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-261 (228) / 261
 EU4_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 393 (1), 1195 (1), 1928 (1), 3787 (1) / 5008
 flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 132 (1), 254 (1), 322-326 (2), 516-523 (3), 862-866 (3), 1327-1337 rus (11), 1644-1657 fra (7), 1785-1808 (12) (7), 2788-2801 (4) pol, 2966-2968 (3) bur, 3456-3463 (4) pap, рядок 3455 - триває редагування / 4804
-generic_events_l_ukrainian.yml - в.1.30.1, перекладено, без перекладу рядки: 642-644 (3), рядок 646 - триває редагування / 4420
+generic_events_l_ukrainian.yml - в.1.30.1, перекладено, рядок 964 - триває редагування / 4420
 golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.30.1, перекладено / 332
 government_names_l_ukrainian.yml - в.1.30.1, перекладено / 509
