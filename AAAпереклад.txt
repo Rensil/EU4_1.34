@@ -19,6 +19,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 
 sergey-astral - перевірка файлів на зміни в.1.30.1.
 sergey-astral - emperor_estates - весь файл.
+sergey-astral - emperor_revolutions - весь файл.
 Roman_Hamster - emperor_missions рядки 1419-1539 (120).
 Solaris - emperor_missions, рядки 3-362 (360) - триває редагування.
 Rensil - emperor_missions, рядки 1540-1654 (114).
@@ -70,9 +71,9 @@ emperor_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 380-1
 emperor_map_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-330 (329) / 330
 emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 3-362 (360) - триває редагування, 384-463 (79), 535-1418 (883), 1675-2548 (873) / 2548
-emperor_revolutions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: / 261
+emperor_revolutions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 3-30 (16), 44-96 (23), cntr_rev 108-188 (36), 192-260 (22) / 261
 EU4_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 393 (1), 1195 (1), 1928 (1), 3787 (1) / 5008
-flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 132 (1), 254 (1), 322-326 (2), 516-523 (3), 862-866 (3), 1327-1337 rus (11), 1644-1657 fra (7), 1785-1808 (12) (7), 2788-2801 (4) pol, 2966-2968 (3) bur, 3456-3463 (4) pap, рядок 3455 - триває редагування / 4804
+flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 132 (1), 254 (1), 322-326 (2), 516-523 (3), 862-866 (3), 1327-1337 rus (11), 1644-1657 fra (7), 1785-1808 (12) (7), 2788-2801 (4) pol, 2966-2968 (3) bur, 3456-3463 (4) pap / 4804
 generic_events_l_ukrainian.yml - в.1.30.1, перекладено, рядок 964 - триває редагування / 4420
 golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.30.1, перекладено / 332
