@@ -48,7 +48,7 @@ Subota - emperor - весь файл.
 
 1283_l_ukrainian - в.1.28.3, перекладено / 2
 achievement_tooltips_l_ukrainian - в.1.30.1, перекладено / 57
-achievements_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 222-627 (400) / 596
+achievements_l_ukrainian.yml - в.1.30.3, без перекладу рядки: 222-627 (400) / 596
 aow_l_ukrainian.yml - в.1.30.1, перекладено / 2361
 areas_regions_l_ukrainian.yml - в.1.30.1, перекладено / 2826
 common_sense_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 3-4 (2), 16-38 (6), 1397-1457 (22) / 1690
@@ -67,7 +67,7 @@ diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
 emperor_content_l_ukrainian.yml - в.1.30.2, без перекладу рядки: 237-246 (10), 260-654 (373), 689-1367 (679), 1386-1431 (46), 1443-3372 (1915) / 3372
 emperor_estates_l_ukrainian.yml - в.1.30.2, без перекладу рядки: 19-80 (55), 103, 159, 194-1246 (1046) / 1276
-emperor_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 380-1040 (660) / 1040
+emperor_l_ukrainian.yml - в.1.30.3, без перекладу рядки: 380-1040 (663) / 1043
 emperor_map_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-330 (329) / 330
 emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 3-362 (360) - триває редагування, 384-463 (79), 535-1418 (883), 1675-2548 (873) / 2548
