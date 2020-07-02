@@ -1038,3 +1038,6 @@
  emperor_landfriede:0 "Ewiger Landfriede"
  ESTATE_NOT_ENOUGH_CROWNLAND:0 "Not enough Crownland"
  EXPAND_EMPIRE_CB:0 "Gives casus-belli on non-members bordering the Empire to force them to join the Empire."
+ force_peasant_republic_desc:0 "[From.GetName] will become a peasant republic."
+ CB_ALLOWED_force_peasant_republic:0 "Enforce Peasant Rule"
+ PEACE_force_peasant_republic:0 "Enforce Peasant Rule"
