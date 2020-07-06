@@ -961,7 +961,7 @@
  EVTOPTA1073:0 "Активізувати централізацію"
  EVTOPTB1073:0 "Залишити все як є"
  EVTNAME1074:0 "$TREASURER$ проводить реформи"
- EVTDESC1074:1 "Керування такою великою країною, як $COUNTRY$, вимагає широкого економічного планування, а відсутність дотепер хорошого фінансового радника виявилася досить згубною. Однак все змінилося, коли наш[Root.Adm_Advisor.GetAEndOJuYM] [Root.Adm_Advisor.GetTitleKYM] ста[Root.Adm_Advisor.GetAEndVLa] [Root.Adm_Advisor.GetName]. [Root.Adm_Advisor.GetSheHeCap] запровади[Root.Adm_Advisor.GetAEndVLa] ряд фінансових реформ, включаючи більш справедливу податкову систему та план фінансування державного боргу."
+ EVTDESC1074:1 "Керування такою великою країною, як $COUNTRY$, вимагає широкого економічного планування, а відсутність дотепер хорошого фінансового радника виявилася досить згубною. Однак все змінилося, коли наш[Root.Adm_Advisor.GetAAEndOJuYM] [Root.Adm_Advisor.GetTitleKYM] ста[Root.Adm_Advisor.GetAAEndVLa] [Root.Adm_Advisor.GetName]. [Root.Adm_Advisor.GetSheHeCap] запровади[Root.Adm_Advisor.GetAAEndVLa] ряд фінансових реформ, включаючи більш справедливу податкову систему та план фінансування державного боргу."
  EVTOPTA1074:0 "Провести консолідацію державного боргу."
  EVTOPTB1074:0 "Провести податкову реформу."
  EVTNAME1075:0 "Епоха розквіту"
