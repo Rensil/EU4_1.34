@@ -119,7 +119,7 @@ regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.30.1, перекладено / 97
 res_publica_l_ukrainian.yml - в.1.30.1, перекладено / 581
 richpresence_l_ukrainian.yml - в.1.29, перекладено / 10
-rights_of_man_l_ukrainian.yml - в.1.30.1, перекладено / 1682
+rights_of_man_l_ukrainian.yml - в.1.30.1, перекладено, триває редагування змінних - рядок 537 / 1682
 rule_britannia_l_ukrainian.yml - в.1.30.1, перекладено / 472
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
