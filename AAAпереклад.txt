@@ -26,8 +26,7 @@ Rensil - emperor_missions, рядки 1540-1654 (114).
 Solaris - emperor_content, рядки 260-340 (81).
 ГЕЛІКОПТЕР - emperor_content, рядки 374-384 (9).
 sergey-astral - emperor_content, рядки 445-609 (135).
-Roman_Hamster - emperor_content, рядки 655-688 (34) - триває редагування.
-Emerex - emperor_content, рядки 1039-1124 (80) - триває редагування.
+Emerex - emperor_content, рядки 1039-1124 (80) - рядок 1058, триває редагування.
 sergey-astral - emperor_content, рядки 1342-1367 (23), 1383-1431 (33), 1470-1644 (24), 2008-2025 (9).
 Nina_Romanivna - emperor_content рядки 1982-2006 (25), 2026-2038 (11), 2040-2117 (78).
 Yamtom - emperor_map - весь файл.
