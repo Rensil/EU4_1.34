@@ -1718,8 +1718,8 @@ war_of_the_roses.200.desc.york:0 "Претендент Річард Йорк в�
  random_event.EVTOPTA25.tt.ttt.tttt.ttttt:0 "Every owned province in Europe following the Protestant, Reformed or Anglican faiths gains §R10§! unrest."
 
  this_parliament:0 "[This.GetParliamentName]"
- this_the_parliament:0 "the [This.GetParliamentName]"
- this_the_parliament_cap:0 "The [This.GetParliamentName]"
+ this_the_parliament:0 "[This.GetParliamentName]"
+ this_the_parliament_cap:0 "[This.GetParliamentName]"
 
  clear_rebels_event.2.desc:0 "[Root.Culture.GetName]\n[Root.NativeCulture.GetName]\n[Root.Religion.GetName]\n[Root.OriginalReligion.GetName]\n"
 
@@ -2014,7 +2014,7 @@ war_of_the_roses.200.desc.york:0 "Претендент Річард Йорк в�
  gpw_peasant_power_weak:1 "Дворянський стан у всій Імперії отримає §R-5%§! лояльності та §Y-5%§! впливу до кінця гри."
  great_peasants_war_concessions_triggered_modifier:0 "Поступки селянству"
  desc_great_peasants_war_concessions_triggered_modifier:0 "Велика селянська війна змусила імперію переглянути права селянства. Був наданий ряд пільг і гарантовані стародавні привілеї, що призвело до зниження прибутковості від їхньої праці."
- gpw_concessions_triggered_modifier_tt:0 "The triggered modifier §Y'Concessions to the Peasantry'§! is enabled, giving §R-5%§! National Tax modifier to members of the Empire that are not Peasant Republics."
+ gpw_concessions_triggered_modifier_tt:0 "The triggered modifier §Y'Поступки селянству'§! is enabled, giving §R-5%§! National Tax modifier to members of the Empire that are not Peasant Republics."
  EST_VAL_GREAT_PEASANTS_WAR_NOBLES_WIN_MINOR_INFLUENCE:0 "Peasant Rights Curtailed: §Y$VAL$%§!"
  EST_VAL_GREAT_PEASANTS_WAR_NOBLES_WIN_MINOR_LOYALTY:0 "Peasant Rights Abolished: §Y$VAL$%§!"
  EST_VAL_GREAT_PEASANTS_WAR_NOBLES_WIN_MAJOR_INFLUENCE:0 "Peasant Rights Curtailed: §Y$VAL$%§!"
@@ -2114,11 +2114,11 @@ war_of_the_roses.200.desc.york:0 "Претендент Річард Йорк в�
  desc_napoleon_prophet:0 "We are publishing propaganda that promotes the image of the Emperor as a divine prophet."
  roman_garisson:0 "Reinforced Roman Garrison"
  desc_roman_garisson:0 "After the Sack of Rome we have bolstered the garrison in Rome to prevent that tragedy from occurring again."
- cardinal_nephew_tt:0 "§Y[cardinal_nephew_country.GetName] receives an event.§!"
- adm_vatican_library_tt:1 "§YThe Vatican Library - Administrative Edition§! will be established in §Y[118.GetName]§!, giving the following effects:\nAdministrative Technology Cost: §G-5%§!\nNational Unrest: §G-2§!"
- dip_vatican_library_tt:0 "§YThe Vatican Library - Diplomatic Edition§! will be established in §Y[118.GetName]§!, giving the following effects:\nDiplomatic Technology Cost: §G-5%§!\nDiplomatic Reputation: §G+1§!"
- mil_vatican_library_tt:0 "§YThe Vatican Library - Military Edition§! will be established in §Y[118.GetName]§!, giving the following effects:\nMilitary Technology Cost: §G-5%§!\nArmy Tradition from Battles: §G+50%§!"
- fra_pro_tt:0 "At least §Y3§! provinces in the §YProvence§! area are owned by §Y[Root.GetName]§! or its non-sovereign subjects."
+ cardinal_nephew_tt:0 "§Y[cardinal_nephew_country.GetName] отримує подію.§!"
+ adm_vatican_library_tt:1 "§YВатиканська бібліотека - адміністративна версія§! буде створена в провінції §Y[118.GetName]§!, що матиме такі ефекти:\nВартість адміністративних технологій: §G-5%§!\nNational Unrest: §G-2§!"
+ dip_vatican_library_tt:0 "§YВатиканська бібліотека - дипломатична версія§! буде створена в провінції §Y[118.GetName]§!, що матиме такі ефекти:\nВартість дипломатичних технологій: §G-5%§!\nDiplomatic Reputation: §G+1§!"
+ mil_vatican_library_tt:0 "§YВатиканська бібліотека - військова версія§! буде створена в провінції §Y[118.GetName]§!, що матиме такі ефекти:\nMilitary Technology Cost: §G-5%§!\nВійськові традиції від битв: §G+50%§!"
+ fra_pro_tt:0 "Принаймні §Y3§! провінції з області §YПрованс§! належать державі §Y[Root.GetName]§! або її несуверенним суб'єктам."
  center_of_revolution.13.t:0 "Мрії про свободу"
  center_of_revolution.13.d:0 "Звістка про революцію в колонії [revolution_target.GetName] поширилася в колоніях Нового Світу. Полум'яна риторика свободи розпалює серця людей, які тепер мріють про незалежність своїх колоній.\n\nЦей бунтарський дух, безсумнівно, можна було б придушити, якби ми могли покласти край підступній революції, яка поширює свою пропаганду з міста [revolution_target.Capital.GetCapitalName]."
  center_of_revolution.13.a:0 "Цю революцію треба придушити."
@@ -2127,12 +2127,12 @@ war_of_the_roses.200.desc.york:0 "Претендент Річард Йорк в�
  center_of_revolution.14.a:0 "Колонії повинні знати своє місце."
  colony_inspired_by_revolution:0 "Мрії про свободу"
  desc_colony_inspired_by_revolution:0 "Натхненні революцією в Старому Світі, визвольні рухи в колоніях прагнуть до незалежності."
- sistine_chapel_tt:0 "У державі §Y[118.GetName]§! буде побудована §YСікстинська капела§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!"
- pap_sistinechapel_botticelli_tt:0 "§YThe Sistine Chapel decorated by Botticelli§! will be added to §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nЗаворушення: §G-1§!"
- pap_sistinechapel_ghirlandaio_tt:0 "§YThe Sistine Chapel decorated by Ghirlandaio§! will be added to §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nЗміна престижу за рік: §G0.5§!"
- pap_sistinechapel_perugino_tt:0 "§YThe Sistine Chapel decorated by Perugino§! will be added to §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nПоліпшення відносин: §G+10%§!"
- pap_sistinechapel_michelangelo_tt:0 "§YThe Sistine Chapel decorated by Michelangelo§! will be added to §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nВартість ідеї: §G-5%§!"
- pap_sistinechapel_decorated_tt:0 "§YSistine Chapel Decorated§! will be added to §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nЕфективність місіонерів: §G+1%§!"
+ sistine_chapel_tt:0 "§YСікстинська капела§! буде споруджена у провінції §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!"
+ pap_sistinechapel_botticelli_tt:0 "§YСікстинська капела, прикрашена Боттічеллі§! буде споруджена у провінції §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nЗаворушення: §G-1§!"
+ pap_sistinechapel_ghirlandaio_tt:0 "§YСікстинська капела, прикрашена Гірландайо§! буде споруджена у провінції §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nЗміна престижу за рік: §G0.5§!"
+ pap_sistinechapel_perugino_tt:0 "§YСікстинська капела, прикрашена Перуджіно§! буде споруджена у провінції §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nПоліпшення відносин: §G+10%§!"
+ pap_sistinechapel_michelangelo_tt:0 "§YСікстинська капела, прикрашена Мікеланджело§! буде споруджена у провінції §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nВартість ідеї: §G-5%§!"
+ pap_sistinechapel_decorated_tt:0 "§YПрикрашена Сікстинська капела§! буде споруджена у провінції §Y[118.GetName]§!, що матиме такі ефекти:\nРічна зміна праведності: §G+0.10§!\nЕфективність місіонерів: §G+1%§!"
  
  bullion_famine.1.t:0 "Гостра нестача золотих злитків"
  bullion_famine.1.d:1 "Нерідко ми розплачуємось золотом за імпорт шовку, галунів, спецій і перлів зі Сходу. Зі зростанням торгівлі між Сходом і Заходом, дефіцит золота в Європі стає все більш очевидним. У нашому світі золото стає все більш рідкісним товаром, проте потреба в ньому не зменшилася. Якщо ми отримаємо доступ до джерела золота за межами Європи, ми покладемо край нестачі в золотих злитках."
@@ -3355,7 +3355,7 @@ war_of_the_roses.200.desc.york:0 "Претендент Річард Йорк в�
  dlc104_ita_sprite_pack:0 "Італійські спрайти"
  dlc104_ger_sprite_pack:0 "Німецькі спрайти"
  dlc101_man_on_horse:0 "Спрайти французьких пістольєрів"
- hussite_reform_center_tt:0 "Гуситський центр Реформації з'явиться в державі [266.GetName]"
+ hussite_reform_center_tt:0 "Гуситський центр Реформації з'явиться в провінції [266.GetName]"
  west_american_sea_superregion:0 "Східний Тихий океан"
  east_american_sea_superregion:0 "Західна Атлантика"
  north_european_sea_superregion:0 "Північна Атлантика"
