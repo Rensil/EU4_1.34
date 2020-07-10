@@ -1,11 +1,11 @@
 ﻿l_english:
 
- revolution.30.name:0 "The Ideas of [Root.philosopher_dude.GetName]"
- revolution.30.desc:0 "In a thinly-veiled attack on [Root.Monarch.GetTitle] [Root.Monarch.GetName], [Root.philosopher_dude.GetName], a renowned philosopher at the University of [university_town.GetName], has published a treatise protesting against the excesses of absolute rule. Unfortunately, it seems that his work is both very persuasive and very popular among the intelligentsia, who have taken to quoting certain key passages of it whenever they wish to argue against government policies."
+ revolution.30.name:0 "[Root.philosopher_dude.GetName] фонтанує ідеями"
+ revolution.30.desc:0 "В ході вельми тонко завуальованої атаки на [Root.Monarch.GetTitleOGO], [Root.philosopher_dude.GetName], відомий філософ з Університету [university_town.GetName], опублікував трактат, який протестує проти крайнощів абсолютного правління. На жаль, судячи з усього, його робота виглядає дуже переконливо і стала надпопулярною серед інтелігенції, яка вдається до цитування певних її ключових уривків щоразу, коли вони хочуть виступити проти політики уряду."
  revolution.30.A:0 "Терпимо його."
  revolution.30.B:0 "Заарештуйте його і спаліть його книги!"
 
- french_revolution.4.robespierre:0 "За часів правління терору безліч французів загинули в ім'я Республіки. No sooner has one threat been eliminated then the next is identified and purged. Нещодавно, [Root.Monarch.GetTitleKHTO] Робесп'єр провів особливо жорстоку промову, в якій заперечував і вимагав заарештувати зрадників у Комітетах громадської безпеки та загальної безпеки. Це налякало та викликало обурення серед лідерів Революції, які побоюються ще однієї чистки своїх лав. Already the National Assembly is moving to demand his arrest and curb the worst excesses of his Reign of Terror, returning stability to the realm and ensuring that no one may use the chaos as an excuse to restore the monarchy.\n\nHowever, it seems that Robespierre still has many supporters who will surely seek to protect him if we do not move swiftly."
+ french_revolution.4.robespierre:0 "За часів правління терору безліч французів загинули в ім'я Республіки. Ще не усунута перша загроза, як виявляється і починає усуватися наступна. Нещодавно, [Root.Monarch.GetTitleKHTO] Робесп'єр провів особливо жорстоку промову, в якій заперечував і вимагав заарештувати зрадників у Комітетах громадської безпеки та загальної безпеки. Це налякало та викликало обурення серед лідерів Революції, які побоюються ще однієї чистки своїх лав. Національна асамблея вже наполягає на його арешті, бажаючи приборкати найгірші наслідки його Царства Терору, відновити стабільність в королівстві та гарантувати, що ніхто не зможе скористатися хаосом як виправданням для відновлення монархії.\n\nОднак, схоже, що Робесп'єр як і раніше має багато прихильників, які, безсумнівно, прагнутимуть захистити його, якщо ми не будемо діяти швидко."
  french_revolution.4.robespierre.A:0 "Арештуйте Робесп'єра!"
  french_revolution.4.robespierre.B:0 "Терор триватиме. Стережіться вороги народу!"
 
@@ -106,8 +106,8 @@
  center_of_revolution.7.A:0 "Природний порядок речей відновлено."
  center_of_revolution.8.name:0 "Контрреволюціонери в провінції [revolutionary_province.GetName]"
  center_of_revolution.8.desc:0 "The subversive ideals of the [revolution_target.GetAdjective] Revolution have taken hold in [revolutionary_province.GetName], perverting the natural order of things. However, right-thinking members of the nobility will not accept this state of affairs without a fight. They have rallied their forces and promise to drive the revolutionaries out of [revolutionary_province.GetName] if we give them our support."
- center_of_revolution.8.A:0 "They shall have our support."
- center_of_revolution.8.B:0 "We will not disrupt the local administration."
+ center_of_revolution.8.A:0 "Ми їх підтримаємо."
+ center_of_revolution.8.B:0 "ММи не заважатимо місцевій адміністрації."
  center_of_revolution.9.name:0 "Reactionaries in [reactionary_province.GetName]!"
  center_of_revolution.9.desc:0 "Adherents of the old regime in [reactionary_province.GetName] have revealed themselves as the enemies of the people that they are. In a meticulously planned conspiracy, they have subverted members of the local militia and managed to secure the arrest of our administrators on spurious charges. They now claim it to be their duty to guide the people of [reactionary_province.GetName] through these troubled times, protecting them from the worst excesses of the revolutionary government. How should we deal with them?"
  center_of_revolution.9.A:0 "We shall crush these enemies of the people!"
@@ -132,15 +132,15 @@
  revolution.39.desc:0 "The Revolution has arrived! Large crowds gathered in [Root.Capital.GetCapitalName] to demand a wide range of concessions, chief among them a more democratic constitution, as General Herman Willem Daendels returned from exile to support their cause. Seeing the writing on the wall, [Root.Monarch.GetTitle] [Root.Monarch.GetName] fled the country by fishing boat before [Root.Monarch.GetSheHe] could be caught.\n\nA Revolutionary "Batavian" Republic, named after the old rebels against the Roman Empire, has been declared. Its leaders, who enjoy the full backing of General Daendels, promise to abolish serfdom, establish equality under the law and redistribute the nobility's land between the state and the peasantry, leading the people of [Root.GetName] to a future guided by the ideals of liberty and the brotherhood of man."
  revolution.39.A:0 "Хай живе революція!"
 
- junior_revolutionary_republic_reform:0 "Revolutionary State"
- junior_revolutionary_republic_reform_desc:0 "The revolutionary republic represents the government of the nation by a small executive with the support of an elective chamber of deputies. This state will do its utmost to support the cause of the Revolution and spread the ideals of liberty and equality."
+ junior_revolutionary_republic_reform:0 "Революційна держава"
+ junior_revolutionary_republic_reform_desc:0 "Революційна республіка - це управління державою невеликою виконавчою владою за підтримки виборної палати депутатів. Це держава робить все можливе для підтримки справи революції й поширення ідеалів свободи та рівності."
 
- republics.102.t:0 "The Stability of the [Root.GovernmentName]"
+ republics.102.t:0 "Стабільність уряду"
  republics.102.d.pirate:0 "Disputes between the pirate captains and [Root.Monarch.GetTitle] [Root.Monarch.GetName] have spiralled out of control. Not trusting [Root.Monarch.GetName] to give up power of [Root.Monarch.GetHerHis] own accord, the captains have joined forces to depose [Root.Monarch.GetHerHim]. With [Root.Monarch.GetHerHis] body safely swinging from the gallows, they have come together to form a "Mutineer Council" that will guide the [Root.GovernmentName] through this troubled time."
  republics.102.d.revolution:0 "Confidence in the Republic's institutions have deteriorated to the point that there has been widespread talk of a counter-revolutionary coup. With suspicions running high, [Root.Monarch.GetTitle] [Root.Monarch.GetName]'s position has become untenable. In this time of troubles, [Root.GetName]'s leading men in the Committee of Public Safety have taken control of the Republic until stability is restored."
  republics.102.A.pirate:0 "Хай живуть заколотники!"
  republics.102.A.pirate.tooltip:0 "§YThe Mutineer Council (2/2/2) takes power. It will suspend elections so long as Republican Tradition remains below 50.§!"
- republics.102.A.revolution:0 "May their rule be short and successful!"
+ republics.102.A.revolution:0 "Хай їх правління буде недовгим і успішним!"
  republics.102.A.revolution.tooltip:0 "§YThe Committee of Public Safety (2/2/2) takes power. It will suspend elections so long as Republican Tradition remains below 50.§!"
  elections.700.caretaker:0 "With the return of some degree of normalcy to the Republic, the Committee of Public Safety has agreed to stand down and allow elections to take place. Three primary candidates have been nominated to take over as [Root.Monarch.GetTitle]."
  pirates.1.desc3:0 "The safety of the [Root.GovernmentName] secured, the Mutineer Council has broken down into bickering and infighting, and finally dissolved itself. The crews have been called to assembly to elect a new [Root.Monarch.GetTitle].\n\nA [Root.Monarch.GetTitle] rules over a nation of thieves and murderers whose sole political desire is to not be ruled at all. It is a task comparable to herding sharks, yet some brave or foolhardy soul must fill the role."
@@ -185,7 +185,7 @@
  center_of_revolution.2003.B:0 "Неприпустимо! Вигнати [Root.Adm_Advisor.GetHerHim] з нашої адміністрації!"
 
  center_of_revolution.2010.name:0 "Вимоги третього стану"
- center_of_revolution.2010.desc:0 "Over the past years, the [Root.GetBurghersName] have become increasingly dissatisfied with their status in [Root.GetUsableName]. Although their contributions to the treasury through taxes on production and commerce make up most of the nation's revenues, they have little influence over how the state is governed. Indeed, they have looked on in dismay as the [Root.Monarch.GetTitle] charts a path towards the ever-greater centralization of royal power, side-lining the checks and balances the estates were once able to impose upon [Root.Monarch.GetHerHim].\n\nThey have now come forward with demands that some of the absolutist reforms of recent years be repealed and they be granted further lands to compensate for their contributions. If denied, their dissatisfaction will be immeasurable, and their trust in the [Root.GovernmentName] ruined."
+ center_of_revolution.2010.desc:0 "Протягом останніх років [Root.GetBurghersName] все більше не вдовольняються своїм статусом в державі [Root.GetUsableName]. Попри те, що їхній внесок до скарбниці через податки на виробництво і торгівлю становить більшу частину доходів держави, вони мають недостатній вплив на керування нею. Насправді, вони з тривогою дивилися на те, як [Root.Monarch.GetTitleKHTO] прокладає шлях до все більшої централізації королівської влади, обмежуючи можливості стримувань і противаг, котрі колись могли нав'язати [Root.Monarch.GetHerHim] стани.\n\nТепер вони висунули вимоги про скасування деяких абсолютистських реформ останніх років і надання їм додаткових земель як компенсації за їхній внесок. У разі відмови, їх розчарування посилиться, а довіра до уряду зруйнована."
  center_of_revolution.2010.A:0 "Поступиться їхнім вимогам."
  center_of_revolution.2010.B:0 "Ми з цим не погоджуємося."
 
