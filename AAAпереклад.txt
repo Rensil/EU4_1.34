@@ -54,7 +54,7 @@ areas_regions_l_ukrainian.yml - в.1.30.1, перекладено / 2826
 common_sense_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 3-4 (2), 16-38 (6), 1397-1457 (22) / 1690
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.30.1, перекладено / 933
-cossacks_l_ukrainian.yml - в.1.30.1, перекладено / 1481
+cossacks_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 187-189 (3), 1106 (1) / 1481
 countries_l_ukrainian.yml -  в.1.30.1, перекладено / 1401
 cradle_of_civilization_l_ukrainian - в.1.30.1, перекладено / 868
 cultures_phase4_l_ukrainian.yml - в.1.28.1, перекладено / 54
@@ -65,14 +65,14 @@ diplo_reasons_l_ukrainian.yml - в.1.30.1, перекладено / 375
 diplomacy_l_ukrainian.yml - в.1.30.1, перекладено / 894
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
-emperor_content_l_ukrainian.yml - в.1.30.2, без перекладу рядки: 237-246 (10), 260-440 (163), 447-654 (205), 692-1038 (350), 1126-1298 (171), 1323-1367 (43), 1386-1431 (44), 1470-1638 (83), 1646-1967 (292), 1982-2006 (25), 2018-2116 (99), 2150-2230 (80), 2243-3112 (817), 3258-3371 (89) / 3372
+emperor_content_l_ukrainian.yml - в.1.30.2, без перекладу рядки: 237-246 (10), 260-440 (163), 447-654 (167), 692-1038 (313), 1126-1298 (136), 1323-1367 (37), 1383-1431 (33), 1470-1557 (64), 1615-1638 (24), 1644-1658 (15) dodo, 1663-1682 (20), 1687-1967 (251), 1982-2006 (22), 2018-2116 (94), 2150-2230 (80), 2243-3087 (700), 3107-3112 (2), 3258-3371 (81) / 3372
 emperor_estates_l_ukrainian.yml - в.1.30.2, без перекладу рядки: 19-80 (55), 103, 159, 194-1246 (1046) / 1276
 emperor_l_ukrainian.yml - в.1.30.3, без перекладу рядки: 380-1040 (663) / 1043
 emperor_map_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 2-330 (329) / 330
 emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 3-362 (360) - триває редагування, 384-463 (79), 535-1418 (883), 1675-2548 (873) / 2548
-emperor_revolutions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: fre_rev 13-15 (3), 23-35 (5), rev 44-96 (18), cntr_rev 108-183 (27) / 261
-EU4_l_ukrainian.yml - в.1.30.1, перекладено / 5008
+emperor_revolutions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: fre_rev 3-30 (9), rev 44-96 (18), cntr_rev 108-188 (35) / 261
+EU4_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 393 (1), 1195 (1), 1928 (1), 3787 (1) / 5008
 flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 132 (1), 254 (1), 322-326 (2), 516-523 (3), 862-866 (3), 1327-1337 rus (11), 1644-1657 fra (7), 1785-1808 (12) (7), 2788-2801 (4) pol, 2966-2968 (3) bur, 3456-3463 (4) pap / 4804
 generic_events_l_ukrainian.yml - в.1.30.1, перекладено, рядок 964 - триває редагування / 4420
 golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
@@ -122,7 +122,7 @@ rights_of_man_l_ukrainian.yml - в.1.30.1, перекладено, триває 
 rule_britannia_l_ukrainian.yml - в.1.30.1, перекладено / 472
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 251-275 (12) / 275
+startup_screen_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 64 (1), 251-275 (12) / 275
 subject_type_l_ukrainian.yml - в.1.30.1, перекладено / 68
 subscription_l_ukrainian - в.1.30,1 без перекладу рядки: 2-74 (73) / 73
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
