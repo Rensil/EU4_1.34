@@ -23,7 +23,6 @@ sergey-astral - emperor_revolutions - весь файл.
 Roman_Hamster - emperor_missions рядки 1419-1539 (120).
 Solaris - emperor_missions, рядки 3-362 (360) - триває редагування.
 Rensil - emperor_missions, рядки 1540-1654 (114).
-Solaris - emperor_content, рядки 260-340 (81) - триває редагування.
 ГЕЛІКОПТЕР - emperor_content, рядки 374-384 (9).
 sergey-astral - emperor_content, рядки 460-577 (80).
 Emerex - emperor_content, рядки 1039-1124 (80) - рядок 1091, триває редагування.
