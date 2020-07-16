@@ -27,7 +27,7 @@ Rensil - emperor_missions, рядки 1540-1654 (114).
 sergey-astral - emperor_content, рядки 460-577 (80).
 Emerex - emperor_content, рядки 1039-1124 (80) - рядок 1091, триває редагування.
 sergey-astral - emperor_content, рядки 1342-1367 (23), 1383-1431 (33), 1470-1644 (24), 2017-2025 (9).
-Nina_Romanivna - emperor_content рядки 1982-2006 (25), 2026-2038 (11), 2040-2117 (78) - рядок 1998, триває редагування.
+Nina_Romanivna - emperor_content рядки 1982-2006 (25), 2026-2038 (11), 2040-2117 (78) - рядок 1999, триває редагування.
 Yamtom - emperor_map - весь файл.
 
 
