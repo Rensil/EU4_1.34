@@ -570,11 +570,11 @@
  new_court_flavour_events.42.name:0 "[heathen_advisor_country.GetUsableName] кидає виклик нашій владі"
  new_court_flavour_events.42.desc:0 "[heathen_advisor_country.GetRulerAdjAndTitle] висловлює гнів через наше прохання, і [heathen_advisor_country.Monarch.GetSheHe] нахабно засуджує перевищення наших повноважень - як ніби Папа не є охоронцем усього духовного в християнському світі. [heathen_advisor_country.GetUsableName] дійсно пронизаний злом."
  new_court_flavour_events.42.A:0 "Він збився зі шляху."
- opinion_interfering_pope:0 "Interfering Pope"
- opinion_bowed_to_papal_demand_advisor:0 "Bowed to Papal Demands"
- handed_over_heretic:0 "Handed over Heretic"
- desc_handed_over_heretic:0 "Heretics know to live in fear of a ruler who supports the Pope's persecution of their kind."
- opinion_rejected_papal_demand_advisor:0 "Hosting a Heretic"
+ opinion_interfering_pope:0 "Надокучливий Папа"
+ opinion_bowed_to_papal_demand_advisor:0 "Схилився папським вимогам"
+ handed_over_heretic:0 "Передав єретика"
+ desc_handed_over_heretic:0 "Єретики знають, що потрібно жити в страху перед правителем, який підтримує переслідування Папи."
+ opinion_rejected_papal_demand_advisor:0 "Прихистив єретика"
  ##Scripted Locs for Event Advisor stuff:
  #GetEventAdvisorName
  EventAdvisorName.A:0 "[This.Adm_Advisor.GetName]"
