@@ -11,7 +11,7 @@
 
  french_revolution.301.name:0 "Зрада проти революції"
  french_revolution.301.desc1:0 "[Root.GetEventAdvisorTitle] [Root.GetUsableName], помітив, що його підлеглий, [Root.GetEventAdvisorName], часто критикував правління терору, розв'язане [Root.Monarch.GetTitle] [Root.Monarch.GetName] та революційним урядом. На думку Комітету громадської безпеки, це робить [Root.GetEventAdvisorHerHis] небезпечним реакціонером і ворогом народу, якого небезпечно залишати в живих."
- french_revolution.301.desc2:0 "Невідомо, чим [Root.GetEventAdvisorTitle] [Root.GetEventAdvisorName] викликав гнів [Root.Monarch.GetTitleOGO], але Комітет громадської безпеки, все ж, визначив [Root.GetEventAdvisorHerHis], як потенційного реакціонера. У разі підтвердження підозр, вони рекомендують стратити [Root.GetEventAdvisorHerHis] на гільйотині."
+ french_revolution.301.desc2:0 "Невідомо, чим [Root.GetEventAdvisorTitle] [Root.GetEventAdvisorName] виклика[Root.GetEAEndVLa] гнів [Root.Monarch.GetTitleOGO], але Комітет громадської безпеки, все ж, визначив [Root.GetEventAdvisorHerHis], як потенційного реакціонера. У разі підтвердження підозр, вони рекомендують стратити [Root.GetEventAdvisorHerHis] на гільйотині."
  french_revolution.301.desc3:0 "Схоже, що [Root.GetEventAdvisorTitle] [Root.GetEventAdvisorName], був підслуханий одним з членів Комітету громадської безпеки, на підставі чого, [Root.GetEventAdvisorHerHis] запідозрили в контрреволюції. Як тільки про це стало відомо, Комітет зробив крок, продиктований обставинами, затаврував [Root.GetEventAdvisorHerHis], як ворога народу і рекомендував стратити [Root.GetEventAdvisorHerHis] на гільйотині."
  french_revolution.301.A:0 "Чергова жертва мадам Гільйотини."
  french_revolution.301.B:0 "Ми помилуємо [Root.GetEventAdvisorHerHis]."
