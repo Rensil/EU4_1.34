@@ -57,7 +57,7 @@
  signoria:0 "Італійська Синьйорія"
  signoria_desc:0 "Республіка найкраще функціонує під фактичною юрисдикцією нашої найвидатнішої політичної сім'ї. Будь-яке припущення, що це ледве можна відрізнити від монархії, звичайно ж, нісенітниця."
  savonarola_dead_tt:0 "Савонарола не є правителем держави [Root.GetName]"
- had_disaster_for_6_months:0 "Лихо було активно протягом 6 місяців"
+ had_disaster_for_6_months:0 "Лихо триватиме щонайменше 6 місяців"
  bonfire_of_the_vanities_disaster:0 "Багаття марнославства"
  bonfire_of_the_vanities_disaster_desc:0 "Радикальний клірик захоплює владу у Флоренції, налаштовуючи наше прекрасне місто на небезпечний політичний і духовний шлях."
  flavor_tus.17.t:0 "Відновлення порядку в державі [Root.GetName]"
@@ -1142,7 +1142,7 @@
  incident_pope_member_alert:0 "With Italy once again a bastion of Imperial authority, the Pope of Rome has petitioned to become an Imperial Prince of the Holy Roman Empire. For the Pope to accept the authority of the Emperor would have dire ramifications for the Catholic world. While Catholics in the Empire might have their faith emboldened through the legitimacy conferred by Papal membership, those outside of the Empire are unlikely to take kindly to such a decision and may turn to heresy."
  incident_pope_emperor_alert:0 "With Italy once again a bastion of Imperial authority, the Pope of Rome has petitioned to become an Imperial Prince of the Holy Roman Empire. For the Pope to accept the authority of the Emperor would have dire ramifications for the Catholic world. While Catholics in the Empire might have their faith emboldened through the legitimacy conferred by Papal membership, those outside of the Empire are unlikely to take kindly to such a decision and may turn to heresy."
  # Bugfixes
- flavour_tupi_tamoyo_force:1 "Every owned province neighbouring the Tupinamba culture gets the modifier §Y'Tupi Hostility'§! for §Y5§! years, що матиме такі ефекти: \nLocal Unrest: §R+1§! \nLocal Tax Income: §R-10%§! \nLocal Colonial Growth: §R-15§!"
+ flavour_tupi_tamoyo_force:1 "Кожна приналежна провінція neighbouring the Tupinamba culture gets the modifier §Y'Tupi Hostility'§! for §Y5§! years, що матиме такі ефекти: \nLocal Unrest: §R+1§! \nLocal Tax Income: §R-10%§! \nLocal Colonial Growth: §R-15§!"
  flavour_tupi_tamoyo_jesuits:1 "Every owned province of the Tupinamba culture gets the modifier §Y'Tupi Hostility'§! for §Y10§! years, що матиме такі ефекти: \nLocal Unrest: §R+1§! \nLocal Tax Income: §R-10%§! \nLocal Colonial Growth: §R-15§!"
  flavor_tupi_confederation:1 "By selecting this option, there is a chance of creating alliances with other Tupi tribes."
  tamoyo_rivals:1 "Meddling Colonial Rivals"
@@ -1406,12 +1406,12 @@
  emperor_expand_gemeiner_pfennig_title:0 "Поширити звичайний пфеніг"
  emperor_expand_gemeiner_pfennig_desc:0 "Збільшити загальний податок, щоб розширити можливості Імперії під час війни."
  emperor_reichskrieg_title:0 "Імперська війна"
- emperor_reichskrieg_desc:0 "Mobilize the Empire's forces against all who may seek to threaten it!"
- emperor_imperial_estates_title:0 "Curtail the Imperial Estates"
- emperor_imperial_estates_desc:0 "Curb the freedoms of the Imperial Estates so that they are no longer able to defy the Emperor."
+ emperor_reichskrieg_desc:0 "Мобілізувати сили Імперії проти всіх, хто може спробувати їй погрожувати!"
+ emperor_imperial_estates_title:0 "Приборкання імперських станів"
+ emperor_imperial_estates_desc:0 "Приборкати свободи імперських станів, щоб вони більше не могли протистояти імператору."
  
- NOT_RELEVANT_TRADE_REGION:0 "[Root.GetName] needs at least 1% trade share in [From.GetName]'s home trade node."
- NOT_RELEVANT_TRADE_REGION_FROM:0 "[From.GetName] needs at least 1% trade share in [Root.GetName]'s home trade node."
+ NOT_RELEVANT_TRADE_REGION:0 "Державі [Root.GetName] потрібно принаймні 1% торгової частки в домашньому торговому вузлі держави [From.GetName]."
+ NOT_RELEVANT_TRADE_REGION_FROM:0 "Державі [From.GetName] потрібно принаймні 1% торгової частки в домашньому торговому вузлі держави [Root.GetName]."
  
  country_estate_nobles_name:0 "[This.GetNobilityName]"
  country_estate_burghers_name:0 "[This.GetBurghersName]"
@@ -1428,7 +1428,7 @@
  MODIFIER_MAX_REVOLUTIONARY_ZEAL:0 "Maximum Revolutionary Zeal"
  MODIFIER_YEARLY_REVOLUTIONARY_ZEAL:0 "Yearly Revolutionary Zeal"
 
- had_disaster_for_x_years_dutch:0 "Disaster has been active for at least §Y20§! years"
+ had_disaster_for_x_years_dutch:0 "Лихо триватиме щонайменше §Y20§! років"
 
  #More Ladislaus Postumus Shenanagins
  flavor_hun.201.name:0 "Смерть Ладислава Постума"
