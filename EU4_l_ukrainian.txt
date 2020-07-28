@@ -167,7 +167,7 @@
  COALITION_WILL_FORM_THEM:0 "За результатами цього мирного договору проти них може сформуватися коаліція!"
  SHIP_DURABILITY_SHORT:0 "Поточна міцність ваших кораблів складає $VAL$"
  SHIP_DURABILITY_LONG:1 "Міцність корабля визначає скільки пошкоджень здатен витримати ваш флот під час битви, перед тим, як піде на дно. Чим вона вища, тим краще."
- achievement_tear_down_this_wall_tooltip:0 "Берлін обстріляно Вогневим Валом"
+ achievement_tear_down_this_wall_tooltip:0 "Берлін обстріляно шквальним вогнем"
  achievement_cherrypicking_tooltip:0 "Тризірковий командувач від підлеглого даймьо"
  DOMESTIC_DEBASE_CURRENCY:0 "Зіпсувати монети"
  VC_LIST_TITLE:0 "У нас є такі переможні картки:"
