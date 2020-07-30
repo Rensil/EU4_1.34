@@ -768,7 +768,7 @@
  EDICTS_TAB_TOOLTIP:0 "Едикти володіння"
  DELEGATE_TAB_TOOLTIP:0 "Передати управління"
  TRADE_COMPANY_TAB_TOOLTIP:0 "Інвестиції торгової компанії"
- SORT_BY:0 "Натисніть, щоб відсортувати з огляду на $WHAT|Y$."
+ SORT_BY:0 "Клацніть для сортування за: $WHAT|Y$."
  INCOME:0 "Прибуток"
  PROSPERITY:0 "Процвітання"
  ABANDON_STATE:0 "Полишити володіння"
