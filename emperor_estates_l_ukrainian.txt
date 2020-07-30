@@ -596,7 +596,7 @@
  no_one_has_15_ae_on_us_tooltip:0 "Жодна країна не має §R-15§! або більшого штрафу від агресивного розширення з державою §Y[Root.GetName]§!."
  agenda_cultural_conversion_help:0 "Наплив поселенців"
  desc_agenda_cultural_conversion_help:0 "Велика кількість переселенців переїжджає до цієї провінції."
- growing_tea_trade:0 "Tea Trade"
+ growing_tea_trade:0 "Торгівля чаєм"
  desc_growing_tea_trade:0 "Our efforts to secure more sources of tea have not gone unnoticed by the domestic merchants. Confident that the state is looking after their interests, they have been unusually forthcoming with any taxes or fees they are required to pay."
  growing_silk_trade:0 "Silk Trade"
  desc_growing_silk_trade:0 "Our efforts to secure more sources of silk have not gone unnoticed by the domestic merchants. Confident that the state is looking after their interests, they have been unusually forthcoming with any taxes or fees they are required to pay."
