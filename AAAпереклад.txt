@@ -21,7 +21,12 @@ sergey-astral - emperor_estates - весь файл.
 sergey-astral - emperor_revolutions - весь файл.
 Roman_Hamster - emperor_missions рядки 1419-1539 (120).
 Solaris - emperor_missions, рядки 3-362 (360) - триває редагування.
-Solaris - emperor_missions, рядки Italian 1080-1153 (74), Papal 1230-1362 (33), Prussian 1739-1805 (66), Neapolitan 1807-1852 (46).
+Solaris - emperor_missions, рядки Italian 1080-1153 (74).
+Solaris - emperor_missions, рядки Papal 1230-1362 (33).
+Beer&Bread - emperor_missions, рядки Bohemian 1675-1737 (63).
+Solaris - emperor_missions, рядки Prussian 1739-1805 (66).
+Solaris - emperor_missions, рядки Neapolitan 1807-1852 (46).
+Beer&Bread - emperor_missions, рядки German 1854-1908 (55).
 Subota - emperor_missions, рядки Hannoverian 2217-2259 (43).
 Rensil - emperor_missions, рядки 1540-1654 (114).
 sergey-astral - emperor_content - весь файл.
