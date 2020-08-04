@@ -403,7 +403,7 @@
  new_flavour_nap.5.A:0 "We must rally our forces against this new threat!"
  new_flavour_nap.6.name:0 "The Republican Emissaries to [From.GetUsableName] Return"
  new_flavour_nap.6.desc:1 "The republican embassy to the [From.GetRulerAdjAndTitle] have returned, dejection clear on their faces: There will be no support for their cause from those quarters."
- new_flavour_nap.6.A:0 "The [Root.GovernmentName] shall stand!"
+ new_flavour_nap.6.A:0 "[Root.GetGovernmentSCHO] стоятиме!"
  new_flavour_nap.7.name:0 "[From.GetAdjective] interference in [From.From.GetUsableName]"
  new_flavour_nap.7.desc:0 "The dastardly [rival_of_overlord.GetAdjective] have chosen to provide support to the republican uprising in Naples! At the Neapolitans' request, they have sent [From.From.nap_foreign_republican.GetName], a member of their high nobility, at the head of a band of mercenaries to take over as Lord of the Republic. We must rally our forces against this new threat!"
  new_flavour_nap.7.A:0 "They shall pay for this."
