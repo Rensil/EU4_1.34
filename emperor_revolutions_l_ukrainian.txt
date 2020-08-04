@@ -205,7 +205,7 @@
  revolution.9.A:0 "Радіймо перемозі!"
  revolution.9.B:0 "Принаймні конфлікт закінчився..."
  add_as_much_revolutionary_zeal_as_you_can_take:0 "Революційне завзяття в державі §Y[Root.GetName]§! встановлено на максимум."
- remove_revolution_from_all_provinces:0 "Революційні настрої видаляються з усіх належних нам провінцій.\nВоно не повернеться до них, поки ми ними володіємо."
+ remove_revolution_from_all_provinces:0 "Революційні настрої видаляються з усіх приналежних провінцій.\nВоно не повернеться до них, поки ми ними володіємо."
  french_revolution.10.name:0 "Наслідки республіканських воєн"
  french_revolution.11.name:0 "Люди втомилися від війни"
  french_revolution.12.name:0 "Наші скрині порожні"
