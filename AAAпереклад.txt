@@ -132,7 +132,7 @@ rights_of_man_l_ukrainian.yml - в.1.30.1, перекладено, триває 
 rule_britannia_l_ukrainian.yml - в.1.30.1, перекладено / 472
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 268-271 (2) / 275
+startup_screen_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 271 / 275
 subject_type_l_ukrainian.yml - в.1.30.1, перекладено / 68
 subscription_l_ukrainian - в.1.30,1 без перекладу рядки: 2-74 (73) / 73
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
