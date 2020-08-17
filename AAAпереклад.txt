@@ -18,6 +18,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
 sergey-astral - emperor_content - весь файл.
+Iceberg937 - emperor_content рядки 1794-1843 (49).
 sergey-astral - emperor_estates - весь файл.
 sergey-astral - emperor_revolutions - весь файл.
 sergey-astral - startup - весь файл.
