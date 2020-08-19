@@ -1142,11 +1142,11 @@
  incident_pope_member_alert:0 "Коли Італія знову стала оплотом імперської влади, Папа Римський подав клопотання про те, щоб стати імперським князем Священної Римської Імперії. Визнання Папою влади Імператора матиме жахливі наслідки для католицького світу. Попри те, що католики в Імперії можуть посилити свою віру через легітимність, надану папським членством, навряд чи ті, які знаходяться за межами Імперії, доброзичливо приймуть таке рішення і можуть повернутися до єресі."
  incident_pope_emperor_alert:0 "Коли Італія знову стала оплотом імперської влади, Папа Римський подав клопотання про те, щоб стати імперським князем Священної Римської Імперії. Визнання Папою влади Імператора матиме жахливі наслідки для католицького світу. Попри те, що католики в Імперії можуть посилити свою віру через легітимність, надану папським членством, навряд чи ті, які знаходяться за межами Імперії, доброзичливо приймуть таке рішення і можуть повернутися до єресі."
  # Bugfixes
- flavour_tupi_tamoyo_force:1 "Кожна приналежна провінція neighbouring the Tupinamba culture gets the modifier §Y'Tupi Hostility'§! for §Y5§! years, що матиме такі ефекти: \nМісцеві заворушення: §R+1§! \nLocal Tax Income: §R-10%§! \nLocal Colonial Growth: §R-15§!"
- flavour_tupi_tamoyo_jesuits:1 "Кожна приналежна провінція of the Tupinamba culture gets the modifier §Y'Tupi Hostility'§! for §Y10§! years, що матиме такі ефекти: \nМісцеві заворушення: §R+1§! \nLocal Tax Income: §R-10%§! \nLocal Colonial Growth: §R-15§!"
- flavor_tupi_confederation:1 "By selecting this option, there is a chance of creating alliances with other Tupi tribes."
- tamoyo_rivals:1 "Meddling Colonial Rivals"
- EVTOPTC710:1 "Execute the Bailiff!"
+ flavour_tupi_tamoyo_force:1 "Кожна приналежна провінція, що сусідить з Тупінамбською культурою, отримує модифікатор §Y'Ворожість Тупі'§! на §Y5§! років, що матиме такі ефекти: \nМісцеві заворушення: §R+1§! \nПрибуток від місцевих податків: §R-10%§! \nМісцевий колоніальний ріст: §R-15§!"
+ flavour_tupi_tamoyo_jesuits:1 "Кожна приналежна провінція з Тупінамбською культурою отримує модифікатор §Y'Ворожість Тупі'§! на §Y10§! років, що матиме такі ефекти: \nМісцеві заворушення: §R+1§! \nПрибуток від місцевих податків: §R-10%§! \nМісцевий колоніальний ріст: §R-15§!"
+ flavor_tupi_confederation:1 "Вибравши цей варіант, можна створити альянси з іншими племенами тупі."
+ tamoyo_rivals:1 "Втручання колоніальних суперників"
+ EVTOPTC710:1 "Стратити бейліфа!"
  # Memes - не забудьте повернутися до цього пізніше
  memes.1.t:0 "Regiis Proelis"
  memes.1.d:0 "The leader of [da_company.GetName] got bored and decided to organize some sort of game in which each men would be dropped in some part of [da_company.Location.GetName] and tasked to hunt down the others."
