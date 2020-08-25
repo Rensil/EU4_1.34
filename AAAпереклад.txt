@@ -19,6 +19,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 
 sergey-astral - emperor_content - весь файл.
 Iceberg937 - emperor_content рядки 1794-1843 (49).
+Rensil - emperor_content рядки incidents_bur 1845-1934 (90).
 sergey-astral - emperor_estates - весь файл.
 sergey-astral - emperor_revolutions - весь файл.
 sergey-astral - startup - весь файл.
