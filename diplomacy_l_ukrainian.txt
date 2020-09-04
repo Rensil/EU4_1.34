@@ -96,7 +96,7 @@
  BENEFIT_FOR_EVERYONE:1 "Усі в Імперії отримують:\n$MODIFIER$"
  DIPIRO_SUPPORTING_INDEPENDENCE:0 "Підтримує незалежність держави §Y$NAME$§!."
  DIPIRO_INDEPENDENCE_SUPPORTED:0 "Незалежність підтримано державою §Y$NAME$§!."
- DIPIRO_ALLIED_WITH:0 "Має альянс з державою §Y$NAME$§!."
+ DIPIRO_ALLIED_WITH:0 "В альянсі з державою §Y$NAME$§!."
  SAME_FEDERATION_AS:0 "У федерації з племенем §Y$NAME$§!. (Лідер $LEADER$)"
  SAME_TRADELEAGUE_AS:0 "В одній торговельній лізі з державою §Y$NAME$§!. (Лідер – $LEADER$)"
  DIPIRO_RM_WITH:0 "Династичний шлюб з державою §Y$NAME$§!."
