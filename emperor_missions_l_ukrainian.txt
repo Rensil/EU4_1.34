@@ -283,7 +283,7 @@
  emp_sav_integrate_geneva_desc:0 "The city of Geneva enjoys considerable autonomy from our rule. Indeed, it has a strong connection to the growing Swiss Confederation and would surely leap at the chance of joining it. We must tighten our control over them, lest they seek to free themselves of our overlordship."
  emp_sav_defeat_the_swiss_title:1 "Monter l'Escalade"
  emp_sav_defeat_the_swiss_desc:0 "The Swiss Confederation on our northern border is a natural enemy of [Root.GetName]. Fiercely independent, their world view differs from ours in many aspects, and they are often a source of heretical beliefs. We would do well to snuff them out."
- emp_sav_conquer_burgundy_title:0 "Підкорити Burgundy"
+ emp_sav_conquer_burgundy_title:0 "Підкорити Бургундію"
  emp_sav_conquer_burgundy_desc:0 "The upstart Dukes of Burgundy threaten us from the north. Facing them and France united would be a fearsome prospect, but if we can take over the Burgundian territories in central France, perhaps we can defeat the French once and for all."
  emp_sav_conquer_provence_title:0 "Take the Provence"
  emp_sav_conquer_provence_desc:0 "The Duke of Provence has great pretensions, harboring claims to extensive territories. However, in truth, he rules but a puny outcrop on the Mediterranean Sea, with a few isolated exclaves elsewhere in France. We should make use of his weakness to unite Provencal holdings in southern France with our own, allowing us to dominate the lands around the Alps."
@@ -680,7 +680,7 @@
  emp_bur_subjects_desc:0 "As the leader of so many fragile unions, we cannot be seen to have any disloyal subjects. While we consider our claims on Lotharingia, we must ensure that all our partners are bolstered and ready to act." #copied from bur_subjects
  emp_bur_lorraine_title:0 "A Kingdom Divided" #copied from bur_lorraine
  emp_bur_lorraine_desc:0 "Our holdings in the North and South are extensive, yet the division of our birth right is difficult at best. The Duchies of Lorraine and Barrois are the missing link, and clearly belong under our ownership." #copied from bur_lorraine
- emp_bur_liege_title:0 "Підкорити Liege"
+ emp_bur_liege_title:0 "Підкорити Льєж"
  emp_bur_liege_desc:0 "Historically, the Bishopric of Liège has been a strong voice in the Vatican, and in the Holy Roman Empire. By extension, if we were to control this voice, we could better represent our interests." #copied from bur_liege
  emp_bur_join_the_empire_title:0 "Join the Empire"
  emp_bur_join_the_empire_desc:0 "We own territories that form part of the Holy Roman Empire, but as we were in the past technically subjects of France, we have never joined it. Membership could provide a much-needed bulwark against the French... and provide us with greater opportunities to expand our power in Germany."
