@@ -29,7 +29,7 @@ Solaris - emperor_missions, рядки Papal 1230-1362 (133) - триває ре
 Rensil - emperor_missions, рядки Provence 1363-1419 (57) - триває редагування.
 Roman_Hamster - emperor_missions рядки 1419-1539 (120).
 Beer&Bread - emperor_missions, рядки Bohemian 1675-1737 (63).
-Solaris - emperor_missions, рядки Prussian 1739-1805 (66) - триває редагування, рядок 1758.
+Solaris - emperor_missions, рядки Prussian 1739-1805 (66) - триває редагування, рядок 1779.
 Solaris - emperor_missions, рядки Neapolitan 1807-1852 (46) - триває редагування.
 Beer&Bread - emperor_missions, рядки German 1854-1908 (55).
 Subota - emperor_missions, рядки Hannoverian 2217-2259 (43).
@@ -77,7 +77,7 @@ emperor_estates_l_ukrainian.yml - в.1.30.2, перекладено / 1276
 emperor_l_ukrainian.yml - в.1.30.3, перекладено / 1043
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
-emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (99), 384-463 (79), Hungarian 535-609 (74) - триває редагування, Genoese 611-657 (47), Burgundian 659-779 (121) - триває редагування, Palatinate 781-803 (23), German/Bishop 806-842 (37), Dutch 844-935 (92) - триває редагування, Florentine 937-999 (33), Serbian 1001-1078 (78), Italian 1080-1153 (74) - триває редагування, Venetian 1155-1228 (74) - триває редагування, Papal 1230-1362 (133) - триває редагування, Provence 1364-1418 (55) - триває редагування, Bohemian 1675-1737 (63), Prussian 1739-1805 (66) - триває редагування, рядок 1758, Neapolitan 1807-1852 (46) - триває редагування, German 1854-1938 (85), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (27), French minors 2048-2127 (80), Swabian 2129-2179 (51), Franconian 2181-2215 (35), Hannoverian 2217-2259 (43), 2261-2548 (288) / 2548
+emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (99), 384-463 (79), Hungarian 535-609 (74) - триває редагування, Genoese 611-657 (47), Burgundian 659-779 (121) - триває редагування, Palatinate 781-803 (23), German/Bishop 806-842 (37), Dutch 844-935 (92) - триває редагування, Florentine 937-999 (33), Serbian 1001-1078 (78), Italian 1080-1153 (74) - триває редагування, Venetian 1155-1228 (74) - триває редагування, Papal 1230-1362 (133) - триває редагування, Provence 1364-1418 (55) - триває редагування, Bohemian 1675-1737 (63), Prussian 1739-1805 (66) - триває редагування, рядок 1779, Neapolitan 1807-1852 (46) - триває редагування, German 1854-1938 (85), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (27), French minors 2048-2127 (80), Swabian 2129-2179 (51), Franconian 2181-2215 (35), Hannoverian 2217-2259 (43), 2261-2548 (288) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.30.1, перекладено / 5008
 flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 1327-1337 (11), fra 1644-1654 (6), fra 1786-1808 (5), pol 2788-2801 (4) / 4804
