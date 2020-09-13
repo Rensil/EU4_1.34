@@ -27,11 +27,11 @@ Rensil - emperor_missions, рядки Venetian 1154-1228 (75) - триває р�
 Solaris - emperor_missions, рядки Papal 1230-1362 (133) - триває редагування.
 Rensil - emperor_missions, рядки Provence 1363-1419 (57) - триває редагування.
 Roman_Hamster - emperor_missions рядки 1419-1539 (120).
+Rensil - emperor_missions, рядки 1540-1654 (114).
 Beer&Bread - emperor_missions, рядки Bohemian 1675-1737 (63).
 Solaris - emperor_missions, рядки Neapolitan 1807-1852 (46) - триває редагування.
-Beer&Bread - emperor_missions, рядки German 1854-1908 (55).
+sergey-astral - emperor_missions, рядки German 1854-1904 (47).
 Subota - emperor_missions, рядки Hannoverian 2217-2259 (43).
-Rensil - emperor_missions, рядки 1540-1654 (114).
 Rensil - modifers, рядки rus 1613-1663 (49).
 Rensil - flavor_events, рядки rus 1327-1337 (11).
 Rensil - powers_and_ideas, рядки rus 5146-5175 (21).
