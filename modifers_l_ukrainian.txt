@@ -1622,7 +1622,7 @@
  desc_rus_alaska_modifier:0 "We are diverting state resources to ensure that furs from Alaska are safely and efficiently exported to Europe."
  third_rome_modifier:0 "The Third Rome"
  desc_third_rome_modifier:0 "This city is the Third Rome, most glorious in all the world."
- rus_reactionary_zeal:0 "Reactionary Zeal"
+ rus_reactionary_zeal:0 "Реакційне завзяття"
  desc_rus_reactionary_zeal:0 "The revolutionaries have been crushed! Nothing can stand in the way of the Tsar's authority."
  # TR Novgorod mission rewards
  nov_defeated_muscovy:0 "Muscovy Defeated"
