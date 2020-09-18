@@ -3082,7 +3082,7 @@
  council_of_trent_participation:0 "Учасник Тридентського собору"
  legitimate_subject_elector_tt:0 "This Subject will be considered Legitimate in the eyes of the Empire, conferring no penalty in Imperial elections."
  protected_markets_modifier:0 "Захист ринків"
- desc_protected_markets_modifier:0 "The markets of Germany are protected by the firm hand of the state, ensuring that money flows into coffers."
+ desc_protected_markets_modifier:0 "Ринки Німеччини захищені твердою рукою держави, що забезпечує надходження грошей у скарбницю."
  swiss_guard_activated:0 "Діє Папська швейцарська гвардія."
  centralize_fra_tt:0 "Жодна країна-суб'єкт не має столиці в регіоні Франція"
  THE_CALIPHATE:0 "Халіфат"
