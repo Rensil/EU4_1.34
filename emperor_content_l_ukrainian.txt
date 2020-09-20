@@ -3368,5 +3368,5 @@
  same_govt_as_root_tt:0 "Has the same government type as [Root.GetName]"
  imperial_ban_fallback_tt:0 "Кожна національна провінція належить державі §Y[Root.GetName]§!."
  EST_VAL_HEATHEN_PEACE_LOYALTY:0 "Not at War with Heathens: §G$VAL$§!"
- emperor_trying_to_avert_shadow_kingdom_tt:0 "The Emperor has formally decided to rein in Italy"
+ emperor_trying_to_avert_shadow_kingdom_tt:0 "Імператор офіційно вирішив приборкати Італію"
  opinion_left_hre:0 "Покинути імперію"
