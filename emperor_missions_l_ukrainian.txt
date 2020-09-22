@@ -600,7 +600,7 @@
  new_flavour_hun.1.A:0 "Hungary belongs in the Empire."
  new_flavour_hun.1.B:0 "Our current situation is agreeable enough."
  new_flavour_hun.2.name:0 "Угорщина бажає приєднатися до Імперії"
- new_flavour_hun.2.desc:3 "Коли [hungary_country.Monarch.GetTitle] [hungary_country.Monarch.GetName] об'єдна[hungary_country.Monarch.GetMEndVLa] під своєю владою королівства Угорщину та Богемію, угорці звернулися до [Emperor.Monarch.GetTitleOGO] [Emperor.Monarch.GetName] in [Emperor.Monarch.GetHerHis] capacity as Emperor of the Holy Roman Empire to be allowed to join the Empire. Крім того, вони наполягають на тому, що, оскільки Богемія зараз є лише частиною їхніх великих володінь, богемське курфюрство повинно бути офіційно передано угорській династії  [hungary_country.Monarch.Dynasty.GetName]."
+ new_flavour_hun.2.desc:3 "Коли [hungary_country.Monarch.GetTitle] [hungary_country.Monarch.GetName] об'єдна[hungary_country.Monarch.GetMEndVLa] під своєю владою королівства Угорщину та Богемію, угорці звернулися до [Emperor.Monarch.GetTitleOGO] [Emperor.Monarch.GetName] і попросили в [Emperor.Monarch.GetHerHis],  як чинно[Emperor.Monarch.GetMEndJiGO] [Emperor.Monarch.GetTitleOGO] Священної Римської Імперії, дозволу приєднатися до Імперії. Крім того, вони наполягають на тому, що, оскільки Богемія зараз є лише частиною їхніх великих володінь, богемське курфюрство повинно бути офіційно передано угорській династії  [hungary_country.Monarch.Dynasty.GetName]."
  new_flavour_hun.2.A:0 "Hungary's membership would strengthen the Empire."
  new_flavour_hun.2.B:0 "Hungary's membership would damage the Empire."
  new_flavour_hun.3.name:0 "The Greeks in [151.GetName]"
