@@ -1672,7 +1672,7 @@
  reformer_dissension.1.A.tt:0 "§YРеформатські князі будуть обурені та можуть вирішити залишити Імперію.§!"
  reformer_dissension.1.B:0 "Надайте їм рівні права."
  reformer_dissension.1.C:0 "Ми повинні поступитися всім вимогам."
- reformer_dissension.1.C.tt:0 "\nAn Emperor reduced to §Y1§! province or with less than §Y-50§! warscore against a §YReformed§! enemy will pick this option."
+ reformer_dissension.1.C.tt:0 "\nІмператор, землі якого скорочено до §Y1§! провінції, або який має §Y-50§! воєнного рахунку проти §Yреформованого§! ворога, обере цю опцію."
  reformer_dissension.2.name:0 "[Emperor.GetName] відкидає вимоги реформаторів!"
  reformer_dissension.2.desc:0 "Імператор [Emperor.Monarch.GetName] династії [Emperor.GetName] відкинув вимоги реформаторів щодо рівності всередині Імперії, проголосивши протестантизм єдиною істинною вірою, і що послідовники інших релігій повинні підкоритися або зіткнутися з наслідками. Ми можемо лише дивуватися [Emperor.Monarch.GetHerHis] зарозумілості, коли обдумуємо нашу відповідь."
  reformer_dissension.2.A:0 "Наше майбутнє все ще в Імперії."
