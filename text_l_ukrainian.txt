@@ -4061,7 +4061,7 @@
  MERC_CAV:0 "Наймана кавалерія "
  MERC_ART:0 "Наймана артилерія "
  THE_YEAR_IS_BEFORE:0 "Рік до "
- THE_YEAR_IS_AFTER:0 "Рік після "
+ THE_YEAR_IS_AFTER:0 "Рік, щонайменше "
  HAVE_LESS_THAN:0 "У скарбниці менше "
  HAVE_MORE_THAN:0 "У скарбниці щонайменше "
  HAVE_PRESTIGE_LESS_THAN:0 "Престиж менше "
