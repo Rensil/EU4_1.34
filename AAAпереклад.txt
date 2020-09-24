@@ -20,7 +20,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 sergey-astral - emperor_content - весь файл.
 Iceberg937 - emperor_content рядки 1794-1843 (49).
 Solaris - emperor_missions, рядки Savoyard 264-362 (99) - триває редагування.
-Rensil - emperor_missions, рядки Hungarian 534-609 (76) - триває редагування.
+Rensil - emperor_missions, рядки Hungarian 551-609 (50) - триває редагування.
 Rensil - emperor_missions, рядки Dutch 844-935 (92) - триває редагування.
 Rensil - emperor_missions, рядки Venetian 1154-1228 (75) - триває редагування.
 Solaris - emperor_missions, рядки Papal 1230-1362 (133) - триває редагування.
@@ -70,7 +70,7 @@ emperor_estates_l_ukrainian.yml - в.1.30.2, перекладено / 1276
 emperor_l_ukrainian.yml - в.1.30.3, перекладено / 1043
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
-emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (92), Austrian Mission 364-463 (93), Austrian Mission Modifiers 465-519 (52), Hungarian 535-609 (65) - триває редагування, Genoese 611-657 (47), Palatinate 781-803 (23), German/Bishop 806-842 (37), Dutch 844-935 (92) - триває редагування, Florentine 937-999 (33), Serbian 1001-1078 (78), Venetian 1155-1228 (74) - триває редагування, Papal 1230-1362 (133) - триває редагування, French 1428-1539 (100), Swiss 1540-1654 (114), Bohemian 1675-1737 (63), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (48), Franconian 2181-2215 (35), Various 2277-2548 (209) / 2548
+emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (92), Austrian Mission 364-463 (93), Austrian Mission Modifiers 465-519 (52), Hungarian 551-609 (50) - триває редагування, Genoese 611-657 (47), Palatinate 781-803 (23), German/Bishop 806-842 (37), Dutch 844-935 (92) - триває редагування, Florentine 937-999 (33), Serbian 1001-1078 (78), Venetian 1155-1228 (74) - триває редагування, Papal 1230-1362 (133) - триває редагування, French 1428-1539 (100), Swiss 1540-1654 (114), Bohemian 1675-1737 (63), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (48), Franconian 2181-2215 (35), Various 2277-2548 (209) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.30.1, перекладено / 5008
 flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 1327-1337 (11), fra 1786-1808 (5), pol 2788-2801 (4) / 4804
