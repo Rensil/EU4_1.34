@@ -73,7 +73,7 @@ emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (92), Austrian Mission 364-463 (93), Austrian Mission Modifiers 465-519 (52), Hungarian 551-609 (50) - триває редагування, Genoese 611-657 (47), Palatinate 781-803 (23), German/Bishop 806-842 (37), Dutch 844-935 (92) - триває редагування, Florentine 937-999 (33), Serbian 1001-1078 (78), Venetian 1155-1228 (74) - триває редагування, Papal 1230-1362 (133) - триває редагування, French 1428-1539 (100), Swiss 1540-1654 (114), Bohemian 1675-1737 (63), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (48), Franconian 2181-2215 (35), Various 2277-2548 (209) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.30.1, перекладено / 5008
-flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 1327-1337 (11), fra 1786-1808 (5), pol 2788-2801 (4) / 4804
+flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 1327-1337 (11), fra 1798-1808 (3), pol 2788-2801 (4) / 4804
 generic_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 1106-1162 (32), 1250-1490 (44), 2248-2252 (4), 2688-2703 (2), 2784-2800 (2), 2860-2874 (4), 3201-3215 (4), 3279, 3556, 3882-3910 (7), 4186-4190 (2) / 4420
 golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.30.1, перекладено / 332
