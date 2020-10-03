@@ -1263,7 +1263,7 @@
  EVTOPTA5016:0 "Спробувати допомогти людям."
  EVTOPTB5016:0 "Придушити повстання."
  EVTNAME5017:0 "Скандал у королівському дворі"
- EVTDESC5017:1 "A scandal has erupted in the royal court! It seems that salacious rumors have been spreading regarding the promiscuousness of the [Root.Monarch.GetTitleKHTO]'s daughter, with the result that the [Root.Monarch.Dynasty.GetName] family has become the laughing stock of the [Root.GetAdjective] nobility. This is making it difficult to get anything done."
+ EVTDESC5017:1 "A scandal has erupted in the royal court! It seems that salacious rumors have been spreading regarding the promiscuousness of the [Root.Monarch.GetTitle]'s daughter, with the result that the [Root.Monarch.Dynasty.GetName] family has become the laughing stock of the [Root.GetAdjective] nobility. This is making it difficult to get anything done."
  EVTOPTA5017:0 "Взяти провину на себе і повернутися до справ."
  EVTOPTB5017:0 "Підкупити радника, щоб він взяв вину на себе."
  EVTNAME5018:0 "Хвиля мракобісся"
