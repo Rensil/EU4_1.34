@@ -1286,7 +1286,7 @@
  emp_pap_fight_the_heretics_desc:0 "Єресь потрібно викорінити. Німецькі князі більше не можуть оскаржувати керівництво Риму!"
  emp_pap_levantine_missions_title:0 "Levantine Missions"
  emp_pap_levantine_missions_desc:0 "The Holy Lands have been hotly contested by Christians and Muslims, and we would be remiss if we did not continue the fight. We should do everything in our power to ensure that the lands of the Levant are brought back under the rule of Catholic princes."
- emp_pap_levantine_missions_tt:1 " provinces in the §YMashriqi§! region must be owned by a §YCatholic§! country"
+ emp_pap_levantine_missions_tt:1 " провінції в регіоні §YМашрік§! повинні належати §Yкатолицькій§! країні"
  emp_pap_mission_to_china_title:0 "Mission To China"
  emp_pap_mission_to_china_desc:0 "It is our solemn duty to evangelize everywhere, to bring the Word of God to all corners of the earth. As our knowledge of the world grows, so too does our duty. Explorers in the Far East have begun making contact with Chinese merchants; it is a sign that we must go forth and proselytize among them."
  emp_pap_mission_to_china_tt:0 "§YChina§! has been discovered"
