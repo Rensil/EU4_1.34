@@ -999,7 +999,7 @@
  opinion_benevolent_dotf:0 "Приклад усім католикам"
  opinion_repaired_relations:0 "Відновив стосунки"
  opinion_not_recripocated:0 "Відхилив оливкову гілку"
- dotf.4.t:0 "The Universal Church"
+ dotf.4.t:0 "Вселенська Церква"
  dotf.4.d:0 "Scholars have long believed that the Catholic Church might be used as a common ground from which to establish lasting peace in Christendom, if only its leaders could summon the political will to put aside their differences. One such thinker is [Root.humanist_thinker_name.GetName], a respected humanist who has gained the ear of the [Root.Monarch.GetTitle]. He suggests that we should seek to repair our relationship with our rivals, the [catholic_rival.GetAdjective], arguing that good Catholics have no true cause to fight one another. Such an act of benevolence would surely be seen as an example to Catholics rulers everywhere, laying the groundwork for long-lasting peace."
  dotf.4.a:0 "We should try to reconcile with [catholic_rival.GetName]."
  dotf.4.b:0 "Nonsense. Send [catholic_rival.GetName] a scathing insult instead."
