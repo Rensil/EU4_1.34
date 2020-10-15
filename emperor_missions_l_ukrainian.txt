@@ -460,7 +460,7 @@
  emp_hab_power_to_habsburg_desc:0 "Hegemony over Europe is our destiny. We must seize it in both hands and ensure that none are left who do not recognize our superiority."
  emp_hab_power_to_habsburg_trigger_tooltip:0 "Жодна держава:\n   §YCapital§! is on the continent §YEurope§!.\n   Is a Great Power.\n   Is NOT allied with §YAustria§!.\n   Has NOT been defeated by §YAustria§! in war in the past 100 years."
  emp_hab_power_to_habsburg_trigger2_tooltip:0 "Жодна держава:\n   §YCapital§! is on the continent §YEurope§!.\n   Has at least §Y300§! total development.\n   Is NOT allied with §YAustria§!.\n   Is NOT a subject of §YAustria§!.\n   Has NOT been defeated by §YAustria§! in war in the past 100 years."
- no_hre_province_owned_by_non_hre_member_or_overlord_trigger:0 "No Province:\n   Is part of the HRE.\n   Одна з наступних умов має бути виконана:\n      Is owned by a country not in the HRE.\n      Is owned by a country that is subject to a country not in the HRE."
+ no_hre_province_owned_by_non_hre_member_or_overlord_trigger:0 "Жодна провінція:\n   Is part of the HRE.\n   Одна з наступних умов має бути виконана:\n      Is owned by a country not in the HRE.\n      Is owned by a country that is subject to a country not in the HRE."
  #Austrian Mission Modifiers
  hab_austrian_netherlands:0 "Austrian Netherlands"
  desc_hab_austrian_netherlands:0 "With the Netherlands secured, we are well-placed to turn our ambitions towards establishing a colonial empire to equal those of our competitors in Europe."
@@ -845,7 +845,11 @@
  emp_ned_seize_ceylon_desc:0 "Багатий острів Цейлон - це не лише прибуткове джерело доходу, але й ключовий пункт для кораблів, що прямують далі на схід. Якщо ми не захопимо його, то це неодмінно зроблять наші вороги."
  emp_ned_found_batavia_title:0 "Заснувати Батавію"
  emp_ned_found_batavia_desc:0 "Our growing presence in the East Indies requires a nearby administrative center, where our merchants can be protected by our guns and our ships can safely dock."
+<<<<<<< Updated upstream
  emp_ned_conquer_malacca_title:0 "Підкорити Малакку"
+=======
+ emp_ned_conquer_malacca_title:0 "Conquer Malacca"
+>>>>>>> Stashed changes
  emp_ned_conquer_malacca_desc:0 "Malacca is an important town in the East Indies, one which we must not tolerate falling into the hands of our competitors. It must be taken!"
  emp_ned_dutch_formosa_title:0 "Dutch Formosa"
  emp_ned_dutch_formosa_desc:0 "To better intercept our competitors' trade in the Far East, and to help our own merchants trade with China and Japan, we should establish a base on the island of Formosa."
