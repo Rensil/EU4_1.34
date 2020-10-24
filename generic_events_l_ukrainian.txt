@@ -3198,7 +3198,7 @@
  EVTOPTA2067:0 "Можливо, він правий"
  EVTOPTB2067:0 "Цього більш ніж достатньо"
  EVTNAME1420:0 "Батько-засновник у колонії $PROVINCENAME$."
- EVTDESC1420:1 "There is a gentleman in [Root.GetName] preaching to the people that their home would be better off free from the “clutches of [Root.Owner.GetAdjective] imperialism” and that the entirety of the region should embrace self-governance. While many regarded him at first as a harmless nuisance, the number of followers he’s gained is rapidly growing, and some members of our government worry that eventually, this “founding father” will incite a violent rebellion in [Root.GetName] in an attempt to break away from the [Root.Owner.GetAdjective] Empire."
+ EVTDESC1420:1 "У державі [Root.GetName] є джентльмен, який проповідує людям, що їх батьківщині стане краще бути вільною від 'лещат [Root.Owner.GetAdjective]ого імперіалізму' і що весь регіон повинен прийняти самоврядування. While many regarded him at first as a harmless nuisance, the number of followers he’s gained is rapidly growing, and some members of our government worry that eventually, this “founding father” will incite a violent rebellion in [Root.GetName] in an attempt to break away from the [Root.Owner.GetAdjective] Empire."
  EVTOPTA1420:0 "Він не заподіє ніякої шкоди"
  EVTOPTB1420:0 "Стратити його"
  EVTNAME1421:0 "Проповідник розпалює ворожнечу в колонії $PROVINCENAME$"
