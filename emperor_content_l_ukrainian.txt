@@ -948,7 +948,7 @@
  # Hansa incident
  hansa_incident.1.t:0 "Decline of the Hanseatic League"
  hansa_incident.1.d:0 "The Hansa were once the undisputed masters of trade from London to Novgorod. Dominating the Baltic Sea from our home port of Lübeck, members of the League were blessed with wealth. Now though the fortunes of the Hanseatic League have fallen into decline. Infighting within the League and a series of economic crises have led to our merchants not even having control over the trade around Lübeck itself. A new power, [lubeck_trade_power.GetName], has supplanted the Hansa in its home waters and threatens to make the Hanseatic League obsolete."
- hansa_incident.1.a:0 "Ask the Emperor for help."
+ hansa_incident.1.a:0 "Попросити Імператора про допомогу."
  hansa_incident.1.b:0 "Renew our ties with the League."
  hansa_incident.2.t:0 "Decline of the Hanseatic League"
  hansa_incident.2.d:1 "The Hansa were once the undisputed masters of trade from London to Novgorod. Now though the fortunes of the Hanseatic League have fallen into decline. In their desperation, the League has petitioned the Emperor for help."
@@ -1752,7 +1752,7 @@
  flavor_efr.EVTOPTB1:0 "I bow to no Emperor."
  flavor_efr.EVTNAME2:0 "East Frisia Offers to Join the Empire"
  flavor_efr.EVTDESC2:0 "An envoy from the leader of the peasants in East Frisia has arrived asking [Root.Monarch.GetTitle] [Root.Monarch.GetName] to support [EFR.Monarch.GetName]’s claim to the County of East Frisia. In return for our support, [Root.Monarch.GetSheHe] has offered to kneel before the Emperor as a Prince of the Holy Roman Empire.\n\nOfficially, the county of East Frisia is held by [dutch_east_frisia_claimant.Monarch.GetName] of Holland. The Holy Roman Empire has made no official stance on the matter, and a single word from the Emperor could bring an end to this conflict."
- flavor_efr.EVTOPTA2:0 "Welcome to the Empire."
+ flavor_efr.EVTOPTA2:0 "Ласкаво просимо до Імперії."
  flavor_efr.EVTOPTB2:0 "Support the [dutch_east_frisia_claimant.GetAdjective] claim to East Frisia."
  flavor_efr.EVTNAME3:0 "East Frisia and the Empire"
  flavor_efr.EVTDESC3.1:0 "With [From.Monarch.GetName]’s approval, [Root.Monarch.GetName] is a nameless peasant leader no more. [Root.Monarch.GetSheHeCap] is Imperial Count [Root.Monarch.GetName] of East Frisia. With the Emperor’s approval and recognition, the [dutch_east_frisia_claimant.GetAdjective] claims on East Frisia have faded into weakness beyond recognition."
