@@ -1042,4 +1042,3 @@
  CB_ALLOWED_force_peasant_republic:0 "Нав'язати селянське правління"
  PEACE_force_peasant_republic:0 "Нав'язати селянське правління"
  ESTATE_PRIVILEGE_MAX_GRANTED:0 "§RНе можна гарантувати стану більше, ніж 4 привілея.§!"
-
