@@ -21,7 +21,6 @@ sergey-astral - emperor_content - весь файл.
 Iceberg937 - emperor_content рядки 1794-1843 (49).
 Solaris - emperor_missions, рядки Savoyard 264-362 (99) - триває редагування.
 Rensil - emperor_missions, рядки Dutch 847-935 (89) - триває редагування.
-Rensil - emperor_missions, рядки Venetian 1198-1228 (31) - триває редагування.
 Rensil - emperor_missions, рядки 1540-1654 (114).
 Beer&Bread - emperor_missions, рядки Bohemian 1675-1737 (63).
 Rensil - modifers, рядки rus 1613-1663 (49).
@@ -67,7 +66,7 @@ emperor_estates_l_ukrainian.yml - в.1.30.2, перекладено / 1276
 emperor_l_ukrainian.yml - в.1.30.4, перекладено / 1044
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
-emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (92), Austrian Mission 391-463 (49), Austrian Mission Modifiers 465-519 (52), Genoese 611-657 (47), Palatinate 781-803 (23), Dutch 847-935 (89) - триває редагування, Florentine 937-999 (33), Serbian 1001-1078 (78), Venetian 1198-1228 (31) - триває редагування, Swiss 1540-1654 (114), Bohemian 1675-1737 (63), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (48), Franconian 2181-2215 (35), Various 2287-2548 (184) / 2548
+emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (92), Austrian Mission 391-463 (49), Austrian Mission Modifiers 465-519 (52), Genoese 611-657 (47), Palatinate 781-803 (23), Dutch 847-935 (89) - триває редагування, Florentine 937-999 (33), Serbian 1001-1078 (78), Swiss 1540-1654 (114), Bohemian 1675-1737 (63), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (48), Franconian 2181-2215 (35), Various 2287-2548 (184) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.30.1, перекладено / 5008
 flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 1327-1337 (11) / 4804
