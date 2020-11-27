@@ -2378,7 +2378,7 @@
  hsa_london_channel_mission_desc:0 "The English are in an envious position to make wealth from trade. We should either make joint cause with them or challenge their nascent commercial empire before it is too late."
  hsa_edinburgh_mission_title:0 "A Base in Scotland"
  hsa_edinburgh_mission_desc:0 "The city of Edinburgh would make a fine addition to our league, being well-placed to act as our base on the North Sea. We should "persuade" them to make us their main trading partner."
- hsa_north_sea_trade_mission_title:0 "Відстояти North Sea Trade"
+ hsa_north_sea_trade_mission_title:0 "Безпечна торгівля в Північному морі"
  hsa_north_sea_trade_mission_desc:0 "In the past, our main source of wealth was always trade with the East. Now, however, the riches of Russia are increasingly dwarfed by the immense wealth flowing from the colonies to Europe. The northern conduit of these new trade routes is through the North Sea to the Low Countries and England, but perhaps we could persuade traders to sail to [Root.Capital.GetCapitalName] instead..."
  hsa_newfoundland_trading_ports_mission_title:0 "Newfoundland Trading Ports"
  hsa_newfoundland_trading_ports_mission_desc:0 "Explorers speak of a bountiful new land in the far west. It would be unwise to leave the exploitation of it to others."
