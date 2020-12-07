@@ -1153,10 +1153,10 @@
  memes.1.opt.a:0 "[da_company.Leader.GetName], Нііііі!"
  memes.1.opt.b:0 "I guess he should have paid for the lucky chest..."
  # Misc content
- ven_mercenaries_paid_with_land:0 "Mercenaries Receive Land Grants"
- desc_ven_mercenaries_paid_with_land:0 "By granting mercenaries land instead of paying them with coin, the financial burden of mercenaries can fall by a modest amount."
+ ven_mercenaries_paid_with_land:0 "Найманці отримують земельні ділянки"
+ desc_ven_mercenaries_paid_with_land:0 "Надаючи найманцям землю замість того, щоб платити їм монетою, можна полегшити фінансовий тягар утримання найманців."
  ven_venture_captain_recruitment:0 "Venture-Captain Recruitment"
- desc_ven_venture_captain_recruitment:0 "Attacting more mercenary leaders to our realm increases our ability to raise big armies in an emergency and ensure that they are lead by competent generals, even if it costs us a little extra."
+ desc_ven_venture_captain_recruitment:0 "Залучення більшої кількості лідерів найманців до нашої держави збільшить наші можливості збирати великі армії в надзвичайних ситуаціях і гарантує, що їх очолять компетентні генерали, навіть якщо це коштуватиме нам трохи дорожче."
  flavor_ara7_naples_goes_free:0 "Неаполь стане незалежним, їм буде правити син Альфонсо V."
  opinion_NAP_paid_tribute:0 "Неаполь віддав данину"
  naples_in_union_with_france:0 "§YНеаполь§! стає нашим молодшим партнером."
