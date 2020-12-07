@@ -868,7 +868,7 @@
  ambrosian_republic.9.a:0 "Сприятливий розвиток подій."
  # Black Army reform
  black_army_reform:0 "Інституціоналізована Чорна армія"
- black_army_reform_desc:0 "Regardless of aristocratic objections, the Black Army is undeniably an effective military force. We shall institutionalize their company and ensure that there is always a reserve of veteran soldiers waiting to join their ranks.\n\nEnables the Black Army and Black Army Reserves mercenary companies.\nThe Black Army will never be disbanded.\nThe Black Army will never mutiny."
+ black_army_reform_desc:0 "Незалежно від аристократичних заперечень, Чорна армія, безперечно, є ефективною військовою силою. Ми інституціоналізуємо їхню компанію та забезпечимо постійний резерв солдатів-ветеранів, які чекають вступу до їхніх лав.\n\nДозволить компанії найманців Чорної армії та резервів Чорної армії.\nЧорна армія ніколи не буде розформована.\nЧорна армія ніколи не збунтується."
  flavor_hun.18.b:0 "Дурниці! Реформувати та інституціоналізувати Чорну армію."
  # Папські події з десятиною
  curia.1.t:0 "Помилка в облікових записах Курії"
