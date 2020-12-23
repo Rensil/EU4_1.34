@@ -172,7 +172,7 @@
  crown_land_level_8:0 "Королівські землеволодіння"
  crown_land_level_9:0 "Королівські землеволодіння"
  estate_privileges_and_agendas_events.2.name:0 "Майнові права станів"
- estate_privileges_and_agendas_events.2.desc:0 "Стани держави [Root.GetName] запропонували компроміс [Root.Monarch.GetMTitleOMU] [Root.Monarch.GetName], щоб вирішити ті проблеми, які виникли через слабкий контроль уряду за землями. В обмін на землі, стани вимагають певних свобод..."
+ estate_privileges_and_agendas_events.2.desc:0 "Стани держави [Root.GetName] запропонували компроміс [Root.Monarch.GetTitleOMU] [Root.Monarch.GetName], щоб вирішити ті проблеми, які виникли через слабкий контроль уряду за землями. В обмін на землі, стани вимагають певних свобод..."
  estate_privileges_and_agendas_events.2.a:0 "Чесно кажучи, чого ви очікували, коли розпродали всю країну?"
  estate_privileges_and_agendas_events.2.b:0 "ПФФ, ми розберемося з цим самі..."
  seize_land_unavailable_from_privilege:0 "§RНе можна відібрати землі, оскільки наразі діють прівелеї на законні права станів§!"
