@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  RNW_COLONIAL_REGION_NAME:0 "Colonial $REGION$"
  mount_sky:0 "Mount Sky"
  syphilia:0 "Syphilia"
