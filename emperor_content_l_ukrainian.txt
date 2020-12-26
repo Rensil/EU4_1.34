@@ -1,4 +1,4 @@
-﻿l_ukrainian:
+﻿l_english:
  # Country formation decisions
  TTS:0 "Дві Сицилії"
  TTS_ADJ:0 "Сицилійськ"
@@ -647,7 +647,7 @@
  bam_little_venice:0 "Little Venice"
  bam_little_venice_desc:0 "Near the Regnitz river, many new houses were already built towards the riverside. Our citizens even use small gondolas for transportation and trading. We should encourage even more to settle there in the style of Venice."
  bam_witch_burner:0 "Witch Burner"
- bam_witch_burner_desc:0 ""Moreover if someone harmed the people with sorcery or caused to the people's disadvantage, one should punish from life to death, and one should execute the punishment with fire.""
+ bam_witch_burner_desc:0 "Moreover if someone harmed the people with sorcery or caused to the people's disadvantage, one should punish from life to death, and one should execute the punishment with fire."
  bam_vierzehnheiligen:0 "Vierzehnheiligen"
  bam_vierzehnheiligen_desc:0 "According to local folklore, a shepherd had visions of children who called themselves the Fourteen Holy Helpers and performed a series of miracles, healing the terminally ill. The basilica erected to commemorate these visitations has quickly become a popular site for pilgrims from across Germany."
  bam_university:0 "Universitas Ottoniano Fridericiana"
@@ -1622,7 +1622,7 @@
  emperor_geteilte_macht_province:0 "Поділ влади"
  emperor_reichskrieg_emperor_per_prince:0 "Імперська війна"
  emperor_hofgericht_emperor:0 "Реформувати суд"
- emperor_erbkaisertum_emperor:0 ""Скасувати вибори"
+ emperor_erbkaisertum_emperor:0 "Скасувати вибори"
  emperor_privilegia_de_non_appelando_emperor:0 "Відкликати Privilegia"
  emperor_reichsreform_province:0 "Імперська реформа"
  emperor_reichsregiment_province:0 "Імперський уряд"
