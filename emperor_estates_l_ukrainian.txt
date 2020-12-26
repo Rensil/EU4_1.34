@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  #Estate Privileges and related
  estate_nobles_land_rights:0 "Розширення володінь стану $ESTATE_NAME$"
  estate_nobles_nobility_primacy:0 "Верховенство стану $ESTATE_NAME$"
