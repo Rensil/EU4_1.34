@@ -1,4 +1,4 @@
-﻿l_ukrainian:
+﻿l_english:
  DLC_dlc001_TOOLTIP_INSTANT:0 "100 Years War Unit Pack"
  DLC_dlc001_TOOLTIP_DELAYED:0 "- Unique tier 1 unit models for 11 countries in France and Britain"
  DLC_dlc002_TOOLTIP_INSTANT:0 "Horsemen of the Crescent Unit Pack"
