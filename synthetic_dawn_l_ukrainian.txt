@@ -1,4 +1,4 @@
-﻿l_ukrainian:
+﻿l_english:
  synthetic_dawn.1.t:0 "Synthetic Dawn"
  synthetic_dawn.1.d:0 "They came from the sky in immense metal vessels larger than a city. The slaughter began as soon as they disembarked; unfeeling monsters covered entirely in armor and with no discernible flesh or blood exterminated all in their path. The Synthetic invasion has begun."
  synthetic_dawn.1.a:0 "What are these creatures? What do they want?"
