@@ -2284,8 +2284,8 @@
  new_flavour_hun.2.C:0 "Ми ретельно розглянемо цю петицію."
  gain_claims_on_palatinate_provinces:0 "§Y[Root.GetName]§! отримає довічні претензії на всі інші провінції, що належать §YПфальцу§!."
  #Palatinate
- pal_protect_from_france_effect_tooltip1:0 "If you complete this mission by befriending France, the following reward is granted:"
- pal_protect_from_france_effect_tooltip2:0 "\nOtherwise, the following reward is granted:"
+ pal_protect_from_france_effect_tooltip1:0 "Якщо ви завершите цю місію, подружившись з Францією, ви отримаєте наступну нагороду:"
+ pal_protect_from_france_effect_tooltip2:0 "\nВ іншому випадку надається наступна нагорода:"
  #Brittany Missions
  bri_build_alliances_title:0 "Укласти союзи"
  bri_build_alliances_desc:0 "Затиснутій між набагато сильнішими державами Бретані, щоб вижити та процвітати, потрібні могутні союзники."
