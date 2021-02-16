@@ -1151,7 +1151,7 @@
  memes.1.t:0 "Regiis Proelis - Королівська битва"
  memes.1.d:0 "Лідер компанії [da_company.GetName] занудьгував і вирішив організувати якусь гру, в якій кожного чоловіка кидали в якусь частину місцевості [da_company.Location.GetName] і доручали вистежити інших."
  memes.1.opt.a:0 "[da_company.Leader.GetName], Нііііі!"
- memes.1.opt.b:0 "I guess he should have paid for the lucky chest..."
+ memes.1.opt.b:0 "Думаю, йому слід було заплатити за щасливу скриню..."
  # Misc content
  ven_mercenaries_paid_with_land:0 "Найманці отримують земельні ділянки"
  desc_ven_mercenaries_paid_with_land:0 "Надаючи найманцям землю замість того, щоб платити їм монетою, можна полегшити фінансовий тягар утримання найманців."
