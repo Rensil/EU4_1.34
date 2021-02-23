@@ -3879,7 +3879,7 @@
  random_event.EVTOPTB16:0 "Нехай йому платять торговці"
  random_event.EVTOPTC16:0 "Ми не будемо вести переговори з шахраями"
  colonial.EVTNAME8:0 "Відьма!"
- colonial.EVTDESC8:1 "The villagers in $PROVINCENAME$ have caught a witch red-handed as they claim she attempted to bake a group of children alive in her oven. The town is in outrage and it seems she is likely to be burnt at the stake. Friends of “evidence” and “logic” in our court claim that the proof for her acts of witchery are flimsy and weak at best, and that burning an innocent woman alive is an abomination, according to both the laws of our land and the holy texts. But since when have facts and logic played any part in the administration of our state?"
+ colonial.EVTDESC8:1 "Жителі села в провінції $PROVINCENAME$ зловили відьму на гарячому, яка, як вони стверджують, намагалася заживо спекти у своїй печі групу дітей. Містечко обурене, і, схоже, її спалять на вогнищі. Прихильники здорового глузду та логіки при нашому дворі стверджують, що докази її ворожби в кращому випадку непереконливі та слабкі, і що спалення живцем невинної жінки є мерзенністю, як за законами нашої країни, так і за священними писаннями. Але з якого це часу факти та логіка відігравали якусь роль в управлінні нашою державою?"
  colonial.EVTOPTA8:0 "Спалити відьму, спалити до попелу і кісток!"
  colonial.EVTOPTB8:1 "Усі знають, що відьм не існує. Відпустіть бідну жінку."
  colonial.EVTNAME9:0 "Нове селище"
