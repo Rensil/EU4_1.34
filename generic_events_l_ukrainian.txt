@@ -1370,7 +1370,7 @@
  EVTOPTB5063:0 "Нехай розбираються самостійно."
  EVTOPTC5063:0 "Спробувати вирішити проблему."
  EVTNAME5064:0 "Допомога дворян іноземній державі"
- EVTDESC5064:1 "[Root.NoblesNZ_CAP] часто виявляються непокірними підданими [Root.Monarch.GetTitleOGO], прагнучи протистояти будь-якому посяганню на їхню автономію та використовуючи будь-яку можливість для зміцнення свого становища. Це нерідко припускає ведення спільних справ з іноземними державами. Нещодавно кілька ключових фігур, мабуть, уклали угоду з державою [neighbour_country.GetUsableName], щоб підтримати pro-[neighbour_country.GetAdjective]ий курс дій в обмін на певні послуги та обіцянки. While not directly treasonable, this behavior is clearly detrimental to our interests; however, reining them in is likely to prove no easy matter."
+ EVTDESC5064:1 "[Root.NoblesNZ_CAP] часто виявляються непокірними підданими [Root.Monarch.GetTitleOGO], прагнучи протистояти будь-якому посяганню на їхню автономію та використовуючи будь-яку можливість для зміцнення свого становища. Це нерідко припускає ведення спільних справ з іноземними державами. Нещодавно кілька ключових фігур, мабуть, уклали угоду з державою [neighbour_country.GetUsableName], щоб підтримати про[neighbour_country.GetAdjective]ий курс дій в обмін на певні послуги та обіцянки. While not directly treasonable, this behavior is clearly detrimental to our interests; however, reining them in is likely to prove no easy matter."
  EVTOPTA5064:0 "Вони заплатять за свою зраду."
  EVTOPTB5064:0 "Матимемо з ними справу пізніше."
  EVTNAME5065:0 "Вбивство дворянина"
