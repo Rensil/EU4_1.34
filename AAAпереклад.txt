@@ -13,7 +13,7 @@ Discord") (бажано) або на толоці. Будемо раді не л
 
 ПриватБанк: 5168 7427 0122 4887
 
-В файлі прогрес перекладу до версії 1.30.4. Пошук та зміну тексту виконано за допомогою WinMerge.
+В файлі прогрес перекладу до версії 1.30.6. Пошук та зміну тексту виконано за допомогою WinMerge.
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
@@ -42,10 +42,10 @@ Rensil - powers_and_ideas, рядки rus 5146-5175 (21).
 
 1283_l_ukrainian - в.1.28.3, перекладено / 2
 achievement_tooltips_l_ukrainian - в.1.30.1, перекладено / 57
-achievements_l_ukrainian.yml - в.1.30.3, без перекладу рядки: 222-627 (400) / 596
+achievements_l_ukrainian.yml - в.1.30.6, без перекладу рядки: 222-627 (400) / 627
 aow_l_ukrainian.yml - в.1.30.1, перекладено / 2361
 areas_regions_l_ukrainian.yml - в.1.30.1, перекладено / 2826
-common_sense_l_ukrainian.yml - в.1.30.1, перекладено / 1690
+common_sense_l_ukrainian.yml - в.1.30.6, перекладено / 1690
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.30.1, перекладено / 933
 cossacks_l_ukrainian.yml - в.1.30.1, перекладено / 1481
@@ -66,7 +66,7 @@ emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (86), Palatinate 781-803 (21), Florentine 938-999 (30), Serbian 1001-1078 (74), Swiss 1542-1593 (23), Crusader States 1600-1673 (72), Bohemian 1676-1737 (29), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2292-2312 (18), Various 2292-2548 (164) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
-EU4_l_ukrainian.yml - в.1.30.1, перекладено / 5008
+EU4_l_ukrainian.yml - в.1.30.6, перекладено / 5009
 flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 1327-1337 (11) / 4804
 generic_events_l_ukrainian.yml - в.1.30.1, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
@@ -118,7 +118,7 @@ rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.24, перекладено / 65
 startup_screen_l_ukrainian.yml - в.1.30.1, перекладено / 275
 subject_type_l_ukrainian.yml - в.1.30.1, перекладено / 68
-subscription_l_ukrainian - в.1.30,1 без перекладу рядки: 2-74 (73) / 73
+subscription_l_ukrainian - в.1.30,6 без перекладу рядки: 2-74 (88) / 89
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.30.1, перекладено / 260
