@@ -29,8 +29,8 @@ Rensil - powers_and_ideas, рядки rus 5146-5175 (21).
 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
-Загальна кількість рядків версії 1.31 
-Загальна кількість рядків версії 1.30.1 3 файли змінено +  нових
+Загальна кількість рядків версії 1.31 5 файлів змінено + 9 нових
+Загальна кількість рядків версії 1.30.1 64 файли змінено + 7 нових
 Загальна кількість рядків версії 1.29 22 файли змінено + 1 новий /
 Загальна кількість рядків версії 1.28,3 39 файлів змінено + 1 новий / 77377
 Загальна кількість рядків версії 1.28, 40 файлів змінено + 1 новий /
@@ -45,10 +45,12 @@ Rensil - powers_and_ideas, рядки rus 5146-5175 (21).
 achievement_tooltips_l_ukrainian - в.1.30.1, перекладено / 57
 achievements_l_ukrainian.yml - в.1.31, без перекладу рядки: 222-644 (423) / 644
 aow_l_ukrainian.yml - в.1.31, перекладено / 2361
-areas_regions_l_ukrainian.yml - в.1.31, редагування / 2826
-common_sense_l_ukrainian.yml - в.1.30.6, перекладено / 1690
+areas_regions_l_ukrainian.yml - в.1.31, перекладено / 2847
+astu_1_31_l_ukrainian.yml - в.1.31, не перекладено / 33
+capybara_l_ukrainian.yml - в.1.31, не перекладено / 2
+common_sense_l_ukrainian.yml - в.1.31, перекладено / 1691
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
-core_l_ukrainian.yml - в.1.30.1, перекладено / 933
+core_l_ukrainian.yml - в.1.31, перекладено / 936
 cossacks_l_ukrainian.yml - в.1.30.1, перекладено / 1481
 countries_l_ukrainian.yml -  в.1.30.1, перекладено / 1401
 cradle_of_civilization_l_ukrainian - в.1.30.1, перекладено / 868
@@ -68,6 +70,8 @@ emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (86), Palatinate 781-803 (21), Florentine 938-999 (30), Serbian 1001-1078 (74), Swiss 1542-1593 (23), Crusader States 1600-1673 (72), Bohemian 1676-1737 (29), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2292-2312 (18), Various 2292-2548 (164) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.30.6, перекладено / 5009
+gecko_1_30_6_l_ukrainian.yml - в.1.30.6, перекладено / 3
+gecko_1_31_l_ukrainian.yml - в.1.31, не перекладено / 9
 flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 1327-1337 (11) / 4804
 generic_events_l_ukrainian.yml - в.1.30.1, перекладено / 4420
 golden_century_l_ukrainian.yml - в.1.30.1, без перекладу рядки: 217-309 (20) / 538
@@ -82,9 +86,11 @@ hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
 institutions_l_ukrainian.yml - в.1.30.1, перекладено / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
+leviathan_l_ukrainian.yml - в.1.31, не перекладено / 1594
 loadingtips_l_ukrainian.yml - в.1.24, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 manchu_l_ukrainian.yml - в.1.30.1, перекладено / 796
+mandala_missions_l_ukrainian.yml - в.1.31, не перекладено / 908
 mandate_of_heaven_l_ukrainian.yml - в.1.30.1, перекладено / 823
 mare_nostrum_l_ukrainian.yml - в.1.30.1, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
@@ -94,7 +100,9 @@ modifers_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 
 mughal_government_l_ukrainian.yml - в.1.28.3, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
+native_rework_l_ukrainian.yml - в.1.31, не перекладено / 16
 new_missions_l_ukrainian.yml - в.1.30.1, перекладено / 1917
+north_america_redone_l_ukrainian.yml - в.1.31, не перекладено / 271
 notlocalized_l_ukrainian.yml - в.1.30.1, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.30.1, перекладено / 442
@@ -124,9 +132,10 @@ synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.30.1, перекладено / 260
 terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
-text_l_ukrainian.yml - в.1.30.1, перекладено / 8128
+text_l_ukrainian.yml - в.1.31, редагування / 8130
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.26, перекладено / 389
+tmm_l_ukrainian.yml - в.1.31, не перекладено / 936
 tradenodes_l_ukrainian.yml - в.1.30.1, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.30.1, перекладено / 671
 tutorial_l_ukrainian.yml - в.1.30.1, перекладено / 370
