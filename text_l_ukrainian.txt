@@ -2432,6 +2432,8 @@
  CANNONS:0 "Гармати"
  HULLSIZE:0 "Розмір корпусу"
  SAILSPEED:0 "Швидкість"
+ BLOCKADE_POWER:0 "Блокадна сила"
+ LEDGER_BLPW:0 "Блокада"
  MANEUVER:0 "Маневреність"
  MANEUVER_NEW:0 "Ширина флангів"
  MANEUVER_NEW_VALUE:0 "Ширина флангів: §Y$VALUE$§W"
