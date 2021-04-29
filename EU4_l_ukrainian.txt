@@ -2976,6 +2976,7 @@
  noble_influences:0 "Вплив дворянства"
  desc_noble_influences:0 "Перемога знаті над регентською радою призвело до її надмірного впливу на політику і економіку."
  OL_UNIT_HUNTINGREBELS:0 "Переслідування повстанців"
+ OL_UNIT_CARPET_SIEGE:0 "Carpet Sieging"
  OL_BUILDING_CONSTRUCTION:0 "Будівництво споруди $BUILDING$ в провінції $PROV$ завершиться $DATE$."
  QUEUE_CONTAINS:0 "Черга містить"
  HAVE_THE_RULER_MODIFIER:0 "Правитель повинен мати модифікатор "
