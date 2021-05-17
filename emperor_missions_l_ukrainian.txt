@@ -1150,7 +1150,7 @@
  emp_ita_prosperity_for_all_tt:0 "Принаймні 8 приналежних провінцій мають §Yпроцвітати§!."
  emp_ita_develop_the_south_tt:0 "Принаймні 5 приналежних провінцій в регіоні §YПівденна Італія§! повинні мати щонайменше §Y25§! розвитку"
  emp_ita_the_gallic_wars_tt:1 "Володіти самим або мати суб'єкта-неданника, який має §Y50§! провінцій в регіоні §YФранція§!"
- emp_ita_redeem_tirolo_tt:0 "Володіти областю §YТіроль§!"
+ emp_ita_redeem_tirolo_tt:1 "Володіти 4 провінціями в області §YТіроль§!"
  # Venetian missions
  emp_ven_aldine_monopoly_title:0 "Монополія Альдів"
  emp_ven_aldine_monopoly_desc:0 "Друкарський верстат приніс у Венецію безліч нових нововведень, включаючи впровадження косого скоропису, названого на честь регіону, з якого він походить, 'Italics' або Курсив, та ранню форму захисту авторських прав шляхом надання монополії на друкування творів грецькою. Ці друкарські інновації, безумовно, допоможуть поширити нові ідеї по всій Найяснішій Республіці."
@@ -1948,8 +1948,8 @@
  alb_end_turkish_rule_title:0 "End Turkish Rule"
  alb_end_turkish_rule_desc:0 "It is time to take the fight to our enemy. Skanderbeg's rebellion shall become the beginning of a Crusade, uniting the peoples of the Balkans against a common foe."
  albanian_victory_tt:0 "Win a battle against the §YOttomans§!"
- albanian_inspiration_tt:0 "All Christian provinces owned by the §YOttomans§! в регіоні §YБалкани§! get §R+10§! Unrest"
- ottoman_balkans_alb_tt:0 "§Y[Root.GetName]§! gets a claim on all §YOttoman§! provinces в регіоні §YБалкани§!"
+ albanian_inspiration_tt:0 "Усі християнські провінції, якими володіють §Yосмани§! в регіоні §YБалкани§!, отримають §R+10§! заворушень"
+ ottoman_balkans_alb_tt:0 "Держава §Y[Root.GetName]§! отримає претензії на всі §Yосманські§! провінції в регіоні §YБалкани§!"
  # Albanian Mission Modifiers
  opinion_nominal_albanian_fealty:0 "Nominal Fealty"
  opinion_pap_albania:0 "Heroic Defenders"
@@ -1962,7 +1962,7 @@
  legacy_of_skanderbeg:0 "Legacy of Skanderbeg"
  desc_legacy_of_skanderbeg:0 "Study of Skanderbeg's campaigns are mandatory for every Albanian prince. We must strive to emulate his military genius in the battles to come."
  opinion_legacy_of_varna:0 "Legacy of Varna"
- cro_tur_army:0 "Relative army strength ratio щонайменше §Y50%§! compared to the §YOttomans§!"
+ cro_tur_army:0 "Відносна чисельність армій щонайменше §Y50%§! від чисельності §Yосманської держави§!"
  alb_inspired_resistance:0 "Inspired Resistance"
  # Bulgarian missions
  bul_independence_title:0 "Bulgarian Independence"
