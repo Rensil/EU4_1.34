@@ -62,14 +62,14 @@ diplo_reasons_l_ukrainian.yml - в.1.30.1, перекладено / 375
 diplomacy_l_ukrainian.yml - в.1.31, перекладено / 896
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
-emperor_content_l_ukrainian.yml - в.1.31, без перекладу рядки: мінори 613-654 (42), мінори 692-786 (66), holstein_incident 932-947 (16), 1167-1175 (15), мінори 1180-1298 (92), 1470-1484 (15), flavor 1747-1774 (13), flavor_swi 1800-1838 (14), pirates 1944-1954 (11), mercs 2054-2081 (29), 2170-2180 (5), мінори 2311-2762 (448), nahuatl 2808-2823 (16), мінори 2835-2986 (149), 3272-3284 (4), 3368-3371 (2), 3374-3409 (36) Orleans events / 3409
+emperor_content_l_ukrainian.yml - в.1.31, без перекладу рядки: мінори 613-654 (42), мінори 692-786 (66), holstein_incident 932-947 (16), 1167-1175 (15), мінори 1180-1298 (92), 1470-1484 (15), flavor 1747-1774 (13), flavor_swi 1800-1838 (14), pirates 1944-1951 (8), mercs 2054-2081 (29), 2170-2180 (5), мінори 2311-2762 (448), nahuatl 2808-2823 (16), мінори 2835-2986 (149), 3272-3284 (4), 3368-3371 (2), 3374-3409 (36) Orleans events / 3409
 emperor_estates_l_ukrainian.yml - в.1.31, перекладено / 1277
-emperor_l_ukrainian.yml - в.1.30.4, перекладено / 1044
+emperor_l_ukrainian.yml - в.1.31, перекладено / 1043
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
-emperor_mercs_l_ukrainian.yml - в.1.30.1, перекладено / 209
-emperor_missions_l_ukrainian.yml - в.1.30.1, без перекладу рядки: Savoyard 264-362 (86), Palatinate 781-803 (21), Florentine 938-999 (30), Serbian 1001-1078 (74), Swiss 1542-1593 (23), Crusader States 1600-1673 (72), Bohemian 1676-1737 (29), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2292-2312 (18), Various 2292-2548 (164) / 2548
+emperor_mercs_l_ukrainian.yml - в.1.31, перекладено / 209
+emperor_missions_l_ukrainian.yml - в.1.31, без перекладу рядки: Savoyard 264-362 (86), Palatinate 781-803 (21), Florentine 938-999 (30), Serbian 1001-1078 (74), Swiss 1542-1593 (23), Crusader States 1600-1673 (72), Bohemian 1676-1737 (29), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2292-2312 (18), Various 2292-2548 (164) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
-EU4_l_ukrainian.yml - в.1.31, редагування / 5009
+EU4_l_ukrainian.yml - в.1.31, редагування, рядок 1365 / 5009
 gecko_1_30_6_l_ukrainian.yml - в.1.30.6, перекладено / 3
 gecko_1_31_l_ukrainian.yml - в.1.31, не перекладено / 9
 flavor_events_l_ukrainian.yml - в.1.30.1, без перекладу рядки: rus 1327-1337 (11) / 4804
