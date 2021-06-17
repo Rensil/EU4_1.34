@@ -4925,6 +4925,7 @@
  PATROL_MISSION_REQUIRES_DESTINATION:0 "Щоб почати патрулювання, спершу клацніть ПКМ на пункті призначення хоча б на відстані однієї морської зони."
  EVADE_MISSION_REQUIRES_DESTINATION:0 "Для уникання зустрічі з ворогами, спершу клацніть ПКМ на пункті призначення."
  HUNT_REBELS_MISSION_DESC:0 "Придушення повстанців"
+ CARPET_SIEGE_MISSION_DESC:0 "Carpet Sieging"
  EXPLORE_LAND_MISSION_DESC:0 "Дослідження"
  DRILL_ARMY_MISSION_DESC:0 "Муштра"
  UPGRADE_SHIPS:0 "§YОновити кораблі§!"
