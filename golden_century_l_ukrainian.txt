@@ -323,7 +323,7 @@
  CAN_NOT_ESTABLISH_ORDER:1 "Не можна засновувати місію Святого Ордену у володінні $LOCATION|Y$."
  MODIFIER_CENTER_OF_TRADE_UPGRADE_COST:0 "Вартість розвитку центру торгівлі"
  MODIFIER_MISSIONARY_MAINTENANCE_COST:0 "Витрати на утримання місій"
- MODIFIER_NAVAL_TRADITION_FROM_TRADE:1 "Зміна морських традицій від захисту торгівлі"
+ MODIFIER_NAVAL_TRADITION_FROM_TRADE:2 "Зміна морських традицій від захисту торгівлі"
  MODIFIER_ADMIRAL_COST:0 "Вартість найму адмірала"
  MODIFIER_EXPEL_MINORITIES_COST:0 "Вартість вислання меншостей"
  IDEA_MAY_FABRICATE_FOR_VASSALS:1 "Можна фабрикувати претензії для суб'єктів"
