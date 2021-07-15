@@ -96,17 +96,17 @@ mare_nostrum_l_ukrainian.yml - в.1.30.1, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
 messages_l_ukrainian.yml - в.1.31, без перекладу рядки: 7056-7074 (10) / 7077
 missions_l_ukrainian.yml - в.1.28.3, перекладено / 361
-modifers_l_ukrainian.yml - в.1.31, без перекладу рядки: rus 1613-1663 (49), редагування, рядок 2270 / 2360
+modifers_l_ukrainian.yml - в.1.31, без перекладу рядки: rus 1613-1663 (49) / 2360
 mughal_government_l_ukrainian.yml - в.1.28.3, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
 native_rework_l_ukrainian.yml - в.1.31, не перекладено / 16
-new_missions_l_ukrainian.yml - в.1.30.1, перекладено / 1917
+new_missions_l_ukrainian.yml - в.1.31, без перекладу рядки: 1918-1987 (70) / 1987
 north_america_redone_l_ukrainian.yml - в.1.31, не перекладено / 271
 notlocalized_l_ukrainian.yml - в.1.30.1, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.30.1, перекладено / 442
-nw_l_ukrainian.yml - в.1.30.1, перекладено / 241
+nw_l_ukrainian.yml - в.1.31, редагування, рядок 21 / 241
 opinions_l_ukrainian.yml - в.1.30.1, перекладено / 217
 personalityoptions_l_ukrainian.yml - в.1.30.1, перекладено / 706
 policies_l_ukrainian.yml - в.1.30.1, перекладено / 347
