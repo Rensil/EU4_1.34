@@ -2142,7 +2142,7 @@
  MODIFIER_POWER_PROJECTION_FROM_INSULTS:0 "Могутність від образ"
  MODIFIER_LOCAL_RELIGIOUS_UNITY_CONTRIBUTION:0 "Місцевий внесок у релігійну єдність"
  IDEA_MAY_CONVERT_TERRITORIES:0 "Можна переходити в іншу віру на територіях."
- territory_core:0 "Територія"
+ territory_core:1 "Територіальна національна провінція"
  territory_non_core:0 "Територія"
  territory:0 "Територія"
  mor_saharan_trade:0 "Сахарська торгівля"
