@@ -86,7 +86,7 @@ hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
 institutions_l_ukrainian.yml - в.1.30.1, перекладено / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
-leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: мінори 2-689 (688), мінори 741-853 (113), мінори 863-1038 (176), Polynesian Events 1048-1246 (199), regency_events 1247-1315 (69), regency_events 1361-1432 (72), 1433-1536 (104), monument_events 1542-1570 (8), 1572-1737 (166) / 1737
+leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: мінори 2-689 (688), мінори 741-853 (113), мінори 863-1038 (176), Polynesian Events 1048-1246 (199), regency_events 1247-1315 (69), regency_events 1361-1432 (72), 1433-1536 (104), 1572-1737 (166) / 1737
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 manchu_l_ukrainian.yml - в.1.30.1, перекладено / 796
