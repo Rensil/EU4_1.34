@@ -62,7 +62,7 @@ diplo_reasons_l_ukrainian.yml - в.1.31.5, перекладено / 375
 diplomacy_l_ukrainian.yml - в.1.31, перекладено / 896
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
-emperor_content_l_ukrainian.yml - в.1.31.5, без перекладу рядки: мінори 613-654 (42), мінори 692-786 (66), holstein_incident 932-947 (16), 1167-1175 (15), мінори 1180-1298 (92), 1470-1484 (15), flavor 1747-1774 (13), flavor_swi 1800-1838 (14), pirates 1944-1951 (8), mercs 2054-2081 (29), 2170-2180 (5), мінори 2311-2762 (448), nahuatl 2808-2823 (16), мінори 2835-2986 (149), 3272-3284 (4), 3368-3371 (2), 3374-3409 (36) Orleans events / 3409
+emperor_content_l_ukrainian.yml - в.1.31.5, без перекладу рядки: мінори 613-654 (42), мінори 692-786 (66), holstein_incident 932-947 (16), 1167-1175 (15), мінори 1180-1298 (92), 1470-1484 (15), flavor 1747-1774 (13), flavor_swi 1800-1838 (14), pirates 1944-1951 (8), mercs 2054-2081 (29), 2170-2180 (5), мінори 2311-2762 (448), nahuatl 2808-2823 (16), мінори 2835-2986 (149), 3272-3284 (4), 3368-3371 (2), Orleans events 3374-3409 (36) / 3409
 emperor_estates_l_ukrainian.yml - в.1.31.5, перекладено / 1277
 emperor_l_ukrainian.yml - в.1.31.5, перекладено / 1043
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
@@ -86,7 +86,7 @@ hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
 institutions_l_ukrainian.yml - в.1.30.1, перекладено / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
-leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: мінори 2-646 (645), 680-689 (10), мінори 741-853 (113), мінори 863-1038 (176), Polynesian Events 1048-1246 (199), regency_events 1247-1310 (21), regency_events 1361-1432 (32), 1435-1536 (102), 1572-1737 (166) / 1737
+leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: мінори 2-646 (639), 680-689 (10), мінори 741-853 (102), мінори 863-1038 (176), Polynesian Events 1048-1246 (199), regency_events 1247-1310 (21), regency_events 1361-1432 (32), 1435-1536 (102), 1572-1737 (166) / 1737
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 manchu_l_ukrainian.yml - в.1.30.1, перекладено / 796
@@ -136,7 +136,7 @@ terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
 text_l_ukrainian.yml - в.1.31, редагування / 8130
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.26, перекладено / 389
-tmm_l_ukrainian.yml - в.1.31.5, не перекладено / 1158
+tmm_l_ukrainian.yml - в.1.31.5, без перекладу рядки: 2-1158 (994) / 1158
 tradenodes_l_ukrainian.yml - в.1.30.1, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.30.1, перекладено / 671
 tutorial_l_ukrainian.yml - в.1.30.1, перекладено / 370
