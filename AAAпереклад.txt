@@ -126,8 +126,10 @@ rights_of_man_l_ukrainian.yml - в.1.31.5, перекладено, триває 
 rule_britannia_l_ukrainian.yml - в.1.31.5, перекладено / 472
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.31.5, перекладено / 65
-startup_screen_l_ukrainian.yml - в.1.30.1, перекладено / 275
-subject_type_l_ukrainian.yml - в.1.30.1, перекладено / 68
+social_l_ukrainian.txt - в.1.30.1, не перекладається
+sprite_packs_l_ukrainian.txt - в.1.30.1, не перекладається / 273
+startup_screen_l_ukrainian.yml - в.1.31.5, перекладено / 275
+subject_type_l_ukrainian.yml - в.1.31.5, перекладено / 68
 subscription_l_ukrainian - в.1.30,6 без перекладу рядки: 2-74 (88) / 89
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
