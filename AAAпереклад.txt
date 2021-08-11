@@ -143,12 +143,12 @@ synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47
 tags_phase4_l_ukrainian.yml - в.1.24, перекладено / 93
 technology_l_ukrainian.yml - в.1.30.1, перекладено / 260
 terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
-text_l_ukrainian.yml - в.1.31, редагування / 8130
+text_l_ukrainian.yml - в.1.31.5, перекладено / 8136
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
-third_rome_l_ukrainian.txt - в.1.26, перекладено / 389
+third_rome_l_ukrainian.txt - в.1.31.5, перекладено / 391
 tmm_l_ukrainian.yml - в.1.31.5, без перекладу рядки: 2-1158 (994) / 1158
-tradenodes_l_ukrainian.yml - в.1.30.1, перекладено / 216
+tradenodes_l_ukrainian.yml - в.1.31.5, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.30.1, перекладено / 671
-tutorial_l_ukrainian.yml - в.1.30.1, перекладено / 370
+tutorial_l_ukrainian.yml - в.1.31.5, редагування: рядок 351 / 370
 USA_dlc_l_ukrainian.txt - в.1.26, перекладено / 300
 womeninhistory_l_ukrainian.yml - в.1.30.1, перекладено / 473
