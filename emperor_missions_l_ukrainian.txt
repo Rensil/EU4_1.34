@@ -2475,9 +2475,9 @@
  desc_fra_colonial_enthusiasm:0 "Наші люди прагнуть оселитися в Новому Світі та пожинати його нескінченні щедроти."
  fra_colonial_enthusiasm_2:0 "Антарктична Франція"
  desc_fra_colonial_enthusiasm_2:0 "Величезні простори Південної Америки дозріли для колонізації, і не бракує французьких підданих, які бажають оселитися в наших нових колоніях."
- gc_mor_wattasid_title:0 "Wattasid Resolution"
- gc_mor_wattasid_desc:0 "The Wattasids are a powerful dynasty in Morocco, often serving as viziers to the Sultan. They barely conceal their ambitions for the throne, and seem to be consolidating their power in preparation for an open revolt."
- gc_mor_wattasid_tt:0 "Resolve the Wattasid Revolt event chain"
+ gc_mor_wattasid_title:0 "Ваттасидська Резолюція"
+ gc_mor_wattasid_desc:0 "Ваттасиди - могутня династія в Марокко, представники якої часто послідовно обіймали посаду візира при султані. Вони ледве приховують свої амбіції щодо престолу і, здається, зміцнюють свою владу, готуючись до відкритого повстання."
+ gc_mor_wattasid_tt:0 "Завершіть ланцюжок подій 'Повстання Ваттасидів'"
  
  DID_NOT_WIN_WAR_AGAINST_IN_YEARS:0 "Не виграв війну проти $TAG|Y$ за останні $IN_YEARS|Y$ роки"
  DID_NOT_WIN_WAR_AGAINST:0 "Не виграв війну проти $TAG|Y$"
