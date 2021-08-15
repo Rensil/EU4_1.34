@@ -70,7 +70,7 @@ emperor_estates_l_ukrainian.yml - в.1.31.5, перекладено / 1277
 emperor_l_ukrainian.yml - в.1.31.5, перекладено / 1043
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.31, перекладено / 209
-emperor_missions_l_ukrainian.yml - в.1.31.5, без перекладу рядки: Savoyard 264-362 (86), Palatinate 781-803 (21), Florentine 938-979 (20), Serbian 1001-1078 (74), Swiss 1575-1593 (8), Crusader States 1600-1673 (72), Bohemian 1676-1737 (29), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2048-2126 (72), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2292-2312 (18), Brittany 2292-2312 (18), Various 2314-2471 (127), Pomerania 2520-2548 (19) / 2548
+emperor_missions_l_ukrainian.yml - в.1.31.5, без перекладу рядки: Savoyard 264-362 (86), Palatinate 781-803 (21), Florentine 938-979 (20), Serbian 1001-1078 (74), Crusader States 1600-1673 (72), Bohemian 1676-1737 (29), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2058-2126 (63), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2292-2312 (18), Brittany 2292-2312 (18), HRE Republics 2314-2325 (12), Lubeck Missions 2357-2434 (73), westphalia 2440-2471 (31), Pomerania 2520-2548 (19) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.31.5, перекладено / 5050
 gecko_1_30_6_l_ukrainian.yml - в.1.30.6, перекладено / 3
