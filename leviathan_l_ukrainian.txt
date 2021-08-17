@@ -1344,7 +1344,7 @@
  khami_ruins:0 "Місто Хамі"
  prambanan_temple:0 "Храми Прамбанана"
  inukshuk:0 "Інуксук"
- fire_temple_of_ateshgah:0 "Баку. Атешгях"
+ fire_temple_of_ateshgah:0 "Бакинський Атешгях"
  kiev_pechersk_lavra:0 "Києво-Печерська лавра"
  pena_palace:0 "Палац Пена"
  sankin_kotai_palaces:0 "Палаци Санкін-Котай"
