@@ -65,7 +65,7 @@ diplo_reasons_l_ukrainian.yml - в.1.31.5, перекладено / 375
 diplomacy_l_ukrainian.yml - в.1.31, перекладено / 896
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
-emperor_content_l_ukrainian.yml - в.1.31.5, без перекладу рядки: мінори 613-654 (42), мінори 692-786 (66), holstein_incident 932-947 (16), 1173, мінори 1180-1298 (92), 1470, flavor 1747-1764 (15), flavor_swi 1800-1838 (14), mercs 2055-2076 (6), мінори 2311-2762 (441), nahuatl 2808-2823 (16), мінори 2835-2986 (149), 3368-3371 (2), Orleans events 3374-3392 (19) / 3409
+emperor_content_l_ukrainian.yml - в.1.31.5, без перекладу рядки: мінори 613-654 (42), мінори 692-786 (66), holstein_incident 932-947 (16), мінори 1180-1298 (92), 1470, flavor 1747-1764 (15), flavor_swi 1800-1838 (14), mercs 2055-2076 (6), мінори 2311-2762 (441), nahuatl 2808-2823 (16), мінори 2835-2986 (147), 3368-3369 (2) / 3409
 emperor_estates_l_ukrainian.yml - в.1.31.5.2, перекладено / 1278
 emperor_l_ukrainian.yml - в.1.31.5.2, перекладено / 1044
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
