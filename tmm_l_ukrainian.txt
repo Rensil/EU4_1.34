@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  MIGRATION_COST:0 "Вартість міграції"
  an_nopersonality:0 "нема виражених рис характеру"
  WOULD_HAVE_TO_FIGHT_OVERLORD:0 "Доведеться воювати проти сюзерена данника: "
