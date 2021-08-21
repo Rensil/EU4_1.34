@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_ukrainian:
  nw_native_ideas:0 "North Western Native Ideas"
  nw_native_ideas_start:0 "North Western America"
  nw_native_ideas_bonus:0 "North Western Native Ambition"
