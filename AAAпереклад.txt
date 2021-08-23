@@ -110,7 +110,7 @@ mughal_government_l_ukrainian.yml - в.1.28.3, перекладено / 93
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
 native_rework_l_ukrainian.yml - в.1.31, перекладено / 16
-new_missions_l_ukrainian.yml - в.1.31.5, без перекладу рядки: 1922-1991 (70) / 1991
+new_missions_l_ukrainian.yml - в.1.31.5, без перекладу рядки: 1933-1991 (27) / 1991
 north_america_redone_l_ukrainian.yml - в.1.31, не перекладено / 271
 notlocalized_l_ukrainian.yml - в.1.30.1, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
