@@ -1691,7 +1691,7 @@
  custom_enforce_religion_cost_desc:0 "Our warriors fight with piety and devotion no heathen or heretic as seen before. Every heathen or heretic is more open to the ide to join our religion thanks to our soldiers' show of military and religious dominance."
  custom_promote_culture_cost:0 "Cultural Melting Pot"
  custom_promote_culture_cost_desc:0 "Our country is the melting pot of many great cultures. Accepting a new culture is for us just as natural as breathing."
- custom_rival_change_cost:0 "The Enemy of my Enemy..."
+ custom_rival_change_cost:0 "Ворог мого ворога..."
  custom_rival_change_cost_desc:0 "Rivalry is not a stoic system and it is often than not beneficial to drop a previous rivalry in order to focus on a much larger threat."
  custom_global_ship_repair:0 "Provided Naval Supplies"
  custom_global_ship_repair_desc:0 "Repairing a ship requires two things: the manpower to repair them and the supplies. With a better organization, we can ensure that a good chunk of the naval supplies are always ready when a damaged ship arrives any of our ports."
