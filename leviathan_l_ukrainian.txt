@@ -1,6 +1,6 @@
 ﻿l_ukrainian:
  nw_native_ideas:0 "Ідеї тубільців Північно-Заходу"
- nw_native_ideas_start:0 "Північно -Західна Америка"
+ nw_native_ideas_start:0 "Північно-Західна Америка"
  nw_native_ideas_bonus:0 "Амбіції тубільців Північно-Заходу"
  raid_warfare_nw:0 "Raid Warfare"
  raid_warfare_nw_desc:1 "Our people are in a constant state of warfare or preparing for it. We raid our neighbours frequently, gathering captives for slavery, although we sometimes go up or down the coast until we get what we want even if that means going to distant lands. We need to be prepared at every moment so we are used to adapting ourselves to any situation."
