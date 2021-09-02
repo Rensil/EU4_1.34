@@ -75,7 +75,7 @@ emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.31.5.2, перекладено / 5050
 gecko_1_30_6_l_ukrainian.yml - в.1.30.6, перекладено / 3
 gecko_1_31_l_ukrainian.yml - в.1.31.5, перекладено / 9
-flavor_events_l_ukrainian.yml - в.1.31.5, без перекладу рядки: rus 1327-1337 (11), 4805-4932 (128), totemism_flavor 4935-5030 (96) / 5030
+flavor_events_l_ukrainian.yml - в.1.31.5, без перекладу рядки: rus 1327-1337 (11), 4805-4932 (128), totemism_flavor 4948-5030 (83) / 5030
 generic_events_l_ukrainian.yml - в.1.31, без перекладу рядки: 4436-4575 (77) / 4420
 golden_century_l_ukrainian.yml - в.1.31, без перекладу рядки: pirates 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.31.5, перекладено / 349
@@ -147,7 +147,7 @@ terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
 text_l_ukrainian.yml - в.1.31.5.2, перекладено / 8136
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.31.5, перекладено / 391
-tmm_l_ukrainian.yml - в.1.31.5, без перекладу рядки: 181-1158 (625) / 1158
+tmm_l_ukrainian.yml - в.1.31.5, без перекладу рядки: 181-1158 (618) / 1158
 tradenodes_l_ukrainian.yml - в.1.31.5, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.31.5.2, перекладено / 671
 tutorial_l_ukrainian.yml - в.1.31.5.2, перекладено / 370
