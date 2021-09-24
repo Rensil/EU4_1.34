@@ -222,7 +222,7 @@
  NO_CONSOLIDATION_POSSIBLE:1 "Development cannot be concentratated from here."
  CANT_CONSOLIDATE_DEVELOPMENT_COOLDOWN:1 "You cannot concentratate development from this state again until $DATE$"
  crown_colony:0 "Коронна колонія"
- crown_colony_long_desc:0 "A Crown Colony has a high amount of direct control from the overlord. They contribute a good amount of money and manpower."
+ crown_colony_long_desc:0 "Коронна колонія має високий рівень прямого контролю з боку сюзерена. Вона приносить значні грошові надходження та рекрутів."
  crown_colony_title:0 "Коронна колонія"
  crown_colony_title_plural:0 "Коронні колонії"
  crown_colony_overlord:0 "Сюзерен коронної колонії"
