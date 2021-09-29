@@ -1372,7 +1372,7 @@
  north_laos_area_name:0 "Луанг Прабанг"
  north_laos_area_adj:0 "Луангпрабангськ"
  central_thai_area:0 "Центральний Таїланд"
- central_thai_area_name:0 "Аюттхаю"
+ central_thai_area_name:0 "Аюттхая"
  central_thai_area_adj:0 "Аюттхайськ"
  northern_thai_area:1 "Чіангмай"
  northern_thai_area_name:0 "Ланна"
