@@ -18,11 +18,9 @@ Discord") (бажано) або на толоці. Будемо раді не л
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
 sergey-astral - leviathan - весь файл.
-sergey-astral - tmm - весь файл.
 sergey-astral - emperor_content - весь файл.
-Iceberg937 - emperor_content рядки 1794-1843 (49).
 Solaris - emperor_missions, рядки Savoyard 264-362 (99) - триває редагування.
-Rensil - emperor_missions, рядки 1540-1654 (114).
+Rensil - emperor_missions, рядки 1600-1654 (55).
 Rensil - modifers, рядки rus 1613-1663 (49).
 Rensil - flavor_events, рядки rus 1327-1337 (11).
 Rensil - powers_and_ideas, рядки rus 5146-5175 (21).
@@ -95,7 +93,7 @@ hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
 institutions_l_ukrainian.yml - в.1.30.1, перекладено / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
-leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: мінори 2-646 (551), 680-689 (10), мінори 758-853 (81), мінори 866-1038 (158), Polynesian Events 1048-1246 (199), 1443-1536 (91), custom 1608-1737 (130) / 1737
+leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: мінори 2-635 (542), 645, мінори 758-853 (81), мінори 866-1038 (158), Polynesian Events 1048-1246 (199), native_federations_event 1449-1483 (35), colonial_nation 1490-1536 (45), custom 1608-1737 (130) / 1737
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 manchu_l_ukrainian.yml - в.1.30.1, перекладено / 796
