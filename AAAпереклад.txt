@@ -48,7 +48,7 @@ achievements_l_ukrainian.yml - в.1.31, без перекладу рядки: 22
 aow_l_ukrainian.yml - в.1.31, перекладено / 2361
 areas_regions_l_ukrainian.yml - в.1.31.5, перекладено / 2847
 astu_1_31_l_ukrainian.yml - в.1.31.5, перекладено / 48
-capybara_l_ukrainian.yml - в.1.31.5, перекладено / 7
+capybara_l_ukrainian.yml - в.1.31.6, без перекладу рядки: Epic 8-24 (17) / 24
 common_sense_l_ukrainian.yml - в.1.31, перекладено / 1691
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.31.5.2, перекладено / 936
@@ -71,7 +71,7 @@ emperor_mercs_l_ukrainian.yml - в.1.31, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.31.5, без перекладу рядки: Savoyard 264-362 (86), Palatinate 781-803 (21), Serbian 1001-1078 (74), Crusader States 1600-1673 (69), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2058-2126 (63), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2292-2312 (18), HRE Republics 2314-2325 (12), Lubeck Missions 2357-2427 (67), westphalia 2452-2471 (19), Pomerania 2520-2548 (19) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.31.5.2, перекладено / 5050
-gecko_1_30_6_l_ukrainian.yml - в.1.30.6, перекладено / 3
+gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
 gecko_1_31_l_ukrainian.yml - в.1.31.5, перекладено / 9
 flavor_events_l_ukrainian.yml - в.1.31.5, без перекладу рядки: rus 1327-1337 (11), 4805-4932 (128), totemism_flavor 4948-5030 (83) / 5030
 generic_events_l_ukrainian.yml - в.1.31, без перекладу рядки: 4436-4575 (77) / 4420
@@ -93,7 +93,7 @@ hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
 institutions_l_ukrainian.yml - в.1.30.1, перекладено / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.28.3, перекладено / 214
-leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: мінори 2-635 (542), 645, мінори 758-853 (81), мінори 866-1038 (158), Polynesian Events 1048-1246 (199), native_federations_event 1449-1483 (35), colonial_nation 1490-1536 (45), custom 1608-1737 (130) / 1737
+leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: мінори 2-54 (44), native_americans 55-184 (126), мінори 188-235 (42), PROV 236-285 (50), aboriginal 314-363 (47), мінори 367-482 (96), dreamtime 483-635 (126), мінори 758-853 (81), мінори 866-1038 (158), Polynesian Events 1048-1246 (199), native_federations_event 1449-1483 (35), colonial_nation 1490-1536 (45), custom 1608-1737 (130) / 1737
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 manchu_l_ukrainian.yml - в.1.30.1, перекладено / 796
