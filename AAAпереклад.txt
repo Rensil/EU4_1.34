@@ -19,7 +19,6 @@ Discord") (бажано) або на толоці. Будемо раді не л
 
 sergey-astral - leviathan - весь файл.
 sergey-astral - emperor_content - весь файл.
-Solaris - emperor_missions, рядки Savoyard 264-362 (99) - триває редагування.
 Rensil - emperor_missions, рядки 1600-1654 (55).
 Rensil - modifers, рядки rus 1613-1663 (49).
 Rensil - flavor_events, рядки rus 1327-1337 (11).
@@ -68,7 +67,7 @@ emperor_estates_l_ukrainian.yml - в.1.31.5.2, перекладено / 1278
 emperor_l_ukrainian.yml - в.1.31.5.2, перекладено / 1044
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.31, перекладено / 209
-emperor_missions_l_ukrainian.yml - в.1.31.5, без перекладу рядки: Savoyard 264-362 (86), Palatinate 781-803 (21), Serbian 1001-1078 (74), Crusader States 1600-1673 (69), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2058-2126 (63), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2292-2312 (18), HRE Republics 2314-2325 (12), Lubeck Missions 2357-2427 (67), westphalia 2452-2471 (19), Pomerania 2520-2548 (19) / 2548
+emperor_missions_l_ukrainian.yml - в.1.31.5, без перекладу рядки: Palatinate 781-803 (21), Serbian 1001-1078 (74), Crusader States 1600-1673 (69), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2058-2126 (63), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Brittany 2293-2312 (9), HRE Republics 2314-2325 (6), Lubeck Missions 2357-2427 (67), westphalia 2452-2471 (19), Pomerania 2520-2548 (19) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.30.1, перекладено / 261
 EU4_l_ukrainian.yml - в.1.31.5.2, перекладено / 5050
 gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
