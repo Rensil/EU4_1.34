@@ -7064,7 +7064,7 @@
  CURRYFAVORS_BTN1:0 "Гаразд"
  CURRYFAVORS_BTN2:0 "Гаразд"
  CURRYFAVORS_BTN3:0 "Перейти"
- STOPCURRYFAVORS_TITLE:0 Зупинено здобування прихильності"
+ STOPCURRYFAVORS_TITLE:0 "Зупинено здобування прихильності"
  STOPCURRYFAVORS_SETUP:0 "Коли держава припиняє здобувати прихильність іншої держави."
  STOPCURRYFAVORS_HEADER:0 "Вісник держави"
  STOPCURRYFAVORS_1:0 "$ACTOR$"
