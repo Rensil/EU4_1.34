@@ -1281,7 +1281,7 @@
  consort_events.56.a:0 "Мене турбує легкість наших скринь."
  consort_events.56.a.tt:0 "Надіслати лист до [marriage_partner.Consort.GetTitle] §Y[marriage_partner.Consort.GetName]§! з держави [marriage_partner.GetName], з проханням про фінансову допомогу."
  consort_events.56.b:0 "Нам потрібна допомога в удосконаленні управління державою."
- consort_events.56.b.tt:0 "Надіслати лист до [Marriage_partner.Consort.GetTitle] §Y[marriage_partner.Consort.GetName]§! з держави [marriage_partner.GetName], з проханням про адміністративну допомогу."
+ consort_events.56.b.tt:0 "Надіслати лист до [marriage_partner.Consort.GetTitle] §Y[marriage_partner.Consort.GetName]§! з держави [marriage_partner.GetName], з проханням про адміністративну допомогу."
  consort_events.56.c:0 "Наші дипломати напевно можуть навчитися чогось у колег з держави [marriage_partner.GetName]."
  consort_events.56.c.tt:0 "Надіслати лист до [marriage_partner.Consort.GetTitle] §Y[marriage_partner.Consort.GetName]§! з держави [marriage_partner.GetName], з проханням про дипломатичну допомогу."
  consort_events.56.e:0 "Можливо нам варто запозичити одного з генералів, якими славиться [marriage_partner.Monarch.GetTitle] [marriage_partner.Monarch.GetName]?"
