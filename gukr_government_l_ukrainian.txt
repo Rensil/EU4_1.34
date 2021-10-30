@@ -470,24 +470,285 @@
  PIRATE_PRINCIPALITY_KYM:0 "піратcьким князівcтвoм" #GetGovernmentKYM
  PIRATE_KINGDOM_KYM:0 "кopoлівcтвoм піратів" #GetGovernmentKYM
  PIRATE_EMPIRE_KYM:0 "імпepією піратів" #GetGovernmentKYM
-###Версія 1.30 "" 
+###Версія 1.30-1.31 "" 
  SAVANAROLA_GOVERNMENT_DE:0 "уряді Савонароли" #GetGovernmentDЕ
- REVOLUTIONARY_SPANISH_REPUBLIC_DE:0 "верховній хунті" #GetGovernmentDЕ
- REVOLUTIONARY_SWEDISH_REPUBLIC_DE:0 "Sakerhetstinget" #GetGovernmentDЕ
- REVOLUTIONARY_DANISH_REPUBLIC_DE:0 "Sikkerhedtinget" #GetGovernmentDЕ
  SAVANAROLA_GOVERNMENT_OMU:0 "уряду Савонароли" #GetGovernmentОМU
- REVOLUTIONARY_SPANISH_REPUBLIC_OMU:0 "верховній хунті" #GetGovernmentОМU
- REVOLUTIONARY_SWEDISH_REPUBLIC_OMU:0 "Sakerhetstinget" #GetGovernmentОМU
- REVOLUTIONARY_DANISH_REPUBLIC_OMU:0 "Sikkerhedtinget" #GetGovernmentОМU
  SAVANAROLA_GOVERNMENT_OGO:0 "уряду Савонароли" #GetGovernmentОGО
- REVOLUTIONARY_SPANISH_REPUBLIC_OGO:0 "верховної хунти" #GetGovernmentОGО
- REVOLUTIONARY_SWEDISH_REPUBLIC_OGO:0 "Sakerhetstinget" #GetGovernmentОGО
- REVOLUTIONARY_DANISH_REPUBLIC_OGO:0 "Sikkerhedtinget" #GetGovernmentОGО
  SAVANAROLA_GOVERNMENT_SCHO:0 "уряд Савонароли" #GetGovernmentSСНО
- REVOLUTIONARY_SPANISH_REPUBLIC_SCHO:0 "верховну хунту" #GetGovernmentSСНО
- REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO:0 "Sakerhetstinget" #GetGovernmentSСНО
- REVOLUTIONARY_DANISH_REPUBLIC_SCHO:0 "Sikkerhedtinget" #GetGovernmentSСНО
  SAVANAROLA_GOVERNMENT_KYM:0 "урядом Савонароли" #GetGovernmentКYМ
+ 
+ MOST_SERENE_REPUBLIC_DE:0 "найсвітлішій республіці" GetGovernmentDE
+ MOST_SERENE_REPUBLIC_OMU:0 "найсвітлішій pecпубліці" GetGovernmentOMU
+ MOST_SERENE_REPUBLIC_OGO:0 "найсвітлішої республіки" GetGovernmentOGO
+ MOST_SERENE_REPUBLIC_SCHO:0 "найсвітлішу республіку" GetGovernmentSCHO
+ MOST_SERENE_REPUBLIC_KYM:0 "найсвітлішою республікою" GetGovernmentKYM
+ 
+ STATELESS_SOCIETY_SCHO:0 "суспільство без держави" GetGovernmentSCHO
+ STATELESS_SOCIETY_OGO:0 "суспільства без держави" GetGovernmentOGO
+ STATELESS_SOCIETY_OMU:0 "суспільству без держави" GetGovernmentOMU
+ STATELESS_SOCIETY_KYM:0 "суспільством без держави" GetGovernmentKYM
+ STATELESS_SOCIETY_DE:0 "суспільстві без держави" GetGovernmentDE
+ 
+ ISLAMIC_CALIPHATE_SCHO:0 "ісламський халіфат" GetGovernmentSCHO
+ ISLAMIC_CALIPHATE_OGO:0 "ісламського халіфату" GetGovernmentOGO
+ ISLAMIC_CALIPHATE_OMU:0 "ісламському халіфату" GetGovernmentOMU
+ ISLAMIC_CALIPHATE_KYM:0 "ісламським халіфатом" GetGovernmentKYM
+ ISLAMIC_CALIPHATE_DE:0 "ªісламському халіфаті" GetGovernmentDE
+  
+ REVOLUTIONARY_SPANISH_REPUBLIC_DE:0 "верховній хунті" #GetGovernmentDЕ
+ REVOLUTIONARY_SPANISH_REPUBLIC_OMU:0 "верховній хунті" #GetGovernmentОМU
+ REVOLUTIONARY_SPANISH_REPUBLIC_OGO:0 "верховної хунти" #GetGovernmentОGО
+ REVOLUTIONARY_SPANISH_REPUBLIC_SCHO:0 "верховну хунту" #GetGovernmentSСНО
  REVOLUTIONARY_SPANISH_REPUBLIC_KYM:0 "верховною хунтою" #GetGovernmentКYМ
+ 
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DE:0 "Sakerhetstinget" #GetGovernmentDЕ
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OMU:0 "Sakerhetstinget" #GetGovernmentОМU
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OGO:0 "Sakerhetstinget" #GetGovernmentОGО
+ REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO:0 "Sakerhetstinget" #GetGovernmentSСНО
  REVOLUTIONARY_SWEDISH_REPUBLIC_KYM:0 "Sakerhetstinget" #GetGovernmentКYМ
+  
+ REVOLUTIONARY_DANISH_REPUBLIC_DE:0 "Sikkerhedtinget" #GetGovernmentDЕ
+ REVOLUTIONARY_DANISH_REPUBLIC_OMU:0 "Sikkerhedtinget" #GetGovernmentОМU
+ REVOLUTIONARY_DANISH_REPUBLIC_OGO:0 "Sikkerhedtinget" #GetGovernmentОGО
+ REVOLUTIONARY_DANISH_REPUBLIC_SCHO:0 "Sikkerhedtinget" #GetGovernmentSСНО
  REVOLUTIONARY_DANISH_REPUBLIC_KYM:0 "Sikkerhedtinget" #GetGovernmentКYМ
+ 
+ GOV_REVOLUTIONARY_REPUBLIC_SCHO:0 "революційна республіка" GetGovernmentSCHO
+ GOV_REVOLUTIONARY_REPUBLIC_OGO:0 "революційної республіки" GetGovernmentOGO
+ GOV_REVOLUTIONARY_REPUBLIC_OMU:0 "революційній республіці" GetGovernmentOMU
+ GOV_REVOLUTIONARY_REPUBLIC_KYM:0 "революційною республікою" GetGovernmentKYM
+ GOV_REVOLUTIONARY_REPUBLIC_DE:0 "революційній республіці" GetGovernmentDE
+ 
+ KAISERREICH_SCHO:0 "імперія" GetGovernmentSCHO
+ KAISERREICH_OGO:0 "імперії" GetGovernmentOGO
+ KAISERREICH_OMU:0 "імперії" GetGovernmentOMU
+ KAISERREICH_KYM:0 "імперією" GetGovernmentKYM
+ KAISERREICH_DE:0 "імперії" GetGovernmentDE
+ 
+ STRATOCRACY_SCHO:0 "стратократія" GetGovernmentSCHO
+ STRATOCRACY_OGO:0 "стратократії" GetGovernmentOGO
+ STRATOCRACY_OMU:0 "стратократії" GetGovernmentOMU
+ STRATOCRACY_KYM:0 "стратократією" GetGovernmentKYM
+ STRATOCRACY_DE:0 "стратократії" GetGovernmentDE
+ 
+ ADMIRALTY_SCHO:0 "адміралтейство" GetGovernmentSCHO
+ ADMIRALTY_OGO:0 "адміралтейства" GetGovernmentOGO
+ ADMIRALTY_OMU:0 "адміралтейству" GetGovernmentOMU
+ ADMIRALTY_KYM:0 "адміралтейством" GetGovernmentKYM
+ ADMIRALTY_DE:0 "адміралтействі" GetGovernmentDE
+ 
+ HIGH_ADMIRALTY_SCHO:0 "¢ºc·ee a¦¯ªpa®²e«c²¢o" GetGovernmentSCHO
+ HIGH_ADMIRALTY_OGO:0 "¢ºc·e¥o a¦¯ªpa®²e«c²¢a" GetGovernmentOGO
+ HIGH_ADMIRALTY_OMU:0 "¢ºc·e¯³ a¦¯ªpa®²e«c²¢³" GetGovernmentOMU
+ HIGH_ADMIRALTY_KYM:0 "¢ºc·ª¯ a¦¯ªpa®²e«c²¢o¯" GetGovernmentKYM
+ HIGH_ADMIRALTY_DE:0 "¢ºc·e¯ a¦¯ªpa®²e«c²¢e" GetGovernmentDE
+ 
+ SUPREME_ADMIRALTY_SCHO:0 "¢epxo¢°oe a¦¯ªpa®²e«c²¢o" GetGovernmentSCHO
+ SUPREME_ADMIRALTY_OGO:0 "¢epxo¢°o¥o a¦¯ªpa®²e«c²¢a" GetGovernmentOGO
+ SUPREME_ADMIRALTY_OMU:0 "¢epxo¢°o¯³ a¦¯ªpa®²e«c²¢³" GetGovernmentOMU
+ SUPREME_ADMIRALTY_KYM:0 "¢epxo¢°º¯ a¦¯ªpa®²e«c²¢o¯" GetGovernmentKYM
+ SUPREME_ADMIRALTY_DE:0 "¢epxo¢°o¯ a¦¯ªpa®²e«c²¢e" GetGovernmentDE
+ 
+ COMMONWEALTH_SCHO:0 "co¦p³¨ec²¢o" GetGovernmentSCHO
+ COMMONWEALTH_OGO:0 "co¦p³¨ec²¢a" GetGovernmentOGO
+ COMMONWEALTH_OMU:0 "co¦p³¨ec²¢³" GetGovernmentOMU
+ COMMONWEALTH_KYM:0 "co¦p³¨ec²¢o¯" GetGovernmentKYM
+ COMMONWEALTH_DE:0 "co¦p³¨ec²¢e" GetGovernmentDE
+ 
+ MILITARY_GOVERNMENT_SCHO:0 "¢oe°°a÷ pec±³ ®ª¬a" GetGovernmentSCHO
+ MILITARY_GOVERNMENT_OGO:0 "¢oe°°o« pec±³ ®ª¬ª" GetGovernmentOGO
+ MILITARY_GOVERNMENT_OMU:0 "¢oe°°o« pec±³ ®ª¬e" GetGovernmentOMU
+ MILITARY_GOVERNMENT_KYM:0 "¢oe°°o« pec±³ ®ª¬o«" GetGovernmentKYM
+ MILITARY_GOVERNMENT_DE:0 "¢oe°°o« pec±³ ®ª¬e" GetGovernmentDE
+ 
+ ELECTORAL_PALATINATE_SCHO:0 "¢º op°oe ±´a®»µ¥pa´c²¢o" GetGovernmentSCHO
+ ELECTORAL_PALATINATE_OGO:0 "¢º op°o¥o ±´a®»µ¥pa´c²¢a" GetGovernmentOGO
+ ELECTORAL_PALATINATE_OMU:0 "¢º op°o¯³ ±´a®»µ¥pa´c²¢³" GetGovernmentOMU
+ ELECTORAL_PALATINATE_KYM:0 "¢º op°º¯ ±´a®»µ¥pa´c²¢o¯" GetGovernmentKYM
+ ELECTORAL_PALATINATE_DE:0 "¢º op°o¯ ±´a®»µ¥pa´c²¢e" GetGovernmentDE
+ 
+ COUNTY_PALATINE_SCHO:0 "±´a®»µ¥pa´c²¢o" GetGovernmentSCHO
+ COUNTY_PALATINE_OGO:0 "±´a®»µ¥pa´c²¢a" GetGovernmentOGO
+ COUNTY_PALATINE_OMU:0 "±´a®»µ¥pa´c²¢³" GetGovernmentOMU
+ COUNTY_PALATINE_KYM:0 "±´a®»µ¥pa´c²¢o¯" GetGovernmentKYM
+ COUNTY_PALATINE_DE:0 "±´a®»µ¥pa´c²¢e" GetGovernmentDE
+ 
+ KINGDOM_PALATINE_SCHO:0 "±´a®»µ¬opo®e¢c²¢o" GetGovernmentSCHO
+ KINGDOM_PALATINE_OGO:0 "±´a®»µ¬opo®e¢c²¢a" GetGovernmentOGO
+ KINGDOM_PALATINE_OMU:0 "±´a®»µ¬opo®e¢c²¢³" GetGovernmentOMU
+ KINGDOM_PALATINE_KYM:0 "±´a®»µ¬opo®e¢c²¢o¯" GetGovernmentKYM
+ KINGDOM_PALATINE_DE:0 "±´a®»µ¬opo®e¢c²¢e" GetGovernmentDE
+ 
+ HERCEGSEG_SCHO:0 "¬°÷¨ec²¢o" GetGovernmentSCHO
+ HERCEGSEG_OGO:0 "¬°÷¨ec²¢a" GetGovernmentOGO
+ HERCEGSEG_OMU:0 "¬°÷¨ec²¢³" GetGovernmentOMU
+ HERCEGSEG_KYM:0 "¬°÷¨ec²¢o¯" GetGovernmentKYM
+ HERCEGSEG_DE:0 "¬°÷¨ec²¢e" GetGovernmentDE
+ 
+ GRAND_HERCEGSEG_SCHO:0 "¢e®ª¬oe ¬°÷¨ec²¢o" GetGovernmentSCHO
+ GRAND_HERCEGSEG_OGO:0 "¢e®ª¬o¥o ¬°÷¨ec²¢a" GetGovernmentOGO
+ GRAND_HERCEGSEG_OMU:0 "¢e®ª¬o¯³ ¬°÷¨ec²¢³" GetGovernmentOMU
+ GRAND_HERCEGSEG_KYM:0 "¢e®ª¬ª¯ ¬°÷¨ec²¢o¯" GetGovernmentKYM
+ GRAND_HERCEGSEG_DE:0 "¢e®ª¬o¯ ¬°÷¨ec²¢e" GetGovernmentDE
+ 
+ ELECTORATE_DUCHY_SCHO:0 "¬³p´¾p·ec²¢o" GetGovernmentSCHO
+ ELECTORATE_DUCHY_OGO:0 "¬³p´¾p·ec²¢a" GetGovernmentOGO
+ ELECTORATE_DUCHY_OMU:0 "¬³p´¾p·ec²¢³" GetGovernmentOMU
+ ELECTORATE_DUCHY_KYM:0 "¬³p´¾p·ec²¢o¯" GetGovernmentKYM
+ ELECTORATE_DUCHY_DE:0 "¬³p´¾p·ec²¢e" GetGovernmentDE
+ 
+ ELECTORATE_BISHOPRIC_SCHO:0 "e±ªc¬o±c²¢o-¬³p´¾p·ec²¢o" GetGovernmentSCHO
+ ELECTORATE_BISHOPRIC_OGO:0 "e±ªc¬o±c²¢a-¬³p´¾p·ec²¢a" GetGovernmentOGO
+ ELECTORATE_BISHOPRIC_OMU:0 "e±ªc¬o±c²¢³-¬³p´¾p·ec²¢³" GetGovernmentOMU
+ ELECTORATE_BISHOPRIC_KYM:0 "e±ªc¬o±c²¢o¯-¬³p´¾p·ec²¢o¯" GetGovernmentKYM
+ ELECTORATE_BISHOPRIC_DE:0 "e±ªc¬o±c²¢e-¬³p´¾p·ec²¢e" GetGovernmentDE
+ 
+ ELECTORAL_REPUBLIC_SCHO:0 "pec±³ ®ª¬a-¬³p´¾p·ec²¢o" GetGovernmentSCHO
+ ELECTORAL_REPUBLIC_OGO:0 "pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" GetGovernmentOGO
+ ELECTORAL_REPUBLIC_OMU:0 "pec±³ ®ª¬e-¬³p´¾p·ec²¢³" GetGovernmentOMU
+ ELECTORAL_REPUBLIC_KYM:0 "pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" GetGovernmentKYM
+ ELECTORAL_REPUBLIC_DE:0 "pec±³ ®ª¬e-¬³p´¾p·ec²¢e" GetGovernmentDE
+ 
+ GRAND_ELECTORAL_REPUBLIC_SCHO:0 "¢e®ª¬a÷ pec±³ ®ª¬a-¬³p´¾p·ec²¢o" GetGovernmentSCHO
+ GRAND_ELECTORAL_REPUBLIC_OGO:0 "¢e®ª¬o« pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" GetGovernmentOGO
+ GRAND_ELECTORAL_REPUBLIC_OMU:0 "¢e®ª¬o« pec±³ ®ª¬e-¬³p´¾p·ec²¢³" GetGovernmentOMU
+ GRAND_ELECTORAL_REPUBLIC_KYM:0 "¢e®ª¬o« pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" GetGovernmentKYM
+ GRAND_ELECTORAL_REPUBLIC_DE:0 "¢e®ª¬o« pec±³ ®ª¬e-¬³p´¾p·ec²¢e" GetGovernmentDE
+ 
+ GREAT_ELECTORAL_REPUBLIC_SCHO:0 "¢e®ª¶a«·a÷ pec±³ ®ª¬a-¬³p´¾p·ec²¢o" GetGovernmentSCHO
+ GREAT_ELECTORAL_REPUBLIC_OGO:0 "¢e®ª¶a«·e« pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" GetGovernmentOGO
+ GREAT_ELECTORAL_REPUBLIC_OMU:0 "¢e®ª¶a«·e« pec±³ ®ª¬e-¬³p´¾p·ec²¢³" GetGovernmentOMU
+ GREAT_ELECTORAL_REPUBLIC_KYM:0 "¢e®ª¶a«·e« pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" GetGovernmentKYM
+ GREAT_ELECTORAL_REPUBLIC_DE:0 "¢e®ª¶a«·e« pec±³ ®ª¬e-¬³p´¾p·ec²¢e" GetGovernmentDE
+ 
+ COUNTY_SCHO:0 "¥pa´c²¢o" GetGovernmentSCHO
+ COUNTY_OGO:0 "¥pa´c²¢a" GetGovernmentOGO
+ COUNTY_OMU:0 "¥pa´c²¢³" GetGovernmentOMU
+ COUNTY_KYM:0 "¥pa´c²¢o¯" GetGovernmentKYM
+ COUNTY_DE:0 "¥pa´c²¢e" GetGovernmentDE
+ 
+ COUNTY_SCHO:0 "¥pa´c²¢o" GetGovernmentSCHO
+ COUNTY_OGO:0 "¥pa´c²¢a" GetGovernmentOGO
+ COUNTY_OMU:0 "¥pa´c²¢³" GetGovernmentOMU
+ COUNTY_KYM:0 "¥pa´c²¢o¯" GetGovernmentKYM
+ COUNTY_DE:0 "¥pa´c²¢e" GetGovernmentDE
+ 
+ COUNTY_PALATINE_SCHO:0 "±´a®»µ¥pa´c²¢o" GetGovernmentSCHO
+ COUNTY_PALATINE_OGO:0 "±´a®»µ¥pa´c²¢a" GetGovernmentOGO
+ COUNTY_PALATINE_OMU:0 "±´a®»µ¥pa´c²¢³" GetGovernmentOMU
+ COUNTY_PALATINE_KYM:0 "±´a®»µ¥pa´c²¢o¯" GetGovernmentKYM
+ COUNTY_PALATINE_DE:0 "±´a®»µ¥pa´c²¢e" GetGovernmentDE
+ 
+ KINGDOM_PALATINE_SCHO:0 "±´a®»µ¬opo®e¢c²¢o" GetGovernmentSCHO
+ KINGDOM_PALATINE_OGO:0 "±´a®»µ¬opo®e¢c²¢a" GetGovernmentOGO
+ KINGDOM_PALATINE_OMU:0 "±´a®»µ¬opo®e¢c²¢³" GetGovernmentOMU
+ KINGDOM_PALATINE_KYM:0 "±´a®»µ¬opo®e¢c²¢o¯" GetGovernmentKYM
+ KINGDOM_PALATINE_DE:0 "±´a®»µ¬opo®e¢c²¢e" GetGovernmentDE
+ 
+ IKKO_IKKI_COMMUNE_SCHO:0 "pec±³ ®ª¬a †¬¬o-ª¬¬ª" GetGovernmentSCHO
+ IKKO_IKKI_COMMUNE_OGO:0 "pec±³ ®ª¬ª †¬¬o-ª¬¬ª" GetGovernmentOGO
+ IKKO_IKKI_COMMUNE_OMU:0 "pec±³ ®ª¬e †¬¬o-ª¬¬ª" GetGovernmentOMU
+ IKKO_IKKI_COMMUNE_KYM:0 "pec±³ ®ª¬o« †¬¬o-ª¬¬ª" GetGovernmentKYM
+ IKKO_IKKI_COMMUNE_DE:0 "pec±³ ®ª¬e †¬¬o-ª¬¬ª" GetGovernmentDE
+ 
+ IKKO_IKKI_ORDER_SCHO:0 "op¦e° †¬¬o-ª¬¬ª" GetGovernmentSCHO
+ IKKO_IKKI_ORDER_OGO:0 "op¦e°a †¬¬o-ª¬¬ª" GetGovernmentOGO
+ IKKO_IKKI_ORDER_OMU:0 "op¦e°³ †¬¬o-ª¬¬ª" GetGovernmentOMU
+ IKKO_IKKI_ORDER_KYM:0 "op¦e°o¯ †¬¬o-ª¬¬ª" GetGovernmentKYM
+ IKKO_IKKI_ORDER_DE:0 "op¦e°e †¬¬o-ª¬¬ª" GetGovernmentDE
+ 
+ IKKO_IKKI_SHOGUN_SCHO:0 "cë¥³°a² †¬¬o-ª¬¬ª" GetGovernmentSCHO
+ IKKO_IKKI_SHOGUN_OGO:0 "cë¥³°a²a †¬¬o-ª¬¬ª" GetGovernmentOGO
+ IKKO_IKKI_SHOGUN_OMU:0 "cë¥³°a²³ †¬¬o-ª¬¬ª" GetGovernmentOMU
+ IKKO_IKKI_SHOGUN_KYM:0 "cë¥³°a²o¯ †¬¬o-ª¬¬ª" GetGovernmentKYM
+ IKKO_IKKI_SHOGUN_DE:0 "cë¥³°a²e †¬¬o-ª¬¬ª" GetGovernmentDE
+ 
+ IKKO_IKKI_EMPIRE_SCHO:0 "±po²e¬²opa² †¬¬o-ª¬¬ª" GetGovernmentSCHO
+ IKKO_IKKI_EMPIRE_OGO:0 "±po²e¬²opa²a †¬¬o-ª¬¬ª" GetGovernmentOGO
+ IKKO_IKKI_EMPIRE_OMU:0 "±po²e¬²opa²³ †¬¬o-ª¬¬ª" GetGovernmentOMU
+ IKKO_IKKI_EMPIRE_KYM:0 "±po²e¬²opa²o¯ †¬¬o-ª¬¬ª" GetGovernmentKYM
+ IKKO_IKKI_EMPIRE_DE:0 "±po²e¬²opa²e †¬¬o-ª¬¬ª" GetGovernmentDE
+ 
+ WARRIOR_MONK_ORDER_SCHO:0 "cox¼«" GetGovernmentSCHO
+ WARRIOR_MONK_ORDER_OGO:0 "cox¼÷" GetGovernmentOGO
+ WARRIOR_MONK_ORDER_OMU:0 "cox¼¾" GetGovernmentOMU
+ WARRIOR_MONK_ORDER_KYM:0 "cox¼e¯" GetGovernmentKYM
+ WARRIOR_MONK_ORDER_DE:0 "cox¼e" GetGovernmentDE
+ 
+ WARRIOR_MONK_HIGH_ORDER_SCHO:0 "¯o°a·ec¬ª« cë¥³°a²" GetGovernmentSCHO
+ WARRIOR_MONK_HIGH_ORDER_OGO:0 "¯o°a·ec¬o¥o cë¥³°a²a" GetGovernmentOGO
+ WARRIOR_MONK_HIGH_ORDER_OMU:0 "¯o°a·ec¬o¯³ cë¥³°a²³" GetGovernmentOMU
+ WARRIOR_MONK_HIGH_ORDER_KYM:0 "¯o°a·ec¬ª¯ cë¥³°a²o¯" GetGovernmentKYM
+ WARRIOR_MONK_HIGH_ORDER_DE:0 "¯o°a·ec¬o¯ cë¥³°a²e" GetGovernmentDE
+ 
+ DIVINE_PROTECTORS_SCHO:0 " o¨ec²¢e°°º« ±po²e¬²opa²" GetGovernmentSCHO
+ DIVINE_PROTECTORS_OGO:0 " o¨ec²¢e°°o¥o ±po²e¬²opa²a" GetGovernmentOGO
+ DIVINE_PROTECTORS_OMU:0 " o¨ec²¢e°°o¯³ ±po²e¬²opa²³" GetGovernmentOMU
+ DIVINE_PROTECTORS_KYM:0 " o¨ec²¢e°°º¯ ±po²e¬²opa²o¯" GetGovernmentKYM
+ DIVINE_PROTECTORS_DE:0 " o¨ec²¢e°°o¯ ±po²e¬²opa²e" GetGovernmentDE
+ 
+ BLACK_KNIGHTS_SCHO:0 "pºµapª A¦pªa°a" GetGovernmentSCHO
+ BLACK_KNIGHTS_OGO:0 "pºµape« A¦pªa°a" GetGovernmentOGO
+ BLACK_KNIGHTS_OMU:0 "pºµap÷¯ A¦pªa°a" GetGovernmentOMU
+ BLACK_KNIGHTS_KYM:0 "pºµap÷¯ª A¦pªa°a" GetGovernmentKYM
+ BLACK_KNIGHTS_DE:0 "pºµap÷x A¦pªa°a" GetGovernmentDE
+ 
+ BLACK_LONG_KNIGHTS_SCHO:0 "pºµapª A¦pªa°a" GetGovernmentSCHO
+ BLACK_LONG_KNIGHTS_OGO:0 "pºµape« A¦pªa°a" GetGovernmentOGO
+ BLACK_LONG_KNIGHTS_OMU:0 "pºµap÷¯ A¦pªa°a" GetGovernmentOMU
+ BLACK_LONG_KNIGHTS_KYM:0 "pºµap÷¯ª A¦pªa°a" GetGovernmentKYM
+ BLACK_LONG_KNIGHTS_DE:0 "pºµap÷x A¦pªa°a" GetGovernmentDE
+ 
+ BLACK_WATCH_SCHO:0 "¦o©op A¦pªa°a" GetGovernmentSCHO
+ BLACK_WATCH_OGO:0 "¦o©opa A¦pªa°a" GetGovernmentOGO
+ BLACK_WATCH_OMU:0 "¦o©op³ A¦pªa°a" GetGovernmentOMU
+ BLACK_WATCH_KYM:0 "¦o©opo¯ A¦pªa°a" GetGovernmentKYM
+ BLACK_WATCH_DE:0 "¦o©ope A¦pªa°a" GetGovernmentDE
+ 
+ SOVREIGN_MONASTIC_ORDER_SCHO:0 "c³¢epe°°º« ¢oe°°º« op¦e°" GetGovernmentSCHO
+ SOVREIGN_MONASTIC_ORDER_OGO:0 "c³¢epe°°o¥o ¢oe°°o¥o op¦e°a" GetGovernmentOGO
+ SOVREIGN_MONASTIC_ORDER_OMU:0 "c³¢epe°°o¯³ ¢oe°°o¯³ op¦e°³" GetGovernmentOMU
+ SOVREIGN_MONASTIC_ORDER_KYM:0 "c³¢epe°°o¯ ¢oe°°o¯ op¦e°o¯" GetGovernmentKYM
+ SOVREIGN_MONASTIC_ORDER_DE:0 "c³¢epe°°o¯ ¢oe°°o¯ op¦e°e" GetGovernmentDE
+ 
+ SOVREIGN_MONASTIC_CONFEDERATION_SCHO:0 "c³¢epe°°a÷ pºµapc¬a÷ ¬o°´e¦epaµª÷" GetGovernmentSCHO
+ SOVREIGN_MONASTIC_CONFEDERATION_OGO:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" GetGovernmentOGO
+ SOVREIGN_MONASTIC_CONFEDERATION_OMU:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" GetGovernmentOMU
+ SOVREIGN_MONASTIC_CONFEDERATION_KYM:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªe«" GetGovernmentKYM
+ SOVREIGN_MONASTIC_CONFEDERATION_DE:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" GetGovernmentDE
+ 
+ SISTERHOOD_SCHO:0 "cec²pª¶ec²¢o" GetGovernmentSCHO
+ SISTERHOOD_OGO:0 "cec²pª¶ec²¢a" GetGovernmentOGO
+ SISTERHOOD_OMU:0 "cec²pª¶ec²¢³" GetGovernmentOMU
+ SISTERHOOD_KYM:0 "cec²pª¶ec²¢o¯" GetGovernmentKYM
+ SISTERHOOD_DE:0 "cec²pª¶ec²¢e" GetGovernmentDE
+ 
+ GRAND_SISTERHOOD_SCHO:0 "¢e®ª¬oe cec²pª¶ec²¢o" GetGovernmentSCHO
+ GRAND_SISTERHOOD_OGO:0 "¢e®ª¬o¥o cec²pª¶ec²¢a" GetGovernmentOGO
+ GRAND_SISTERHOOD_OMU:0 "¢e®ª¬o¯³ cec²pª¶ec²¢³" GetGovernmentOMU
+ GRAND_SISTERHOOD_KYM:0 "¢e®ª¬ª¯ cec²pª¶ec²¢o¯" GetGovernmentKYM
+ GRAND_SISTERHOOD_DE:0 "¢e®ª¬o¯ cec²pª¶ec²¢e" GetGovernmentDE
+ 
+ TRAPPIST_STATE_SCHO:0 "op¦e° ²pa±±ªc²o¢" GetGovernmentSCHO
+ TRAPPIST_STATE_OGO:0 "op¦e°a ²pa±±ªc²o¢" GetGovernmentOGO
+ TRAPPIST_STATE_OMU:0 "op¦e°³ ²pa±±ªc²o¢" GetGovernmentOMU
+ TRAPPIST_STATE_KYM:0 "op¦e°o¯ ²pa±±ªc²o¢" GetGovernmentKYM
+ TRAPPIST_STATE_DE:0 "op¦e°e ²pa±±ªc²o¢" GetGovernmentDE
+ 
+ MONASTIC_STATE_SCHO:0 "¯o°a·ec¬oe ¥oc³¦apc²¢o" GetGovernmentSCHO
+ MONASTIC_STATE_OGO:0 "¯o°a·ec¬o¥o ¥oc³¦apc²¢a" GetGovernmentOGO
+ MONASTIC_STATE_OMU:0 "¯o°a·ec¬o¯³ ¥oc³¦apc²¢³" GetGovernmentOMU
+ MONASTIC_STATE_KYM:0 "¯o°a·ec¬ª¯ ¥oc³¦apc²¢o¯" GetGovernmentKYM
+ MONASTIC_STATE_DE:0 "¯o°a·ec¬o¯ ¥oc³¦apc²¢e" GetGovernmentDE
+ 
+ BREWING_EMPIRE_SCHO:0 "±ª¢°a÷ ª¯±epª÷" GetGovernmentSCHO
+ BREWING_EMPIRE_OGO:0 "±ª¢°o« ª¯±epªª" GetGovernmentOGO
+ BREWING_EMPIRE_OMU:0 "±ª¢°o« ª¯±epªª" GetGovernmentOMU
+ BREWING_EMPIRE_KYM:0 "±ª¢°o« ª¯±epªe«" GetGovernmentKYM
+ BREWING_EMPIRE_DE:0 "±ª¢°o« ª¯±epªª" GetGovernmentDE
+ 
+ SYNTH_GOV_SCHO:0 "¯a·ª°°º« ª°²e®®e¬²" GetGovernmentSCHO
+ SYNTH_GOV_OGO:0 "¯a·ª°°o¥o ª°²e®®e¬²a" GetGovernmentOGO
+ SYNTH_GOV_OMU:0 "¯a·ª°°o¯³ ª°²e®®e¬²³" GetGovernmentOMU
+ SYNTH_GOV_KYM:0 "¯a·ª°°º¯ ª°²e®®e¬²o¯" GetGovernmentKYM
+ SYNTH_GOV_DE:0 "¯a·ª°°o¯ ª°²e®®e¬²e" GetGovernmentDE
