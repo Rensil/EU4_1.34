@@ -11,7 +11,7 @@
  pryjmennyk_u_cap:0 "У" ##Get_UVDO_CAP
  pryjmennyk_v_cap:0 "В" ##Get_UVDO_CAP
  pryjmennyk_do_cap:0 "До" ##Get_UVDO_CAP
- 
+
  #Держави, що" відповідають на запитання "Немає кого?"
  TAG_OGO_DYN:0 "держави [Root.GetName]" #GetTagOGO
  TAG_OGO_ADA:0 "Адала" #GetTagOGO
@@ -817,6 +817,12 @@
  TAG_OGO_LIB:0 "Ліберталії" #GetTagOGO
  TAG_OGO_TOR:0 "Тортуги" #GetTagOGO
  TAG_OGO_MRK:0 "Марракеша" #GetTagOGO
+ ТАG_OGO_FRМ:0 "Дунніна" #GetTagOGO
+ ТАG_OGO_SОО:0 "Со" #GetTagOGO
+ ТАG_OGO_SОL:0 "Солонів" #GetTagOGO
+ ТАG_OGO_NVК:0 "Нівхів" #GetTagOGO
+ ТАG_OGO_ЕJZ:0 "Дунхая" #GetTagOGO
+ ТАG_OGO_NНХ:0 "Удеге" #GetTagOGO
  #Держави, що" відповідають на запитання "Куди?
  TAG_KUDY_DYN:0 "державу [Root.GetName]" #GetTagKUDY
  TAG_KUDY_ADA:0 "Адал" #GetTagKUDY
@@ -1622,6 +1628,12 @@
  TAG_KUDY_LIB:0 "Ліберталію" #GetTagKUDY
  TAG_KUDY_TOR:0 "Тортугу" #GetTagKUDY
  TAG_KUDY_MRK:0 "Марракеш" #GetTagKUDY
+ ТАG_KUDY_FRМ:0 "Дуннін" #GetTagKUDY
+ ТАG_KUDY_SОО:0 "Со" #GetTagKUDY
+ ТАG_KUDY_SОL:0 "Солони" #GetTagKUDY
+ ТАG_KUDY_NVК:0 "Нівхи" #GetTagKUDY
+ ТАG_KUDY_ЕJZ:0 "Дунхай" #GetTagKUDY
+ ТАG_KUDY_NНХ:0 "Удеге" #GetTagKUDY
  #Держави, що" відповідають на запитання "Чим?
  TAG_KYM_DYN:0 "державою [Root.GetName]" #GetTagKYM
  TAG_KYM_ADA:0 "Адалом" #GetTagKYM
@@ -2427,6 +2439,12 @@
  TAG_KYM_LIB:0 "Ліберталією" #GetTagKYM
  TAG_KYM_TOR:0 "Тортугою" #GetTagKYM
  TAG_KYM_MRK:0 "Марракешом" #GetTagKYM
+ ТАG_KYM_FRМ:0 "Дунніном" #GetTagKYM
+ ТАG_KYM_SОО:0 "Со" #GetTagKYM
+ ТАG_KYM_SОL:0 "Солонами" #GetTagKYM
+ ТАG_KYM_NVК:0 "Нівхами" #GetTagKYM
+ ТАG_KYM_ЕJZ:0 "Дунхаєм" #GetTagKYM
+ ТАG_KYM_NНХ:0 "Удеге" #GetTagKYM
  #Держави, що" відповідають на запитання "Де?
  TAG_DE_DYN:0 "державі [Root.GetName]" #GetTagDE
  TAG_DE_ADA:0 "Адалі" #GetTagDE
@@ -3232,6 +3250,12 @@
  TAG_DE_LIB:0 "Ліберталії" #GetTagDE
  TAG_DE_TOR:0 "Тортузі" #GetTagDE
  TAG_DE_MRK:0 "Марракеші" #GetTagDE
+ ТАG_DE_FRМ:0 "Дунніні" #GetTagDE
+ ТАG_DE_SОО:0 "Со" #GetTagDE
+ ТАG_DE_SОL:0 "Солонах" #GetTagDE
+ ТАG_DE_NVК:0 "Нівхах" #GetTagDE
+ ТАG_DE_ЕJZ:0 "Дунхає" #GetTagDE
+ ТАG_DE_NНХ:0 "Удеге" #GetTagDE
  #Держави, що" відповідають на запитання "Кому?
  TAG_OMU_DYN:0 "державі [Root.GetName]" #GetTagOMU
  TAG_OMU_ADA:0 "Адалу" #GetTagOMU
@@ -4037,6 +4061,12 @@
  TAG_OMU_LIB:0 "Ліберталії" #GetTagOMU
  TAG_OMU_TOR:0 "Тортузі" #GetTagOMU
  TAG_OMU_MRK:0 "Марракешу" #GetTagOMU
+ ТАG_OMU_FRМ:0 "Дунніну" #GetTagOMU
+ ТАG_OMU_SОО:0 "Со" #GetTagOMU
+ ТАG_OMU_SОL:0 "Солонам" #GetTagOMU
+ ТАG_OMU_NVК:0 "Нівхам" #GetTagOMU
+ ТАG_OMU_ЕJZ:0 "Дунхаю" #GetTagOMU
+ ТАG_OMU_NНХ:0 "Удеге" #GetTagOMU
 
  TAG_KLY_DYN:0 "державо [Root.GetName]" #GetTagKLY
  TAG_KLY_ADA:0 "Адале" #GetTagKLY
@@ -4842,6 +4872,12 @@
  TAG_KLY_LIB:0 "Ліберталіє" #GetTagKLY
  TAG_KLY_TOR:0 "Тортуго" #GetTagKLY
  TAG_KLY_MRK:0 "Марракеше" #GetTagKLY
+ ТАG_KLY_FRМ:0 "Дунніне" #GetTagKLY
+ ТАG_KLY_SОО:0 "Со" #GetTagKLY
+ ТАG_KLY_SОL:0 "Солони" #GetTagKLY
+ ТАG_KLY_NVК:0 "Нівхи" #GetTagKLY
+ ТАG_KLY_ЕJZ:0 "Дунхаю" #GetTagKLY
+ ТАG_KLY_NНХ:0 "Удеге" #GetTagKLY
  #Вер. 1.30""
  #Держави, що" відповідають на запитання "Немає кого?
  TAG_OGO_GNV:0 "Женеви" #GetTagOGO
