@@ -80,9 +80,9 @@ government_names_l_ukrainian.yml - в.1.31.5.2, перекладено / 513
 gukr00_customizable_l_ukrainian.yml - кастомні змінні
 gukr01_customizable_l_ukrainian.yml - кастомні змінні
 gukr_countries_l_ukrainian.yml - кастомні змінні
-gukr_culture_people_l_ukrainian.yml - кастомні змінні
-gukr_government_l_ukrainian.yml - кастомні змінні
-gukr_governmentCAP_l_ukrainian.yml - кастомні змінні
+gukr_culture_people_l_ukrainian.yml - кастомні змінні, триває редагування, рядки 420-448, 865-893
+gukr_government_l_ukrainian.yml - кастомні змінні, триває редагування, рядки 540-754
+gukr_governmentCAP_l_ukrainian.yml - кастомні змінні, триває редагування, рядки 480-754
 gukr_religion_l_ukrainian.yml - кастомні змінні
 gukr_title_l_ukrainian.yml - кастомні змінні
 gukr_titleCAP_l_ukrainian.yml - кастомні змінні
