@@ -2305,3 +2305,495 @@
  BROTHER_KHTO:0 "брат" #GetTitleKHTO
  BROTHER_PRO:0 "брата" #GetTitlePRO
  BROTHER_KLY:0 "брате" #GetTitleKLY
+ 
+ MARSHAL_RD:0 "¯ap·a®a" #GetTitleRD
+ MARSHAL_IM:0 "¯ap·a®" #GetTitleIM
+ MARSHAL_DT:0 "¯ap·a®³" #GetTitleDT
+ MARSHAL_TV:0 "¯ap·a®o¯" #GetTitleTV
+ MARSHAL_PR:0 "¯ap·a®e" #GetTitlePR
+ MARSHAL_VN:0 "¯ap·a®a" #GetTitleVN
+ 
+ SERENE_MARSHAL_RD:0 "c¢e²®e«·e¥o ¯ap·a®a" #GetTitleRD
+ SERENE_MARSHAL_IM:0 "c¢e²®e«·ª« ¯ap·a®" #GetTitleIM
+ SERENE_MARSHAL_DT:0 "c¢e²®e«·e¯³ ¯ap·a®³" #GetTitleDT
+ SERENE_MARSHAL_TV:0 "c¢e²®e«·ª¯ ¯ap·a®o¯" #GetTitleTV
+ SERENE_MARSHAL_PR:0 "c¢e²®e«·e¯ ¯ap·a®e" #GetTitlePR
+ SERENE_MARSHAL_VN:0 "c¢e²®e«·e¥o ¯ap·a®a" #GetTitleVN
+ 
+ MOST_SERENE_MARSHAL_RD:0 "c¢e²®e«·e¥o ¯ap·a®a" #GetTitleRD
+ MOST_SERENE_MARSHAL_IM:0 "c¢e²®e«·ª« ¯ap·a®" #GetTitleIM
+ MOST_SERENE_MARSHAL_DT:0 "c¢e²®e«·e¯³ ¯ap·a®³" #GetTitleDT
+ MOST_SERENE_MARSHAL_TV:0 "c¢e²®e«·ª¯ ¯ap·a®o¯" #GetTitleTV
+ MOST_SERENE_MARSHAL_PR:0 "c¢e²®e«·e¯ ¯ap·a®e" #GetTitlePR
+ MOST_SERENE_MARSHAL_VN:0 "c¢e²®e«·e¥o ¯ap·a®a" #GetTitleVN
+ 
+ TRIBAL_LEADER_IM:0 "±®e¯e°°o« ®ª¦ep" #GetTitleIM
+ TRIBAL_LEADER_RD:0 "±®e¯e°°o¥o ®ª¦epa" #GetTitleRD
+ TRIBAL_LEADER_DT:0 "±®e¯e°°o¯³ ®ª¦ep³" #GetTitleDT
+ TRIBAL_LEADER_VN:0 "±®e¯e°°o¥o ®ª¦epa" #GetTitleVN
+ TRIBAL_LEADER_TV:0 "±®e¯e°°º¯ ®ª¦epo¯" #GetTitleTV
+ TRIBAL_LEADER_PR:0 "±®e¯e°°o¯ ®ª¦epe" #GetTitlePR
+ 
+ CALIPH_IM:0 "xa®ª´" #GetTitleIM
+ CALIPH_RD:0 "xa®ª´a" #GetTitleRD
+ CALIPH_DT:0 "xa®ª´³" #GetTitleDT
+ CALIPH_VN:0 "xa®ª´a" #GetTitleVN
+ CALIPH_TV:0 "xa®ª´o¯" #GetTitleTV
+ CALIPH_PR:0 "xa®ª´e" #GetTitlePR
+ 
+ CALIPHA_IM:0 "xa®ª´" #GetTitleIM
+ CALIPHA_RD:0 "xa®ª´a" #GetTitleRD
+ CALIPHA_DT:0 "xa®ª´³" #GetTitleDT
+ CALIPHA_VN:0 "xa®ª´a" #GetTitleVN
+ CALIPHA_TV:0 "xa®ª´o¯" #GetTitleTV
+ CALIPHA_PR:0 "xa®ª´e" #GetTitlePR
+ 
+ FIRST_LAWSPEAKER_IM:0 "¢ºc·ª« ©a¬o°o¥o¢opª²e®»" #GetTitleIM
+ FIRST_LAWSPEAKER_RD:0 "¢ºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleRD
+ FIRST_LAWSPEAKER_DT:0 "¢ºc·e¯³ ©a¬o°o¥o¢opª²e®¾" #GetTitleDT
+ FIRST_LAWSPEAKER_VN:0 "¢ºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleVN
+ FIRST_LAWSPEAKER_TV:0 "¢ºc·ª¯ ©a¬o°o¥o¢opª²e®e¯" #GetTitleTV
+ FIRST_LAWSPEAKER_PR:0 "¢ºc·e¯ ©a¬o°o¥o¢opª²e®e" #GetTitlePR
+ 
+ FIRST_LAWSPEAKER_fem_IM:0 "¢ºc·ª« ©a¬o°o¥o¢opª²e®»" #GetTitleIM
+ FIRST_LAWSPEAKER_fem_RD:0 "¢ºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleRD
+ FIRST_LAWSPEAKER_fem_DT:0 "¢ºc·e¯³ ©a¬o°o¥o¢opª²e®¾" #GetTitleDT
+ FIRST_LAWSPEAKER_fem_VN:0 "¢ºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleVN
+ FIRST_LAWSPEAKER_fem_TV:0 "¢ºc·ª¯ ©a¬o°o¥o¢opª²e®e¯" #GetTitleTV
+ FIRST_LAWSPEAKER_fem_PR:0 "¢ºc·e¯ ©a¬o°o¥o¢opª²e®e" #GetTitlePR
+ 
+ SUPREME_VIZIER_IM:0 "¢epxo¢°º« ¢ª©ªp»" #GetTitleIM
+ SUPREME_VIZIER_RD:0 "¢epxo¢°o¥o ¢ª©ªp÷" #GetTitleRD
+ SUPREME_VIZIER_DT:0 "¢epxo¢°o¯³ ¢ª©ªp¾" #GetTitleDT
+ SUPREME_VIZIER_VN:0 "¢epxo¢°o¥o ¢ª©ªp÷" #GetTitleVN
+ SUPREME_VIZIER_TV:0 "¢epxo¢°º¯ ¢ª©ªpe¯" #GetTitleTV
+ SUPREME_VIZIER_PR:0 "¢epxo¢°o¯ ¢ª©ªpe" #GetTitlePR
+ 
+ SUPREME_VIZIER_fem_IM:0 "¢epxo¢°º« ¢ª©ªp»" #GetTitleIM
+ SUPREME_VIZIER_fem_RD:0 "¢epxo¢°o¥o ¢ª©ªp÷" #GetTitleRD
+ SUPREME_VIZIER_fem_DT:0 "¢epxo¢°o¯³ ¢ª©ªp¾" #GetTitleDT
+ SUPREME_VIZIER_fem_VN:0 "¢epxo¢°o¥o ¢ª©ªp÷" #GetTitleVN
+ SUPREME_VIZIER_fem_TV:0 "¢epxo¢°º¯ ¢ª©ªpe¯" #GetTitleTV
+ SUPREME_VIZIER_fem_PR:0 "¢epxo¢°o¯ ¢ª©ªpe" #GetTitlePR
+ 
+ CHAIRMAN_IM:0 "±pe¦ce¦a²e®»" #GetTitleIM
+ CHAIRMAN_RD:0 "±pe¦ce¦a²e®÷" #GetTitleRD
+ CHAIRMAN_DT:0 "±pe¦ce¦a²e®¾" #GetTitleDT
+ CHAIRMAN_VN:0 "±pe¦ce¦a²e®÷" #GetTitleVN
+ CHAIRMAN_TV:0 "±pe¦ce¦a²e®e¯" #GetTitleTV
+ CHAIRMAN_PR:0 "±pe¦ce¦a²e®e" #GetTitlePR
+ 
+ CHAIRMAN_fem_IM:0 "±pe¦ce¦a²e®»" #GetTitleIM
+ CHAIRMAN_fem_RD:0 "±pe¦ce¦a²e®÷" #GetTitleRD
+ CHAIRMAN_fem_DT:0 "±pe¦ce¦a²e®»" #GetTitleDT
+ CHAIRMAN_fem_VN:0 "±pe¦ce¦a²e®»" #GetTitleVN
+ CHAIRMAN_fem_TV:0 "±pe¦ce¦a²e®»" #GetTitleTV
+ CHAIRMAN_fem_PR:0 "±pe¦ce¦a²e®»" #GetTitlePR
+ 
+ CONSULESS_IM:0 "¬o°c³®" #GetTitleIM
+ CONSULESS_RD:0 "¬o°c³®a" #GetTitleRD
+ CONSULESS_DT:0 "¬o°c³®³" #GetTitleDT
+ CONSULESS_VN:0 "¬o°c³®a" #GetTitleVN
+ CONSULESS_TV:0 "¬o°c³®o¯" #GetTitleTV
+ CONSULESS_PR:0 "¬o°c³®e" #GetTitlePR
+ 
+ KAISER_IM:0 "¬a«©ep" #GetTitleIM
+ KAISER_RD:0 "¬a«©epa" #GetTitleRD
+ KAISER_DT:0 "¬a«©ep³" #GetTitleDT
+ KAISER_VN:0 "¬a«©epa" #GetTitleVN
+ KAISER_TV:0 "¬a«©epo¯" #GetTitleTV
+ KAISER_PR:0 "¬a«©epe" #GetTitlePR
+ 
+ KAISERIN_IM:0 "¬a«©epª°" #GetTitleIM
+ KAISERIN_RD:0 "¬a«©epª°º" #GetTitleRD
+ KAISERIN_DT:0 "¬a«©epª°e" #GetTitleDT
+ KAISERIN_VN:0 "¬a«©epª°³" #GetTitleVN
+ KAISERIN_TV:0 "¬a«©epª°o«" #GetTitleTV
+ KAISERIN_PR:0 "¬a«©epª°e" #GetTitlePR
+ 
+ FIELD_MARSHAL_IM:0 "´e®»¦¯ap·a®" #GetTitleIM
+ FIELD_MARSHAL_RD:0 "´e®»¦¯ap·a®a" #GetTitleRD
+ FIELD_MARSHAL_DT:0 "´e®»¦¯ap·a®³" #GetTitleDT
+ FIELD_MARSHAL_VN:0 "´e®»¦¯ap·a®a" #GetTitleVN
+ FIELD_MARSHAL_TV:0 "´e®»¦¯ap·a®o¯" #GetTitleTV
+ FIELD_MARSHAL_PR:0 "´e®»¦¯ap·a®e" #GetTitlePR
+ 
+ LORD_HIGH_ADMIRAL_IM:0 "®op¦ ¢ºc·ª« a¦¯ªpa®" #GetTitleIM
+ LORD_HIGH_ADMIRAL_RD:0 "®op¦a ¢ºc·e¥o a¦¯ªpa®a" #GetTitleRD
+ LORD_HIGH_ADMIRAL_DT:0 "®op¦³ ¢ºc·e¯³ a¦¯ªpa®³" #GetTitleDT
+ LORD_HIGH_ADMIRAL_VN:0 "®op¦a ¢ºc·e¥o a¦¯ªpa®a" #GetTitleVN
+ LORD_HIGH_ADMIRAL_TV:0 "®op¦o¯ ¢ºc·ª¯ a¦¯ªpa®o¯" #GetTitleTV
+ LORD_HIGH_ADMIRAL_PR:0 "®op¦e ¢ºc·e¯ a¦¯ªpa®e" #GetTitlePR
+ 
+ SUPREME_ADMIRAL_IM:0 "¢epxo¢°º« a¦¯ªpa®" #GetTitleIM
+ SUPREME_ADMIRAL_RD:0 "¢epxo¢°o¥o a¦¯ªpa®a" #GetTitleRD
+ SUPREME_ADMIRAL_DT:0 "¢epxo¢°o¯³ a¦¯ªpa®³" #GetTitleDT
+ SUPREME_ADMIRAL_VN:0 "¢epxo¢°o¥o a¦¯ªpa®a" #GetTitleVN
+ SUPREME_ADMIRAL_TV:0 "¢epxo¢°º¯ a¦¯ªpa®o¯" #GetTitleTV
+ SUPREME_ADMIRAL_PR:0 "¢epxo¢°o¯ a¦¯ªpa®e" #GetTitlePR
+ 
+ CAPTAIN_GENERAL_IM:0 "¥e°epa®-¬a±ª²a°" #GetTitleIM
+ CAPTAIN_GENERAL_RD:0 "¥e°epa®-¬a±ª²a°a" #GetTitleRD
+ CAPTAIN_GENERAL_DT:0 "¥e°epa®-¬a±ª²a°³" #GetTitleDT
+ CAPTAIN_GENERAL_VN:0 "¥e°epa®-¬a±ª²a°a" #GetTitleVN
+ CAPTAIN_GENERAL_TV:0 "¥e°epa®-¬a±ª²a°o¯" #GetTitleTV
+ CAPTAIN_GENERAL_PR:0 "¥e°epa®-¬a±ª²a°e" #GetTitlePR
+ 
+ ARCHPIRATE_IM:0 "apxª±ªpa²" #GetTitleIM
+ ARCHPIRATE_RD:0 "apxª±ªpa²a" #GetTitleRD
+ ARCHPIRATE_DT:0 "apxª±ªpa²³" #GetTitleDT
+ ARCHPIRATE_VN:0 "apxª±ªpa²a" #GetTitleVN
+ ARCHPIRATE_TV:0 "apxª±ªpa²o¯" #GetTitleTV
+ ARCHPIRATE_PR:0 "apxª±ªpa²e" #GetTitlePR
+ 
+ PIRATE_DAIMYO_IM:0 "¦a«¯ë-±ªpa²" #GetTitleIM
+ PIRATE_DAIMYO_RD:0 "¦a«¯ë-±ªpa²a" #GetTitleRD
+ PIRATE_DAIMYO_DT:0 "¦a«¯ë-±ªpa²³" #GetTitleDT
+ PIRATE_DAIMYO_VN:0 "¦a«¯ë-±ªpa²a" #GetTitleVN
+ PIRATE_DAIMYO_TV:0 "¦a«¯ë-±ªpa²o¯" #GetTitleTV
+ PIRATE_DAIMYO_PR:0 "¦a«¯ë-±ªpa²e" #GetTitlePR
+ 
+ CAPTAIN_fem_IM:0 "¬a±ª²a°" #GetTitleIM
+ CAPTAIN_fem_RD:0 "¬a±ª²a°a" #GetTitleRD
+ CAPTAIN_fem_DT:0 "¬a±ª²a°³" #GetTitleDT
+ CAPTAIN_fem_VN:0 "¬a±ª²a°a" #GetTitleVN
+ CAPTAIN_fem_TV:0 "¬a±ª²a°o¯" #GetTitleTV
+ CAPTAIN_fem_PR:0 "¬a±ª²a°e" #GetTitlePR
+ 
+ GRAND_CAPTAIN_fem_IM:0 "¥pa°¦-¬a±ª²a°" #GetTitleIM
+ GRAND_CAPTAIN_fem_RD:0 "¥pa°¦-¬a±ª²a°a" #GetTitleRD
+ GRAND_CAPTAIN_fem_DT:0 "¥pa°¦-¬a±ª²a°³" #GetTitleDT
+ GRAND_CAPTAIN_fem_VN:0 "¥pa°¦-¬a±ª²a°a" #GetTitleVN
+ GRAND_CAPTAIN_fem_TV:0 "¥pa°¦-¬a±ª²a°o¯" #GetTitleTV
+ GRAND_CAPTAIN_fem_PR:0 "¥pa°¦-¬a±ª²a°e" #GetTitlePR
+ 
+ ADMIRAL_fem_IM:0 "¥pa°¦-a¦¯ªpa®" #GetTitleIM
+ ADMIRAL_fem_RD:0 "¥pa°¦-a¦¯ªpa®a" #GetTitleRD
+ ADMIRAL_fem_DT:0 "¥pa°¦-a¦¯ªpa®³" #GetTitleDT
+ ADMIRAL_fem_VN:0 "¥pa°¦-a¦¯ªpa®a" #GetTitleVN
+ ADMIRAL_fem_TV:0 "¥pa°¦-a¦¯ªpa®o¯" #GetTitleTV
+ ADMIRAL_fem_PR:0 "¥pa°¦-a¦¯ªpa®e" #GetTitlePR
+ 
+ POPE_ELECTOR_IM:0 "±a±a-¬³p´¾pc²" #GetTitleIM
+ POPE_ELECTOR_RD:0 "±a±º-¬³p´¾pc²a" #GetTitleRD
+ POPE_ELECTOR_DT:0 "±a±e-¬³p´¾pc²³" #GetTitleDT
+ POPE_ELECTOR_VN:0 "±a±³-¬³p´¾pc²a" #GetTitleVN
+ POPE_ELECTOR_TV:0 "±a±o«-¬³p´¾pc²o¯" #GetTitleTV
+ POPE_ELECTOR_PR:0 "±a±e-¬³p´¾pc²e" #GetTitlePR
+ 
+ POPETTE_ELECTOR_IM:0 "±a±ecca-¬³p´¾pc²" #GetTitleIM
+ POPETTE_ELECTOR_RD:0 "±a±eccº-¬³p´¾pc²a" #GetTitleRD
+ POPETTE_ELECTOR_DT:0 "±a±ecce-¬³p´¾pc²³" #GetTitleDT
+ POPETTE_ELECTOR_VN:0 "±a±ecc³-¬³p´¾pc²a" #GetTitleVN
+ POPETTE_ELECTOR_TV:0 "±a±ecco«-¬³p´¾pc²o¯" #GetTitleTV
+ POPETTE_ELECTOR_PR:0 "±a±ecce-¬³p´¾pc²e" #GetTitlePR
+ 
+ ELECTOR_PALATINE_IM:0 "¢º op°º« ±´a®»µ¥pa´" #GetTitleIM
+ ELECTOR_PALATINE_RD:0 "¢º op°o¥o ±´a®»µ¥pa´a" #GetTitleRD
+ ELECTOR_PALATINE_DT:0 "¢º op°o¯³ ±´a®»µ¥pa´³" #GetTitleDT
+ ELECTOR_PALATINE_VN:0 "¢º op°o¥o ±´a®»µ¥pa´a" #GetTitleVN
+ ELECTOR_PALATINE_TV:0 "¢º op°º¯ ±´a®»µ¥pa´o¯" #GetTitleTV
+ ELECTOR_PALATINE_PR:0 "¢º op°o¯ ±´a®»µ¥pa´e" #GetTitlePR
+ 
+ ELECTRESS_PALATINE_IM:0 "¢º op°a÷ ±´a®»µ¥pa´ª°÷" #GetTitleIM
+ ELECTRESS_PALATINE_RD:0 "¢º op°o« ±´a®»µ¥pa´ª°ª" #GetTitleRD
+ ELECTRESS_PALATINE_DT:0 "¢º op°o« ±´a®»µ¥pa´ª°e" #GetTitleDT
+ ELECTRESS_PALATINE_VN:0 "¢º op°³¾ ±´a®»µ¥pa´ª°¾" #GetTitleVN
+ ELECTRESS_PALATINE_TV:0 "¢º op°o« ±´a®»µ¥pa´ª°e«" #GetTitleTV
+ ELECTRESS_PALATINE_PR:0 "¢º op°o« ±´a®»µ¥pa´ª°e" #GetTitlePR
+ 
+ COUNT_PALATINE_IM:0 "±´a®»µ¥pa´" #GetTitleIM
+ COUNT_PALATINE_RD:0 "±´a®»µ¥pa´a" #GetTitleRD
+ COUNT_PALATINE_DT:0 "±´a®»µ¥pa´³" #GetTitleDT
+ COUNT_PALATINE_VN:0 "±´a®»µ¥pa´a" #GetTitleVN
+ COUNT_PALATINE_TV:0 "±´a®»µ¥pa´o¯" #GetTitleTV
+ COUNT_PALATINE_PR:0 "±´a®»µ¥pa´e" #GetTitlePR
+ 
+ KING_PALATINE_IM:0 "±´a®»µ¬a«©ep" #GetTitleIM
+ KING_PALATINE_RD:0 "±´a®»µ¬a«©epa" #GetTitleRD
+ KING_PALATINE_DT:0 "±´a®»µ¬a«©ep³" #GetTitleDT
+ KING_PALATINE_VN:0 "±´a®»µ¬a«©epa" #GetTitleVN
+ KING_PALATINE_TV:0 "±´a®»µ¬a«©epo¯" #GetTitleTV
+ KING_PALATINE_PR:0 "±´a®»µ¬a«©epe" #GetTitlePR
+ 
+ COUNTESS_PALATINE_IM:0 "±´a®»µ¥pa´ª°÷" #GetTitleIM
+ COUNTESS_PALATINE_RD:0 "±´a®»µ¥pa´ª°ª" #GetTitleRD
+ COUNTESS_PALATINE_DT:0 "±´a®»µ¥pa´ª°e" #GetTitleDT
+ COUNTESS_PALATINE_VN:0 "±´a®»µ¥pa´ª°¾" #GetTitleVN
+ COUNTESS_PALATINE_TV:0 "±´a®»µ¥pa´ª°e«" #GetTitleTV
+ COUNTESS_PALATINE_PR:0 "±´a®»µ¥pa´ª°e" #GetTitlePR
+ 
+ QUEEN_PALATINE_IM:0 "±´a®»µ¬ë°ª¥ª°" #GetTitleIM
+ QUEEN_PALATINE_RD:0 "±´a®»µ¬ë°ª¥ª°ª" #GetTitleRD
+ QUEEN_PALATINE_DT:0 "±´a®»µ¬ë°ª¥ª°e" #GetTitleDT
+ QUEEN_PALATINE_VN:0 "±´a®»µ¬ë°ª¥ª°¾" #GetTitleVN
+ QUEEN_PALATINE_TV:0 "±´a®»µ¬ë°ª¥ª°e«" #GetTitleTV
+ QUEEN_PALATINE_PR:0 "±´a®»µ¬ë°ª¥ª°e" #GetTitlePR
+ 
+ HERCEG_IM:0 "¬°÷©»" #GetTitleIM
+ HERCEG_RD:0 "¬°÷©÷" #GetTitleRD
+ HERCEG_DT:0 "¬°÷©¾" #GetTitleDT
+ HERCEG_VN:0 "¬°÷©÷" #GetTitleVN
+ HERCEG_TV:0 "¬°÷©e¯" #GetTitleTV
+ HERCEG_PR:0 "¬°÷©e" #GetTitlePR
+ 
+ PRINCE_HERCEG_IM:0 "¢e®ª¬ª« ¬°÷©»" #GetTitleIM
+ PRINCE_HERCEG_RD:0 "¢e®ª¬o¥o ¬°÷©÷" #GetTitleRD
+ PRINCE_HERCEG_DT:0 "¢e®ª¬o¯³ ¬°÷©¾" #GetTitleDT
+ PRINCE_HERCEG_VN:0 "¢e®ª¬o¥o ¬°÷©÷" #GetTitleVN
+ PRINCE_HERCEG_TV:0 "¢e®ª¬ª¯ ¬°÷©e¯" #GetTitleTV
+ PRINCE_HERCEG_PR:0 "¢e®ª¬o¯ ¬°÷©e" #GetTitlePR
+ 
+ HERCEGI_IM:0 "¬°÷¥ª°÷" #GetTitleIM
+ HERCEGI_RD:0 "¬°÷¥ª°ª" #GetTitleRD
+ HERCEGI_DT:0 "¬°÷¥ª°e" #GetTitleDT
+ HERCEGI_VN:0 "¬°÷¥ª°¾" #GetTitleVN
+ HERCEGI_TV:0 "¬°÷¥ª°e«" #GetTitleTV
+ HERCEGI_PR:0 "¬°÷¥ª°e" #GetTitlePR
+ 
+ PRINCESS_HERCEGI_IM:0 "¢e®ª¬a÷ ¬°÷¥ª°÷" #GetTitleIM
+ PRINCESS_HERCEGI_RD:0 "¢e®ª¬o« ¬°÷¥ª°ª" #GetTitleRD
+ PRINCESS_HERCEGI_DT:0 "¢e®ª¬o« ¬°÷¥ª°e" #GetTitleDT
+ PRINCESS_HERCEGI_VN:0 "¢e®ª¬³¾ ¬°÷¥ª°¾" #GetTitleVN
+ PRINCESS_HERCEGI_TV:0 "¢e®ª¬o« ¬°÷¥ª°e«" #GetTitleTV
+ PRINCESS_HERCEGI_PR:0 "¢e®ª¬o« ¬°÷¥ª°e" #GetTitlePR
+ 
+ CONSUL_ELECTOR_IM:0 "¬o°c³®-¬³p´¾pc²" #GetTitleIM
+ CONSUL_ELECTOR_RD:0 "¬o°c³®a-¬³p´¾pc²a" #GetTitleRD
+ CONSUL_ELECTOR_DT:0 "¬o°c³®³-¬³p´¾pc²³" #GetTitleDT
+ CONSUL_ELECTOR_VN:0 "¬o°c³®a-¬³p´¾pc²a" #GetTitleVN
+ CONSUL_ELECTOR_TV:0 "¬o°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV
+ CONSUL_ELECTOR_PR:0 "¬o°c³®e-¬³p´¾pc²e" #GetTitlePR
+ 
+ GRAND_CONSUL_ELECTOR_IM:0 "¢e®ª¬ª« ¬o°c³®-¬³p´¾pc²" #GetTitleIM
+ GRAND_CONSUL_ELECTOR_RD:0 "¢e®ª¬o¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleRD
+ GRAND_CONSUL_ELECTOR_DT:0 "¢e®ª¬o¯³ ¬o°c³®³-¬³p´¾pc²³" #GetTitleDT
+ GRAND_CONSUL_ELECTOR_VN:0 "¢e®ª¬o¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleVN
+ GRAND_CONSUL_ELECTOR_TV:0 "¢e®ª¬ª¯ ¬o°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV
+ GRAND_CONSUL_ELECTOR_PR:0 "¢e®ª¬o¯ ¬o°c³®e-¬³p´¾pc²e" #GetTitlePR
+ 
+ GREAT_CONSUL_ELECTOR_IM:0 "¢e®ª¶a«·ª« ¬o°c³®-¬³p´¾pc²" #GetTitleIM
+ GREAT_CONSUL_ELECTOR_RD:0 "¢e®ª¶a«·e¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleRD
+ GREAT_CONSUL_ELECTOR_DT:0 "¢e®ª¶a«·e¯³ ¬o°c³®³-¬³p´¾pc²³" #GetTitleDT
+ GREAT_CONSUL_ELECTOR_VN:0 "¢e®ª¶a«·e¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleVN
+ GREAT_CONSUL_ELECTOR_TV:0 "¢e®ª¶a«·ª¯ ¬o°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV
+ GREAT_CONSUL_ELECTOR_PR:0 "¢e®ª¶a«·e¯ ¬o°c³®e-¬³p´¾pc²e" #GetTitlePR
+ 
+ CONSULESS_ELECTOR_IM:0 "¬o°c³®-¬³p´¾pc²ª°a" #GetTitleIM
+ CONSULESS_ELECTOR_RD:0 "¬o°c³®a-¬³p´¾pc²ª°º" #GetTitleRD
+ CONSULESS_ELECTOR_DT:0 "¬o°c³®³-¬³p´¾pc²ª°e" #GetTitleDT
+ CONSULESS_ELECTOR_VN:0 "¬o°c³®a-¬³p´¾pc²ª°³" #GetTitleVN
+ CONSULESS_ELECTOR_TV:0 "¬o°c³®o¯-¬³p´¾pc²ª°o«" #GetTitleTV
+ CONSULESS_ELECTOR_PR:0 "¬o°c³®e-¬³p´¾pc²ª°e" #GetTitlePR
+ 
+ GRAND_CONSULESS_ELECTOR_IM:0 "¢e®ª¬a÷ ¬o°c³®-¬³p´¾pc²ª°a" #GetTitleIM
+ GRAND_CONSULESS_ELECTOR_RD:0 "¢e®ª¬o« ¬o°c³®-¬³p´¾pc²ª°º" #GetTitleRD
+ GRAND_CONSULESS_ELECTOR_DT:0 "¢e®ª¬o« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitleDT
+ GRAND_CONSULESS_ELECTOR_VN:0 "¢e®ª¬³¾ ¬o°c³®-¬³p´¾pc²ª°³" #GetTitleVN
+ GRAND_CONSULESS_ELECTOR_TV:0 "¢e®ª¬o« ¬o°c³®-¬³p´¾pc²ª°o«" #GetTitleTV
+ GRAND_CONSULESS_ELECTOR_PR:0 "¢e®ª¬o« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitlePR
+ 
+ GREAT_CONSULESS_ELECTOR_IM:0 "¢e®ª¶a«·a÷ ¬o°c³®-¬³p´¾pc²ª°a" #GetTitleIM
+ GREAT_CONSULESS_ELECTOR_RD:0 "¢e®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°º" #GetTitleRD
+ GREAT_CONSULESS_ELECTOR_DT:0 "¢e®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitleDT
+ GREAT_CONSULESS_ELECTOR_VN:0 "¢e®ª¶a«·³¾ ¬o°c³®-¬³p´¾pc²ª°³" #GetTitleVN
+ GREAT_CONSULESS_ELECTOR_TV:0 "¢e®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°o«" #GetTitleTV
+ GREAT_CONSULESS_ELECTOR_PR:0 "¢e®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitlePR
+ 
+ regent_IM:0 "pe¥e°²" #GetTitleIM
+ regent_RD:0 "pe¥e°²a" #GetTitleRD
+ regent_DT:0 "pe¥e°²³" #GetTitleDT
+ regent_VN:0 "pe¥e°²a" #GetTitleVN
+ regent_TV:0 "pe¥e°²o¯" #GetTitleTV
+ regent_PR:0 "pe¥e°²e" #GetTitlePR
+ 
+ COUNT_IM:0 "¥pa´" #GetTitleIM
+ COUNT_RD:0 "¥pa´a" #GetTitleRD
+ COUNT_DT:0 "¥pa´³" #GetTitleDT
+ COUNT_VN:0 "¥pa´a" #GetTitleVN
+ COUNT_TV:0 "¥pa´o¯" #GetTitleTV
+ COUNT_PR:0 "¥pa´e" #GetTitlePR
+ 
+ COUNT_PALATINE_IM:0 "±´a®»µ¥pa´" #GetTitleIM
+ COUNT_PALATINE_RD:0 "±´a®»µ¥pa´a" #GetTitleRD
+ COUNT_PALATINE_DT:0 "±´a®»µ¥pa´³" #GetTitleDT
+ COUNT_PALATINE_VN:0 "±´a®»µ¥pa´a" #GetTitleVN
+ COUNT_PALATINE_TV:0 "±´a®»µ¥pa´o¯" #GetTitleTV
+ COUNT_PALATINE_PR:0 "±´a®»µ¥pa´e" #GetTitlePR
+ 
+ KING_PALATINE_IM:0 "±´a®»µ¬a«©ep" #GetTitleIM
+ KING_PALATINE_RD:0 "±´a®»µ¬a«©epa" #GetTitleRD
+ KING_PALATINE_DT:0 "±´a®»µ¬a«©ep³" #GetTitleDT
+ KING_PALATINE_VN:0 "±´a®»µ¬a«©epa" #GetTitleVN
+ KING_PALATINE_TV:0 "±´a®»µ¬a«©epo¯" #GetTitleTV
+ KING_PALATINE_PR:0 "±´a®»µ¬a«©epe" #GetTitlePR
+ 
+ COUNTESS_PALATINE_IM:0 "±´a®»µ¥pa´ª°÷" #GetTitleIM
+ COUNTESS_PALATINE_RD:0 "±´a®»µ¥pa´ª°ª" #GetTitleRD
+ COUNTESS_PALATINE_DT:0 "±´a®»µ¥pa´ª°e" #GetTitleDT
+ COUNTESS_PALATINE_VN:0 "±´a®»µ¥pa´ª°¾" #GetTitleVN
+ COUNTESS_PALATINE_TV:0 "±´a®»µ¥pa´ª°e«" #GetTitleTV
+ COUNTESS_PALATINE_PR:0 "±´a®»µ¥pa´ª°e" #GetTitlePR
+ 
+ QUEEN_PALATINE_IM:0 "±´a®»µ¬ë°ª¥ª°" #GetTitleIM
+ QUEEN_PALATINE_RD:0 "±´a®»µ¬ë°ª¥ª°ª" #GetTitleRD
+ QUEEN_PALATINE_DT:0 "±´a®»µ¬ë°ª¥ª°e" #GetTitleDT
+ QUEEN_PALATINE_VN:0 "±´a®»µ¬ë°ª¥ª°¾" #GetTitleVN
+ QUEEN_PALATINE_TV:0 "±´a®»µ¬ë°ª¥ª°e«" #GetTitleTV
+ QUEEN_PALATINE_PR:0 "±´a®»µ¬ë°ª¥ª°e" #GetTitlePR
+ 
+ MONSHU_IM:0 "¯o°·³" #GetTitleIM
+ MONSHU_RD:0 "¯o°·³" #GetTitleRD
+ MONSHU_DT:0 "¯o°·³" #GetTitleDT
+ MONSHU_VN:0 "¯o°·³" #GetTitleVN
+ MONSHU_TV:0 "¯o°·³" #GetTitleTV
+ MONSHU_PR:0 "¯o°·³" #GetTitlePR
+ 
+ HIGH_MONSHU_IM:0 "¯o°·³-cë¥³°" #GetTitleIM
+ HIGH_MONSHU_RD:0 "¯o°·³-cë¥³°a" #GetTitleRD
+ HIGH_MONSHU_DT:0 "¯o°·³-cë¥³°³" #GetTitleDT
+ HIGH_MONSHU_VN:0 "¯o°·³-cë¥³°a" #GetTitleVN
+ HIGH_MONSHU_TV:0 "¯o°·³-cë¥³°o¯" #GetTitleTV
+ HIGH_MONSHU_PR:0 "¯o°·³-cë¥³°e" #GetTitlePR
+ 
+ HIGH_MONSHUESS_IM:0 "¯o°·³-cë¥³°ecca" #GetTitleIM
+ HIGH_MONSHUESS_RD:0 "¯o°·³-cë¥³°eccº" #GetTitleRD
+ HIGH_MONSHUESS_DT:0 "¯o°·³-cë¥³°ecce" #GetTitleDT
+ HIGH_MONSHUESS_VN:0 "¯o°·³-cë¥³°ecc³" #GetTitleVN
+ HIGH_MONSHUESS_TV:0 "¯o°·³-cë¥³°ecco«" #GetTitleTV
+ HIGH_MONSHUESS_PR:0 "¯o°·³-cë¥³°ecce" #GetTitlePR
+ 
+ SHINRAN_IM:0 "cª°pa°" #GetTitleIM
+ SHINRAN_RD:0 "cª°pa°a" #GetTitleRD
+ SHINRAN_DT:0 "cª°pa°³" #GetTitleDT
+ SHINRAN_VN:0 "cª°pa°a" #GetTitleVN
+ SHINRAN_TV:0 "cª°pa°o¯" #GetTitleTV
+ SHINRAN_PR:0 "cª°pa°e" #GetTitlePR
+ 
+ FIRST_RANGER_IM:0 "®op¦-pe«°¦¨ep" #GetTitleIM
+ FIRST_RANGER_RD:0 "®op¦a-pe«°¦¨epa" #GetTitleRD
+ FIRST_RANGER_DT:0 "®op¦³-pe«°¦¨ep³" #GetTitleDT
+ FIRST_RANGER_VN:0 "®op¦a-pe«°¦¨epa" #GetTitleVN
+ FIRST_RANGER_TV:0 "®op¦o¯-pe«°¦¨epo¯" #GetTitleTV
+ FIRST_RANGER_PR:0 "®op¦e-pe«°¦¨epe" #GetTitlePR
+ 
+ KNIGHT_KING_IM:0 "pºµapc¬ª« ¬opo®»" #GetTitleIM
+ KNIGHT_KING_RD:0 "pºµapc¬o¥o ¬opo®÷" #GetTitleRD
+ KNIGHT_KING_DT:0 "pºµapc¬o¯³ ¬opo®¾" #GetTitleDT
+ KNIGHT_KING_VN:0 "pºµapc¬o¥o ¬opo®÷" #GetTitleVN
+ KNIGHT_KING_TV:0 "pºµapc¬ª¯ ¬opo®ë¯" #GetTitleTV
+ KNIGHT_KING_PR:0 "pºµapc¬o¯ ¬opo®e" #GetTitlePR
+ 
+ KNIGHT_QUEEN_IM:0 "pºµapc¬a÷ ¬opo®e¢a" #GetTitleIM
+ KNIGHT_QUEEN_RD:0 "pºµapc¬o« ¬opo®e¢º" #GetTitleRD
+ KNIGHT_QUEEN_DT:0 "pºµapc¬o« ¬opo®e¢e" #GetTitleDT
+ KNIGHT_QUEEN_VN:0 "pºµapc¬³¾ ¬opo®e¢³" #GetTitleVN
+ KNIGHT_QUEEN_TV:0 "pºµapc¬o« ¬opo®e¢o«" #GetTitleTV
+ KNIGHT_QUEEN_PR:0 "pºµapc¬o« ¬opo®e¢e" #GetTitlePR
+ 
+ LORD_COMMANDER_IM:0 "®op¦-¬o¯a°¦³¾¸ª«" #GetTitleIM
+ LORD_COMMANDER_RD:0 "®op¦a-¬o¯a°¦³¾¸e¥o" #GetTitleRD
+ LORD_COMMANDER_DT:0 "®op¦³-¬o¯a°¦³¾¸e¯³" #GetTitleDT
+ LORD_COMMANDER_VN:0 "®op¦a-¬o¯a°¦³¾¸e¥o" #GetTitleVN
+ LORD_COMMANDER_TV:0 "®op¦o¯-¬o¯a°¦³¾¸ª¯" #GetTitleTV
+ LORD_COMMANDER_PR:0 "®op¦e-¬o¯a°¦³¾¸e¯" #GetTitlePR
+ 
+ LADY_COMMANDER_IM:0 "®e¦ª-¬o¯a°¦³¾¸a÷" #GetTitleIM
+ LADY_COMMANDER_RD:0 "®e¦ª-¬o¯a°¦³¾¸e«" #GetTitleRD
+ LADY_COMMANDER_DT:0 "®e¦ª-¬o¯a°¦³¾¸e«" #GetTitleDT
+ LADY_COMMANDER_VN:0 "®e¦ª-¬o¯a°¦³¾¸³¾" #GetTitleVN
+ LADY_COMMANDER_TV:0 "®e¦ª-¬o¯a°¦³¾¸e«" #GetTitleTV
+ LADY_COMMANDER_PR:0 "®e¦ª-¬o¯a°¦³¾¸e«" #GetTitlePR
+ 
+ MAGISTER_HOCHMEISTER_IM:0 "¢e®ª¬ª« ¯a¥ªc²p" #GetTitleIM
+ MAGISTER_HOCHMEISTER_RD:0 "¢e®ª¬o¥o ¯a¥ªc²pa" #GetTitleRD
+ MAGISTER_HOCHMEISTER_DT:0 "¢e®ª¬o¯³ ¯a¥ªc²p³" #GetTitleDT
+ MAGISTER_HOCHMEISTER_VN:0 "¢e®ª¬o¥o ¯a¥ªc²pa" #GetTitleVN
+ MAGISTER_HOCHMEISTER_TV:0 "¢e®ª¬ª¯ ¯a¥ªc²po¯" #GetTitleTV
+ MAGISTER_HOCHMEISTER_PR:0 "¢e®ª¬o¯ ¯a¥ªc²pe" #GetTitlePR
+ 
+ DEUTSCHMEISTER_IM:0 "¥ep¯a°c¬ª« ¯a¥ªc²p" #GetTitleIM
+ DEUTSCHMEISTER_RD:0 "¥ep¯a°c¬o¥o ¯a¥ªc²pa" #GetTitleRD
+ DEUTSCHMEISTER_DT:0 "¥ep¯a°c¬o¯³ ¯a¥ªc²p³" #GetTitleDT
+ DEUTSCHMEISTER_VN:0 "¥ep¯a°c¬o¥o ¯a¥ªc²pa" #GetTitleVN
+ DEUTSCHMEISTER_TV:0 "¥ep¯a°c¬ª¯ ¯a¥ªc²po¯" #GetTitleTV
+ DEUTSCHMEISTER_PR:0 "¥ep¯a°c¬o¯ ¯a¥ªc²pe" #GetTitlePR
+ 
+ TRAPPIST_IM:0 "²pa±±ªc²" #GetTitleIM
+ TRAPPIST_RD:0 "²pa±±ªc²a" #GetTitleRD
+ TRAPPIST_DT:0 "²pa±±ªc²³" #GetTitleDT
+ TRAPPIST_VN:0 "²pa±±ªc²a" #GetTitleVN
+ TRAPPIST_TV:0 "²pa±±ªc²o¯" #GetTitleTV
+ TRAPPIST_PR:0 "²pa±±ªc²e" #GetTitlePR
+ 
+ TRAPPISTINE_IM:0 "²pa±±ªc²ª°a" #GetTitleIM
+ TRAPPISTINE_RD:0 "²pa±±ªc²ª°º" #GetTitleRD
+ TRAPPISTINE_DT:0 "²pa±±ªc²ª°e" #GetTitleDT
+ TRAPPISTINE_VN:0 "²pa±±ªc²ª°³" #GetTitleVN
+ TRAPPISTINE_TV:0 "²pa±±ªc²ª°o«" #GetTitleTV
+ TRAPPISTINE_PR:0 "²pa±±ªc²ª°e" #GetTitlePR
+ 
+ ARCH_TRAPPIST_IM:0 "apxª²pa±±ªc²" #GetTitleIM
+ ARCH_TRAPPIST_RD:0 "apxª²pa±±ªc²a" #GetTitleRD
+ ARCH_TRAPPIST_DT:0 "apxª²pa±±ªc²³" #GetTitleDT
+ ARCH_TRAPPIST_VN:0 "apxª²pa±±ªc²a" #GetTitleVN
+ ARCH_TRAPPIST_TV:0 "apxª²pa±±ªc²o¯" #GetTitleTV
+ ARCH_TRAPPIST_PR:0 "apxª²pa±±ªc²e" #GetTitlePR
+ 
+ ARCH_TRAPPISTINE_IM:0 "apxª²pa±±ªc²ª°a" #GetTitleIM
+ ARCH_TRAPPISTINE_RD:0 "apxª²pa±±ªc²ª°º" #GetTitleRD
+ ARCH_TRAPPISTINE_DT:0 "apxª²pa±±ªc²ª°e" #GetTitleDT
+ ARCH_TRAPPISTINE_VN:0 "apxª²pa±±ªc²ª°³" #GetTitleVN
+ ARCH_TRAPPISTINE_TV:0 "apxª²pa±±ªc²ª°o«" #GetTitleTV
+ ARCH_TRAPPISTINE_PR:0 "apxª²pa±±ªc²ª°e" #GetTitlePR
+ 
+ BREWMASTER_IM:0 "¢epxo¢°º« ±ª¢o¢ap" #GetTitleIM
+ BREWMASTER_RD:0 "¢epxo¢°o¥o ±ª¢o¢apa" #GetTitleRD
+ BREWMASTER_DT:0 "¢epxo¢°o¯³ ±ª¢o¢ap³" #GetTitleDT
+ BREWMASTER_VN:0 "¢epxo¢°o¥o ±ª¢o¢apa" #GetTitleVN
+ BREWMASTER_TV:0 "¢epxo¢°º¯ ±ª¢o¢apo¯" #GetTitleTV
+ BREWMASTER_PR:0 "¢epxo¢°o¯ ±ª¢o¢ape" #GetTitlePR
+ 
+ BREWMISTRESS_IM:0 "¢epxo¢°a÷ ±ª¢o¢ap¬a" #GetTitleIM
+ BREWMISTRESS_RD:0 "¢epxo¢°o« ±ª¢o¢ap¬ª" #GetTitleRD
+ BREWMISTRESS_DT:0 "¢epxo¢°o« ±ª¢o¢ap¬e" #GetTitleDT
+ BREWMISTRESS_VN:0 "¢epxo¢°³¾ ±ª¢o¢ap¬³" #GetTitleVN
+ BREWMISTRESS_TV:0 "¢epxo¢°o« ±ª¢o¢ap¬o«" #GetTitleTV
+ BREWMISTRESS_PR:0 "¢epxo¢°o« ±ª¢o¢ap¬e" #GetTitlePR
+ 
+ COMMANDER_EMPEROR_IM:0 "ª¯±epc¬ª« ¬o¯a°¦³¾¸ª«" #GetTitleIM
+ COMMANDER_EMPEROR_RD:0 "ª¯±epc¬o¥o ¬o¯a°¦³¾¸e¥o" #GetTitleRD
+ COMMANDER_EMPEROR_DT:0 "ª¯±epc¬o¯³ ¬o¯a°¦³¾¸e¯³" #GetTitleDT
+ COMMANDER_EMPEROR_VN:0 "ª¯±epc¬o¥o ¬o¯a°¦³¾¸e¥o" #GetTitleVN
+ COMMANDER_EMPEROR_TV:0 "ª¯±epc¬ª¯ ¬o¯a°¦³¾¸ª¯" #GetTitleTV
+ COMMANDER_EMPEROR_PR:0 "ª¯±epc¬o¯ ¬o¯a°¦³¾¸e¯" #GetTitlePR
+ 
+ GRAND_MISTRESS_IM:0 "¢e®ª¬ª« ¯a¥ªc²p" #GetTitleIM
+ GRAND_MISTRESS_RD:0 "¢e®ª¬o¥o ¯a¥ªc²pa" #GetTitleRD
+ GRAND_MISTRESS_DT:0 "¢e®ª¬o¯³ ¯a¥ªc²p³" #GetTitleDT
+ GRAND_MISTRESS_VN:0 "¢e®ª¬o¥o ¯a¥ªc²pa" #GetTitleVN
+ GRAND_MISTRESS_TV:0 "¢e®ª¬ª¯ ¯a¥ªc²po¯" #GetTitleTV
+ GRAND_MISTRESS_PR:0 "¢e®ª¬o¯ ¯a¥ªc²pe" #GetTitlePR
+ 
+ ABBESS_IM:0 "ª¥³¯e°»÷" #GetTitleIM
+ ABBESS_RD:0 "ª¥³¯e°»ª" #GetTitleRD
+ ABBESS_DT:0 "ª¥³¯e°»ª" #GetTitleDT
+ ABBESS_VN:0 "ª¥³¯e°»¾" #GetTitleVN
+ ABBESS_TV:0 "ª¥³¯e°»e«" #GetTitleTV
+ ABBESS_PR:0 "ª¥³¯e°»e" #GetTitlePR
+ 
+ MOTHER_SUPERIOR_IM:0 "°ac²o÷²e®»°ªµa" #GetTitleIM
+ MOTHER_SUPERIOR_RD:0 "°ac²o÷²e®»°ªµº" #GetTitleRD
+ MOTHER_SUPERIOR_DT:0 "°ac²o÷²e®»°ªµe" #GetTitleDT
+ MOTHER_SUPERIOR_VN:0 "°ac²o÷²e®»°ªµ³" #GetTitleVN
+ MOTHER_SUPERIOR_TV:0 "°ac²o÷²e®»°ªµe«" #GetTitleTV
+ MOTHER_SUPERIOR_PR:0 "°ac²o÷²e®»°ªµe" #GetTitlePR
+ 
+ HEIR_fem_IM:0 "°ac®e¦°ªµa" #GetTitleIM
+ HEIR_fem_RD:0 "°ac®e¦°ªµº" #GetTitleRD
+ HEIR_fem_DT:0 "°ac®e¦°ªµe" #GetTitleDT
+ HEIR_fem_VN:0 "°ac®e¦°ªµ³" #GetTitleVN
+ HEIR_fem_TV:0 "°ac®e¦°ªµe«" #GetTitleTV
+ HEIR_fem_PR:0 "°ac®e¦°ªµe" #GetTitlePR
+ 
+
