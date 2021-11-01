@@ -471,284 +471,266 @@
  PIRATE_KINGDOM_KYM_CAP:0 "Кopoлівcтвoм піратів" #GetGovernmentKYM_CAP
  PIRATE_EMPIRE_KYM_CAP:0 "Імпepією піратів" #GetGovernmentKYM_CAP
 ###Версія 1.30-1.31 "" 
- SAVANAROLA_GOVERNMENT_DE_CAP:0 "Уряді Савонароли" #GetGovernmentDЕ_CAP
- SAVANAROLA_GOVERNMENT_OMU_CAP:0 "Уряду Савонароли" #GetGovernmentОМU_CAP
- SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряду Савонароли" #GetGovernmentОGО_CAP
- SAVANAROLA_GOVERNMENT_SCHO_CAP:0 "Уряд Савонароли" #GetGovernmentSСНО_CAP
- SAVANAROLA_GOVERNMENT_KYM_CAP:0 "Урядом Савонароли" #GetGovernmentКYМ_CAP
+ SAVANAROLA_GOVERNMENT_DE_CAP:0 "Уряді Савонароли" #GetGovernmentDE_CAP
+ SAVANAROLA_GOVERNMENT_OMU_CAP:0 "Уряду Савонароли" #GetGovernmentOMU_CAP
+ SAVANAROLA_GOVERNMENT_OGO_CAP:0 "Уряду Савонароли" #GetGovernmentOGO_CAP
+ SAVANAROLA_GOVERNMENT_SCHO_CAP:0 "Уряд Савонароли" #GetGovernmentSCHO_CAP
+ SAVANAROLA_GOVERNMENT_KYM_CAP:0 "Урядом Савонароли" #GetGovernmentKYM_CAP
  
- MOST_SERENE_REPUBLIC_DE:0 "найсвітлішій республіці" GetGovernmentDE
- MOST_SERENE_REPUBLIC_OMU:0 "найсвітлішій pecпубліці" GetGovernmentOMU
- MOST_SERENE_REPUBLIC_OGO:0 "найсвітлішої республіки" GetGovernmentOGO
- MOST_SERENE_REPUBLIC_SCHO:0 "найсвітлішу республіку" GetGovernmentSCHO
- MOST_SERENE_REPUBLIC_KYM:0 "найсвітлішою республікою" GetGovernmentKYM
+ MOST_SERENE_REPUBLIC_DE_CAP:0 "Найсвітлішій республіці" #GetGovernmentDE_CAP
+ MOST_SERENE_REPUBLIC_OMU_CAP:0 "Найсвітлішій pecпубліці" #GetGovernmentOMU_CAP
+ MOST_SERENE_REPUBLIC_OGO_CAP:0 "Найсвітлішої республіки" #GetGovernmentOGO_CAP
+ MOST_SERENE_REPUBLIC_SCHO_CAP:0 "Найсвітлішу республіку" #GetGovernmentSCHO_CAP
+ MOST_SERENE_REPUBLIC_KYM_CAP:0 "Найсвітлішою республікою" #GetGovernmentKYM_CAP
  
- STATELESS_SOCIETY_SCHO:0 "суспільство без держави" GetGovernmentSCHO
- STATELESS_SOCIETY_OGO:0 "суспільства без держави" GetGovernmentOGO
- STATELESS_SOCIETY_OMU:0 "суспільству без держави" GetGovernmentOMU
- STATELESS_SOCIETY_KYM:0 "суспільством без держави" GetGovernmentKYM
- STATELESS_SOCIETY_DE:0 "суспільстві без держави" GetGovernmentDE
+ STATELESS_SOCIETY_SCHO_CAP:0 "Суспільство без держави" #GetGovernmentSCHO_CAP
+ STATELESS_SOCIETY_OGO_CAP:0 "Суспільства без держави" #GetGovernmentOGO_CAP
+ STATELESS_SOCIETY_OMU_CAP:0 "Суспільству без держави" #GetGovernmentOMU_CAP
+ STATELESS_SOCIETY_KYM_CAP:0 "Суспільством без держави" #GetGovernmentKYM_CAP
+ STATELESS_SOCIETY_DE_CAP:0 "Суспільстві без держави" #GetGovernmentDE_CAP
  
- ISLAMIC_CALIPHATE_SCHO:0 "ісламський халіфат" GetGovernmentSCHO
- ISLAMIC_CALIPHATE_OGO:0 "ісламського халіфату" GetGovernmentOGO
- ISLAMIC_CALIPHATE_OMU:0 "ісламському халіфату" GetGovernmentOMU
- ISLAMIC_CALIPHATE_KYM:0 "ісламським халіфатом" GetGovernmentKYM
- ISLAMIC_CALIPHATE_DE:0 "ªісламському халіфаті" GetGovernmentDE
+ ISLAMIC_CALIPHATE_SCHO_CAP:0 "Ісламський халіфат" #GetGovernmentSCHO_CAP
+ ISLAMIC_CALIPHATE_OGO_CAP:0 "Ісламського халіфату" #GetGovernmentOGO_CAP
+ ISLAMIC_CALIPHATE_OMU_CAP:0 "Ісламському халіфату" #GetGovernmentOMU_CAP
+ ISLAMIC_CALIPHATE_KYM_CAP:0 "Ісламським халіфатом" #GetGovernmentKYM_CAP
+ ISLAMIC_CALIPHATE_DE_CAP:0 "Ісламському халіфаті" #GetGovernmentDE_CAP
   
- REVOLUTIONARY_SPANISH_REPUBLIC_DE_CAP:0 "Верховній хунті" #GetGovernmentDЕ_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_OMU_CAP:0 "Верховній хунті" #GetGovernmentОМU_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_OGO_CAP:0 "Верховної хунти" #GetGovernmentОGО_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_SCHO_CAP:0 "Верховну хунту" #GetGovernmentSСНО_CAP
- REVOLUTIONARY_SPANISH_REPUBLIC_KYM_CAP:0 "Верховною хунтою" #GetGovernmentКYМ_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_DE_CAP:0 "Верховній хунті" #GetGovernmentDE_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_OMU_CAP:0 "Верховній хунті" #GetGovernmentOMU_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_OGO_CAP:0 "Верховної хунти" #GetGovernmentOGO_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_SCHO_CAP:0 "Верховну хунту" #GetGovernmentSCHO_CAP
+ REVOLUTIONARY_SPANISH_REPUBLIC_KYM_CAP:0 "Верховною хунтою" #GetGovernmentKYM_CAP
  
- REVOLUTIONARY_SWEDISH_REPUBLIC_DE_CAP:0 "Sakerhetstinget" #GetGovernmentDЕ_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_OMU_CAP:0 "Sakerhetstinget" #GetGovernmentОМU_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_OGO_CAP:0 "Sakerhetstinget" #GetGovernmentОGО_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO_CAP:0 "Sakerhetstinget" #GetGovernmentSСНО_CAP
- REVOLUTIONARY_SWEDISH_REPUBLIC_KYM_CAP:0 "Sakerhetstinget" #GetGovernmentКYМ_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_DE_CAP:0 "Sakerhetstinget" #GetGovernmentDE_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OMU_CAP:0 "Sakerhetstinget" #GetGovernmentOMU_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_OGO_CAP:0 "Sakerhetstinget" #GetGovernmentOGO_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_SCHO_CAP:0 "Sakerhetstinget" #GetGovernmentSCHO_CAP
+ REVOLUTIONARY_SWEDISH_REPUBLIC_KYM_CAP:0 "Sakerhetstinget" #GetGovernmentKYM_CAP
   
- REVOLUTIONARY_DANISH_REPUBLIC_DE_CAP:0 "Sikkerhedtinget" #GetGovernmentDЕ_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_OMU_CAP:0 "Sikkerhedtinget" #GetGovernmentОМU_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_OGO_CAP:0 "Sikkerhedtinget" #GetGovernmentОGО_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_SCHO_CAP:0 "Sikkerhedtinget" #GetGovernmentSСНО_CAP
- REVOLUTIONARY_DANISH_REPUBLIC_KYM_CAP:0 "Sikkerhedtinget" #GetGovernmentКYМ_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_DE_CAP:0 "Sikkerhedtinget" #GetGovernmentDE_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_OMU_CAP:0 "Sikkerhedtinget" #GetGovernmentOMU_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_OGO_CAP:0 "Sikkerhedtinget" #GetGovernmentOGO_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_SCHO_CAP:0 "Sikkerhedtinget" #GetGovernmentSCHO_CAP
+ REVOLUTIONARY_DANISH_REPUBLIC_KYM_CAP:0 "Sikkerhedtinget" #GetGovernmentKYM_CAP
  
- GOV_REVOLUTIONARY_REPUBLIC_SCHO:0 "революційна республіка" GetGovernmentSCHO
- GOV_REVOLUTIONARY_REPUBLIC_OGO:0 "революційної республіки" GetGovernmentOGO
- GOV_REVOLUTIONARY_REPUBLIC_OMU:0 "революційній республіці" GetGovernmentOMU
- GOV_REVOLUTIONARY_REPUBLIC_KYM:0 "революційною республікою" GetGovernmentKYM
- GOV_REVOLUTIONARY_REPUBLIC_DE:0 "революційній республіці" GetGovernmentDE
+ GOV_REVOLUTIONARY_REPUBLIC_SCHO_CAP:0 "Революційна республіка" #GetGovernmentSCHO_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_OGO_CAP:0 "Революційної республіки" #GetGovernmentOGO_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_OMU_CAP:0 "Революційній республіці" #GetGovernmentOMU_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_KYM_CAP:0 "Революційною республікою" #GetGovernmentKYM_CAP
+ GOV_REVOLUTIONARY_REPUBLIC_DE_CAP:0 "Революційній республіці" #GetGovernmentDE_CAP
  
- KAISERREICH_SCHO:0 "імперія" GetGovernmentSCHO
- KAISERREICH_OGO:0 "імперії" GetGovernmentOGO
- KAISERREICH_OMU:0 "імперії" GetGovernmentOMU
- KAISERREICH_KYM:0 "імперією" GetGovernmentKYM
- KAISERREICH_DE:0 "імперії" GetGovernmentDE
+ KAISERREICH_SCHO_CAP:0 "Імперія" #GetGovernmentSCHO_CAP
+ KAISERREICH_OGO_CAP:0 "Імперії" #GetGovernmentOGO_CAP
+ KAISERREICH_OMU_CAP:0 "Імперії" #GetGovernmentOMU_CAP
+ KAISERREICH_KYM_CAP:0 "Імперією" #GetGovernmentKYM_CAP
+ KAISERREICH_DE_CAP:0 "Імперії" #GetGovernmentDE_CAP
  
- STRATOCRACY_SCHO:0 "стратократія" GetGovernmentSCHO
- STRATOCRACY_OGO:0 "стратократії" GetGovernmentOGO
- STRATOCRACY_OMU:0 "стратократії" GetGovernmentOMU
- STRATOCRACY_KYM:0 "стратократією" GetGovernmentKYM
- STRATOCRACY_DE:0 "стратократії" GetGovernmentDE
+ STRATOCRACY_SCHO_CAP:0 "Стратократія" #GetGovernmentSCHO_CAP
+ STRATOCRACY_OGO_CAP:0 "Стратократії" #GetGovernmentOGO_CAP
+ STRATOCRACY_OMU_CAP:0 "Стратократії" #GetGovernmentOMU_CAP
+ STRATOCRACY_KYM_CAP:0 "Стратократією" #GetGovernmentKYM_CAP
+ STRATOCRACY_DE_CAP:0 "Стратократії" #GetGovernmentDE_CAP
  
- ADMIRALTY_SCHO:0 "адміралтейство" GetGovernmentSCHO
- ADMIRALTY_OGO:0 "адміралтейства" GetGovernmentOGO
- ADMIRALTY_OMU:0 "адміралтейству" GetGovernmentOMU
- ADMIRALTY_KYM:0 "адміралтейством" GetGovernmentKYM
- ADMIRALTY_DE:0 "адміралтействі" GetGovernmentDE
+ ADMIRALTY_SCHO_CAP:0 "Адміралтейство" #GetGovernmentSCHO_CAP
+ ADMIRALTY_OGO_CAP:0 "Адміралтейства" #GetGovernmentOGO_CAP
+ ADMIRALTY_OMU_CAP:0 "Адміралтейству" #GetGovernmentOMU_CAP
+ ADMIRALTY_KYM_CAP:0 "Адміралтейством" #GetGovernmentKYM_CAP
+ ADMIRALTY_DE_CAP:0 "Адміралтействі" #GetGovernmentDE_CAP
  
- HIGH_ADMIRALTY_SCHO:0 "¢ºc·ee a¦¯ªpa®²e«c²¢o" GetGovernmentSCHO
- HIGH_ADMIRALTY_OGO:0 "¢ºc·e¥o a¦¯ªpa®²e«c²¢a" GetGovernmentOGO
- HIGH_ADMIRALTY_OMU:0 "¢ºc·e¯³ a¦¯ªpa®²e«c²¢³" GetGovernmentOMU
- HIGH_ADMIRALTY_KYM:0 "¢ºc·ª¯ a¦¯ªpa®²e«c²¢o¯" GetGovernmentKYM
- HIGH_ADMIRALTY_DE:0 "¢ºc·e¯ a¦¯ªpa®²e«c²¢e" GetGovernmentDE
+ HIGH_ADMIRALTY_SCHO_CAP:0 "Вище адміралтейство" #GetGovernmentSCHO_CAP
+ HIGH_ADMIRALTY_OGO_CAP:0 "Вищого адміралтейства" #GetGovernmentOGO_CAP
+ HIGH_ADMIRALTY_OMU_CAP:0 "Вищому адміралтейству" #GetGovernmentOMU_CAP
+ HIGH_ADMIRALTY_KYM_CAP:0 "Вищим адміралтейством" #GetGovernmentKYM_CAP
+ HIGH_ADMIRALTY_DE_CAP:0 "Вищому адміралтействі" #GetGovernmentDE_CAP
  
- SUPREME_ADMIRALTY_SCHO:0 "¢epxo¢°oe a¦¯ªpa®²e«c²¢o" GetGovernmentSCHO
- SUPREME_ADMIRALTY_OGO:0 "¢epxo¢°o¥o a¦¯ªpa®²e«c²¢a" GetGovernmentOGO
- SUPREME_ADMIRALTY_OMU:0 "¢epxo¢°o¯³ a¦¯ªpa®²e«c²¢³" GetGovernmentOMU
- SUPREME_ADMIRALTY_KYM:0 "¢epxo¢°º¯ a¦¯ªpa®²e«c²¢o¯" GetGovernmentKYM
- SUPREME_ADMIRALTY_DE:0 "¢epxo¢°o¯ a¦¯ªpa®²e«c²¢e" GetGovernmentDE
+ SUPREME_ADMIRALTY_SCHO_CAP:0 "Верховне адміралтейство" #GetGovernmentSCHO_CAP
+ SUPREME_ADMIRALTY_OGO_CAP:0 "Верховного адміралтейства" #GetGovernmentOGO_CAP
+ SUPREME_ADMIRALTY_OMU_CAP:0 "Верховному адміралтейству" #GetGovernmentOMU_CAP
+ SUPREME_ADMIRALTY_KYM_CAP:0 "Верховним адміралтейством" #GetGovernmentKYM_CAP
+ SUPREME_ADMIRALTY_DE_CAP:0 "Верховному адміралтействі" #GetGovernmentDE_CAP
  
- COMMONWEALTH_SCHO:0 "co¦p³¨ec²¢o" GetGovernmentSCHO
- COMMONWEALTH_OGO:0 "co¦p³¨ec²¢a" GetGovernmentOGO
- COMMONWEALTH_OMU:0 "co¦p³¨ec²¢³" GetGovernmentOMU
- COMMONWEALTH_KYM:0 "co¦p³¨ec²¢o¯" GetGovernmentKYM
- COMMONWEALTH_DE:0 "co¦p³¨ec²¢e" GetGovernmentDE
+ COMMONWEALTH_SCHO_CAP:0 "Співдружність" #GetGovernmentSCHO_CAP
+ COMMONWEALTH_OGO_CAP:0 "Співдружності" #GetGovernmentOGO_CAP
+ COMMONWEALTH_OMU_CAP:0 "Співдружності" #GetGovernmentOMU_CAP
+ COMMONWEALTH_KYM_CAP:0 "Співдружністю" #GetGovernmentKYM_CAP
+ COMMONWEALTH_DE_CAP:0 "Співдружності" #GetGovernmentDE_CAP
  
- MILITARY_GOVERNMENT_SCHO:0 "¢oe°°a÷ pec±³ ®ª¬a" GetGovernmentSCHO
- MILITARY_GOVERNMENT_OGO:0 "¢oe°°o« pec±³ ®ª¬ª" GetGovernmentOGO
- MILITARY_GOVERNMENT_OMU:0 "¢oe°°o« pec±³ ®ª¬e" GetGovernmentOMU
- MILITARY_GOVERNMENT_KYM:0 "¢oe°°o« pec±³ ®ª¬o«" GetGovernmentKYM
- MILITARY_GOVERNMENT_DE:0 "¢oe°°o« pec±³ ®ª¬e" GetGovernmentDE
+ MILITARY_GOVERNMENT_SCHO_CAP:0 "Військова республіка" #GetGovernmentSCHO_CAP
+ MILITARY_GOVERNMENT_OGO_CAP:0 "Військової республіки" #GetGovernmentOGO_CAP
+ MILITARY_GOVERNMENT_OMU_CAP:0 "Військовій республіці" #GetGovernmentOMU_CAP
+ MILITARY_GOVERNMENT_KYM_CAP:0 "Військовою республікою" #GetGovernmentKYM_CAP
+ MILITARY_GOVERNMENT_DE_CAP:0 "Військовій республіці" #GetGovernmentDE_CAP
  
- ELECTORAL_PALATINATE_SCHO:0 "¢º op°oe ±´a®»µ¥pa´c²¢o" GetGovernmentSCHO
- ELECTORAL_PALATINATE_OGO:0 "¢º op°o¥o ±´a®»µ¥pa´c²¢a" GetGovernmentOGO
- ELECTORAL_PALATINATE_OMU:0 "¢º op°o¯³ ±´a®»µ¥pa´c²¢³" GetGovernmentOMU
- ELECTORAL_PALATINATE_KYM:0 "¢º op°º¯ ±´a®»µ¥pa´c²¢o¯" GetGovernmentKYM
- ELECTORAL_PALATINATE_DE:0 "¢º op°o¯ ±´a®»µ¥pa´c²¢e" GetGovernmentDE
+ ELECTORAL_PALATINATE_SCHO_CAP:0 "Виборне пфальцграфство" #GetGovernmentSCHO_CAP
+ ELECTORAL_PALATINATE_OGO_CAP:0 "Виборного пфальцграфства" #GetGovernmentOGO_CAP
+ ELECTORAL_PALATINATE_OMU_CAP:0 "Виборному пфальцграфству" #GetGovernmentOMU_CAP
+ ELECTORAL_PALATINATE_KYM_CAP:0 "Виборним пфальцграфством" #GetGovernmentKYM_CAP
+ ELECTORAL_PALATINATE_DE_CAP:0 "Виборному пфальцграфстві" #GetGovernmentDE_CAP
  
- COUNTY_PALATINE_SCHO:0 "±´a®»µ¥pa´c²¢o" GetGovernmentSCHO
- COUNTY_PALATINE_OGO:0 "±´a®»µ¥pa´c²¢a" GetGovernmentOGO
- COUNTY_PALATINE_OMU:0 "±´a®»µ¥pa´c²¢³" GetGovernmentOMU
- COUNTY_PALATINE_KYM:0 "±´a®»µ¥pa´c²¢o¯" GetGovernmentKYM
- COUNTY_PALATINE_DE:0 "±´a®»µ¥pa´c²¢e" GetGovernmentDE
+ COUNTY_PALATINE_SCHO_CAP:0 "Пфальцграфство" #GetGovernmentSCHO_CAP
+ COUNTY_PALATINE_OGO_CAP:0 "Пфальцграфства" #GetGovernmentOGO_CAP
+ COUNTY_PALATINE_OMU_CAP:0 "Пфальцграфству" #GetGovernmentOMU_CAP
+ COUNTY_PALATINE_KYM_CAP:0 "Пфальцграфством" #GetGovernmentKYM_CAP
+ COUNTY_PALATINE_DE_CAP:0 "Пфальцграфстві" #GetGovernmentDE_CAP
  
- KINGDOM_PALATINE_SCHO:0 "±´a®»µ¬opo®e¢c²¢o" GetGovernmentSCHO
- KINGDOM_PALATINE_OGO:0 "±´a®»µ¬opo®e¢c²¢a" GetGovernmentOGO
- KINGDOM_PALATINE_OMU:0 "±´a®»µ¬opo®e¢c²¢³" GetGovernmentOMU
- KINGDOM_PALATINE_KYM:0 "±´a®»µ¬opo®e¢c²¢o¯" GetGovernmentKYM
- KINGDOM_PALATINE_DE:0 "±´a®»µ¬opo®e¢c²¢e" GetGovernmentDE
+ KINGDOM_PALATINE_SCHO_CAP:0 "Пфальцокоролівство" #GetGovernmentSCHO_CAP
+ KINGDOM_PALATINE_OGO_CAP:0 "Пфальцокоролівства" #GetGovernmentOGO_CAP
+ KINGDOM_PALATINE_OMU_CAP:0 "Пфальцокоролівству" #GetGovernmentOMU_CAP
+ KINGDOM_PALATINE_KYM_CAP:0 "Пфальцокоролівством" #GetGovernmentKYM_CAP
+ KINGDOM_PALATINE_DE_CAP:0 "Пфальцокоролівстві" #GetGovernmentDE_CAP
  
- HERCEGSEG_SCHO:0 "¬°÷¨ec²¢o" GetGovernmentSCHO
- HERCEGSEG_OGO:0 "¬°÷¨ec²¢a" GetGovernmentOGO
- HERCEGSEG_OMU:0 "¬°÷¨ec²¢³" GetGovernmentOMU
- HERCEGSEG_KYM:0 "¬°÷¨ec²¢o¯" GetGovernmentKYM
- HERCEGSEG_DE:0 "¬°÷¨ec²¢e" GetGovernmentDE
+ HERCEGSEG_SCHO_CAP:0 "Князівство" #GetGovernmentSCHO_CAP
+ HERCEGSEG_OGO_CAP:0 "Князівства" #GetGovernmentOGO_CAP
+ HERCEGSEG_OMU_CAP:0 "Князівству" #GetGovernmentOMU_CAP
+ HERCEGSEG_KYM_CAP:0 "Князівством" #GetGovernmentKYM_CAP
+ HERCEGSEG_DE_CAP:0 "Князівстві" #GetGovernmentDE_CAP
  
- GRAND_HERCEGSEG_SCHO:0 "¢e®ª¬oe ¬°÷¨ec²¢o" GetGovernmentSCHO
- GRAND_HERCEGSEG_OGO:0 "¢e®ª¬o¥o ¬°÷¨ec²¢a" GetGovernmentOGO
- GRAND_HERCEGSEG_OMU:0 "¢e®ª¬o¯³ ¬°÷¨ec²¢³" GetGovernmentOMU
- GRAND_HERCEGSEG_KYM:0 "¢e®ª¬ª¯ ¬°÷¨ec²¢o¯" GetGovernmentKYM
- GRAND_HERCEGSEG_DE:0 "¢e®ª¬o¯ ¬°÷¨ec²¢e" GetGovernmentDE
+ GRAND_HERCEGSEG_SCHO_CAP:0 "Велике князівство" #GetGovernmentSCHO_CAP
+ GRAND_HERCEGSEG_OGO_CAP:0 "Великого князівства" #GetGovernmentOGO_CAP
+ GRAND_HERCEGSEG_OMU_CAP:0 "Великому князівству" #GetGovernmentOMU_CAP
+ GRAND_HERCEGSEG_KYM_CAP:0 "Великим князівством" #GetGovernmentKYM_CAP
+ GRAND_HERCEGSEG_DE_CAP:0 "Великому князівстві" #GetGovernmentDE_CAP
  
- ELECTORATE_DUCHY_SCHO:0 "¬³p´¾p·ec²¢o" GetGovernmentSCHO
- ELECTORATE_DUCHY_OGO:0 "¬³p´¾p·ec²¢a" GetGovernmentOGO
- ELECTORATE_DUCHY_OMU:0 "¬³p´¾p·ec²¢³" GetGovernmentOMU
- ELECTORATE_DUCHY_KYM:0 "¬³p´¾p·ec²¢o¯" GetGovernmentKYM
- ELECTORATE_DUCHY_DE:0 "¬³p´¾p·ec²¢e" GetGovernmentDE
+ ELECTORATE_DUCHY_SCHO_CAP:0 "Курфюрство" #GetGovernmentSCHO_CAP
+ ELECTORATE_DUCHY_OGO_CAP:0 "Курфюрства" #GetGovernmentOGO_CAP
+ ELECTORATE_DUCHY_OMU_CAP:0 "Курфюрству" #GetGovernmentOMU_CAP
+ ELECTORATE_DUCHY_KYM_CAP:0 "Курфюрством" #GetGovernmentKYM_CAP
+ ELECTORATE_DUCHY_DE_CAP:0 "Курфюрстві" #GetGovernmentDE_CAP
  
- ELECTORATE_BISHOPRIC_SCHO:0 "e±ªc¬o±c²¢o-¬³p´¾p·ec²¢o" GetGovernmentSCHO
- ELECTORATE_BISHOPRIC_OGO:0 "e±ªc¬o±c²¢a-¬³p´¾p·ec²¢a" GetGovernmentOGO
- ELECTORATE_BISHOPRIC_OMU:0 "e±ªc¬o±c²¢³-¬³p´¾p·ec²¢³" GetGovernmentOMU
- ELECTORATE_BISHOPRIC_KYM:0 "e±ªc¬o±c²¢o¯-¬³p´¾p·ec²¢o¯" GetGovernmentKYM
- ELECTORATE_BISHOPRIC_DE:0 "e±ªc¬o±c²¢e-¬³p´¾p·ec²¢e" GetGovernmentDE
+ ELECTORATE_BISHOPRIC_SCHO_CAP:0 "Єпископство-курфюрство" #GetGovernmentSCHO_CAP
+ ELECTORATE_BISHOPRIC_OGO_CAP:0 "Єпископства-курфюрства" #GetGovernmentOGO_CAP
+ ELECTORATE_BISHOPRIC_OMU_CAP:0 "Єпископству-курфюрству" #GetGovernmentOMU_CAP
+ ELECTORATE_BISHOPRIC_KYM_CAP:0 "Єпископством-курфюрством" #GetGovernmentKYM_CAP
+ ELECTORATE_BISHOPRIC_DE_CAP:0 "Єпископстві-курфюрстві" #GetGovernmentDE_CAP
  
- ELECTORAL_REPUBLIC_SCHO:0 "pec±³ ®ª¬a-¬³p´¾p·ec²¢o" GetGovernmentSCHO
- ELECTORAL_REPUBLIC_OGO:0 "pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" GetGovernmentOGO
- ELECTORAL_REPUBLIC_OMU:0 "pec±³ ®ª¬e-¬³p´¾p·ec²¢³" GetGovernmentOMU
- ELECTORAL_REPUBLIC_KYM:0 "pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" GetGovernmentKYM
- ELECTORAL_REPUBLIC_DE:0 "pec±³ ®ª¬e-¬³p´¾p·ec²¢e" GetGovernmentDE
+ ELECTORAL_REPUBLIC_SCHO_CAP:0 "Республіка-курфюрство" #GetGovernmentSCHO_CAP
+ ELECTORAL_REPUBLIC_OGO_CAP:0 "Республіки-курфюрства" #GetGovernmentOGO_CAP
+ ELECTORAL_REPUBLIC_OMU_CAP:0 "Республіці-курфюрстві" #GetGovernmentOMU_CAP
+ ELECTORAL_REPUBLIC_KYM_CAP:0 "Республікою-курфюрством" #GetGovernmentKYM_CAP
+ ELECTORAL_REPUBLIC_DE_CAP:0 "Республіці-курфюрстві" #GetGovernmentDE_CAP
  
- GRAND_ELECTORAL_REPUBLIC_SCHO:0 "¢e®ª¬a÷ pec±³ ®ª¬a-¬³p´¾p·ec²¢o" GetGovernmentSCHO
- GRAND_ELECTORAL_REPUBLIC_OGO:0 "¢e®ª¬o« pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" GetGovernmentOGO
- GRAND_ELECTORAL_REPUBLIC_OMU:0 "¢e®ª¬o« pec±³ ®ª¬e-¬³p´¾p·ec²¢³" GetGovernmentOMU
- GRAND_ELECTORAL_REPUBLIC_KYM:0 "¢e®ª¬o« pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" GetGovernmentKYM
- GRAND_ELECTORAL_REPUBLIC_DE:0 "¢e®ª¬o« pec±³ ®ª¬e-¬³p´¾p·ec²¢e" GetGovernmentDE
+ GRAND_ELECTORAL_REPUBLIC_SCHO_CAP:0 "Велика республіка-курфюрство" #GetGovernmentSCHO_CAP
+ GRAND_ELECTORAL_REPUBLIC_OGO_CAP:0 "Великої республіки-курфюрства" #GetGovernmentOGO_CAP
+ GRAND_ELECTORAL_REPUBLIC_OMU_CAP:0 "Великій республіці-курфюрству" #GetGovernmentOMU_CAP
+ GRAND_ELECTORAL_REPUBLIC_KYM_CAP:0 "Великою республікою-курфюрством" #GetGovernmentKYM_CAP
+ GRAND_ELECTORAL_REPUBLIC_DE_CAP:0 "Великій республіці-курфюрстві" #GetGovernmentDE_CAP
  
- GREAT_ELECTORAL_REPUBLIC_SCHO:0 "¢e®ª¶a«·a÷ pec±³ ®ª¬a-¬³p´¾p·ec²¢o" GetGovernmentSCHO
- GREAT_ELECTORAL_REPUBLIC_OGO:0 "¢e®ª¶a«·e« pec±³ ®ª¬ª-¬³p´¾p·ec²¢a" GetGovernmentOGO
- GREAT_ELECTORAL_REPUBLIC_OMU:0 "¢e®ª¶a«·e« pec±³ ®ª¬e-¬³p´¾p·ec²¢³" GetGovernmentOMU
- GREAT_ELECTORAL_REPUBLIC_KYM:0 "¢e®ª¶a«·e« pec±³ ®ª¬o«-¬³p´¾p·ec²¢o¯" GetGovernmentKYM
- GREAT_ELECTORAL_REPUBLIC_DE:0 "¢e®ª¶a«·e« pec±³ ®ª¬e-¬³p´¾p·ec²¢e" GetGovernmentDE
+ GREAT_ELECTORAL_REPUBLIC_SCHO_CAP:0 "Найвеличніша республіка-курфюрство" #GetGovernmentSCHO_CAP
+ GREAT_ELECTORAL_REPUBLIC_OGO_CAP:0 "Найвеличнішої республіки-курфюрства" #GetGovernmentOGO_CAP
+ GREAT_ELECTORAL_REPUBLIC_OMU_CAP:0 "Найвеличнішій республіці-курфюрству" #GetGovernmentOMU_CAP
+ GREAT_ELECTORAL_REPUBLIC_KYM_CAP:0 "Найвеличнішою республікою-курфюрством" #GetGovernmentKYM_CAP
+ GREAT_ELECTORAL_REPUBLIC_DE_CAP:0 "Найвеличнішій республіці-курфюрстві" #GetGovernmentDE_CAP
  
- COUNTY_SCHO:0 "¥pa´c²¢o" GetGovernmentSCHO
- COUNTY_OGO:0 "¥pa´c²¢a" GetGovernmentOGO
- COUNTY_OMU:0 "¥pa´c²¢³" GetGovernmentOMU
- COUNTY_KYM:0 "¥pa´c²¢o¯" GetGovernmentKYM
- COUNTY_DE:0 "¥pa´c²¢e" GetGovernmentDE
+ COUNTY_SCHO_CAP:0 "Графство" #GetGovernmentSCHO_CAP
+ COUNTY_OGO_CAP:0 "Графства" #GetGovernmentOGO_CAP
+ COUNTY_OMU_CAP:0 "Графству" #GetGovernmentOMU_CAP
+ COUNTY_KYM_CAP:0 "Графством" #GetGovernmentKYM_CAP
+ COUNTY_DE_CAP:0 "Графстві" #GetGovernmentDE_CAP
  
- COUNTY_SCHO:0 "¥pa´c²¢o" GetGovernmentSCHO
- COUNTY_OGO:0 "¥pa´c²¢a" GetGovernmentOGO
- COUNTY_OMU:0 "¥pa´c²¢³" GetGovernmentOMU
- COUNTY_KYM:0 "¥pa´c²¢o¯" GetGovernmentKYM
- COUNTY_DE:0 "¥pa´c²¢e" GetGovernmentDE
+ IKKO_IKKI_COMMUNE_SCHO_CAP:0 "Республіка Ікко-іккі" #GetGovernmentSCHO_CAP
+ IKKO_IKKI_COMMUNE_OGO_CAP:0 "Республіки Ікко-іккі" #GetGovernmentOGO_CAP
+ IKKO_IKKI_COMMUNE_OMU_CAP:0 "Республіці Ікко-іккі" #GetGovernmentOMU_CAP
+ IKKO_IKKI_COMMUNE_KYM_CAP:0 "Республікою Ікко-іккі" #GetGovernmentKYM_CAP
+ IKKO_IKKI_COMMUNE_DE_CAP:0 "Республіці Ікко-іккі" #GetGovernmentDE_CAP
  
- COUNTY_PALATINE_SCHO:0 "±´a®»µ¥pa´c²¢o" GetGovernmentSCHO
- COUNTY_PALATINE_OGO:0 "±´a®»µ¥pa´c²¢a" GetGovernmentOGO
- COUNTY_PALATINE_OMU:0 "±´a®»µ¥pa´c²¢³" GetGovernmentOMU
- COUNTY_PALATINE_KYM:0 "±´a®»µ¥pa´c²¢o¯" GetGovernmentKYM
- COUNTY_PALATINE_DE:0 "±´a®»µ¥pa´c²¢e" GetGovernmentDE
+ IKKO_IKKI_ORDER_SCHO_CAP:0 "Орден Ікко-іккі" #GetGovernmentSCHO_CAP
+ IKKO_IKKI_ORDER_OGO_CAP:0 "Ордена Ікко-іккі" #GetGovernmentOGO_CAP
+ IKKO_IKKI_ORDER_OMU_CAP:0 "Ордену Ікко-іккі" #GetGovernmentOMU_CAP
+ IKKO_IKKI_ORDER_KYM_CAP:0 "Орденом Ікко-іккі" #GetGovernmentKYM_CAP
+ IKKO_IKKI_ORDER_DE_CAP:0 "Ордені Ікко-іккі" #GetGovernmentDE_CAP
  
- KINGDOM_PALATINE_SCHO:0 "±´a®»µ¬opo®e¢c²¢o" GetGovernmentSCHO
- KINGDOM_PALATINE_OGO:0 "±´a®»µ¬opo®e¢c²¢a" GetGovernmentOGO
- KINGDOM_PALATINE_OMU:0 "±´a®»µ¬opo®e¢c²¢³" GetGovernmentOMU
- KINGDOM_PALATINE_KYM:0 "±´a®»µ¬opo®e¢c²¢o¯" GetGovernmentKYM
- KINGDOM_PALATINE_DE:0 "±´a®»µ¬opo®e¢c²¢e" GetGovernmentDE
+ IKKO_IKKI_SHOGUN_SCHO_CAP:0 "Сьоґунат Ікко-іккі" #GetGovernmentSCHO_CAP
+ IKKO_IKKI_SHOGUN_OGO_CAP:0 "Сьоґуната Ікко-іккі" #GetGovernmentOGO_CAP
+ IKKO_IKKI_SHOGUN_OMU_CAP:0 "Сьоґунату Ікко-іккі" #GetGovernmentOMU_CAP
+ IKKO_IKKI_SHOGUN_KYM_CAP:0 "Сьоґунатом Ікко-іккі" #GetGovernmentKYM_CAP
+ IKKO_IKKI_SHOGUN_DE_CAP:0 "Сьоґунаті Ікко-іккі" #GetGovernmentDE_CAP
  
- IKKO_IKKI_COMMUNE_SCHO:0 "pec±³ ®ª¬a †¬¬o-ª¬¬ª" GetGovernmentSCHO
- IKKO_IKKI_COMMUNE_OGO:0 "pec±³ ®ª¬ª †¬¬o-ª¬¬ª" GetGovernmentOGO
- IKKO_IKKI_COMMUNE_OMU:0 "pec±³ ®ª¬e †¬¬o-ª¬¬ª" GetGovernmentOMU
- IKKO_IKKI_COMMUNE_KYM:0 "pec±³ ®ª¬o« †¬¬o-ª¬¬ª" GetGovernmentKYM
- IKKO_IKKI_COMMUNE_DE:0 "pec±³ ®ª¬e †¬¬o-ª¬¬ª" GetGovernmentDE
+ IKKO_IKKI_EMPIRE_SCHO_CAP:0 "Протекторат Ікко-іккі" #GetGovernmentSCHO_CAP
+ IKKO_IKKI_EMPIRE_OGO_CAP:0 "Протектората Ікко-іккі" #GetGovernmentOGO_CAP
+ IKKO_IKKI_EMPIRE_OMU_CAP:0 "Протекторату Ікко-іккі" #GetGovernmentOMU_CAP
+ IKKO_IKKI_EMPIRE_KYM_CAP:0 "Протекторатом Ікко-іккі" #GetGovernmentKYM_CAP
+ IKKO_IKKI_EMPIRE_DE_CAP:0 "Протектораті Ікко-іккі" #GetGovernmentDE_CAP
  
- IKKO_IKKI_ORDER_SCHO:0 "op¦e° †¬¬o-ª¬¬ª" GetGovernmentSCHO
- IKKO_IKKI_ORDER_OGO:0 "op¦e°a †¬¬o-ª¬¬ª" GetGovernmentOGO
- IKKO_IKKI_ORDER_OMU:0 "op¦e°³ †¬¬o-ª¬¬ª" GetGovernmentOMU
- IKKO_IKKI_ORDER_KYM:0 "op¦e°o¯ †¬¬o-ª¬¬ª" GetGovernmentKYM
- IKKO_IKKI_ORDER_DE:0 "op¦e°e †¬¬o-ª¬¬ª" GetGovernmentDE
+ WARRIOR_MONK_ORDER_SCHO_CAP:0 "Сохей" #GetGovernmentSCHO_CAP
+ WARRIOR_MONK_ORDER_OGO_CAP:0 "Сохея" #GetGovernmentOGO_CAP
+ WARRIOR_MONK_ORDER_OMU_CAP:0 "Сохею" #GetGovernmentOMU_CAP
+ WARRIOR_MONK_ORDER_KYM_CAP:0 "Сохеєм" #GetGovernmentKYM_CAP
+ WARRIOR_MONK_ORDER_DE_CAP:0 "Сохеї" #GetGovernmentDE_CAP
  
- IKKO_IKKI_SHOGUN_SCHO:0 "cë¥³°a² †¬¬o-ª¬¬ª" GetGovernmentSCHO
- IKKO_IKKI_SHOGUN_OGO:0 "cë¥³°a²a †¬¬o-ª¬¬ª" GetGovernmentOGO
- IKKO_IKKI_SHOGUN_OMU:0 "cë¥³°a²³ †¬¬o-ª¬¬ª" GetGovernmentOMU
- IKKO_IKKI_SHOGUN_KYM:0 "cë¥³°a²o¯ †¬¬o-ª¬¬ª" GetGovernmentKYM
- IKKO_IKKI_SHOGUN_DE:0 "cë¥³°a²e †¬¬o-ª¬¬ª" GetGovernmentDE
+ WARRIOR_MONK_HIGH_ORDER_SCHO_CAP:0 "Чернечий сьоґунат" #GetGovernmentSCHO_CAP
+ WARRIOR_MONK_HIGH_ORDER_OGO_CAP:0 "Чернечого сьоґуната" #GetGovernmentOGO_CAP
+ WARRIOR_MONK_HIGH_ORDER_OMU_CAP:0 "Чернечому сьоґунату" #GetGovernmentOMU_CAP
+ WARRIOR_MONK_HIGH_ORDER_KYM_CAP:0 "Чернечим сьоґунатом" #GetGovernmentKYM_CAP
+ WARRIOR_MONK_HIGH_ORDER_DE_CAP:0 "Чернечому сьоґунаті" #GetGovernmentDE_CAP
  
- IKKO_IKKI_EMPIRE_SCHO:0 "±po²e¬²opa² †¬¬o-ª¬¬ª" GetGovernmentSCHO
- IKKO_IKKI_EMPIRE_OGO:0 "±po²e¬²opa²a †¬¬o-ª¬¬ª" GetGovernmentOGO
- IKKO_IKKI_EMPIRE_OMU:0 "±po²e¬²opa²³ †¬¬o-ª¬¬ª" GetGovernmentOMU
- IKKO_IKKI_EMPIRE_KYM:0 "±po²e¬²opa²o¯ †¬¬o-ª¬¬ª" GetGovernmentKYM
- IKKO_IKKI_EMPIRE_DE:0 "±po²e¬²opa²e †¬¬o-ª¬¬ª" GetGovernmentDE
+ DIVINE_PROTECTORS_SCHO_CAP:0 "Божественний протекторат" #GetGovernmentSCHO_CAP
+ DIVINE_PROTECTORS_OGO_CAP:0 "Божественного протекторату" #GetGovernmentOGO_CAP
+ DIVINE_PROTECTORS_OMU_CAP:0 "Божественному протекторату" #GetGovernmentOMU_CAP
+ DIVINE_PROTECTORS_KYM_CAP:0 "Божественним протекторатом" #GetGovernmentKYM_CAP
+ DIVINE_PROTECTORS_DE_CAP:0 "Божественному протектораті" #GetGovernmentDE_CAP
  
- WARRIOR_MONK_ORDER_SCHO:0 "cox¼«" GetGovernmentSCHO
- WARRIOR_MONK_ORDER_OGO:0 "cox¼÷" GetGovernmentOGO
- WARRIOR_MONK_ORDER_OMU:0 "cox¼¾" GetGovernmentOMU
- WARRIOR_MONK_ORDER_KYM:0 "cox¼e¯" GetGovernmentKYM
- WARRIOR_MONK_ORDER_DE:0 "cox¼e" GetGovernmentDE
+ BLACK_KNIGHTS_SCHO_CAP:0 "Лицарі Адріана" #GetGovernmentSCHO_CAP
+ BLACK_KNIGHTS_OGO_CAP:0 "Лицарів Адріана" #GetGovernmentOGO_CAP
+ BLACK_KNIGHTS_OMU_CAP:0 "Лицарям Адріана" #GetGovernmentOMU_CAP
+ BLACK_KNIGHTS_KYM_CAP:0 "Лицарями Адріана" #GetGovernmentKYM_CAP
+ BLACK_KNIGHTS_DE_CAP:0 "Лицарях Адріана" #GetGovernmentDE_CAP
  
- WARRIOR_MONK_HIGH_ORDER_SCHO:0 "¯o°a·ec¬ª« cë¥³°a²" GetGovernmentSCHO
- WARRIOR_MONK_HIGH_ORDER_OGO:0 "¯o°a·ec¬o¥o cë¥³°a²a" GetGovernmentOGO
- WARRIOR_MONK_HIGH_ORDER_OMU:0 "¯o°a·ec¬o¯³ cë¥³°a²³" GetGovernmentOMU
- WARRIOR_MONK_HIGH_ORDER_KYM:0 "¯o°a·ec¬ª¯ cë¥³°a²o¯" GetGovernmentKYM
- WARRIOR_MONK_HIGH_ORDER_DE:0 "¯o°a·ec¬o¯ cë¥³°a²e" GetGovernmentDE
+ BLACK_LONG_KNIGHTS_SCHO_CAP:0 "Лицарі Адріана" #GetGovernmentSCHO_CAP
+ BLACK_LONG_KNIGHTS_OGO_CAP:0 "Лицарів Адріана" #GetGovernmentOGO_CAP
+ BLACK_LONG_KNIGHTS_OMU_CAP:0 "Лицарям Адріана" #GetGovernmentOMU_CAP
+ BLACK_LONG_KNIGHTS_KYM_CAP:0 "Лицарями Адріана" #GetGovernmentKYM_CAP
+ BLACK_LONG_KNIGHTS_DE_CAP:0 "Лицарях Адріана" #GetGovernmentDE_CAP
  
- DIVINE_PROTECTORS_SCHO:0 " o¨ec²¢e°°º« ±po²e¬²opa²" GetGovernmentSCHO
- DIVINE_PROTECTORS_OGO:0 " o¨ec²¢e°°o¥o ±po²e¬²opa²a" GetGovernmentOGO
- DIVINE_PROTECTORS_OMU:0 " o¨ec²¢e°°o¯³ ±po²e¬²opa²³" GetGovernmentOMU
- DIVINE_PROTECTORS_KYM:0 " o¨ec²¢e°°º¯ ±po²e¬²opa²o¯" GetGovernmentKYM
- DIVINE_PROTECTORS_DE:0 " o¨ec²¢e°°o¯ ±po²e¬²opa²e" GetGovernmentDE
+ BLACK_WATCH_SCHO_CAP:0 "Варта Адріана" #GetGovernmentSCHO_CAP
+ BLACK_WATCH_OGO_CAP:0 "Варти Адріана" #GetGovernmentOGO_CAP
+ BLACK_WATCH_OMU_CAP:0 "Варті Адріана" #GetGovernmentOMU_CAP
+ BLACK_WATCH_KYM_CAP:0 "Вартою Адріана" #GetGovernmentKYM_CAP
+ BLACK_WATCH_DE_CAP:0 "Варті Адріана" #GetGovernmentDE_CAP
  
- BLACK_KNIGHTS_SCHO:0 "pºµapª A¦pªa°a" GetGovernmentSCHO
- BLACK_KNIGHTS_OGO:0 "pºµape« A¦pªa°a" GetGovernmentOGO
- BLACK_KNIGHTS_OMU:0 "pºµap÷¯ A¦pªa°a" GetGovernmentOMU
- BLACK_KNIGHTS_KYM:0 "pºµap÷¯ª A¦pªa°a" GetGovernmentKYM
- BLACK_KNIGHTS_DE:0 "pºµap÷x A¦pªa°a" GetGovernmentDE
+ SOVREIGN_MONASTIC_ORDER_SCHO_CAP:0 "Суверенний військовий орден" #GetGovernmentSCHO_CAP
+ SOVREIGN_MONASTIC_ORDER_OGO_CAP:0 "Суверенного військового ордену" #GetGovernmentOGO_CAP
+ SOVREIGN_MONASTIC_ORDER_OMU_CAP:0 "Суверенному військовому ордену" #GetGovernmentOMU_CAP
+ SOVREIGN_MONASTIC_ORDER_KYM_CAP:0 "Суверенним військовим орденом" #GetGovernmentKYM_CAP
+ SOVREIGN_MONASTIC_ORDER_DE_CAP:0 "Суверенному військовому ордені" #GetGovernmentDE_CAP
  
- BLACK_LONG_KNIGHTS_SCHO:0 "pºµapª A¦pªa°a" GetGovernmentSCHO
- BLACK_LONG_KNIGHTS_OGO:0 "pºµape« A¦pªa°a" GetGovernmentOGO
- BLACK_LONG_KNIGHTS_OMU:0 "pºµap÷¯ A¦pªa°a" GetGovernmentOMU
- BLACK_LONG_KNIGHTS_KYM:0 "pºµap÷¯ª A¦pªa°a" GetGovernmentKYM
- BLACK_LONG_KNIGHTS_DE:0 "pºµap÷x A¦pªa°a" GetGovernmentDE
+ SOVREIGN_MONASTIC_CONFEDERATION_SCHO_CAP:0 "Суверенна лицарська конфедерація" #GetGovernmentSCHO_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_OGO_CAP:0 "Суверенної лицарської конфедерації" #GetGovernmentOGO_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_OMU_CAP:0 "Суверенній лицарській конфедерації" #GetGovernmentOMU_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_KYM_CAP:0 "Суверенною лицарською конфедерацією" #GetGovernmentKYM_CAP
+ SOVREIGN_MONASTIC_CONFEDERATION_DE_CAP:0 "Суверенній лицарській конфедерації" #GetGovernmentDE_CAP
  
- BLACK_WATCH_SCHO:0 "¦o©op A¦pªa°a" GetGovernmentSCHO
- BLACK_WATCH_OGO:0 "¦o©opa A¦pªa°a" GetGovernmentOGO
- BLACK_WATCH_OMU:0 "¦o©op³ A¦pªa°a" GetGovernmentOMU
- BLACK_WATCH_KYM:0 "¦o©opo¯ A¦pªa°a" GetGovernmentKYM
- BLACK_WATCH_DE:0 "¦o©ope A¦pªa°a" GetGovernmentDE
+ SISTERHOOD_SCHO_CAP:0 "Сестринство" #GetGovernmentSCHO_CAP
+ SISTERHOOD_OGO_CAP:0 "Сестринства" #GetGovernmentOGO_CAP
+ SISTERHOOD_OMU_CAP:0 "Сестринству" #GetGovernmentOMU_CAP
+ SISTERHOOD_KYM_CAP:0 "Сестринством" #GetGovernmentKYM_CAP
+ SISTERHOOD_DE_CAP:0 "Сестринстві" #GetGovernmentDE_CAP
  
- SOVREIGN_MONASTIC_ORDER_SCHO:0 "c³¢epe°°º« ¢oe°°º« op¦e°" GetGovernmentSCHO
- SOVREIGN_MONASTIC_ORDER_OGO:0 "c³¢epe°°o¥o ¢oe°°o¥o op¦e°a" GetGovernmentOGO
- SOVREIGN_MONASTIC_ORDER_OMU:0 "c³¢epe°°o¯³ ¢oe°°o¯³ op¦e°³" GetGovernmentOMU
- SOVREIGN_MONASTIC_ORDER_KYM:0 "c³¢epe°°o¯ ¢oe°°o¯ op¦e°o¯" GetGovernmentKYM
- SOVREIGN_MONASTIC_ORDER_DE:0 "c³¢epe°°o¯ ¢oe°°o¯ op¦e°e" GetGovernmentDE
+ GRAND_SISTERHOOD_SCHO_CAP:0 "Велике сестринство" #GetGovernmentSCHO_CAP
+ GRAND_SISTERHOOD_OGO_CAP:0 "Великого сестринства" #GetGovernmentOGO_CAP
+ GRAND_SISTERHOOD_OMU_CAP:0 "Великому сестринству" #GetGovernmentOMU_CAP
+ GRAND_SISTERHOOD_KYM_CAP:0 "Великим сестринством" #GetGovernmentKYM_CAP
+ GRAND_SISTERHOOD_DE_CAP:0 "Великому сестринстві" #GetGovernmentDE_CAP
  
- SOVREIGN_MONASTIC_CONFEDERATION_SCHO:0 "c³¢epe°°a÷ pºµapc¬a÷ ¬o°´e¦epaµª÷" GetGovernmentSCHO
- SOVREIGN_MONASTIC_CONFEDERATION_OGO:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" GetGovernmentOGO
- SOVREIGN_MONASTIC_CONFEDERATION_OMU:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" GetGovernmentOMU
- SOVREIGN_MONASTIC_CONFEDERATION_KYM:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªe«" GetGovernmentKYM
- SOVREIGN_MONASTIC_CONFEDERATION_DE:0 "c³¢epe°°o« pºµapc¬o« ¬o°´e¦epaµªª" GetGovernmentDE
+ TRAPPIST_STATE_SCHO_CAP:0 "Орден траппістів" #GetGovernmentSCHO_CAP
+ TRAPPIST_STATE_OGO_CAP:0 "Ордена траппістів" #GetGovernmentOGO_CAP
+ TRAPPIST_STATE_OMU_CAP:0 "Ордену траппістів" #GetGovernmentOMU_CAP
+ TRAPPIST_STATE_KYM_CAP:0 "Орденом траппістів" #GetGovernmentKYM_CAP
+ TRAPPIST_STATE_DE_CAP:0 "Ордені траппістів" #GetGovernmentDE_CAP
  
- SISTERHOOD_SCHO:0 "cec²pª¶ec²¢o" GetGovernmentSCHO
- SISTERHOOD_OGO:0 "cec²pª¶ec²¢a" GetGovernmentOGO
- SISTERHOOD_OMU:0 "cec²pª¶ec²¢³" GetGovernmentOMU
- SISTERHOOD_KYM:0 "cec²pª¶ec²¢o¯" GetGovernmentKYM
- SISTERHOOD_DE:0 "cec²pª¶ec²¢e" GetGovernmentDE
+ MONASTIC_STATE_SCHO_CAP:0 "Чернеча держава" #GetGovernmentSCHO_CAP
+ MONASTIC_STATE_OGO_CAP:0 "Чернечої держави" #GetGovernmentOGO_CAP
+ MONASTIC_STATE_OMU_CAP:0 "Чернечій державі" #GetGovernmentOMU_CAP
+ MONASTIC_STATE_KYM_CAP:0 "Чернечою державою" #GetGovernmentKYM_CAP
+ MONASTIC_STATE_DE_CAP:0 "Чернечій державі" #GetGovernmentDE_CAP
  
- GRAND_SISTERHOOD_SCHO:0 "¢e®ª¬oe cec²pª¶ec²¢o" GetGovernmentSCHO
- GRAND_SISTERHOOD_OGO:0 "¢e®ª¬o¥o cec²pª¶ec²¢a" GetGovernmentOGO
- GRAND_SISTERHOOD_OMU:0 "¢e®ª¬o¯³ cec²pª¶ec²¢³" GetGovernmentOMU
- GRAND_SISTERHOOD_KYM:0 "¢e®ª¬ª¯ cec²pª¶ec²¢o¯" GetGovernmentKYM
- GRAND_SISTERHOOD_DE:0 "¢e®ª¬o¯ cec²pª¶ec²¢e" GetGovernmentDE
+ BREWING_EMPIRE_SCHO_CAP:0 "Пивна імперія" #GetGovernmentSCHO_CAP
+ BREWING_EMPIRE_OGO_CAP:0 "Пивної імперії" #GetGovernmentOGO_CAP
+ BREWING_EMPIRE_OMU_CAP:0 "Пивній імперії" #GetGovernmentOMU_CAP
+ BREWING_EMPIRE_KYM_CAP:0 "Пивною імперією" #GetGovernmentKYM_CAP
+ BREWING_EMPIRE_DE_CAP:0 "Пивній імперії" #GetGovernmentDE_CAP
  
- TRAPPIST_STATE_SCHO:0 "op¦e° ²pa±±ªc²o¢" GetGovernmentSCHO
- TRAPPIST_STATE_OGO:0 "op¦e°a ²pa±±ªc²o¢" GetGovernmentOGO
- TRAPPIST_STATE_OMU:0 "op¦e°³ ²pa±±ªc²o¢" GetGovernmentOMU
- TRAPPIST_STATE_KYM:0 "op¦e°o¯ ²pa±±ªc²o¢" GetGovernmentKYM
- TRAPPIST_STATE_DE:0 "op¦e°e ²pa±±ªc²o¢" GetGovernmentDE
- 
- MONASTIC_STATE_SCHO:0 "¯o°a·ec¬oe ¥oc³¦apc²¢o" GetGovernmentSCHO
- MONASTIC_STATE_OGO:0 "¯o°a·ec¬o¥o ¥oc³¦apc²¢a" GetGovernmentOGO
- MONASTIC_STATE_OMU:0 "¯o°a·ec¬o¯³ ¥oc³¦apc²¢³" GetGovernmentOMU
- MONASTIC_STATE_KYM:0 "¯o°a·ec¬ª¯ ¥oc³¦apc²¢o¯" GetGovernmentKYM
- MONASTIC_STATE_DE:0 "¯o°a·ec¬o¯ ¥oc³¦apc²¢e" GetGovernmentDE
- 
- BREWING_EMPIRE_SCHO:0 "±ª¢°a÷ ª¯±epª÷" GetGovernmentSCHO
- BREWING_EMPIRE_OGO:0 "±ª¢°o« ª¯±epªª" GetGovernmentOGO
- BREWING_EMPIRE_OMU:0 "±ª¢°o« ª¯±epªª" GetGovernmentOMU
- BREWING_EMPIRE_KYM:0 "±ª¢°o« ª¯±epªe«" GetGovernmentKYM
- BREWING_EMPIRE_DE:0 "±ª¢°o« ª¯±epªª" GetGovernmentDE
- 
- SYNTH_GOV_SCHO:0 "¯a·ª°°º« ª°²e®®e¬²" GetGovernmentSCHO
- SYNTH_GOV_OGO:0 "¯a·ª°°o¥o ª°²e®®e¬²a" GetGovernmentOGO
- SYNTH_GOV_OMU:0 "¯a·ª°°o¯³ ª°²e®®e¬²³" GetGovernmentOMU
- SYNTH_GOV_KYM:0 "¯a·ª°°º¯ ª°²e®®e¬²o¯" GetGovernmentKYM
- SYNTH_GOV_DE:0 "¯a·ª°°o¯ ª°²e®®e¬²e" GetGovernmentDE
+ SYNTH_GOV_SCHO_CAP:0 "Машинний інтелект" #GetGovernmentSCHO_CAP
+ SYNTH_GOV_OGO_CAP:0 "Машинного інтелекту" #GetGovernmentOGO_CAP
+ SYNTH_GOV_OMU_CAP:0 "Машинному інтелекту" #GetGovernmentOMU_CAP
+ SYNTH_GOV_KYM_CAP:0 "Машинним інтелектом" #GetGovernmentKYM_CAP
+ SYNTH_GOV_DE_CAP:0 "Машинному інтелекті" #GetGovernmentDE_CAP
