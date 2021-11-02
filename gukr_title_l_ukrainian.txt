@@ -2356,118 +2356,118 @@
  FIRST_LAWSPEAKER_PRO:0 "першого закономовця" #GetTitlePR
  
  FIRST_LAWSPEAKER_fem_KHTO:0 "перша закономовиця" #GetTitleIM
- FIRST_LAWSPEAKER_fem_OGO:0 "¢ºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleRD
- FIRST_LAWSPEAKER_fem_OMU:0 "¢ºc·e¯³ ©a¬o°o¥o¢opª²e®¾" #GetTitleDT
- FIRST_LAWSPEAKER_fem_KLY:0 "¢ºc·e¥o ©a¬o°o¥o¢opª²e®÷" #GetTitleVN
- FIRST_LAWSPEAKER_fem_KYM:0 "¢ºc·ª¯ ©a¬o°o¥o¢opª²e®e¯" #GetTitleTV
- FIRST_LAWSPEAKER_fem_PRO:0 "¢ºc·e¯ ©a¬o°o¥o¢opª²e®e" #GetTitlePR
+ FIRST_LAWSPEAKER_fem_OGO:0 "першої закономовиці" #GetTitleRD
+ FIRST_LAWSPEAKER_fem_OMU:0 "першій закономовиці" #GetTitleDT
+ FIRST_LAWSPEAKER_fem_KLY:0 "перша закономовице" #GetTitleVN
+ FIRST_LAWSPEAKER_fem_KYM:0 "першою закономовицею" #GetTitleTV
+ FIRST_LAWSPEAKER_fem_PRO:0 "першу закономовицю" #GetTitlePR
  
  SUPREME_VIZIER_KHTO:0 "верховний візир" #GetTitleIM
- SUPREME_VIZIER_OGO:0 "¢epxo¢°o¥o ¢ª©ªp÷" #GetTitleRD
- SUPREME_VIZIER_OMU:0 "¢epxo¢°o¯³ ¢ª©ªp¾" #GetTitleDT
- SUPREME_VIZIER_KLY:0 "¢epxo¢°o¥o ¢ª©ªp÷" #GetTitleVN
- SUPREME_VIZIER_KYM:0 "¢epxo¢°º¯ ¢ª©ªpe¯" #GetTitleTV
- SUPREME_VIZIER_PRO:0 "¢epxo¢°o¯ ¢ª©ªpe" #GetTitlePR
+ SUPREME_VIZIER_OGO:0 "верховного візира" #GetTitleRD
+ SUPREME_VIZIER_OMU:0 "верховному візиру" #GetTitleDT
+ SUPREME_VIZIER_KLY:0 "верховний візире" #GetTitleVN
+ SUPREME_VIZIER_KYM:0 "верховним візирем" #GetTitleTV
+ SUPREME_VIZIER_PRO:0 "верховного візира" #GetTitlePR
  
  SUPREME_VIZIER_fem_KHTO:0 "верховна візира" #GetTitleIM
- SUPREME_VIZIER_fem_OGO:0 "¢epxo¢°o¥o ¢ª©ªp÷" #GetTitleRD
- SUPREME_VIZIER_fem_OMU:0 "¢epxo¢°o¯³ ¢ª©ªp¾" #GetTitleDT
- SUPREME_VIZIER_fem_KLY:0 "¢epxo¢°o¥o ¢ª©ªp÷" #GetTitleVN
- SUPREME_VIZIER_fem_KYM:0 "¢epxo¢°º¯ ¢ª©ªpe¯" #GetTitleTV
- SUPREME_VIZIER_fem_PRO:0 "¢epxo¢°o¯ ¢ª©ªpe" #GetTitlePR
+ SUPREME_VIZIER_fem_OGO:0 "верховної візири" #GetTitleRD
+ SUPREME_VIZIER_fem_OMU:0 "верховній візирі" #GetTitleDT
+ SUPREME_VIZIER_fem_KLY:0 "верховна візире" #GetTitleVN
+ SUPREME_VIZIER_fem_KYM:0 "верховною візирою" #GetTitleTV
+ SUPREME_VIZIER_fem_PRO:0 "верховну візиру" #GetTitlePR
  
  CHAIRMAN_KHTO:0 "голова" #GetTitleIM
- CHAIRMAN_OGO:0 "±pe¦ce¦a²e®÷" #GetTitleRD
- CHAIRMAN_OMU:0 "±pe¦ce¦a²e®¾" #GetTitleDT
- CHAIRMAN_KLY:0 "±pe¦ce¦a²e®÷" #GetTitleVN
- CHAIRMAN_KYM:0 "±pe¦ce¦a²e®e¯" #GetTitleTV
- CHAIRMAN_PRO:0 "±pe¦ce¦a²e®e" #GetTitlePR
+ CHAIRMAN_OGO:0 "голови" #GetTitleRD
+ CHAIRMAN_OMU:0 "голові" #GetTitleDT
+ CHAIRMAN_KLY:0 "голово" #GetTitleVN
+ CHAIRMAN_KYM:0 "головою" #GetTitleTV
+ CHAIRMAN_PRO:0 "голову" #GetTitlePR
  
  CHAIRMAN_fem_KHTO:0 "голова" #GetTitleIM
- CHAIRMAN_fem_OGO:0 "±pe¦ce¦a²e®÷" #GetTitleRD
- CHAIRMAN_fem_OMU:0 "±pe¦ce¦a²e®»" #GetTitleDT
- CHAIRMAN_fem_KLY:0 "±pe¦ce¦a²e®»" #GetTitleVN
- CHAIRMAN_fem_KYM:0 "±pe¦ce¦a²e®»" #GetTitleTV
- CHAIRMAN_fem_PRO:0 "±pe¦ce¦a²e®»" #GetTitlePR
+ CHAIRMAN_fem_OGO:0 "голови" #GetTitleRD
+ CHAIRMAN_fem_OMU:0 "голові" #GetTitleDT
+ CHAIRMAN_fem_KLY:0 "голово" #GetTitleVN
+ CHAIRMAN_fem_KYM:0 "головою" #GetTitleTV
+ CHAIRMAN_fem_PRO:0 "голову" #GetTitlePR
  
  CONSULESS_KHTO:0 "консулеса" #GetTitleIM
- CONSULESS_OGO:0 "¬o°c³®a" #GetTitleRD
- CONSULESS_OMU:0 "¬o°c³®³" #GetTitleDT
- CONSULESS_KLY:0 "¬o°c³®a" #GetTitleVN
- CONSULESS_KYM:0 "¬o°c³®o¯" #GetTitleTV
- CONSULESS_PRO:0 "¬o°c³®e" #GetTitlePR
+ CONSULESS_OGO:0 "консулеси" #GetTitleRD
+ CONSULESS_OMU:0 "консулесі" #GetTitleDT
+ CONSULESS_KLY:0 "консулесо" #GetTitleVN
+ CONSULESS_KYM:0 "консулесою" #GetTitleTV
+ CONSULESS_PRO:0 "консулесу" #GetTitlePR
  
  KAISER_KHTO:0 "кайзер" #GetTitleIM
- KAISER_OGO:0 "¬a«©epa" #GetTitleRD
- KAISER_OMU:0 "¬a«©ep³" #GetTitleDT
- KAISER_KLY:0 "¬a«©epa" #GetTitleVN
- KAISER_KYM:0 "¬a«©epo¯" #GetTitleTV
- KAISER_PRO:0 "¬a«©epe" #GetTitlePR
+ KAISER_OGO:0 "кайзера" #GetTitleRD
+ KAISER_OMU:0 "кайзеру" #GetTitleDT
+ KAISER_KLY:0 "кайзере" #GetTitleVN
+ KAISER_KYM:0 "кайзером" #GetTitleTV
+ KAISER_PRO:0 "кайзера" #GetTitlePR
  
  KAISERIN_KHTO:0 "кайзерин" #GetTitleIM
- KAISERIN_OGO:0 "¬a«©epª°º" #GetTitleRD
- KAISERIN_OMU:0 "¬a«©epª°e" #GetTitleDT
- KAISERIN_KLY:0 "¬a«©epª°³" #GetTitleVN
- KAISERIN_KYM:0 "¬a«©epª°o«" #GetTitleTV
- KAISERIN_PRO:0 "¬a«©epª°e" #GetTitlePR
+ KAISERIN_OGO:0 "кайзерин" #GetTitleRD
+ KAISERIN_OMU:0 "кайзерин" #GetTitleDT
+ KAISERIN_KLY:0 "кайзерине" #GetTitleVN
+ KAISERIN_KYM:0 "кайзерин" #GetTitleTV
+ KAISERIN_PRO:0 "кайзерин" #GetTitlePR
  
  FIELD_MARSHAL_KHTO:0 "фельдмаршал" #GetTitleIM
- FIELD_MARSHAL_OGO:0 "´e®»¦¯ap·a®a" #GetTitleRD
- FIELD_MARSHAL_OMU:0 "´e®»¦¯ap·a®³" #GetTitleDT
- FIELD_MARSHAL_KLY:0 "´e®»¦¯ap·a®a" #GetTitleVN
- FIELD_MARSHAL_KYM:0 "´e®»¦¯ap·a®o¯" #GetTitleTV
- FIELD_MARSHAL_PRO:0 "´e®»¦¯ap·a®e" #GetTitlePR
+ FIELD_MARSHAL_OGO:0 "фельдмаршала" #GetTitleRD
+ FIELD_MARSHAL_OMU:0 "фельдмаршалу" #GetTitleDT
+ FIELD_MARSHAL_KLY:0 "фельдмаршале" #GetTitleVN
+ FIELD_MARSHAL_KYM:0 "фельдмаршалом" #GetTitleTV
+ FIELD_MARSHAL_PRO:0 "фельдмаршала" #GetTitlePR
  
  LORD_HIGH_ADMIRAL_KHTO:0 "лорд вищий адмірал" #GetTitleIM
- LORD_HIGH_ADMIRAL_OGO:0 "®op¦a ¢ºc·e¥o a¦¯ªpa®a" #GetTitleRD
- LORD_HIGH_ADMIRAL_OMU:0 "®op¦³ ¢ºc·e¯³ a¦¯ªpa®³" #GetTitleDT
- LORD_HIGH_ADMIRAL_KLY:0 "®op¦a ¢ºc·e¥o a¦¯ªpa®a" #GetTitleVN
- LORD_HIGH_ADMIRAL_KYM:0 "®op¦o¯ ¢ºc·ª¯ a¦¯ªpa®o¯" #GetTitleTV
- LORD_HIGH_ADMIRAL_PRO:0 "®op¦e ¢ºc·e¯ a¦¯ªpa®e" #GetTitlePR
+ LORD_HIGH_ADMIRAL_OGO:0 "лорда вищого адмірала" #GetTitleRD
+ LORD_HIGH_ADMIRAL_OMU:0 "лорду вищиму адміралу" #GetTitleDT
+ LORD_HIGH_ADMIRAL_KLY:0 "лорд вищий адмірале" #GetTitleVN
+ LORD_HIGH_ADMIRAL_KYM:0 "лордом вищим адміралом" #GetTitleTV
+ LORD_HIGH_ADMIRAL_PRO:0 "лорда вищого адмірала" #GetTitlePR
  
  SUPREME_ADMIRAL_KHTO:0 "верховний адмірал" #GetTitleIM
- SUPREME_ADMIRAL_OGO:0 "¢epxo¢°o¥o a¦¯ªpa®a" #GetTitleRD
- SUPREME_ADMIRAL_OMU:0 "¢epxo¢°o¯³ a¦¯ªpa®³" #GetTitleDT
- SUPREME_ADMIRAL_KLY:0 "¢epxo¢°o¥o a¦¯ªpa®a" #GetTitleVN
- SUPREME_ADMIRAL_KYM:0 "¢epxo¢°º¯ a¦¯ªpa®o¯" #GetTitleTV
- SUPREME_ADMIRAL_PRO:0 "¢epxo¢°o¯ a¦¯ªpa®e" #GetTitlePR
+ SUPREME_ADMIRAL_OGO:0 "верховного адмірала" #GetTitleRD
+ SUPREME_ADMIRAL_OMU:0 "верховномк адміралу" #GetTitleDT
+ SUPREME_ADMIRAL_KLY:0 "верховний адмірале" #GetTitleVN
+ SUPREME_ADMIRAL_KYM:0 "верховним адміралом" #GetTitleTV
+ SUPREME_ADMIRAL_PRO:0 "верховного адмірала" #GetTitlePR
  
  CAPTAIN_GENERAL_KHTO:0 "генерал-капітан" #GetTitleIM
- CAPTAIN_GENERAL_OGO:0 "¥e°epa®-¬a±ª²a°a" #GetTitleRD
- CAPTAIN_GENERAL_OMU:0 "¥e°epa®-¬a±ª²a°³" #GetTitleDT
- CAPTAIN_GENERAL_KLY:0 "¥e°epa®-¬a±ª²a°a" #GetTitleVN
- CAPTAIN_GENERAL_KYM:0 "¥e°epa®-¬a±ª²a°o¯" #GetTitleTV
- CAPTAIN_GENERAL_PRO:0 "¥e°epa®-¬a±ª²a°e" #GetTitlePR
+ CAPTAIN_GENERAL_OGO:0 "генерал-капітана" #GetTitleRD
+ CAPTAIN_GENERAL_OMU:0 "генерал-капітану" #GetTitleDT
+ CAPTAIN_GENERAL_KLY:0 "генерал-капітане" #GetTitleVN
+ CAPTAIN_GENERAL_KYM:0 "генерал-капітаном" #GetTitleTV
+ CAPTAIN_GENERAL_PRO:0 "генерал-капітана" #GetTitlePR
  
- ARCHPIRATE_KHTO:0 "архіпірат" #GetTitleIM
- ARCHPIRATE_OGO:0 "apxª±ªpa²a" #GetTitleRD
- ARCHPIRATE_OMU:0 "apxª±ªpa²³" #GetTitleDT
- ARCHPIRATE_KLY:0 "apxª±ªpa²a" #GetTitleVN
- ARCHPIRATE_KYM:0 "apxª±ªpa²o¯" #GetTitleTV
- ARCHPIRATE_PRO:0 "apxª±ªpa²e" #GetTitlePR
+ ARCHPIRATE_KHTO:0 "архипірат" #GetTitleIM
+ ARCHPIRATE_OGO:0 "архипірата" #GetTitleRD
+ ARCHPIRATE_OMU:0 "архипірату" #GetTitleDT
+ ARCHPIRATE_KLY:0 "архипірате" #GetTitleVN
+ ARCHPIRATE_KYM:0 "архипіратом" #GetTitleTV
+ ARCHPIRATE_PRO:0 "архипірата" #GetTitlePR
  
  PIRATE_DAIMYO_KHTO:0 "піратський даймьо" #GetTitleIM
- PIRATE_DAIMYO_OGO:0 "¦a«¯ë-±ªpa²a" #GetTitleRD
- PIRATE_DAIMYO_OMU:0 "¦a«¯ë-±ªpa²³" #GetTitleDT
- PIRATE_DAIMYO_KLY:0 "¦a«¯ë-±ªpa²a" #GetTitleVN
- PIRATE_DAIMYO_KYM:0 "¦a«¯ë-±ªpa²o¯" #GetTitleTV
- PIRATE_DAIMYO_PRO:0 "¦a«¯ë-±ªpa²e" #GetTitlePR
+ PIRATE_DAIMYO_OGO:0 "піратського даймьо" #GetTitleRD
+ PIRATE_DAIMYO_OMU:0 "піратському даймьо" #GetTitleDT
+ PIRATE_DAIMYO_KLY:0 "піратський даймьо" #GetTitleVN
+ PIRATE_DAIMYO_KYM:0 "піратським даймьо" #GetTitleTV
+ PIRATE_DAIMYO_PRO:0 "піратського даймьо" #GetTitlePR
  
- CAPTAIN_fem_KHTO:0 "капітанка" #GetTitleIM
- CAPTAIN_fem_OGO:0 "¬a±ª²a°a" #GetTitleRD
- CAPTAIN_fem_OMU:0 "¬a±ª²a°³" #GetTitleDT
- CAPTAIN_fem_KLY:0 "¬a±ª²a°a" #GetTitleVN
- CAPTAIN_fem_KYM:0 "¬a±ª²a°o¯" #GetTitleTV
- CAPTAIN_fem_PRO:0 "¬a±ª²a°e" #GetTitlePR
+ CAPTAIN_fem_KHTO:0 "капітанша" #GetTitleIM
+ CAPTAIN_fem_OGO:0 "капітанши" #GetTitleRD
+ CAPTAIN_fem_OMU:0 "капітанці" #GetTitleDT
+ CAPTAIN_fem_KLY:0 "капітанко" #GetTitleVN
+ CAPTAIN_fem_KYM:0 "капітаншою" #GetTitleTV
+ CAPTAIN_fem_PRO:0 "капітаншу" #GetTitlePR
  
- GRAND_CAPTAIN_fem_KHTO:0 "гранд-капітанка" #GetTitleIM
- GRAND_CAPTAIN_fem_OGO:0 "¥pa°¦-¬a±ª²a°a" #GetTitleRD
- GRAND_CAPTAIN_fem_OMU:0 "¥pa°¦-¬a±ª²a°³" #GetTitleDT
- GRAND_CAPTAIN_fem_KLY:0 "¥pa°¦-¬a±ª²a°a" #GetTitleVN
- GRAND_CAPTAIN_fem_KYM:0 "¥pa°¦-¬a±ª²a°o¯" #GetTitleTV
- GRAND_CAPTAIN_fem_PRO:0 "¥pa°¦-¬a±ª²a°e" #GetTitlePR
+ GRAND_CAPTAIN_fem_KHTO:0 "гранд-капітанша" #GetTitleIM
+ GRAND_CAPTAIN_fem_OGO:0 "гранд-капітанши" #GetTitleRD
+ GRAND_CAPTAIN_fem_OMU:0 "гранд-капітанці" #GetTitleDT
+ GRAND_CAPTAIN_fem_KLY:0 "гранд-капітанко" #GetTitleVN
+ GRAND_CAPTAIN_fem_KYM:0 "гранд-капітаншою" #GetTitleTV
+ GRAND_CAPTAIN_fem_PRO:0 "гранд-капітаншу" #GetTitlePR
  
- ADMIRAL_fem_KHTO:0 "адміралка" #GetTitleIM
+ ADMIRAL_fem_KHTO:0 "адміралтеса" #GetTitleIM
  ADMIRAL_fem_OGO:0 "¥pa°¦-a¦¯ªpa®a" #GetTitleRD
  ADMIRAL_fem_OMU:0 "¥pa°¦-a¦¯ªpa®³" #GetTitleDT
  ADMIRAL_fem_KLY:0 "¥pa°¦-a¦¯ªpa®a" #GetTitleVN
@@ -2530,270 +2530,270 @@
  QUEEN_PALATINE_KYM:0 "±´a®»µ¬ë°ª¥ª°e«" #GetTitleTV
  QUEEN_PALATINE_PRO:0 "±´a®»µ¬ë°ª¥ª°e" #GetTitlePR
  
- HERCEG_KHTO:0 "¬°÷©»" #GetTitleIM
+ HERCEG_KHTO:0 "князь" #GetTitleIM
  HERCEG_OGO:0 "¬°÷©÷" #GetTitleRD
  HERCEG_OMU:0 "¬°÷©¾" #GetTitleDT
  HERCEG_KLY:0 "¬°÷©÷" #GetTitleVN
  HERCEG_KYM:0 "¬°÷©e¯" #GetTitleTV
  HERCEG_PRO:0 "¬°÷©e" #GetTitlePR
  
- PRINCE_HERCEG_KHTO:0 "¢e®ª¬ª« ¬°÷©»" #GetTitleIM
+ PRINCE_HERCEG_KHTO:0 "великий князь" #GetTitleIM
  PRINCE_HERCEG_OGO:0 "¢e®ª¬o¥o ¬°÷©÷" #GetTitleRD
  PRINCE_HERCEG_OMU:0 "¢e®ª¬o¯³ ¬°÷©¾" #GetTitleDT
  PRINCE_HERCEG_KLY:0 "¢e®ª¬o¥o ¬°÷©÷" #GetTitleVN
  PRINCE_HERCEG_KYM:0 "¢e®ª¬ª¯ ¬°÷©e¯" #GetTitleTV
  PRINCE_HERCEG_PRO:0 "¢e®ª¬o¯ ¬°÷©e" #GetTitlePR
  
- HERCEGI_KHTO:0 "¬°÷¥ª°÷" #GetTitleIM
+ HERCEGI_KHTO:0 "княгиня" #GetTitleIM
  HERCEGI_OGO:0 "¬°÷¥ª°ª" #GetTitleRD
  HERCEGI_OMU:0 "¬°÷¥ª°e" #GetTitleDT
  HERCEGI_KLY:0 "¬°÷¥ª°¾" #GetTitleVN
  HERCEGI_KYM:0 "¬°÷¥ª°e«" #GetTitleTV
  HERCEGI_PRO:0 "¬°÷¥ª°e" #GetTitlePR
  
- PRINCESS_HERCEGI_KHTO:0 "¢e®ª¬a÷ ¬°÷¥ª°÷" #GetTitleIM
+ PRINCESS_HERCEGI_KHTO:0 "велика княгиня" #GetTitleIM
  PRINCESS_HERCEGI_OGO:0 "¢e®ª¬o« ¬°÷¥ª°ª" #GetTitleRD
  PRINCESS_HERCEGI_OMU:0 "¢e®ª¬o« ¬°÷¥ª°e" #GetTitleDT
  PRINCESS_HERCEGI_KLY:0 "¢e®ª¬³¾ ¬°÷¥ª°¾" #GetTitleVN
  PRINCESS_HERCEGI_KYM:0 "¢e®ª¬o« ¬°÷¥ª°e«" #GetTitleTV
  PRINCESS_HERCEGI_PRO:0 "¢e®ª¬o« ¬°÷¥ª°e" #GetTitlePR
  
- CONSUL_ELECTOR_KHTO:0 "¬o°c³®-¬³p´¾pc²" #GetTitleIM
+ CONSUL_ELECTOR_KHTO:0 "консул-курфюрст" #GetTitleIM
  CONSUL_ELECTOR_OGO:0 "¬o°c³®a-¬³p´¾pc²a" #GetTitleRD
  CONSUL_ELECTOR_OMU:0 "¬o°c³®³-¬³p´¾pc²³" #GetTitleDT
  CONSUL_ELECTOR_KLY:0 "¬o°c³®a-¬³p´¾pc²a" #GetTitleVN
  CONSUL_ELECTOR_KYM:0 "¬o°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV
  CONSUL_ELECTOR_PRO:0 "¬o°c³®e-¬³p´¾pc²e" #GetTitlePR
  
- GRAND_CONSUL_ELECTOR_KHTO:0 "¢e®ª¬ª« ¬o°c³®-¬³p´¾pc²" #GetTitleIM
+ GRAND_CONSUL_ELECTOR_KHTO:0 "великий консул-курфюрст" #GetTitleIM
  GRAND_CONSUL_ELECTOR_OGO:0 "¢e®ª¬o¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleRD
  GRAND_CONSUL_ELECTOR_OMU:0 "¢e®ª¬o¯³ ¬o°c³®³-¬³p´¾pc²³" #GetTitleDT
  GRAND_CONSUL_ELECTOR_KLY:0 "¢e®ª¬o¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleVN
  GRAND_CONSUL_ELECTOR_KYM:0 "¢e®ª¬ª¯ ¬o°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV
  GRAND_CONSUL_ELECTOR_PRO:0 "¢e®ª¬o¯ ¬o°c³®e-¬³p´¾pc²e" #GetTitlePR
  
- GREAT_CONSUL_ELECTOR_KHTO:0 "¢e®ª¶a«·ª« ¬o°c³®-¬³p´¾pc²" #GetTitleIM
+ GREAT_CONSUL_ELECTOR_KHTO:0 "найвеличніший консул-курфюрст" #GetTitleIM
  GREAT_CONSUL_ELECTOR_OGO:0 "¢e®ª¶a«·e¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleRD
  GREAT_CONSUL_ELECTOR_OMU:0 "¢e®ª¶a«·e¯³ ¬o°c³®³-¬³p´¾pc²³" #GetTitleDT
  GREAT_CONSUL_ELECTOR_KLY:0 "¢e®ª¶a«·e¥o ¬o°c³®a-¬³p´¾pc²a" #GetTitleVN
  GREAT_CONSUL_ELECTOR_KYM:0 "¢e®ª¶a«·ª¯ ¬o°c³®o¯-¬³p´¾pc²o¯" #GetTitleTV
  GREAT_CONSUL_ELECTOR_PRO:0 "¢e®ª¶a«·e¯ ¬o°c³®e-¬³p´¾pc²e" #GetTitlePR
  
- CONSULESS_ELECTOR_KHTO:0 "¬o°c³®-¬³p´¾pc²ª°a" #GetTitleIM
+ CONSULESS_ELECTOR_KHTO:0 "консулесса-курфюрста" #GetTitleIM
  CONSULESS_ELECTOR_OGO:0 "¬o°c³®a-¬³p´¾pc²ª°º" #GetTitleRD
  CONSULESS_ELECTOR_OMU:0 "¬o°c³®³-¬³p´¾pc²ª°e" #GetTitleDT
  CONSULESS_ELECTOR_KLY:0 "¬o°c³®a-¬³p´¾pc²ª°³" #GetTitleVN
  CONSULESS_ELECTOR_KYM:0 "¬o°c³®o¯-¬³p´¾pc²ª°o«" #GetTitleTV
  CONSULESS_ELECTOR_PRO:0 "¬o°c³®e-¬³p´¾pc²ª°e" #GetTitlePR
  
- GRAND_CONSULESS_ELECTOR_KHTO:0 "¢e®ª¬a÷ ¬o°c³®-¬³p´¾pc²ª°a" #GetTitleIM
+ GRAND_CONSULESS_ELECTOR_KHTO:0 "велика консулесса-курфюрста" #GetTitleIM
  GRAND_CONSULESS_ELECTOR_OGO:0 "¢e®ª¬o« ¬o°c³®-¬³p´¾pc²ª°º" #GetTitleRD
  GRAND_CONSULESS_ELECTOR_OMU:0 "¢e®ª¬o« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitleDT
  GRAND_CONSULESS_ELECTOR_KLY:0 "¢e®ª¬³¾ ¬o°c³®-¬³p´¾pc²ª°³" #GetTitleVN
  GRAND_CONSULESS_ELECTOR_KYM:0 "¢e®ª¬o« ¬o°c³®-¬³p´¾pc²ª°o«" #GetTitleTV
  GRAND_CONSULESS_ELECTOR_PRO:0 "¢e®ª¬o« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitlePR
  
- GREAT_CONSULESS_ELECTOR_KHTO:0 "¢e®ª¶a«·a÷ ¬o°c³®-¬³p´¾pc²ª°a" #GetTitleIM
+ GREAT_CONSULESS_ELECTOR_KHTO:0 "найвеличніша консулесса-курфюрста" #GetTitleIM
  GREAT_CONSULESS_ELECTOR_OGO:0 "¢e®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°º" #GetTitleRD
  GREAT_CONSULESS_ELECTOR_OMU:0 "¢e®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitleDT
  GREAT_CONSULESS_ELECTOR_KLY:0 "¢e®ª¶a«·³¾ ¬o°c³®-¬³p´¾pc²ª°³" #GetTitleVN
  GREAT_CONSULESS_ELECTOR_KYM:0 "¢e®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°o«" #GetTitleTV
  GREAT_CONSULESS_ELECTOR_PRO:0 "¢e®ª¶a«·e« ¬o°c³®-¬³p´¾pc²ª°e" #GetTitlePR
  
- regent_KHTO:0 "pe¥e°²" #GetTitleIM
- regent_OGO:0 "pe¥e°²a" #GetTitleRD
- regent_OMU:0 "pe¥e°²³" #GetTitleDT
- regent_KLY:0 "pe¥e°²a" #GetTitleVN
- regent_KYM:0 "pe¥e°²o¯" #GetTitleTV
- regent_PRO:0 "pe¥e°²e" #GetTitlePR
+ regent_KHTO:0 "регент" #GetTitleIM
+ regent_OGO:0 "регента" #GetTitleRD
+ regent_OMU:0 "регенту" #GetTitleDT
+ regent_KLY:0 "регенте" #GetTitleVN
+ regent_KYM:0 "регентом" #GetTitleTV
+ regent_PRO:0 "регента" #GetTitlePR
  
- COUNT_KHTO:0 "¥pa´" #GetTitleIM
- COUNT_OGO:0 "¥pa´a" #GetTitleRD
- COUNT_OMU:0 "¥pa´³" #GetTitleDT
- COUNT_KLY:0 "¥pa´a" #GetTitleVN
- COUNT_KYM:0 "¥pa´o¯" #GetTitleTV
- COUNT_PRO:0 "¥pa´e" #GetTitlePR
+ COUNT_KHTO:0 "граф" #GetTitleIM
+ COUNT_OGO:0 "графа" #GetTitleRD
+ COUNT_OMU:0 "графу" #GetTitleDT
+ COUNT_KLY:0 "графе" #GetTitleVN
+ COUNT_KYM:0 "графом" #GetTitleTV
+ COUNT_PRO:0 "графа" #GetTitlePR
  
- COUNT_PALATINE_KHTO:0 "±´a®»µ¥pa´" #GetTitleIM
- COUNT_PALATINE_OGO:0 "±´a®»µ¥pa´a" #GetTitleRD
- COUNT_PALATINE_OMU:0 "±´a®»µ¥pa´³" #GetTitleDT
- COUNT_PALATINE_KLY:0 "±´a®»µ¥pa´a" #GetTitleVN
- COUNT_PALATINE_KYM:0 "±´a®»µ¥pa´o¯" #GetTitleTV
- COUNT_PALATINE_PRO:0 "±´a®»µ¥pa´e" #GetTitlePR
+ COUNT_PALATINE_KHTO:0 "пфальцграф" #GetTitleIM
+ COUNT_PALATINE_OGO:0 "пфальцграфа" #GetTitleRD
+ COUNT_PALATINE_OMU:0 "пфальцграфу" #GetTitleDT
+ COUNT_PALATINE_KLY:0 "пфальцграфе" #GetTitleVN
+ COUNT_PALATINE_KYM:0 "пфальцграфом" #GetTitleTV
+ COUNT_PALATINE_PRO:0 "пфальцграфа" #GetTitlePR
  
- KING_PALATINE_KHTO:0 "±´a®»µ¬a«©ep" #GetTitleIM
- KING_PALATINE_OGO:0 "±´a®»µ¬a«©epa" #GetTitleRD
- KING_PALATINE_OMU:0 "±´a®»µ¬a«©ep³" #GetTitleDT
- KING_PALATINE_KLY:0 "±´a®»µ¬a«©epa" #GetTitleVN
- KING_PALATINE_KYM:0 "±´a®»µ¬a«©epo¯" #GetTitleTV
- KING_PALATINE_PRO:0 "±´a®»µ¬a«©epe" #GetTitlePR
+ KING_PALATINE_KHTO:0 "пфальцкайзер" #GetTitleIM
+ KING_PALATINE_OGO:0 "пфальцкайзера" #GetTitleRD
+ KING_PALATINE_OMU:0 "пфальцкайзеру" #GetTitleDT
+ KING_PALATINE_KLY:0 "пфальцкайзере" #GetTitleVN
+ KING_PALATINE_KYM:0 "пфальцкайзером" #GetTitleTV
+ KING_PALATINE_PRO:0 "пфальцкайзера" #GetTitlePR
  
- COUNTESS_PALATINE_KHTO:0 "±´a®»µ¥pa´ª°÷" #GetTitleIM
- COUNTESS_PALATINE_OGO:0 "±´a®»µ¥pa´ª°ª" #GetTitleRD
- COUNTESS_PALATINE_OMU:0 "±´a®»µ¥pa´ª°e" #GetTitleDT
- COUNTESS_PALATINE_KLY:0 "±´a®»µ¥pa´ª°¾" #GetTitleVN
- COUNTESS_PALATINE_KYM:0 "±´a®»µ¥pa´ª°e«" #GetTitleTV
- COUNTESS_PALATINE_PRO:0 "±´a®»µ¥pa´ª°e" #GetTitlePR
+ COUNTESS_PALATINE_KHTO:0 "пфальцграфиня" #GetTitleIM
+ COUNTESS_PALATINE_OGO:0 "пфальцграфині" #GetTitleRD
+ COUNTESS_PALATINE_OMU:0 "пфальцграфині" #GetTitleDT
+ COUNTESS_PALATINE_KLY:0 "пфальцграфине" #GetTitleVN
+ COUNTESS_PALATINE_KYM:0 "пфальцграфинею" #GetTitleTV
+ COUNTESS_PALATINE_PRO:0 "пфальцграфиню" #GetTitlePR
  
- QUEEN_PALATINE_KHTO:0 "±´a®»µ¬ë°ª¥ª°" #GetTitleIM
- QUEEN_PALATINE_OGO:0 "±´a®»µ¬ë°ª¥ª°ª" #GetTitleRD
- QUEEN_PALATINE_OMU:0 "±´a®»µ¬ë°ª¥ª°e" #GetTitleDT
- QUEEN_PALATINE_KLY:0 "±´a®»µ¬ë°ª¥ª°¾" #GetTitleVN
- QUEEN_PALATINE_KYM:0 "±´a®»µ¬ë°ª¥ª°e«" #GetTitleTV
- QUEEN_PALATINE_PRO:0 "±´a®»µ¬ë°ª¥ª°e" #GetTitlePR
+ QUEEN_PALATINE_KHTO:0 "пфальцкенігін" #GetTitleIM
+ QUEEN_PALATINE_OGO:0 пфальцкенігін" #GetTitleRD
+ QUEEN_PALATINE_OMU:0 "пфальцкенігін" #GetTitleDT
+ QUEEN_PALATINE_KLY:0 "пфальцкенігіне" #GetTitleVN
+ QUEEN_PALATINE_KYM:0 "пфальцкенігін" #GetTitleTV
+ QUEEN_PALATINE_PRO:0 "пфальцкенігін" #GetTitlePR
  
- MONSHU_KHTO:0 "¯o°·³" #GetTitleIM
- MONSHU_OGO:0 "¯o°·³" #GetTitleRD
- MONSHU_OMU:0 "¯o°·³" #GetTitleDT
- MONSHU_KLY:0 "¯o°·³" #GetTitleVN
- MONSHU_KYM:0 "¯o°·³" #GetTitleTV
- MONSHU_PRO:0 "¯o°·³" #GetTitlePR
+ MONSHU_KHTO:0 "моншу" #GetTitleIM
+ MONSHU_OGO:0 "моншу" #GetTitleRD
+ MONSHU_OMU:0 "моншу" #GetTitleDT
+ MONSHU_KLY:0 "моншу" #GetTitleVN
+ MONSHU_KYM:0 "моншу" #GetTitleTV
+ MONSHU_PRO:0 "моншу" #GetTitlePR
  
- HIGH_MONSHU_KHTO:0 "¯o°·³-cë¥³°" #GetTitleIM
- HIGH_MONSHU_OGO:0 "¯o°·³-cë¥³°a" #GetTitleRD
- HIGH_MONSHU_OMU:0 "¯o°·³-cë¥³°³" #GetTitleDT
- HIGH_MONSHU_KLY:0 "¯o°·³-cë¥³°a" #GetTitleVN
- HIGH_MONSHU_KYM:0 "¯o°·³-cë¥³°o¯" #GetTitleTV
- HIGH_MONSHU_PRO:0 "¯o°·³-cë¥³°e" #GetTitlePR
+ HIGH_MONSHU_KHTO:0 "моншу-сьоґун" #GetTitleIM
+ HIGH_MONSHU_OGO:0 "моншу-сьоґуна" #GetTitleRD
+ HIGH_MONSHU_OMU:0 "моншу-сьоґуну" #GetTitleDT
+ HIGH_MONSHU_KLY:0 "моншу-сьоґуне" #GetTitleVN
+ HIGH_MONSHU_KYM:0 "моншу-сьоґуном" #GetTitleTV
+ HIGH_MONSHU_PRO:0 "моншу-сьоґуна" #GetTitlePR
  
- HIGH_MONSHUESS_KHTO:0 "¯o°·³-cë¥³°ecca" #GetTitleIM
- HIGH_MONSHUESS_OGO:0 "¯o°·³-cë¥³°eccº" #GetTitleRD
- HIGH_MONSHUESS_OMU:0 "¯o°·³-cë¥³°ecce" #GetTitleDT
- HIGH_MONSHUESS_KLY:0 "¯o°·³-cë¥³°ecc³" #GetTitleVN
- HIGH_MONSHUESS_KYM:0 "¯o°·³-cë¥³°ecco«" #GetTitleTV
- HIGH_MONSHUESS_PRO:0 "¯o°·³-cë¥³°ecce" #GetTitlePR
+ HIGH_MONSHUESS_KHTO:0 "моншу-сьоґунка" #GetTitleIM
+ HIGH_MONSHUESS_OGO:0 "моншу-сьоґунки" #GetTitleRD
+ HIGH_MONSHUESS_OMU:0 "моншу-сьоґунці" #GetTitleDT
+ HIGH_MONSHUESS_KLY:0 "моншу-сьоґунко" #GetTitleVN
+ HIGH_MONSHUESS_KYM:0 "моншу-сьоґункою" #GetTitleTV
+ HIGH_MONSHUESS_PRO:0 "моншу-сьоґунку" #GetTitlePR
  
- SHINRAN_KHTO:0 "cª°pa°" #GetTitleIM
- SHINRAN_OGO:0 "cª°pa°a" #GetTitleRD
- SHINRAN_OMU:0 "cª°pa°³" #GetTitleDT
- SHINRAN_KLY:0 "cª°pa°a" #GetTitleVN
- SHINRAN_KYM:0 "cª°pa°o¯" #GetTitleTV
- SHINRAN_PRO:0 "cª°pa°e" #GetTitlePR
+ SHINRAN_KHTO:0 "сінран" #GetTitleIM
+ SHINRAN_OGO:0 "сінрана" #GetTitleRD
+ SHINRAN_OMU:0 "сінрану" #GetTitleDT
+ SHINRAN_KLY:0 "сінране" #GetTitleVN
+ SHINRAN_KYM:0 "сінраном" #GetTitleTV
+ SHINRAN_PRO:0 "сінрана" #GetTitlePR
  
- FIRST_RANGER_KHTO:0 "®op¦-pe«°¦¨ep" #GetTitleIM
- FIRST_RANGER_OGO:0 "®op¦a-pe«°¦¨epa" #GetTitleRD
- FIRST_RANGER_OMU:0 "®op¦³-pe«°¦¨ep³" #GetTitleDT
- FIRST_RANGER_KLY:0 "®op¦a-pe«°¦¨epa" #GetTitleVN
- FIRST_RANGER_KYM:0 "®op¦o¯-pe«°¦¨epo¯" #GetTitleTV
- FIRST_RANGER_PRO:0 "®op¦e-pe«°¦¨epe" #GetTitlePR
+ FIRST_RANGER_KHTO:0 "лорд-рейнджер" #GetTitleIM
+ FIRST_RANGER_OGO:0 "лорда-рейнджера" #GetTitleRD
+ FIRST_RANGER_OMU:0 "лорду-рейнджеру" #GetTitleDT
+ FIRST_RANGER_KLY:0 "лорд-рейнджере" #GetTitleVN
+ FIRST_RANGER_KYM:0 "лордом-рейнджером" #GetTitleTV
+ FIRST_RANGER_PRO:0 "лорда-рейнджера" #GetTitlePR
  
- KNIGHT_KING_KHTO:0 "pºµapc¬ª« ¬opo®»" #GetTitleIM
- KNIGHT_KING_OGO:0 "pºµapc¬o¥o ¬opo®÷" #GetTitleRD
- KNIGHT_KING_OMU:0 "pºµapc¬o¯³ ¬opo®¾" #GetTitleDT
- KNIGHT_KING_KLY:0 "pºµapc¬o¥o ¬opo®÷" #GetTitleVN
- KNIGHT_KING_KYM:0 "pºµapc¬ª¯ ¬opo®ë¯" #GetTitleTV
- KNIGHT_KING_PRO:0 "pºµapc¬o¯ ¬opo®e" #GetTitlePR
+ KNIGHT_KING_KHTO:0 "лицарський король" #GetTitleIM
+ KNIGHT_KING_OGO:0 "лицарського короля" #GetTitleRD
+ KNIGHT_KING_OMU:0 "лицарському королю" #GetTitleDT
+ KNIGHT_KING_KLY:0 "лицарський королю" #GetTitleVN
+ KNIGHT_KING_KYM:0 "лицарським королем" #GetTitleTV
+ KNIGHT_KING_PRO:0 "лицарського короля" #GetTitlePR
  
- KNIGHT_QUEEN_KHTO:0 "pºµapc¬a÷ ¬opo®e¢a" #GetTitleIM
- KNIGHT_QUEEN_OGO:0 "pºµapc¬o« ¬opo®e¢º" #GetTitleRD
- KNIGHT_QUEEN_OMU:0 "pºµapc¬o« ¬opo®e¢e" #GetTitleDT
- KNIGHT_QUEEN_KLY:0 "pºµapc¬³¾ ¬opo®e¢³" #GetTitleVN
- KNIGHT_QUEEN_KYM:0 "pºµapc¬o« ¬opo®e¢o«" #GetTitleTV
- KNIGHT_QUEEN_PRO:0 "pºµapc¬o« ¬opo®e¢e" #GetTitlePR
+ KNIGHT_QUEEN_KHTO:0 "лицарська королева" #GetTitleIM
+ KNIGHT_QUEEN_OGO:0 "лицарської королеви" #GetTitleRD
+ KNIGHT_QUEEN_OMU:0 "лицарській королеві" #GetTitleDT
+ KNIGHT_QUEEN_KLY:0 "лицарська королево" #GetTitleVN
+ KNIGHT_QUEEN_KYM:0 "лицарською королевою" #GetTitleTV
+ KNIGHT_QUEEN_PRO:0 "лицарську королеву" #GetTitlePR
  
- LORD_COMMANDER_KHTO:0 "®op¦-¬o¯a°¦³¾¸ª«" #GetTitleIM
- LORD_COMMANDER_OGO:0 "®op¦a-¬o¯a°¦³¾¸e¥o" #GetTitleRD
- LORD_COMMANDER_OMU:0 "®op¦³-¬o¯a°¦³¾¸e¯³" #GetTitleDT
- LORD_COMMANDER_KLY:0 "®op¦a-¬o¯a°¦³¾¸e¥o" #GetTitleVN
- LORD_COMMANDER_KYM:0 "®op¦o¯-¬o¯a°¦³¾¸ª¯" #GetTitleTV
- LORD_COMMANDER_PRO:0 "®op¦e-¬o¯a°¦³¾¸e¯" #GetTitlePR
+ LORD_COMMANDER_KHTO:0 "лорд-командувач" #GetTitleIM
+ LORD_COMMANDER_OGO:0 "лорда-командувача" #GetTitleRD
+ LORD_COMMANDER_OMU:0 "лорду-командувачу" #GetTitleDT
+ LORD_COMMANDER_KLY:0 "лорд-командувачу" #GetTitleVN
+ LORD_COMMANDER_KYM:0 "лордом-командувачем" #GetTitleTV
+ LORD_COMMANDER_PRO:0 "лорда-командувача" #GetTitlePR
  
- LADY_COMMANDER_KHTO:0 "®e¦ª-¬o¯a°¦³¾¸a÷" #GetTitleIM
- LADY_COMMANDER_OGO:0 "®e¦ª-¬o¯a°¦³¾¸e«" #GetTitleRD
- LADY_COMMANDER_OMU:0 "®e¦ª-¬o¯a°¦³¾¸e«" #GetTitleDT
- LADY_COMMANDER_KLY:0 "®e¦ª-¬o¯a°¦³¾¸³¾" #GetTitleVN
- LADY_COMMANDER_KYM:0 "®e¦ª-¬o¯a°¦³¾¸e«" #GetTitleTV
- LADY_COMMANDER_PRO:0 "®e¦ª-¬o¯a°¦³¾¸e«" #GetTitlePR
+ LADY_COMMANDER_KHTO:0 "леді-командувачка" #GetTitleIM
+ LADY_COMMANDER_OGO:0 "леді-командувачки" #GetTitleRD
+ LADY_COMMANDER_OMU:0 "леді-командувачці" #GetTitleDT
+ LADY_COMMANDER_KLY:0 "леді-командувачко" #GetTitleVN
+ LADY_COMMANDER_KYM:0 "леді-командувачкою" #GetTitleTV
+ LADY_COMMANDER_PRO:0 "леді-командувачку" #GetTitlePR
  
- MAGISTER_HOCHMEISTER_KHTO:0 "¢e®ª¬ª« ¯a¥ªc²p" #GetTitleIM
- MAGISTER_HOCHMEISTER_OGO:0 "¢e®ª¬o¥o ¯a¥ªc²pa" #GetTitleRD
- MAGISTER_HOCHMEISTER_OMU:0 "¢e®ª¬o¯³ ¯a¥ªc²p³" #GetTitleDT
- MAGISTER_HOCHMEISTER_KLY:0 "¢e®ª¬o¥o ¯a¥ªc²pa" #GetTitleVN
- MAGISTER_HOCHMEISTER_KYM:0 "¢e®ª¬ª¯ ¯a¥ªc²po¯" #GetTitleTV
- MAGISTER_HOCHMEISTER_PRO:0 "¢e®ª¬o¯ ¯a¥ªc²pe" #GetTitlePR
+ MAGISTER_HOCHMEISTER_KHTO:0 "великий магистр" #GetTitleIM
+ MAGISTER_HOCHMEISTER_OGO:0 "великого магистра" #GetTitleRD
+ MAGISTER_HOCHMEISTER_OMU:0 "великому магистру" #GetTitleDT
+ MAGISTER_HOCHMEISTER_KLY:0 "великий магистре" #GetTitleVN
+ MAGISTER_HOCHMEISTER_KYM:0 "великим магистром" #GetTitleTV
+ MAGISTER_HOCHMEISTER_PRO:0 "великого магистра" #GetTitlePR
  
- DEUTSCHMEISTER_KHTO:0 "¥ep¯a°c¬ª« ¯a¥ªc²p" #GetTitleIM
- DEUTSCHMEISTER_OGO:0 "¥ep¯a°c¬o¥o ¯a¥ªc²pa" #GetTitleRD
- DEUTSCHMEISTER_OMU:0 "¥ep¯a°c¬o¯³ ¯a¥ªc²p³" #GetTitleDT
- DEUTSCHMEISTER_KLY:0 "¥ep¯a°c¬o¥o ¯a¥ªc²pa" #GetTitleVN
- DEUTSCHMEISTER_KYM:0 "¥ep¯a°c¬ª¯ ¯a¥ªc²po¯" #GetTitleTV
- DEUTSCHMEISTER_PRO:0 "¥ep¯a°c¬o¯ ¯a¥ªc²pe" #GetTitlePR
+ DEUTSCHMEISTER_KHTO:0 "гросмейстер Тевтонського ордену" #GetTitleIM
+ DEUTSCHMEISTER_OGO:0 "гросмейстера Тевтонського ордену" #GetTitleRD
+ DEUTSCHMEISTER_OMU:0 "гросмейстеру Тевтонського ордену" #GetTitleDT
+ DEUTSCHMEISTER_KLY:0 "гросмейстере Тевтонського ордену" #GetTitleVN
+ DEUTSCHMEISTER_KYM:0 "гросмейстером Тевтонського ордену" #GetTitleTV
+ DEUTSCHMEISTER_PRO:0 "гросмейстера Тевтонського ордену" #GetTitlePR
  
- TRAPPIST_KHTO:0 "²pa±±ªc²" #GetTitleIM
- TRAPPIST_OGO:0 "²pa±±ªc²a" #GetTitleRD
- TRAPPIST_OMU:0 "²pa±±ªc²³" #GetTitleDT
- TRAPPIST_KLY:0 "²pa±±ªc²a" #GetTitleVN
- TRAPPIST_KYM:0 "²pa±±ªc²o¯" #GetTitleTV
- TRAPPIST_PRO:0 "²pa±±ªc²e" #GetTitlePR
+ TRAPPIST_KHTO:0 "траппіст" #GetTitleIM
+ TRAPPIST_OGO:0 "траппіста" #GetTitleRD
+ TRAPPIST_OMU:0 "траппісту" #GetTitleDT
+ TRAPPIST_KLY:0 "траппісте" #GetTitleVN
+ TRAPPIST_KYM:0 "траппістом" #GetTitleTV
+ TRAPPIST_PRO:0 "траппіста" #GetTitlePR
  
- TRAPPISTINE_KHTO:0 "²pa±±ªc²ª°a" #GetTitleIM
- TRAPPISTINE_OGO:0 "²pa±±ªc²ª°º" #GetTitleRD
- TRAPPISTINE_OMU:0 "²pa±±ªc²ª°e" #GetTitleDT
- TRAPPISTINE_KLY:0 "²pa±±ªc²ª°³" #GetTitleVN
- TRAPPISTINE_KYM:0 "²pa±±ªc²ª°o«" #GetTitleTV
- TRAPPISTINE_PRO:0 "²pa±±ªc²ª°e" #GetTitlePR
+ TRAPPISTINE_KHTO:0 "траппістка" #GetTitleIM
+ TRAPPISTINE_OGO:0 "траппістки" #GetTitleRD
+ TRAPPISTINE_OMU:0 "траппістці" #GetTitleDT
+ TRAPPISTINE_KLY:0 "траппістко" #GetTitleVN
+ TRAPPISTINE_KYM:0 "траппісткою" #GetTitleTV
+ TRAPPISTINE_PRO:0 "траппістку" #GetTitlePR
  
- ARCH_TRAPPIST_KHTO:0 "apxª²pa±±ªc²" #GetTitleIM
- ARCH_TRAPPIST_OGO:0 "apxª²pa±±ªc²a" #GetTitleRD
- ARCH_TRAPPIST_OMU:0 "apxª²pa±±ªc²³" #GetTitleDT
- ARCH_TRAPPIST_KLY:0 "apxª²pa±±ªc²a" #GetTitleVN
- ARCH_TRAPPIST_KYM:0 "apxª²pa±±ªc²o¯" #GetTitleTV
- ARCH_TRAPPIST_PRO:0 "apxª²pa±±ªc²e" #GetTitlePR
+ ARCH_TRAPPIST_KHTO:0 "архітраппіст" #GetTitleIM
+ ARCH_TRAPPIST_OGO:0 "архітраппіста" #GetTitleRD
+ ARCH_TRAPPIST_OMU:0 "архітраппісту" #GetTitleDT
+ ARCH_TRAPPIST_KLY:0 "архітраппісте" #GetTitleVN
+ ARCH_TRAPPIST_KYM:0 "архітраппістом" #GetTitleTV
+ ARCH_TRAPPIST_PRO:0 "архітраппіста" #GetTitlePR
  
- ARCH_TRAPPISTINE_KHTO:0 "apxª²pa±±ªc²ª°a" #GetTitleIM
- ARCH_TRAPPISTINE_OGO:0 "apxª²pa±±ªc²ª°º" #GetTitleRD
- ARCH_TRAPPISTINE_OMU:0 "apxª²pa±±ªc²ª°e" #GetTitleDT
- ARCH_TRAPPISTINE_KLY:0 "apxª²pa±±ªc²ª°³" #GetTitleVN
- ARCH_TRAPPISTINE_KYM:0 "apxª²pa±±ªc²ª°o«" #GetTitleTV
- ARCH_TRAPPISTINE_PRO:0 "apxª²pa±±ªc²ª°e" #GetTitlePR
+ ARCH_TRAPPISTINE_KHTO:0 "архітраппістка" #GetTitleIM
+ ARCH_TRAPPISTINE_OGO:0 "архітраппістки" #GetTitleRD
+ ARCH_TRAPPISTINE_OMU:0 "архітраппістці" #GetTitleDT
+ ARCH_TRAPPISTINE_KLY:0 "архітраппістко" #GetTitleVN
+ ARCH_TRAPPISTINE_KYM:0 "архітраппісткою" #GetTitleTV
+ ARCH_TRAPPISTINE_PRO:0 "архітраппістку" #GetTitlePR
  
- BREWMASTER_KHTO:0 "¢epxo¢°º« ±ª¢o¢ap" #GetTitleIM
- BREWMASTER_OGO:0 "¢epxo¢°o¥o ±ª¢o¢apa" #GetTitleRD
- BREWMASTER_OMU:0 "¢epxo¢°o¯³ ±ª¢o¢ap³" #GetTitleDT
- BREWMASTER_KLY:0 "¢epxo¢°o¥o ±ª¢o¢apa" #GetTitleVN
- BREWMASTER_KYM:0 "¢epxo¢°º¯ ±ª¢o¢apo¯" #GetTitleTV
- BREWMASTER_PRO:0 "¢epxo¢°o¯ ±ª¢o¢ape" #GetTitlePR
+ BREWMASTER_KHTO:0 "бровар" #GetTitleIM
+ BREWMASTER_OGO:0 "броваря" #GetTitleRD
+ BREWMASTER_OMU:0 "броварю" #GetTitleDT
+ BREWMASTER_KLY:0 "броварю" #GetTitleVN
+ BREWMASTER_KYM:0 "броварем" #GetTitleTV
+ BREWMASTER_PRO:0 "броваря" #GetTitlePR
  
- BREWMISTRESS_KHTO:0 "¢epxo¢°a÷ ±ª¢o¢ap¬a" #GetTitleIM
- BREWMISTRESS_OGO:0 "¢epxo¢°o« ±ª¢o¢ap¬ª" #GetTitleRD
- BREWMISTRESS_OMU:0 "¢epxo¢°o« ±ª¢o¢ap¬e" #GetTitleDT
- BREWMISTRESS_KLY:0 "¢epxo¢°³¾ ±ª¢o¢ap¬³" #GetTitleVN
- BREWMISTRESS_KYM:0 "¢epxo¢°o« ±ª¢o¢ap¬o«" #GetTitleTV
- BREWMISTRESS_PRO:0 "¢epxo¢°o« ±ª¢o¢ap¬e" #GetTitlePR
+ BREWMISTRESS_KHTO:0 "броварниця" #GetTitleIM
+ BREWMISTRESS_OGO:0 "броварниці" #GetTitleRD
+ BREWMISTRESS_OMU:0 "броварниці" #GetTitleDT
+ BREWMISTRESS_KLY:0 "броварнице" #GetTitleVN
+ BREWMISTRESS_KYM:0 "броварницею" #GetTitleTV
+ BREWMISTRESS_PRO:0 "броварницю" #GetTitlePR
  
- COMMANDER_EMPEROR_KHTO:0 "ª¯±epc¬ª« ¬o¯a°¦³¾¸ª«" #GetTitleIM
- COMMANDER_EMPEROR_OGO:0 "ª¯±epc¬o¥o ¬o¯a°¦³¾¸e¥o" #GetTitleRD
- COMMANDER_EMPEROR_OMU:0 "ª¯±epc¬o¯³ ¬o¯a°¦³¾¸e¯³" #GetTitleDT
- COMMANDER_EMPEROR_KLY:0 "ª¯±epc¬o¥o ¬o¯a°¦³¾¸e¥o" #GetTitleVN
- COMMANDER_EMPEROR_KYM:0 "ª¯±epc¬ª¯ ¬o¯a°¦³¾¸ª¯" #GetTitleTV
- COMMANDER_EMPEROR_PRO:0 "ª¯±epc¬o¯ ¬o¯a°¦³¾¸e¯" #GetTitlePR
+ COMMANDER_EMPEROR_KHTO:0 "імперський командувач" #GetTitleIM
+ COMMANDER_EMPEROR_OGO:0 "імперського командувача" #GetTitleRD
+ COMMANDER_EMPEROR_OMU:0 "імперському командувачу" #GetTitleDT
+ COMMANDER_EMPEROR_KLY:0 "ªімперський командуваче" #GetTitleVN
+ COMMANDER_EMPEROR_KYM:0 "імперським командувачем" #GetTitleTV
+ COMMANDER_EMPEROR_PRO:0 "імперського командувача" #GetTitlePR
  
- GRAND_MISTRESS_KHTO:0 "¢e®ª¬ª« ¯a¥ªc²p" #GetTitleIM
- GRAND_MISTRESS_OGO:0 "¢e®ª¬o¥o ¯a¥ªc²pa" #GetTitleRD
- GRAND_MISTRESS_OMU:0 "¢e®ª¬o¯³ ¯a¥ªc²p³" #GetTitleDT
- GRAND_MISTRESS_KLY:0 "¢e®ª¬o¥o ¯a¥ªc²pa" #GetTitleVN
- GRAND_MISTRESS_KYM:0 "¢e®ª¬ª¯ ¯a¥ªc²po¯" #GetTitleTV
- GRAND_MISTRESS_PRO:0 "¢e®ª¬o¯ ¯a¥ªc²pe" #GetTitlePR
+ GRAND_MISTRESS_KHTO:0 "великий магистр" #GetTitleIM
+ GRAND_MISTRESS_OGO:0 "великого магистра" #GetTitleRD
+ GRAND_MISTRESS_OMU:0 "великому магистру" #GetTitleDT
+ GRAND_MISTRESS_KLY:0 "великий магистре" #GetTitleVN
+ GRAND_MISTRESS_KYM:0 "великим магистром" #GetTitleTV
+ GRAND_MISTRESS_PRO:0 "великого магистра" #GetTitlePR
  
- ABBESS_KHTO:0 "ª¥³¯e°»÷" #GetTitleIM
- ABBESS_OGO:0 "ª¥³¯e°»ª" #GetTitleRD
- ABBESS_OMU:0 "ª¥³¯e°»ª" #GetTitleDT
- ABBESS_KLY:0 "ª¥³¯e°»¾" #GetTitleVN
- ABBESS_KYM:0 "ª¥³¯e°»e«" #GetTitleTV
- ABBESS_PRO:0 "ª¥³¯e°»e" #GetTitlePR
+ ABBESS_KHTO:0 "абатиса" #GetTitleIM
+ ABBESS_OGO:0 "абатиси" #GetTitleRD
+ ABBESS_OMU:0 "абатисі" #GetTitleDT
+ ABBESS_KLY:0 "абатисе" #GetTitleVN
+ ABBESS_KYM:0 "абатисою" #GetTitleTV
+ ABBESS_PRO:0 "абатису" #GetTitlePR
  
- MOTHER_SUPERIOR_KHTO:0 "°ac²o÷²e®»°ªµa" #GetTitleIM
- MOTHER_SUPERIOR_OGO:0 "°ac²o÷²e®»°ªµº" #GetTitleRD
- MOTHER_SUPERIOR_OMU:0 "°ac²o÷²e®»°ªµe" #GetTitleDT
- MOTHER_SUPERIOR_KLY:0 "°ac²o÷²e®»°ªµ³" #GetTitleVN
- MOTHER_SUPERIOR_KYM:0 "°ac²o÷²e®»°ªµe«" #GetTitleTV
- MOTHER_SUPERIOR_PRO:0 "°ac²o÷²e®»°ªµe" #GetTitlePR
+ MOTHER_SUPERIOR_KHTO:0 "настоятелька" #GetTitleIM
+ MOTHER_SUPERIOR_OGO:0 "настоятельку" #GetTitleRD
+ MOTHER_SUPERIOR_OMU:0 "настоятельці" #GetTitleDT
+ MOTHER_SUPERIOR_KLY:0 "настоятелько" #GetTitleVN
+ MOTHER_SUPERIOR_KYM:0 "настоятелькою" #GetTitleTV
+ MOTHER_SUPERIOR_PRO:0 "настоятельку" #GetTitlePR
  
- HEIR_fem_KHTO:0 "°ac®e¦°ªµa" #GetTitleIM
- HEIR_fem_OGO:0 "°ac®e¦°ªµº" #GetTitleRD
- HEIR_fem_OMU:0 "°ac®e¦°ªµe" #GetTitleDT
- HEIR_fem_KLY:0 "°ac®e¦°ªµ³" #GetTitleVN
- HEIR_fem_KYM:0 "°ac®e¦°ªµe«" #GetTitleTV
- HEIR_fem_PRO:0 "°ac®e¦°ªµe" #GetTitlePR
+ HEIR_fem_KHTO:0 "спадкоємиця" #GetTitleIM
+ HEIR_fem_OGO:0 "спадкоємиці" #GetTitleRD
+ HEIR_fem_OMU:0 "спадкоємиці" #GetTitleDT
+ HEIR_fem_KLY:0 "спадкоємице" #GetTitleVN
+ HEIR_fem_KYM:0 "спадкоємицею" #GetTitleTV
+ HEIR_fem_PRO:0 "спадкоємицю" #GetTitlePR
  
 
