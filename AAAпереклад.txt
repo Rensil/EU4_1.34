@@ -84,7 +84,7 @@ gukr_culture_people_l_ukrainian.yml - кастомні змінні
 gukr_government_l_ukrainian.yml - кастомні змінні
 gukr_governmentCAP_l_ukrainian.yml - кастомні змінні
 gukr_religion_l_ukrainian.yml - кастомні змінні
-gukr_title_l_ukrainian.yml - кастомні змінні, триває редагування, рядки 2309-2797
+gukr_title_l_ukrainian.yml - кастомні змінні, триває редагування, рядки 2470-2596
 gukr_titleCAP_l_ukrainian.yml - кастомні змінні, триває редагування, рядки 2309-2797
 hedgehog_l_ukrainian.yml - в.1.31.5.2, перекладено / 129
 hinduism_l_ukrainian.yml - в.1.31, перекладено / 225
