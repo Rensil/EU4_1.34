@@ -568,7 +568,7 @@
  mnd_mlc_champa_desc:0 "Champa finds itself in a precarious position on the mainland, having suffered a series of defeats to Dai Viet. We should become their protectors."
  mnd_mlc_develop_malacca_title:0 "Develop Malacca"
  mnd_mlc_develop_malacca_desc:0 "We would make Malacca into the greatest trading port in the world, complete with magnificent temples and fortifications."
- mnd_mlc_tributaries_title:0 "Loyal Subjects"
+ mnd_mlc_tributaries_title:0 "Вірні піддані"
  mnd_mlc_tributaries_desc:0 "The Sultan requires utmost loyalty from his vassal princes."
  mnd_mlc_destroy_majapahit_title:0 "Destroy Majapahit"
  mnd_mlc_destroy_majapahit_desc:0 "Majapahit once held sway over nearly all of Nusantara, including our own principality. Now that we have emerged as a rival to challenge their hegemony, we must wipe them out once and for all."
