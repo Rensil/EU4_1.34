@@ -96,7 +96,7 @@ leviathan_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: �
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 manchu_l_ukrainian.yml - в.1.30.1, перекладено / 796
-mandala_missions_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: 134-909 (774) / 909
+mandala_missions_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: 142-909 (764) / 909
 mandate_of_heaven_l_ukrainian.yml - в.1.31, перекладено / 825
 mare_nostrum_l_ukrainian.yml - в.1.30.1, перекладено / 447
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
