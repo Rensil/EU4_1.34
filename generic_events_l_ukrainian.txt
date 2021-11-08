@@ -4433,7 +4433,7 @@
  culture_religion_events.23.a:0 "Вітаємо наших співвітчизників."
  culture_religion_events.23.b:0 "Розподілимо їх серед нашого народу."
  ideagroups.1922.t:0 "Рухоме місто"
- ideagroups.1922.d:0 "There are ancient tales of moving palaces crumbling down to the ground in the desert's sands. Fragile and shifting mirages have come and gone, disappeared as the names of the men who had lived and died in their secret chambers. But all legends are born from a shady truth, the echo of what has passed.\nWe are those moving palaces, those disappearing dwellers. Our cities are not built in stone, but on bones."
+ ideagroups.1922.d:0 "Існують давні перекази про рухомі палаци, які руйнуються в пісках пустелі. Крихкі та мінливі міражі прийшли і зникли, зникли, як імена людей, які жили й померли у своїх таємних кімнатах. Але всі легенди народжуються з сумнівної правди, відлуння минулого.\nМи ті рухомі палаци, ті зникаючі мешканці. Our cities are not built in stone, but on bones."
  ideagroups.1922.a:0 "We will not remain a mirage."
  a_moving_city:0 "Рухоме місто"
  desc_a_moving_city:0 "Наші пересувні каравани забезпечили нам гарну репутацію в торгівлі."
