@@ -1634,7 +1634,7 @@
  CONFIRM_MOTHBALL_ALL_DESC:0 "Цією дією ви законсервуєте всі свої фортеці, розпустивши їхні гарнізони."
  GOTO:0 "Перейти"
  MOVE_BLOCKED_BY_FORT_IN_PROVINCE:0 "§RРух заблоковано через ворожу фортецю в провінції $PROV$§!"
- MOVE_BLOCKED_BY_FORT:0 "§RРух по суші блокує ворожа фортеця.§!"
+ MOVE_BLOCKED_BY_FORT:0 "Рух по суші блокує ворожа фортеця."
  MOVE_CANT_RETREAT_FROM_COMBAT:0 "У битві, і не може залишити її протягом $VAL|Y$ днів!"
  PROVINCE_IN_FORT_ZONE_OF_CONTROL:2 "§GЗнаходиться в зоні контролю вашої фортеці $NAME$.§!"
  PROVINCE_IN_HOSTILE_FORT_ZONE_OF_CONTROL:2 "Зона контролю фортеці $NAME|Y$, яка належить ворожій §R$HOSTILE|R$ій§! державі."
