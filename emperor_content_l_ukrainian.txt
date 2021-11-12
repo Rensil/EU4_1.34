@@ -723,7 +723,7 @@
  epi_chronicle_of_the_toco_desc:0 "The Chronicle of the Tocco details our ascent to the Despotate of Epirus, our fair rule, our ties to the Empire, and our conquests of the surrounding lands. We should have it published in a simple form of Greek so all people can read and appreciate it."
  epi_serbs_and_albanians:0 "Albanian and Serbian Tribes"
  epi_serbs_and_albanians_desc:0 "While the core Epirote state has been reunified, the many Serbian and Albanian tribes who once carved out their own petty kingdoms in its territories remain. Instead of ostracizing them, we should employ these tribes to help bolster our forces."
- epi_latin_knights:0 "Latin Knights"
+ epi_latin_knights:0 "Латинські лицарі"
  epi_latin_knights_desc:0 "The elite of our army remains the cavalrymen armed and trained in the Western style. Some are native Greeks, others are Italian mercenaries, but all are effective at what they do."
  epi_metropolis_of_knowledge:0 "Metropolis of Knowledge"
  epi_metropolis_of_knowledge_desc:0 "Ioannina, known since Byzantine times as the Metropolis of Knowledge, is developing into a center of the burgeoning Greek Enlightenment, where Western thought and ideas are beginning to enter our lexicon. As we have always been the gateway between Greece and the West, we should embrace this trend."
