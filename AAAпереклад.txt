@@ -72,13 +72,13 @@ emperor_missions_l_ukrainian.yml - в.1.32, без перекладу рядки
 emperor_revolutions_l_ukrainian.yml - в.1.32, перекладено, 2993, 4936? точність перекладу / 261
 EU4_l_ukrainian.yml - в.1.32, йде редагування, рядок 165 / 5050
 gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
-gecko_1_31_l_ukrainian.yml - в.1.31.5, перекладено / 9
+gecko_1_31_l_ukrainian.yml - в.1.32, перекладено / 9
 gecko_1_32_l_ukrainian.yml - в.1.32, не перекладено / 1
-flavor_events_l_ukrainian.yml - в.1.31.5, без перекладу рядки: rus 1327-1337 (11), 4805-4932 (128), totemism_flavor 4948-5030 (83) / 5030
+flavor_events_l_ukrainian.yml - в.1.32, без перекладу рядки: rus 1327-1337 (11), 4807-4934 (128), totemism_flavor 4950-5032 (83) / 5032
 generic_events_l_ukrainian.yml - в.1.32, без перекладу рядки: 4486-4575 (47) / 4581
-golden_century_l_ukrainian.yml - в.1.31, без перекладу рядки: pirates 217-309 (20) / 538
-government_l_ukrainian.yml - в.1.31.5, перекладено / 349
-government_names_l_ukrainian.yml - в.1.31.5.2, перекладено / 513
+golden_century_l_ukrainian.yml - в.1.32, без перекладу рядки: pirates 217-309 (20) / 538
+government_l_ukrainian.yml - в.1.32, перекладено / 350
+government_names_l_ukrainian.yml - в.1.32, перекладено / 539
 gukr00_customizable_l_ukrainian.yml - кастомні змінні
 gukr01_customizable_l_ukrainian.yml - кастомні змінні
 gukr_countries_l_ukrainian.yml - кастомні змінні
