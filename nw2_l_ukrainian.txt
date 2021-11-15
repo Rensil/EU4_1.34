@@ -159,7 +159,7 @@
  CORE_EXPLAIN_LOSE_PRIMARY_TAG_NOLOSE:0 "Держава §Y$WHO$§! є основною для культурної групи, в яку входить §Y$PROVCULTURE$§!§z§!§Yа§! культура, тому ніколи не втратить національне ядро в провінції §Y$PROV$§!."
  HISTORY_DISCOVERED_BY_GROUP:0 "Була виявлена групою §Y$GROUP$§W."
  WESTERNIZATION_AFFECTS:0 "§YЕфекти під час вестернізації:§W"
- SUBJECT_COUNTRY_STARTS:0 "Залежна держава"
+ SUBJECT_COUNTRY_STARTS:1 "Будь-яка залежна держава"
  ALL_SUBJECT_COUNTRY_STARTS:0 "Всі залежні держави"
  gen_trade_access_denied:0 "Відмовлено в ексклюзивних привілеях торгівлі через Босфор"
  gen_trade_given:0 "Даровані ексклюзивні привілеї торгівлі через Босфор"
