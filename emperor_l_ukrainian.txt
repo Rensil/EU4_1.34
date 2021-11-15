@@ -1047,7 +1047,7 @@
  CB_ALLOWED_force_peasant_republic:0 "Нав'язати селянське правління"
  PEACE_force_peasant_republic:0 "Нав'язати селянське правління"
  po_reintegrate_into_hre_desc:0 "Держава [From.GetName] і всі її суб'єкти повернуться до Імперії. [Root.GetName] отримає §G25§! імперського авторитету."
- CB_ALLOWED_po_reintegrate_into_hre:0 "Реінтегрується в Імперію"
- PEACE_po_reintegrate_into_hre:0 "Реінтегруватися в Імперію"
+ CB_ALLOWED_po_reintegrate_into_hre:0 "Реінтеграція в Імперію"
+ PEACE_po_reintegrate_into_hre:0 "Реінтеграція в Імперію"
  just_lost_war_timer:0 "Щойно програно війну"
 
