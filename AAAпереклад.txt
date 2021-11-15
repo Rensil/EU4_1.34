@@ -100,13 +100,13 @@ loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 manchu_l_ukrainian.yml - в.1.32, перекладено / 796
 mandala_missions_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: 189-909 (718) / 909
-mandate_of_heaven_l_ukrainian.yml - в.1.31, перекладено / 825
-mare_nostrum_l_ukrainian.yml - в.1.30.1, перекладено / 447
+mandate_of_heaven_l_ukrainian.yml - в.1.32, перекладено / 825
+mare_nostrum_l_ukrainian.yml - в.1.32, перекладено / 446
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.31.5, перекладено / 7077
+messages_l_ukrainian.yml - в.1.32, перекладено, 756,782,3411-3414,3422,3435-3436,3447? точність перекладу / 7077
 missions_l_ukrainian.yml - в.1.28.3, перекладено / 361
 modifers_l_ukrainian.yml - в.1.31.5, без перекладу рядки: rus 1613-1663 (49) / 2360
-mughal_government_l_ukrainian.yml - в.1.28.3, перекладено / 93
+mughal_government_l_ukrainian.yml - в.1.32, перекладено / 97
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
 native_rework_l_ukrainian.yml - в.1.31, перекладено / 16
