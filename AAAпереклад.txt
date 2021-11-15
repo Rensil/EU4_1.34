@@ -148,9 +148,9 @@ terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
 text_l_ukrainian.yml - в.1.32, триває редагування, рядок 4206 / 8136
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.31.5, перекладено / 391
-tmm_l_ukrainian.yml - в.1.31.5, без перекладу рядки: провінції 1042-1127 (85) / 1158
-tradenodes_l_ukrainian.yml - в.1.31.5, перекладено / 216
+tmm_l_ukrainian.yml - в.1.32, без перекладу рядки: провінції 1048-1131 (85), 1165-1467 (303) / 1167
+tradenodes_l_ukrainian.yml - в.1.32, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.31.5.2, перекладено / 671
-tutorial_l_ukrainian.yml - в.1.31.5.2, перекладено / 370
+tutorial_l_ukrainian.yml - в.1.32, перекладено / 370
 USA_dlc_l_ukrainian.txt - в.1.26, перекладено / 300
 womeninhistory_l_ukrainian.yml - в.1.30.1, перекладено / 473
