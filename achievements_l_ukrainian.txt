@@ -658,7 +658,7 @@
  NEW_ACHIEVEMENT_76_NAME:0 "KHAAAAAAN"
  NEW_ACHIEVEMENT_76_DESC:0 "Restore the Mongol Empire before the Age of Absolutism."
  NEW_ACHIEVEMENT_77_NAME:0 "Knights of the Caribbean"
- NEW_ACHIEVEMENT_77_DESC:1 "As the Knights, own the Caribbean and every island in the Mediterranean. (Colonies are NOT allowed)"
+ NEW_ACHIEVEMENT_77_DESC:1 "Starting as the Knights, own the Caribbean and every island in the Mediterranean. (Colonies are NOT allowed)"
  NEW_ACHIEVEMENT_78_NAME:0 "Australia-Hungary"
  NEW_ACHIEVEMENT_78_DESC:0 "Starting as an Australian tribe unite Australia and subjugate Hungary."
  NEW_ACHIEVEMENT_79_NAME:0 "Shemot is Not"
