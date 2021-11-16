@@ -825,8 +825,8 @@
  ZERO:0 "0"
  NUM_OF_CONVERTED_PROVINCES_COUNTER:0 "[Root.num_converted_religion.GetValue]"
  ###JEWISH MECHANICS###
- JEWISH_ASPECTS_LONG:0 "Torah Aspects"
- JEWISH_ASPECTS_SHORT:0 "aspect"
+ JEWISH_ASPECTS_LONG:0 "Аспекти Тори"
+ JEWISH_ASPECTS_SHORT:0 "аспект"
  JUDAISM_HAS_ADM_ASPECT:0 "Has any £adm£ §YAspect§! active."
  celebrate:0 "Celebrate Festival"
  judaism_rosh_hashanah_aspect:0 "Festival of Rosh haShanah"
@@ -1545,7 +1545,7 @@
  mal_second_target:0 "Second Target"
  desc_mal_second_target:1 "Make sure that you look for a second target to send gold to."
  ###ESTATES###
- estate_chieftains:0 "Chieftains"
+ estate_chieftains:0 "Вожді"
  estate_tengbiise:0 "Tengbiise"
  estate_nakomse:0 "Nakomse"
  estate_oyo_mesi:0 "Oyo Mesi"
