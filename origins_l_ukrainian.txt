@@ -1780,6 +1780,7 @@
  zan_kilwa_the_melting_pot:0 "Cultural Melting Pot"
  zan_kilwa_the_melting_pot_desc:0 "With the trade flowing through our land there's also increased flow and exchange of ideas. We can learn from all corners of the world."
  ###MODIFIERS###
+ eth_accepted_society: "Accepted Society"
  hau_hausa_conquest:0 "Hausa Conquest"
  desc_hau_hausa_conquest:0 "This province has been subjugated by the Hausa. Despite this fact, the local people are enjoying more liberties than expected."
  desc_eth_blessing_of_kings:0 "Through unexplainable reasons, our ruling dynasty seems to be blessed with fortune and luck."
