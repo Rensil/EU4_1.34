@@ -44,7 +44,7 @@ Rensil - powers_and_ideas, рядки rus 5146-5175 (21).
 00_lanfang_l_ukrainian.yml - в.1.32, без перекладу рядки: мінори 430-455 (19), мінори 511-554 (44), мінори 592-675 (72), flavor_iro 674-693 (19) / 701
 1283_l_ukrainian - в.1.28.3, перекладено / 2
 achievement_tooltips_l_ukrainian - в.1.30.1, перекладено / 57
-achievements_l_ukrainian.yml - в.1.32, без перекладу рядки: 222-677 (456) / 677
+achievements_l_ukrainian.yml - в.1.32.1, без перекладу рядки: 222-677 (456) / 677
 aow_l_ukrainian.yml - в.1.32, перекладено / 2361
 areas_regions_l_ukrainian.yml - в.1.32, перекладено / 2844
 astu_1_31_l_ukrainian.yml - в.1.31.5, перекладено / 48
@@ -70,7 +70,7 @@ emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.31, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.32, без перекладу рядки: Palatinate 781-803 (21), Serbian 1001-1078 (74), Crusader States 1600-1673 (69), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2074-2126 (31), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Lubeck Missions 2357-2427 (67), westphalia 2452-2471 (19), Pomerania 2520-2548 (19) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.32, перекладено, 2993, 4936? точність перекладу / 261
-EU4_l_ukrainian.yml - в.1.32, йде редагування, рядок 165 / 5050
+EU4_l_ukrainian.yml -  в.1.32, перекладено / 5058
 gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
 gecko_1_31_l_ukrainian.yml - в.1.32, перекладено / 9
 gecko_1_32_l_ukrainian.yml - в.1.32, не перекладено / 1
@@ -117,7 +117,7 @@ nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.32, перекладено / 443
 nw_l_ukrainian.yml - в.1.31.5, перекладено / 241
 opinions_l_ukrainian.yml - в.1.30.1, перекладено / 217
-origins_l_ukrainian - в.1.32, не перекладено / 2476
+origins_l_ukrainian - в.1.32.1, не перекладено / 2477
 personalityoptions_l_ukrainian.yml - в.1.30.1, перекладено / 706
 policies_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: 352-419 (35) / 419
 popserror_ukrainian.yml - в.1.31.5, без перекладу рядки: 2-17 (16) / 17
@@ -148,7 +148,7 @@ terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
 text_l_ukrainian.yml - в.1.32, перекладено / 8136
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.31.5, перекладено / 391
-tmm_l_ukrainian.yml - в.1.32, без перекладу рядки: провінції 1048-1131 (85), 1165-1467 (303) / 1167
+tmm_l_ukrainian.yml - в.1.32.1, без перекладу рядки: провінції 1048-1131 (85), 1165-1468 (304) / 1168
 tradenodes_l_ukrainian.yml - в.1.32, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.32, перекладено / 675
 tutorial_l_ukrainian.yml - в.1.32, перекладено / 370
