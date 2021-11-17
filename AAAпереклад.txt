@@ -73,7 +73,7 @@ emperor_revolutions_l_ukrainian.yml - в.1.32, перекладено, 2993, 493
 EU4_l_ukrainian.yml -  в.1.32, перекладено / 5058
 gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
 gecko_1_31_l_ukrainian.yml - в.1.32, перекладено / 9
-gecko_1_32_l_ukrainian.yml - в.1.32, не перекладено / 1
+gecko_1_32_l_ukrainian.yml - в.1.32, перекладено / 1
 flavor_events_l_ukrainian.yml - в.1.32, без перекладу рядки: rus 1327-1337 (11), 4807-4934 (128), totemism_flavor 4950-5032 (83) / 5032
 generic_events_l_ukrainian.yml - в.1.32, без перекладу рядки: 4486-4575 (47) / 4581
 golden_century_l_ukrainian.yml - в.1.32, без перекладу рядки: pirates 217-309 (20) / 538
@@ -91,7 +91,7 @@ gukr_titleCAP_l_ukrainian.yml - кастомні змінні
 hedgehog_l_ukrainian.yml - в.1.32, перекладено, 27? точність перекладу / 130
 hinduism_l_ukrainian.yml - в.1.31, перекладено / 225
 hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
-hnn_1_32_l_ukrainian.yml - в.1.32, не перекладено / 8
+hnn_1_32_l_ukrainian.yml - в.1.32, перекладено / 8
 institutions_l_ukrainian.yml - в.1.32, перекладено, 30,31? точність перекладу / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.32, перекладено, 202,204? точність перекладу / 214
@@ -129,7 +129,7 @@ Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.30.1, не перекладається
 red_queen_text_l_ukrainian.yml -  в.1.32, без перекладу рядки: 2-683 (649) / 701
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
-religion_l_ukrainian.yml - в.1.32, без перекладу рядки: 98-159 (62) / 159
+religion_l_ukrainian.yml - в.1.32, без перекладу рядки: 99-154 (15) / 159
 res_publica_l_ukrainian.yml - в.1.30.1, перекладено / 581
 richpresence_l_ukrainian.yml - в.1.29, перекладено / 10
 rights_of_man_l_ukrainian.yml - в.1.31.5, перекладено, триває редагування змінних - рядок 583 / 1682
