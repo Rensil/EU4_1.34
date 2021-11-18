@@ -2636,7 +2636,7 @@
  COUNTESS_PALATINE_PRO:0 "пфальцграфиню" #GetTitlePRO
  
  QUEEN_PALATINE_KHTO:0 "пфальцкенігін" #GetTitleKHTO
- QUEEN_PALATINE_OGO:0 пфальцкенігін" #GetTitleOGO
+ QUEEN_PALATINE_OGO:0 "пфальцкенігін" #GetTitleOGO
  QUEEN_PALATINE_OMU:0 "пфальцкенігін" #GetTitleOMU
  QUEEN_PALATINE_KLY:0 "пфальцкенігіне" #GetTitleKLY
  QUEEN_PALATINE_KYM:0 "пфальцкенігін" #GetTitleKYM

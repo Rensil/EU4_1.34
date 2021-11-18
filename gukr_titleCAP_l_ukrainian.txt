@@ -2636,7 +2636,7 @@
  COUNTESS_PALATINE_PRO_CAP:0 "пфальцграфиню" #GetTitlePRO_CAP
  
  QUEEN_PALATINE_KHTO_CAP:0 "пфальцкенігін" #GetTitleKHTO_CAP
- QUEEN_PALATINE_OGO_CAP:0 пфальцкенігін" #GetTitleOGO_CAP
+ QUEEN_PALATINE_OGO_CAP:0 "пфальцкенігін" #GetTitleOGO_CAP
  QUEEN_PALATINE_OMU_CAP:0 "пфальцкенігін" #GetTitleOMU_CAP
  QUEEN_PALATINE_KLY_CAP:0 "пфальцкенігіне" #GetTitleKLY_CAP
  QUEEN_PALATINE_KYM_CAP:0 "пфальцкенігін" #GetTitleKYM_CAP
