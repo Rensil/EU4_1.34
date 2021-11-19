@@ -65,7 +65,7 @@ diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
 emperor_content_l_ukrainian.yml - в.1.32, без перекладу рядки: мінори 626-667 (22), мінори 720-799 (53), мінори 1193-1311 (92), 1483, flavor 1760-1777 (13), flavor_swi 1813-1851 (14), мінори 2325-2776 (441), nahuatl 2822-2837 (16), мінори 2849-3000 (147) / 3423
 emperor_estates_l_ukrainian.yml - в.1.32, перекладено / 1278
-emperor_l_ukrainian.yml - в.1.32, перекладено,  1050-1051? точність перекладу / 1044
+emperor_l_ukrainian.yml - в.1.32, перекладено / 1044
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.31, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.32, без перекладу рядки: Palatinate 781-803 (21), Serbian 1001-1078 (74), Crusader States 1600-1673 (69), Albanian 1940-1966 (27), Bulgarian/Peasant 1968-2018 (51), Croatian 2020-2046 (25), French minors 2074-2126 (31), Swabian 2129-2179 (45), Franconian 2181-2215 (35), Lubeck Missions 2357-2427 (67), westphalia 2452-2471 (19), Pomerania 2520-2548 (19) / 2548
@@ -75,7 +75,7 @@ gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
 gecko_1_31_l_ukrainian.yml - в.1.32, перекладено / 9
 gecko_1_32_l_ukrainian.yml - в.1.32, перекладено / 1
 flavor_events_l_ukrainian.yml - в.1.32, без перекладу рядки: rus 1327-1337 (11), 4807-4934 (128), totemism_flavor 4950-5032 (83) / 5032
-generic_events_l_ukrainian.yml - в.1.32, без перекладу рядки: 4500-4560 (18) / 4581
+generic_events_l_ukrainian.yml - в.1.32, без перекладу рядки: 4504-4560 (16) / 4581
 golden_century_l_ukrainian.yml - в.1.32, без перекладу рядки: pirates 217-309 (20) / 538
 government_l_ukrainian.yml - в.1.32, перекладено / 350
 government_names_l_ukrainian.yml - в.1.32, перекладено / 539
