@@ -446,7 +446,7 @@
  emp_hab_balance_of_power_desc:0 "Ми повинні встановити такий баланс сил в Європі, в якому буде гарантована наша постійна перевага."
  emp_hab_our_balance_of_power_title:0 "Зсунути баланс"
  emp_hab_our_balance_of_power_desc:0 "Баланс сил - це все дуже добре, але якщо ми зможемо змінити його на нашу користь, це допоможе нам зайняти належне нам по праву місце провідної держави у всій Європі."
- emp_hab_our_balance_of_power_tooltip:1 " провінції:\n   на §YЄвропейському континенті§!.\n   Володар:\n      Одна з наступних умов має бути виконана:\n         §Y[Root.GetName]§!.\n         Є суб'єктом §Y[Root.GetTagOGO]§!.\n         Є союзником §Y[Root.GetTagOGO]§!.\n         Є суб'єктом держави, яка знаходиться в союзі з §Y[Root.GetTagCYM]§!.\n         Є частиною СРІ, де §Y[Root.GetName]§! є §YІмператором§!.\n         Є суб'єктом держави, яка є частиною СРІ, де §Y[Root.GetName]§! є §YІмператором§!."
+ emp_hab_our_balance_of_power_tooltip:1 " провінції:\n   на §YЄвропейському континенті§!.\n   Володар:\n      Одна з наступних умов має бути виконана:\n         §Y[Root.GetName]§!.\n         Є суб'єктом §Y[Root.GetTagOGO]§!.\n         Є союзником §Y[Root.GetTagOGO]§!.\n         Є суб'єктом держави, яка знаходиться в союзі з §Y[Root.GetTagKYM]§!.\n         Є частиною СРІ, де §Y[Root.GetName]§! є §YІмператором§!.\n         Є суб'єктом держави, яка є частиною СРІ, де §Y[Root.GetName]§! є §YІмператором§!."
  emp_hab_crush_the_revolution_title:0 "[Root.GetEmbraceOrCrushRevolutionMissionTitle]"
  emp_crush_the_revolution_title:0 "Придушити революцію"
  emp_embrace_the_revolution_title:0 "Прийяти революцію"
