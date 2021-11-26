@@ -496,7 +496,7 @@
  NONASSIMILATEDCULTUREGROUP_TITLE:0 "Культурна група більше не асимільована"
  NONASSIMILATEDCULTUREGROUP_SETUP:0 "Культурна група більше не вважається асимільованою."
  NONASSIMILATEDCULTUREGROUP_HEADER:0 "Культурна група більше не асимільована"
- NONASSIMILATEDCULTUREGROUP_1:0 "Ми втратили ефект, який давала §Y$CULTURE_GROUP$§!§z§!§Yа§W  культурна група"
+ NONASSIMILATEDCULTUREGROUP_1:0 "Ми втратили ефект, який давала §Y$CULTURE_GROUP$§!§z§!§Yа§W культурна група"
  NONASSIMILATEDCULTUREGROUP_2:0 ", асимільована нашим урядом."
  NONASSIMILATEDCULTUREGROUP_3:0 ""
  NONASSIMILATEDCULTUREGROUP_4:0 "Ми втратили ефект:"
