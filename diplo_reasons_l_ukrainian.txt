@@ -62,7 +62,7 @@
  DIPLO_CAN_BE_ANNEXED:0 "Можуть бути анексовані: "
  DIPLO_WAITING_FOR_ANNEXED:0 "Очікують на анексію: "
  DIPLO_BETTER_OFFER:0 "Хтось інший отримав вигіднішу пропозицію: "
- DIPLO_ARE_WINNING:0 "Держава  $WHO$ виграє: "
+ DIPLO_ARE_WINNING:0 "Держава $WHO$ виграє: "
  DIPLO_NOT_LEADER:0 "$WHO$ не є лідером альянсу у війні: "
  DIPLO_STRATEGIC_INTERESTS:0 "Стратегічні інтереси: "
  DIPLO_STRATEGIC_INTEREST:0 "Стратегічний інтерес: "
