@@ -1220,8 +1220,8 @@
  ULM_ideas:0 "Ульмські ідеї"
  ULM_ideas_start:0 "Ульмські традиції"
  ULM_ideas_bonus:0 "Ульмські амбіції"
- ulm_grosser_schwoerbrief:0 "Großer Schwörbrief"
- ulm_grosser_schwoerbrief_desc:0 "The Großer Schwörbrief of 1397 asserts the privileges of the patrician merchants and the various trade guilds within the city. Our burghers and artisans, who form the backbone of our city, will surely flourish under this constitution."
+ ulm_grosser_schwoerbrief:0 "Grosser Schwörbrief"
+ ulm_grosser_schwoerbrief_desc:0 "The Grosser Schwörbrief of 1397 asserts the privileges of the patrician merchants and the various trade guilds within the city. Our burghers and artisans, who form the backbone of our city, will surely flourish under this constitution."
  ulm_swabian_league:0 "Schwäbischer Bund"
  ulm_swabian_league_desc:0 "The Schwäbischer Bund, or Swabian League, is an alliance of Swabians to defend against the encroaching Wittelsbachs of Bavaria and the Palatinate, and the emergent Swiss Confederacy in the south. Our many pacts with princes across Swabia and beyond shall serve to keep our free city strong and preserve the privilege of imperial immediacy we enjoy. We shall lead this league to victory over upstart neighbors who would threaten us."
  ulm_german_realism:0 "Birthplace of German Realism"
@@ -1426,17 +1426,17 @@
  NOT_RELEVANT_TRADE_REGION:0 "[Root.GetTagOMU] потрібно принаймні 1% торгової частки в домашньому торговому вузлі держави [From.GetName]."
  NOT_RELEVANT_TRADE_REGION_FROM:0 "Державі [From.GetName] потрібно принаймні 1% торгової частки в домашньому торговому вузлі [Root.GetTagOGO]."
  
- country_estate_nobles_name:0 "[This.GetNobilityName]"
- country_estate_burghers_name:0 "[This.GetBurghersName]"
- country_estate_church_name:0 "[This.GetClergyName]"
- country_estate_nomadic_tribes_name:0 "[This.GetTribesName]"
- country_estate_dhimmi_name:0 "[This.GetDhimmiName]"
- country_estate_cossacks_name:0 "[This.GetCossacksName]"
- country_estate_vaisyas_name:0 "[This.GetVaishyasName]"
- country_estate_brahmins_name:0 "[This.GetBrahminsName]"
- country_estate_jains_name:0 "[This.GetJainsName]"
- country_estate_rajput_name:0 "[This.GetRajputsName]"
- country_estate_maratha_name:0 "[This.GetMarathasName]"
+ country_estate_nobles_name:0 "[Root.GetNobilityName]" #This.GetNobilityName
+ country_estate_burghers_name:0 "[Root.GetBurghersName]" #This.GetBurghersName
+ country_estate_church_name:0 "[Root.GetClergyName]" #This.GetClergyName
+ country_estate_nomadic_tribes_name:0 "[Root.GetTribesName]" #This.GetTribesName
+ country_estate_dhimmi_name:0 "[Root.GetDhimmiName]" #This.GetDhimmiName
+ country_estate_cossacks_name:0 "[Root.GetCossacksName]" #This.GetCossacksName
+ country_estate_vaisyas_name:0 "[Root.GetVaishyasName]" #This.GetVaishyasName
+ country_estate_brahmins_name:0 "[Root.GetBrahminsName]" #This.GetBrahminsName
+ country_estate_jains_name:0 "[Root.GetJainsName]" #This.GetJainsName
+ country_estate_rajput_name:0 "[Root.GetRajputsName]" #This.GetRajputsName
+ country_estate_maratha_name:0 "[Root.GetMarathasName]" #This.GetMarathasName
 
  MODIFIER_MAX_REVOLUTIONARY_ZEAL:0 "Максимум революційного запалу"
  MODIFIER_YEARLY_REVOLUTIONARY_ZEAL:0 "Річний революційний запал"
@@ -1604,17 +1604,17 @@
  judaism_string:0 "Юдаїзм"
  zoroastrianism_string:0 "Зороастризм"
  EST_VAL_CORRUPT_CONNECTIONS:0 "Корупційні зв'язки: $VAL|Y$§Y%§!"
- this_brahmins:0 "[This.GetBrahminsName]"
- this_dhimmi:0 "[This.GetDhimmiName]"
- this_clergy:0 "[This.GetClergyName]"
- this_vaisyas:0 "[This.GetVaishyasName]"
- this_jains:0 "[This.GetJainsName]"
- this_burghers:0 "[This.GetBurghersName]"
- this_rajputs:0 "[This.GetRajputsName]"
- this_marathas:0 "[This.GetMarathasName]"
- this_nobles:0 "[This.GetNobilityName]"
- this_nomadic_tribes:0 "[This.GetTribesName]"
- fallback_string_nobility:0 "nobility"
+ this_brahmins:0 "[Root.GetBrahminsName]" #This.GetBrahminsName
+ this_dhimmi:0 "[Root.GetDhimmiName]" #This.GetDhimmiName
+ this_clergy:0 "[Root.GetClergyName]" #This.GetClergyName
+ this_vaisyas:0 "[Root.GetVaishyasName]" #This.GetVaishyasName
+ this_jains:0 "[Root.GetJainsName]" #This.GetJainsName
+ this_burghers:0 "[Root.GetBurghersName]" #This.GetBurghersName
+ this_rajputs:0 "[Root.GetRajputsName]" #This.GetRajputsName
+ this_marathas:0 "[Root.GetMarathasName]" #This.GetMarathasName
+ this_nobles:0 "[Root.GetNobilityName]" #This.GetNobilityName
+ this_nomadic_tribes:0 "[Root.GetTribesName]" #This.GetTribesName
+ fallback_string_nobility:0 "дворянство" 
  EST_VAL_ACCEPTED_POPE_DEMANDS:0 "Схиляється до папських вимог: $VAL|Y$§Y%§!"
  insult_german_humor:0 "Кажуть, німецький гумор не привід для сміху."
 
