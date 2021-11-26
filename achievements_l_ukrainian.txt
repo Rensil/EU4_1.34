@@ -32,7 +32,7 @@
  NEW_ACHIEVEMENT_1_17_NAME:0 "Справжній католик"
  NEW_ACHIEVEMENT_1_17_DESC:0 "Контролюйте трьох кардиналів."
  NEW_ACHIEVEMENT_1_18_NAME:0 "Воістину Божественний Правитель"
- NEW_ACHIEVEMENT_1_18_DESC:0 "Отримайте правителя з рисами  5/5/5"
+ NEW_ACHIEVEMENT_1_18_DESC:0 "Отримайте правителя з рисами 5/5/5"
  NEW_ACHIEVEMENT_1_19_NAME:0 "Італійське прагнення"
  NEW_ACHIEVEMENT_1_19_DESC:0 "Створіть Італію."
  NEW_ACHIEVEMENT_1_20_NAME:0 "Холодна війна"
