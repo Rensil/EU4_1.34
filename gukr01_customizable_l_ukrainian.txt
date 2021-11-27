@@ -42,3 +42,16 @@
  plural_country_name_KYM_CAP:0 "[This.GetAdjective]. [This.GovernmentKYM_CAP]"
  already_has_proper_name_KYM_CAP:0 "[This.GetTagKYM_CAP]"
  PLC_country_string_KYM_CAP:0 "Річчю Посполитою"
+ 
+ ### Latin character O = Ö, Ø
+ ### Latin character o = ö, ø, ó 
+ ### Latin character a = å, ä, æ, á
+ ### Latin character A = Å
+ ### Latin character u = ü, ú
+ ### Latin character e = è, é, ê
+ ### Latin character c = ç
+ ### Latin character i = í
+ ### Latin character n = ñ
+ ### Latin character I = Î
+ ### Latin character ss = ß
+ ### Latin character
