@@ -1426,17 +1426,17 @@
  NOT_RELEVANT_TRADE_REGION:0 "[Root.GetTagOMU] потрібно принаймні 1% торгової частки в домашньому торговому вузлі держави [From.GetName]."
  NOT_RELEVANT_TRADE_REGION_FROM:0 "Державі [From.GetName] потрібно принаймні 1% торгової частки в домашньому торговому вузлі [Root.GetTagOGO]."
  
- country_estate_nobles_name:0 "[Root.GetNobilityName]" #This.GetNobilityName
- country_estate_burghers_name:0 "[Root.GetBurghersName]" #This.GetBurghersName
- country_estate_church_name:0 "[Root.GetClergyName]" #This.GetClergyName
- country_estate_nomadic_tribes_name:0 "[Root.GetTribesName]" #This.GetTribesName
- country_estate_dhimmi_name:0 "[Root.GetDhimmiName]" #This.GetDhimmiName
- country_estate_cossacks_name:0 "[Root.GetCossacksName]" #This.GetCossacksName
- country_estate_vaisyas_name:0 "[Root.GetVaishyasName]" #This.GetVaishyasName
- country_estate_brahmins_name:0 "[Root.GetBrahminsName]" #This.GetBrahminsName
- country_estate_jains_name:0 "[Root.GetJainsName]" #This.GetJainsName
- country_estate_rajput_name:0 "[Root.GetRajputsName]" #This.GetRajputsName
- country_estate_maratha_name:0 "[Root.GetMarathasName]" #This.GetMarathasName
+ country_estate_nobles_name:0 "[Root.NoblesNZ]" #This.GetNobilityName
+ country_estate_burghers_name:0 "[Root.BurghersNZ]" #This.GetBurghersName
+ country_estate_church_name:0 "[Root.ChurchNZ]" #This.GetClergyName
+ country_estate_nomadic_tribes_name:0 "[Root.NomadicNZ]" #This.GetTribesName
+ country_estate_dhimmi_name:0 "[Root.DhimmiNZ]" #This.GetDhimmiName
+ country_estate_cossacks_name:0 "[Root.CossacksNZ]" #This.GetCossacksName
+ country_estate_vaisyas_name:0 "[Root.VaisyasNZ]" #This.GetVaishyasName
+ country_estate_brahmins_name:0 "[Root.BrahminsNZ]" #This.GetBrahminsName
+ country_estate_jains_name:0 "[Root.JainsNZ]" #This.GetJainsName
+ country_estate_rajput_name:0 "[Root.RajputNZ]" #This.GetRajputsName
+ country_estate_maratha_name:0 "[Root.MarathaNZ]" #This.GetMarathasName
 
  MODIFIER_MAX_REVOLUTIONARY_ZEAL:0 "Максимум революційного запалу"
  MODIFIER_YEARLY_REVOLUTIONARY_ZEAL:0 "Річний революційний запал"
@@ -1604,16 +1604,16 @@
  judaism_string:0 "Юдаїзм"
  zoroastrianism_string:0 "Зороастризм"
  EST_VAL_CORRUPT_CONNECTIONS:0 "Корупційні зв'язки: $VAL|Y$§Y%§!"
- this_brahmins:0 "[Root.GetBrahminsName]" #This.GetBrahminsName
- this_dhimmi:0 "[Root.GetDhimmiName]" #This.GetDhimmiName
- this_clergy:0 "[Root.GetClergyName]" #This.GetClergyName
- this_vaisyas:0 "[Root.GetVaishyasName]" #This.GetVaishyasName
- this_jains:0 "[Root.GetJainsName]" #This.GetJainsName
- this_burghers:0 "[Root.GetBurghersName]" #This.GetBurghersName
- this_rajputs:0 "[Root.GetRajputsName]" #This.GetRajputsName
- this_marathas:0 "[Root.GetMarathasName]" #This.GetMarathasName
- this_nobles:0 "[Root.GetNobilityName]" #This.GetNobilityName
- this_nomadic_tribes:0 "[Root.GetTribesName]" #This.GetTribesName
+ this_brahmins:0 "[Root.BrahminsNZ]" #This.GetBrahminsName
+ this_dhimmi:0 "[Root.DhimmiNZ]" #This.GetDhimmiName
+ this_clergy:0 "[Root.ChurchNZ]" #This.GetClergyName
+ this_vaisyas:0 "[Root.VaisyasNZ]" #This.GetVaishyasName
+ this_jains:0 "[Root.JainsNZ]" #This.GetJainsName
+ this_burghers:0 "[Root.BurghersNZ]" #This.GetBurghersName
+ this_rajputs:0 "[Root.RajputNZ]" #This.GetRajputsName
+ this_marathas:0 "[Root.MarathaNZ]" #This.GetMarathasName
+ this_nobles:0 "[Root.NoblesNZ]" #This.GetNobilityName
+ this_nomadic_tribes:0 "[Root.NomadicNZ]" #This.GetTribesName
  fallback_string_nobility:0 "дворянство" 
  EST_VAL_ACCEPTED_POPE_DEMANDS:0 "Схиляється до папських вимог: $VAL|Y$§Y%§!"
  insult_german_humor:0 "Кажуть, німецький гумор не привід для сміху."
