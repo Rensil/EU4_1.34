@@ -443,6 +443,7 @@
  gamilaraay_people_small:0 "гамиларайці" #CulturePeopleSmall
  kulin_people_small:0 "кулінці" #CulturePeopleSmall
  parsi_people_small:0 "парси" #CulturePeopleSmall
+ thai_people_small:0 "тайці" #CulturePeopleSmall
  acehnese_people_small:0 "ачехи" #CulturePeopleSmall
  southeastasian_people_small:0 "мон-кхмери" #CulturePeopleSmall
  ## Народи з великої
@@ -887,5 +888,6 @@
  gamilaraay_people_cap:0 "Гамиларайці" #CulturePeopleCap
  kulin_people_cap:0 "Куліни" #CulturePeopleCap
  parsi_people_cap:0 "Парси" #CulturePeopleCap
+ thai_people_cap:0 "Тайці" #CulturePeopleCap
  acehnese_people_cap:0 "Ачехи" #CulturePeopleCap
  southeastasian_people_cap:0 "Мон-кхмери" #CulturePeopleCap
