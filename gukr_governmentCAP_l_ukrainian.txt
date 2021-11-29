@@ -29,6 +29,7 @@
  NAWABATE_DE_CAP:0 "Навабаті" #GetGovernmentDE_CAP
  NIZAMATE_DE_CAP:0 "Нізаматі" #GetGovernmentDE_CAP
  MONG_DE_CAP:0 "Монгі" #GetGovernmentDE_CAP
+ PRINCIPALITY_DE_CAP:0 "Князівстві" #GetGovernmentDE_CAP
  GRAND_PRINCIPALITY_DE_CAP:0 "Великому князівстві" #GetGovernmentDE_CAP
  ALTEPETL_DE_CAP:0 "Альтепетлі" #GetGovernmentDE_CAP
  ALTEPETL_FEDERATION_DE_CAP:0 "Альтепетельській федерації" #GetGovernmentDE_CAP
@@ -117,6 +118,7 @@
  NAWABATE_OMU_CAP:0 "Навабату" #GetGovernmentOMU_CAP
  NIZAMATE_OMU_CAP:0 "Нізамату" #GetGovernmentOMU_CAP
  MONG_OMU_CAP:0 "Монгу" #GetGovernmentOMU_CAP
+ PRINCIPALITY_OMU_CAP:0 "Князівству" #GetGovernmentOMU_CAP
  GRAND_PRINCIPALITY_OMU_CAP:0 "Великому князівству" #GetGovernmentOMU_CAP
  ALTEPETL_OMU_CAP:0 "Альтепетлю" #GetGovernmentOMU_CAP
  ALTEPETL_FEDERATION_OMU_CAP:0 "Альтепетельскій федерації" #GetGovernmentOMU_CAP
@@ -205,6 +207,7 @@
  NAWABATE_OGO_CAP:0 "Навабату" #GetGovernmentOGO_CAP
  NIZAMATE_OGO_CAP:0 "Нізамату" #GetGovernmentOGO_CAP
  MONG_OGO_CAP:0 "Монгу" #GetGovernmentOGO_CAP
+ PRINCIPALITY_OGO_CAP:0 "Князівства" #GetGovernmentOGO_CAP
  GRAND_PRINCIPALITY_OGO_CAP:0 "Великого князівства" #GetGovernmentOGO_CAP
  ALTEPETL_OGO_CAP:0 "Альтепетля" #GetGovernmentOGO_CAP
  ALTEPETL_FEDERATION_OGO_CAP:0 "Альтепетельскої федерації" #GetGovernmentOGO_CAP
@@ -293,6 +296,7 @@
  NAWABATE_SCHO_CAP:0 "Навабат" #GetGovernmentSCHO_CAP
  NIZAMATE_SCHO_CAP:0 "Нізамат" #GetGovernmentSCHO_CAP
  MONG_SCHO_CAP:0 "Монг" #GetGovernmentSCHO_CAP
+ PRINCIPALITY_SCHO_CAP:0 "Князівство" #GetGovernmentSCHO_CAP
  GRAND_PRINCIPALITY_SCHO_CAP:0 "Велике князівство" #GetGovernmentSCHO_CAP
  ALTEPETL_SCHO_CAP:0 "Альтепетль" #GetGovernmentSCHO_CAP
  ALTEPETL_FEDERATION_SCHO_CAP:0 "Альтепетельську федерацію" #GetGovernmentSCHO_CAP
@@ -381,6 +385,7 @@
  NAWABATE_KYM_CAP:0 "Навабатом" #GetGovernmentKYM_CAP
  NIZAMATE_KYM_CAP:0 "Нізаматом" #GetGovernmentKYM_CAP
  MONG_KYM_CAP:0 "Монгом" #GetGovernmentKYM_CAP
+ PRINCIPALITY_KYM_CAP:0 "Князівством" #GetGovernmentKYM_CAP
  GRAND_PRINCIPALITY_KYM_CAP:0 "Великим князівством" #GetGovernmentKYM_CAP
  ALTEPETL_KYM_CAP:0 "Альтепетль" #GetGovernmentKYM_CAP
  ALTEPETL_FEDERATION_KYM_CAP:0 "Альтепетельською федерацією" #GetGovernmentKYM_CAP
@@ -566,19 +571,7 @@
  ELECTORAL_PALATINATE_OMU_CAP:0 "Виборному пфальцграфству" #GetGovernmentOMU_CAP
  ELECTORAL_PALATINATE_KYM_CAP:0 "Виборним пфальцграфством" #GetGovernmentKYM_CAP
  ELECTORAL_PALATINATE_DE_CAP:0 "Виборному пфальцграфстві" #GetGovernmentDE_CAP
- 
- COUNTY_PALATINE_SCHO_CAP:0 "Пфальцграфство" #GetGovernmentSCHO_CAP
- COUNTY_PALATINE_OGO_CAP:0 "Пфальцграфства" #GetGovernmentOGO_CAP
- COUNTY_PALATINE_OMU_CAP:0 "Пфальцграфству" #GetGovernmentOMU_CAP
- COUNTY_PALATINE_KYM_CAP:0 "Пфальцграфством" #GetGovernmentKYM_CAP
- COUNTY_PALATINE_DE_CAP:0 "Пфальцграфстві" #GetGovernmentDE_CAP
- 
- KINGDOM_PALATINE_SCHO_CAP:0 "Пфальцокоролівство" #GetGovernmentSCHO_CAP
- KINGDOM_PALATINE_OGO_CAP:0 "Пфальцокоролівства" #GetGovernmentOGO_CAP
- KINGDOM_PALATINE_OMU_CAP:0 "Пфальцокоролівству" #GetGovernmentOMU_CAP
- KINGDOM_PALATINE_KYM_CAP:0 "Пфальцокоролівством" #GetGovernmentKYM_CAP
- KINGDOM_PALATINE_DE_CAP:0 "Пфальцокоролівстві" #GetGovernmentDE_CAP
- 
+  
  HERCEGSEG_SCHO_CAP:0 "Князівство" #GetGovernmentSCHO_CAP
  HERCEGSEG_OGO_CAP:0 "Князівства" #GetGovernmentOGO_CAP
  HERCEGSEG_OMU_CAP:0 "Князівству" #GetGovernmentOMU_CAP
@@ -626,6 +619,18 @@
  COUNTY_OMU_CAP:0 "Графству" #GetGovernmentOMU_CAP
  COUNTY_KYM_CAP:0 "Графством" #GetGovernmentKYM_CAP
  COUNTY_DE_CAP:0 "Графстві" #GetGovernmentDE_CAP
+ 
+ COUNTY_PALATINE_SCHO_CAP:0 "Пфальцграфство" #GetGovernmentSCHO_CAP
+ COUNTY_PALATINE_OGO_CAP:0 "Пфальцграфства" #GetGovernmentOGO_CAP
+ COUNTY_PALATINE_OMU_CAP:0 "Пфальцграфству" #GetGovernmentOMU_CAP
+ COUNTY_PALATINE_KYM_CAP:0 "Пфальцграфством" #GetGovernmentKYM_CAP
+ COUNTY_PALATINE_DE_CAP:0 "Пфальцграфстві" #GetGovernmentDE_CAP
+ 
+ KINGDOM_PALATINE_SCHO_CAP:0 "Пфальцокоролівство" #GetGovernmentSCHO_CAP
+ KINGDOM_PALATINE_OGO_CAP:0 "Пфальцокоролівства" #GetGovernmentOGO_CAP
+ KINGDOM_PALATINE_OMU_CAP:0 "Пфальцокоролівству" #GetGovernmentOMU_CAP
+ KINGDOM_PALATINE_KYM_CAP:0 "Пфальцокоролівством" #GetGovernmentKYM_CAP
+ KINGDOM_PALATINE_DE_CAP:0 "Пфальцокоролівстві" #GetGovernmentDE_CAP
  
  IKKO_IKKI_COMMUNE_SCHO_CAP:0 "Республіка Ікко-іккі" #GetGovernmentSCHO_CAP
  IKKO_IKKI_COMMUNE_OGO_CAP:0 "Республіки Ікко-іккі" #GetGovernmentOGO_CAP

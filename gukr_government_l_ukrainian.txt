@@ -571,19 +571,7 @@
  ELECTORAL_PALATINATE_OMU:0 "виборному пфальцграфству" #GetGovernmentOMU
  ELECTORAL_PALATINATE_KYM:0 "виборним пфальцграфством" #GetGovernmentKYM
  ELECTORAL_PALATINATE_DE:0 "виборному пфальцграфстві" #GetGovernmentDE
- 
- COUNTY_PALATINE_SCHO:0 "пфальцграфство" #GetGovernmentSCHO
- COUNTY_PALATINE_OGO:0 "пфальцграфства" #GetGovernmentOGO
- COUNTY_PALATINE_OMU:0 "пфальцграфству" #GetGovernmentOMU
- COUNTY_PALATINE_KYM:0 "пфальцграфством" #GetGovernmentKYM
- COUNTY_PALATINE_DE:0 "пфальцграфстві" #GetGovernmentDE
- 
- KINGDOM_PALATINE_SCHO:0 "пфальцокоролівство" #GetGovernmentSCHO
- KINGDOM_PALATINE_OGO:0 "пфальцокоролівства" #GetGovernmentOGO
- KINGDOM_PALATINE_OMU:0 "пфальцокоролівству" #GetGovernmentOMU
- KINGDOM_PALATINE_KYM:0 "пфальцокоролівством" #GetGovernmentKYM
- KINGDOM_PALATINE_DE:0 "пфальцокоролівстві" #GetGovernmentDE
- 
+  
  HERCEGSEG_SCHO:0 "князівство" #GetGovernmentSCHO
  HERCEGSEG_OGO:0 "князівства" #GetGovernmentOGO
  HERCEGSEG_OMU:0 "князівству" #GetGovernmentOMU
