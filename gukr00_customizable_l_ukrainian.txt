@@ -258,7 +258,7 @@
  WAR_EXHAUSTION_GUKR:0 "Втома від війни" #укр. локалізація
  RIVALS_GUKR:0 "Суперники" #укр. локалізація
 
-###Мусульманські мазгаби
+###Мусульманські мазгаби з маленької
  hanafi_scool:0 "ханафіти" #GetReligiousSchoolSmall
  hanbali_scool:0 "ханбаліти" #GetReligiousSchoolSmall
  maliki_scool:0 "малікіти" #GetReligiousSchoolSmall
@@ -326,6 +326,7 @@
  GetTG_paper:0 "папір" #GetTG_SM
  GetTG_gems:0 "коштовне каміння" #GetTG_SM
  GetTG_coal:0 "вугілля" #GetTG_SM
+ GetTG_cloves:0 "гвоздика" #GetTG_SM
  #Toвapи в poдoвoму вiдмiнkу
  GetTG_wine_OGO:0 "вина" #GetTG_OGO
  GetTG_fish_OGO:0 "риби" #GetTG_OGO
@@ -357,7 +358,8 @@
  GetTG_paper_OGO:0 "папера" #GetTG_OGO
  GetTG_gems_OGO:0 "коштовного каміння" #GetTG_OGO
  GetTG_coal_OGO:0 "вугілля" #GetTG_OGO
- #Toвapи в знaxiднoму вiдмiнkу? (Знaйtи щo? Пoбaчиtи щo?)
+ GetTG_cloves_OGO:0 "гвоздики" #GetTG_OGO
+ #Toвapи в знaxiднoму вiдмiнkу? (Знaйtи щo? Пoбaчити щo?)
  GetTG_wine_ZNA:0 "вино" #GetTG_ZNA
  GetTG_fish_ZNA:0 "рибу" #GetTG_ZNA
  GetTG_salt_ZNA:0 "сіль" #GetTG_ZNA
@@ -388,6 +390,7 @@
  GetTG_paper_ZNA:0 "папір" #GetTG_ZNA
  GetTG_gems_ZNA:0 "коштовне каміння" #GetTG_ZNA
  GetTG_coal_ZNA:0 "вугілля" #GetTG_ZNA
+ GetTG_cloves_ZNA:0 "гвоздику" #GetTG_ZNA
  #Toвapи в opуднoму вiдмiнkу? (Biдoмий чим? Topгiвлi чим?)
  GetTG_wine_ORU:0 "вином" #GetTG_ORU
  GetTG_fish_ORU:0 "рибою" #GetTG_ORU
@@ -419,6 +422,7 @@
  GetTG_paper_ORU:0 "папером" #GetTG_ORU
  GetTG_gems_ORU:0 "коштовним камінням" #GetTG_ORU
  GetTG_coal_ORU:0 "вугіллям" #GetTG_ORU
+ GetTG_cloves_ORU:0 "гвоздикою" #GetTG_ORU
  #Toвapи в мicцeвoму вiдмiнkу? (Нa/у koму? Нa/у чoму?)
  GetTG_wine_MIS:0 "вині" #GetTG_MIS
  GetTG_fish_MIS:0 "рибі" #GetTG_MIS
@@ -450,6 +454,7 @@
  GetTG_paper_MIS:0 "папері" #GetTG_MIS
  GetTG_gems_MIS:0 "коштовному камінні" #GetTG_MIS
  GetTG_coal_MIS:0 "вугіллі" #GetTG_MIS
+ GetTG_cloves_MIS:0 "гвоздиці" #GetTG_MIS
 
  #[Kopoні] кoгo/чогo?
  string_sublime_porteOGO:0 "Блискучої Порти" #GetStateFormOGO
@@ -808,8 +813,11 @@
  EST_amirsNZ:0 "еміри" #NoblesNZ
  EST_plantersNZ:0 "плантатори" #NoblesNZ
  EST_bushiNZ:0 "буші" #NoblesNZ
+ EST_yangban_administratorsNZ:0 "янбани" #NoblesNZ
+ EST_junkersNZ:0 "юнкери" #NoblesNZ
  EST_burghersNZ:0 "міщани" #BurghersNZ
  EST_bourgeoisieNZ:0 "буржуа" #BurghersNZ
+ EST_neoconfucian_reformersNZ:0 "неоконфуціанські реформатори" #BurghersNZ
  EST_shangbangNZ:0 "шаньбен" #BurghersNZ
  EST_guildsNZ:0 "купецькі гільдії" #BurghersNZ
  EST_yangban_scholarsNZ:0 "вчені-янбани" #ChurchNZ
@@ -853,8 +861,11 @@
  EST_amirsRD:0 "емірів" #NoblesRD
  EST_plantersRD:0 "плантаторів" #NoblesRD
  EST_bushiRD:0 "буші" #NoblesRD
+ EST_yangban_administratorsRD:0 "адміністраторів-янбанів" #NoblesRD
+ EST_junkersRD:0 "юнкерів" #NoblesRD
  EST_burghersRD:0 "міщан" #BurghersRD
  EST_bourgeoisieRD:0 "буржуа" #BurghersRD
+ EST_neoconfucian_reformersRD:0 "неоконфуціанських реформаторів" #BurghersRD
  EST_shangbangRD:0 "шаньбен" #BurghersRD
  EST_guildsRD:0 "купецьких гільдій" #BurghersRD
  EST_yangban_scholarsRD:0 "вчених-янбанів" #ChurchRD
@@ -898,8 +909,11 @@
  EST_amirsDV:0 "емірам" #NoblesDV
  EST_plantersDV:0 "плантаторам" #NoblesDV
  EST_bushiDV:0 "буші" #NoblesDV
+ EST_yangban_administratorsDV:0 "адміністраторам-янбанам" #NoblesDV
+ EST_junkersDV:0 "юнкерам" #NoblesDV
  EST_burghersDV:0 "міщанам" #BurghersDV
  EST_bourgeoisieDV:0 "буржуа" #BurghersDV
+ EST_neoconfucian_reformersDV:0 "неоконфуціанським реформаторам" #BurghersDV
  EST_shangbangDV:0 "шаньбен" #BurghersDV
  EST_guildsDV:0 "купецьким гільдіям" #BurghersDV
  EST_yangban_scholarsDV:0 "вченим-янбанам" #ChurchDV
@@ -943,8 +957,11 @@
  EST_amirsZN:0 "емірів" #NoblesZN
  EST_plantersZN:0 "плантаторів" #NoblesZN
  EST_bushiZN:0 "буші" #NoblesZN
+ EST_yangban_administratorsZN:0 "адміністраторів-янбанів" #NoblesZN
+ EST_junkersZN:0 "юнкерів" #NoblesZN
  EST_burghersZN:0 "міщан" #BurghersZN
  EST_bourgeoisieZN:0 "буржуа" #BurghersZN
+ EST_neoconfucian_reformersZN:0 "неоконфуціанських реформаторів" #BurghersZN
  EST_shangbangZN:0 "шаньбен" #BurghersZN
  EST_guildsZN:0 "купецькі гільдії" #BurghersZN
  EST_yangban_scholarsZN:0 "вчених-янбанів" #ChurchZN
@@ -988,8 +1005,11 @@
  EST_amirsOD:0 "емірами" #NoblesOD
  EST_plantersOD:0 "плантаторами" #NoblesOD
  EST_bushiOD:0 "буші" #NoblesOD
+ EST_yangban_administratorsOD:0 "адміністраторами-янбанами" #NoblesOD
+ EST_junkersOD:0 "юнкерами" #NoblesOD
  EST_burghersOD:0 "міщанами" #BurghersOD
  EST_bourgeoisieOD:0 "буржуа" #BurghersOD
+ EST_neoconfucian_reformersOD:0 "неоконфуціанськими реформаторами" #BurghersOD
  EST_shangbangOD:0 "шаньбен" #BurghersOD
  EST_guildsOD:0 "купецькими гільдіями" #BurghersOD
  EST_yangban_scholarsOD:0 "вченими-янбанами" #ChurchOD
@@ -1033,8 +1053,11 @@
  EST_amirsMS:0 "емірах" #NoblesMS
  EST_plantersMS:0 "плантаторах" #NoblesMS
  EST_bushiMS:0 "буші" #NoblesMS
+ EST_yangban_administratorsMS:0 "адміністраторах-янбанах" #NoblesMS
+ EST_junkersMS:0 "юнкерах" #NoblesMS
  EST_burghersMS:0 "міщанах" #BurghersMS
  EST_bourgeoisieMS:0 "буржуа" #BurghersMS
+ EST_neoconfucian_reformersMS:0 "неоконфуціанських реформаторах" #BurghersMS
  EST_shangbangMS:0 "шаньбен" #BurghersMS
  EST_guildsMS:0 "купецьких гільдіях" #BurghersMS
  EST_yangban_scholarsMS:0 "вчених-янбанах" #ChurchMS
@@ -1078,8 +1101,11 @@
  EST_amirsNZ_CAP:0 "Еміри" #NoblesNZ_CAP
  EST_plantersNZ_CAP:0 "Плантатори" #NoblesNZ_CAP
  EST_bushiNZ_CAP:0 "Буші" #NoblesNZ_CAP
+ EST_yangban_administratorsNZ_CAP:0 "Адміністратори-янбани" #NoblesNZ_CAP
+ EST_junkersNZ_CAP:0 "Юнкери" #NoblesNZ_CAP
  EST_burghersNZ_CAP:0 "Міщани" #BurghersNZ_CAP
  EST_bourgeoisieNZ_CAP:0 "Буржуа" #BurghersNZ_CAP
+ EST_neoconfucian_reformersNZ_CAP:0 "Неоконфуціанські реформатори" #BurghersNZ_CAP
  EST_shangbangNZ_CAP:0 "Шаньбен" #BurghersNZ_CAP
  EST_guildsNZ_CAP:0 "Купецькі гільдії" #BurghersNZ_CAP
  EST_yangban_scholarsNZ_CAP:0 "Вчені-янбани" #ChurchNZ_CAP
@@ -1123,8 +1149,11 @@
  EST_amirsRD_CAP:0 "Емірів" #NoblesRD_CAP
  EST_plantersRD_CAP:0 "Плантаторів" #NoblesRD_CAP
  EST_bushiRD_CAP:0 "Буші" #NoblesRD_CAP
+ EST_yangban_administratorsRD_CAP:0 "Адміністраторів-янбанів" #NoblesRD_CAP
+ EST_junkersRD_CAP:0 "Юнкерів" #NoblesRD_CAP
  EST_burghersRD_CAP:0 "Міщан" #BurghersRD_CAP
  EST_bourgeoisieRD_CAP:0 "Буржуа" #BurghersRD_CAP
+ EST_neoconfucian_reformersRD_CAP:0 "Неоконфуціанських реформаторів" #BurghersRD_CAP
  EST_shangbangRD_CAP:0 "Шаньбен" #BurghersRD_CAP
  EST_guildsRD_CAP:0 "Купецьких гільдій" #BurghersRD_CAP
  EST_yangban_scholarsRD_CAP:0 "Вчених-янбанів" #ChurchRD_CAP
@@ -1168,8 +1197,11 @@
  EST_amirsDV_CAP:0 "Емірам" #NoblesDV_CAP
  EST_plantersDV_CAP:0 "Плантаторам" #NoblesDV_CAP
  EST_bushiDV_CAP:0 "Буші" #NoblesDV_CAP
+ EST_yangban_administratorsDV_CAP:0 "Адміністраторам-янбанам" #NoblesDV_CAP
+ EST_junkersDV_CAP:0 "Юнкерам" #NoblesDV_CAP
  EST_burghersDV_CAP:0 "Міщанам" #BurghersDV_CAP
  EST_bourgeoisieDV_CAP:0 "Буржуа" #BurghersDV_CAP
+ EST_neoconfucian_reformersDV_CAP:0 "Неоконфуціанським реформаторам" #BurghersDV_CAP
  EST_shangbangDV_CAP:0 "Шаньбен" #BurghersDV_CAP
  EST_guildsDV_CAP:0 "Купецьким гільдіям" #BurghersDV_CAP
  EST_yangban_scholarsDV_CAP:0 "Вченим-янбанам" #ChurchDV_CAP
@@ -1213,8 +1245,11 @@
  EST_amirsZN_CAP:0 "Емірів" #NoblesZN_CAP
  EST_plantersZN_CAP:0 "Плантаторів" #NoblesZN_CAP
  EST_bushiZN_CAP:0 "Буші" #NoblesZN_CAP
+ EST_yangban_administratorsZN_CAP:0 "Адміністраторів-янбанів" #NoblesZN_CAP
+ EST_junkersZN_CAP:0 "Юнкерів" #NoblesZN_CAP
  EST_burghersZN_CAP:0 "Міщан" #BurghersZN_CAP
  EST_bourgeoisieZN_CAP:0 "Буржуа" #BurghersZN_CAP
+ EST_neoconfucian_reformersZN_CAP:0 "Неоконфуціанських реформаторів" #BurghersZN_CAP
  EST_shangbangZN_CAP:0 "Шаньбен" #BurghersZN_CAP
  EST_guildsZN_CAP:0 "Купецькі гільдії" #BurghersZN_CAP
  EST_yangban_scholarsZN_CAP:0 "Вчених-янбанів" #ChurchZN_CAP
@@ -1258,8 +1293,11 @@
  EST_amirsOD_CAP:0 "Емірами" #NoblesOD_CAP
  EST_plantersOD_CAP:0 "Плантаторами" #NoblesOD_CAP
  EST_bushiOD_CAP:0 "Буші" #NoblesOD_CAP
+ EST_yangban_administratorsOD_CAP:0 "Адміністраторами-янбанами" #NoblesOD_CAP
+ EST_junkersOD_CAP:0 "Юнкерами" #NoblesOD_CAP
  EST_burghersOD_CAP:0 "Міщанами" #BurghersOD_CAP
  EST_bourgeoisieOD_CAP:0 "Буржуа" #BurghersOD_CAP
+ EST_neoconfucian_reformersOD_CAP:0 "Неоконфуціанськими реформаторами" #BurghersOD_CAP
  EST_shangbangOD_CAP:0 "Шаньбен" #BurghersOD_CAP
  EST_guildsOD_CAP:0 "Купецькими гільдіями" #BurghersOD_CAP
  EST_yangban_scholarsOD_CAP:0 "Вченими-янбанами" #ChurchOD_CAP
@@ -1303,8 +1341,11 @@
  EST_amirsMS_CAP:0 "Емірах" #NoblesMS_CAP
  EST_plantersMS_CAP:0 "Плантаторах" #NoblesMS_CAP
  EST_bushiMS_CAP:0 "Буші" #NoblesMS_CAP
+ EST_yangban_administratorsMS_CAP:0 "Адміністраторах-янбанах" #NoblesMS_CAP
+ EST_junkersMS_CAP:0 "Юнкерах" #NoblesMS_CAP
  EST_burghersMS_CAP:0 "Міщанах" #BurghersMS_CAP
  EST_bourgeoisieMS_CAP:0 "Буржуа" #BurghersMS_CAP
+ EST_neoconfucian_reformersMS_CAP:0 "Неоконфуціанських реформаторах" #BurghersMS_CAP
  EST_shangbangMS_CAP:0 "Шаньбен" #BurghersMS_CAP
  EST_guildsMS_CAP:0 "Купецьких гільдіях" #BurghersMS_CAP
  EST_yangban_scholarsMS_CAP:0 "Вчених-янбанах" #ChurchMS_CAP
