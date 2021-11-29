@@ -1,5 +1,5 @@
 ﻿l_ukrainian:
- ###На питання в чому? "" 
+ ###На питання в чому?
  UNITED_PROVINCES_DE:0 "сполучених провінціях" #GetGovernmentDE
  FEDERAL_KINGDOM_DE:0 "федеральному королівстві" #GetGovernmentDE
  FEDERAL_EMPIRE_DE:0 "федеральній імперії" #GetGovernmentDE
@@ -29,6 +29,7 @@
  NAWABATE_DE:0 "навабаті" #GetGovernmentDE
  NIZAMATE_DE:0 "нізаматі" #GetGovernmentDE
  MONG_DE:0 "монгу" #GetGovernmentDE
+ PRINCIPALITY_DE:0 "князівстві" #GetGovernmentDE
  GRAND_PRINCIPALITY_DE:0 "великому князівстві" #GetGovernmentDE
  ALTEPETL_DE:0 "альтепетлі" #GetGovernmentDE
  ALTEPETL_FEDERATION_DE:0 "альтепетельській федерації" #GetGovernmentDE
@@ -117,6 +118,7 @@
  NAWABATE_OMU:0 "навабату" #GetGovernmentOMU
  NIZAMATE_OMU:0 "нізамату" #GetGovernmentOMU
  MONG_OMU:0 "монгу" #GetGovernmentOMU
+ PRINCIPALITY_OMU:0 "князівству" #GetGovernmentOMU
  GRAND_PRINCIPALITY_OMU:0 "великому князівству" #GetGovernmentOMU
  ALTEPETL_OMU:0 "альтепетлю" #GetGovernmentOMU
  ALTEPETL_FEDERATION_OMU:0 "альтепетельскій федерації" #GetGovernmentOMU
@@ -205,6 +207,7 @@
  NAWABATE_OGO:0 "навабату" #GetGovernmentOGO
  NIZAMATE_OGO:0 "нізамату" #GetGovernmentOGO
  MONG_OGO:0 "монгу" #GetGovernmentOGO
+ PRINCIPALITY_OGO:0 "князівства" #GetGovernmentOGO
  GRAND_PRINCIPALITY_OGO:0 "великого князівства" #GetGovernmentOGO
  ALTEPETL_OGO:0 "альтепетля" #GetGovernmentOGO
  ALTEPETL_FEDERATION_OGO:0 "альтепетельскої федерації" #GetGovernmentOGO
@@ -293,6 +296,7 @@
  NAWABATE_SCHO:0 "навабат" #GetGovernmentSCHO
  NIZAMATE_SCHO:0 "нізамат" #GetGovernmentSCHO
  MONG_SCHO:0 "монг" #GetGovernmentSCHO
+ PRINCIPALITY_SCHO:0 "князівство" #GetGovernmentSCHO
  GRAND_PRINCIPALITY_SCHO:0 "велике князівство" #GetGovernmentSCHO
  ALTEPETL_SCHO:0 "альтепетль" #GetGovernmentSCHO
  ALTEPETL_FEDERATION_SCHO:0 "альтепетельську федерацію" #GetGovernmentSCHO
@@ -381,6 +385,7 @@
  NAWABATE_KYM:0 "навабатом" #GetGovernmentKYM
  NIZAMATE_KYM:0 "нізаматом" #GetGovernmentKYM
  MONG_KYM:0 "монгом" #GetGovernmentKYM
+ PRINCIPALITY_KYM:0 "князівством" #GetGovernmentKYM
  GRAND_PRINCIPALITY_KYM:0 "великим князівством" #GetGovernmentKYM
  ALTEPETL_KYM:0 "альтепетль" #GetGovernmentKYM
  ALTEPETL_FEDERATION_KYM:0 "альтепетельською федерацією" #GetGovernmentKYM
@@ -626,6 +631,18 @@
  COUNTY_OMU:0 "графству" #GetGovernmentOMU
  COUNTY_KYM:0 "графством" #GetGovernmentKYM
  COUNTY_DE:0 "графстві" #GetGovernmentDE
+ 
+ COUNTY_PALATINE_SCHO:0 "пфальцграфство" #GetGovernmentSCHO
+ COUNTY_PALATINE_OGO:0 "пфальцграфства" #GetGovernmentOGO
+ COUNTY_PALATINE_OMU:0 "пфальцграфству" #GetGovernmentOMU
+ COUNTY_PALATINE_KYM:0 "пфальцграфством" #GetGovernmentKYM
+ COUNTY_PALATINE_DE:0 "пфальцграфстві" #GetGovernmentDE
+ 
+ KINGDOM_PALATINE_SCHO:0 "пфальцокоролівство" #GetGovernmentSCHO
+ KINGDOM_PALATINE_OGO:0 "пфальцокоролівства" #GetGovernmentOGO
+ KINGDOM_PALATINE_OMU:0 "пфальцокоролівству" #GetGovernmentOMU
+ KINGDOM_PALATINE_KYM:0 "пфальцокоролівством" #GetGovernmentKYM
+ KINGDOM_PALATINE_DE:0 "пфальцокоролівстві" #GetGovernmentDE
  
  IKKO_IKKI_COMMUNE_SCHO:0 "республіка Ікко-іккі" #GetGovernmentSCHO
  IKKO_IKKI_COMMUNE_OGO:0 "республіки Ікко-іккі" #GetGovernmentOGO
