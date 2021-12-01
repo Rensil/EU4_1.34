@@ -51,7 +51,7 @@ astu_1_31_l_ukrainian.yml - в.1.31.5, перекладено / 48
 capybara_l_ukrainian.yml - в.1.31.6, без перекладу рядки: Epic 8-24 (17) / 24
 common_sense_l_ukrainian.yml - в.1.32, перекладено / 1691
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
-core_l_ukrainian.yml - в.1.32, перекладено / 936
+core_l_ukrainian.yml - в.1.32.2, перекладено / 936
 cossacks_l_ukrainian.yml - в.1.32, перекладено / 1499
 countries_l_ukrainian.yml -  в.1.31, перекладено / 1401
 cradle_of_civilization_l_ukrainian - в.1.32, перекладено / 871
@@ -117,14 +117,14 @@ nudge_l_ukrainian.yml - в.1.24, перекладено / 8
 nw2_l_ukrainian.yml - в.1.32, перекладено / 443
 nw_l_ukrainian.yml - в.1.31.5, перекладено / 241
 opinions_l_ukrainian.yml - в.1.30.1, перекладено / 217
-origins_l_ukrainian - в.1.32.1, без перекладу рядки: 2477 (2429) / 2477
+origins_l_ukrainian - в.1.32.2, без перекладу рядки: 2478 (2430) / 2478
 personalityoptions_l_ukrainian.yml - в.1.30.1, перекладено / 706
 policies_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: 352-419 (35) / 419
 popserror_ukrainian.yml - в.1.31.5, без перекладу рядки: 2-17 (16) / 17
 powers_and_ideas_l_ukrainian.yml - в.1.32, без перекладу рядки: 1260-1275 (16), 1294-1309 (16), 4691-4720 (15), 5180-5258 (61), 5316-5326 (11), 5363-5375 (13), 5458-5611 (121), 5632-5645 (14), 5683-5764 (70), 5836-6219 (262), 6421-6500 (68), 6646-6676 (28), 6745-6928 (184) / 6928
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
-prov_names_adj_l_ukrainian.yml - в.1.31.5, не перекладається / 3603
-prov_names_l_ukrainian.yml - в.1.32, без перекладу рядки / 3729
+prov_names_adj_l_ukrainian.yml - в.1.32.2, не перекладається / 3603
+prov_names_l_ukrainian.yml - в.1.32.2, без перекладу рядки / 3729
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.30.1, не перекладається
 red_queen_text_l_ukrainian.yml -  в.1.32, без перекладу рядки: 2-683 (646) / 701
@@ -148,7 +148,7 @@ terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
 text_l_ukrainian.yml - в.1.32, перекладено / 8136
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.31.5, перекладено / 391
-tmm_l_ukrainian.yml - в.1.32.1, без перекладу рядки: провінції 1048-1131 (85), 1165-1468 (271) / 1168
+tmm_l_ukrainian.yml - в.1.32.2, без перекладу рядки: провінції 1048-1131 (85), 1165-1469(272) / 1169
 tradenodes_l_ukrainian.yml - в.1.32, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.32, перекладено / 675
 tutorial_l_ukrainian.yml - в.1.32, перекладено / 370
