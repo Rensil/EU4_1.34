@@ -283,7 +283,6 @@
  TAG_OGO_ZAZ:0 "Війська Запорізького" #GetTagOGO
  TAG_OGO_ZIM:0 "Мономотапи" #GetTagOGO
  TAG_OGO_NIZ:0 "Деви" #GetTagOGO
- TAG_OGO_BAS:0 "Ахмаднагара" #GetTagOGO
  TAG_OGO_NAT:0 "Тубільців" #GetTagOGO
  TAG_OGO_PIR:0 "Піратів" #GetTagOGO
  TAG_OGO_AMA:0 "Амаґо" #GetTagOGO
@@ -1261,7 +1260,6 @@
  TAG_KUDY_ZAZ:0 "Військо Запорізьке" #GetTagKUDY
  TAG_KUDY_ZIM:0 "Мономотапу" #GetTagKUDY
  TAG_KUDY_NIZ:0 "Деву" #GetTagKUDY
- TAG_KUDY_BAS:0 "Ахмаднагар" #GetTagKUDY
  TAG_KUDY_NAT:0 "Тубільців" #GetTagKUDY
  TAG_KUDY_PIR:0 "Піратів" #GetTagKUDY
  TAG_KUDY_AMA:0 "Амаґо" #GetTagKUDY
@@ -2239,7 +2237,6 @@
  TAG_KYM_ZAZ:0 "Військом Запорізьким" #GetTagKYM
  TAG_KYM_ZIM:0 "Мономотапою" #GetTagKYM
  TAG_KYM_NIZ:0 "Девою" #GetTagKYM
- TAG_KYM_BAS:0 "Ахмаднагаром" #GetTagKYM
  TAG_KYM_NAT:0 "Тубільцями" #GetTagKYM
  TAG_KYM_PIR:0 "Піратами" #GetTagKYM
  TAG_KYM_AMA:0 "Амаґо" #GetTagKYM
@@ -3217,7 +3214,6 @@
  TAG_DE_ZAZ:0 "Війську Запорізькому" #GetTagDE
  TAG_DE_ZIM:0 "Мономотапі" #GetTagDE
  TAG_DE_NIZ:0 "Деві" #GetTagDE
- TAG_DE_BAS:0 "Ахмаднагарі" #GetTagDE
  TAG_DE_NAT:0 "Тубільцях" #GetTagDE
  TAG_DE_PIR:0 "Піратах" #GetTagDE
  TAG_DE_AMA:0 "Амаґо" #GetTagDE
@@ -4195,7 +4191,6 @@
  TAG_OMU_ZAZ:0 "Війську Запорізькому" #GetTagOMU
  TAG_OMU_ZIM:0 "Мономотапі" #GetTagOMU
  TAG_OMU_NIZ:0 "Деві" #GetTagOMU
- TAG_OMU_BAS:0 "Ахмаднагару" #GetTagOMU
  TAG_OMU_NAT:0 "Тубільцям" #GetTagOMU
  TAG_OMU_PIR:0 "Піратам" #GetTagOMU
  TAG_OMU_AMA:0 "Амаґо" #GetTagOMU
@@ -5172,7 +5167,6 @@
  TAG_KLY_ZAZ:0 "Військо Запорізьке" #GetTagKLY
  TAG_KLY_ZIM:0 "Мономотапо" #GetTagKLY
  TAG_KLY_NIZ:0 "Дево" #GetTagKLY
- TAG_KLY_BAS:0 "Ахмаднагаре" #GetTagKLY
  TAG_KLY_NAT:0 "Тубільці" #GetTagKLY
  TAG_KLY_PIR:0 "Пірати" #GetTagKLY
  TAG_KLY_AMA:0 "Амаґо" #GetTagKLY
