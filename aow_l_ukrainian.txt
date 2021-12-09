@@ -1758,7 +1758,7 @@
  tyw_events.26.a:0 "Нам необхідн[Root.Monarch.GetMEndAYJ] [Root.Monarch.GetTitleKHTO], як[Root.Monarch.GetMEndAYJ] може постояти за свою віру!"
  tyw_events.26.a.tt:0 "[Root.Heir.GetName] постане божим воїном та вогнем і мечем каратиме єретиків."
  tyw_events.26.b:0 "Ми не дозволимо релігійному орденові мати вплив на спадкоєм[Root.Heir.GetHEndCiaYciu]."
- tyw_events.27.t:0 "[Root.Monarch.GetTitle], що навча[Root.Monarch.GetMEndVLa]ся в єзуїтів, сходить на престол"
+ tyw_events.27.t:0 "[Root.Monarch.GetTitle], як[Root.Monarch.GetMEndAYJ] навча[Root.Monarch.GetMEndVLa]ся в єзуїтів, сходить на престол"
  tyw_events.27.d:0 "[Root.Monarch.GetName] заверши[Root.Monarch.GetMEndVLa] навчання в Товаристві Ісуса, що дало очікуваний результат. [Root.Monarch.GetTitle] не страждає на брак впевненості та хоробрості, але навчання в монахів дало свої плоди, тож відданість проявляється, у першу чергу, до католицької віри та своїх наставників по ордену. Радісна новина для вірян, а єретики тепер бояться державу [Root.GetName] більше, ніж коли-небудь."
  tyw_events.27.a:0 "Ad maiorem Dei gloriam."
  tyw_events.28.t:0 "[Root.Culture.GetName]а знать тікає за кордон"
