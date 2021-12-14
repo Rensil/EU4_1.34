@@ -825,8 +825,8 @@
  ZERO:0 "0"
  NUM_OF_CONVERTED_PROVINCES_COUNTER:0 "[Root.num_converted_religion.GetValue]"
  ###JEWISH MECHANICS###
- JEWISH_ASPECTS_LONG:0 "Аспекти Тори"
- JEWISH_ASPECTS_SHORT:0 "аспект"
+ JEWISH_ASPECTS_LONG:0 "Доктрини Тори"
+ JEWISH_ASPECTS_SHORT:0 "доктрина"
  JUDAISM_HAS_ADM_ASPECT:0 "Has any £adm£ §YДоктрина§! active."
  celebrate:0 "Святкування фестивалю"
  judaism_rosh_hashanah_aspect:0 "Festival of Rosh haShanah"
