@@ -185,7 +185,7 @@
  mal_could_accept_offer:0 "§Y[This.GetName]§! §Yможе прийняти або не прийняти§! пропозицію."
  mal_will_probably_not_accept_offer:0 "§Y[This.GetName]§! §Rможе не прийняти§! пропозицію."
  mal_will_naver_accept_offer:0 "§Y[This.GetName]§! §Rне прийме§! пропозицію."
- mal_offer_outcome_unkonwn:0 Ми не можемо передбачити, §Y[This.GetName]§! прийме пропозицію чи ні."
+ mal_offer_outcome_unkonwn:0 "Ми не можемо передбачити, §Y[This.GetName]§! прийме пропозицію чи ні."
  flavor_mal.33.t:0 "Gold Offer from [From.GetName]"
  flavor_mal.33.desc:0 "An ambassador in [From.GetAdjective] clothes reached the court of [Root.Monarch.GetName]! While this is already a very unique event, the ambassador shows our [Root.Monarch.GetTitle] a chest full of gold too! He offers us a trade, in which we receive this immense amount of gold in exchange for the province [mal_colony_to_buy.GetName]. The ambassador also mentions that in case we might not accept the gold, the [From.Monarch.GetName] might be "mildly annoyed"..."
  flavor_mal.33.a:0 "Well, I gladly take the gold. Thank you very much."
