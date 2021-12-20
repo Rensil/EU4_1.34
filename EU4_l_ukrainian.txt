@@ -4002,7 +4002,7 @@
  elections.EVTDESC709:0 "Будемо вважати, що [Root.ColonialParent.GetName] відправить нам гарну заміну..."
  elections.EVTOPTB709:0 "Помолимося"
  elections.EVTNAME710:0 "[From.Monarch.GetTitle] помер[From.Monarch.GetMEndLA]!"
- elections.EVTDESC710:0 "[From.Monarch.GetTitle] з колонії [From.GetName] раптово помер[From.Monarch.GetMEndLA]. Хто повинен [From.Monarch.GetMJOGO] замінити?"
+ elections.EVTDESC710:0 "[From.Monarch.GetTitle] з колонії [From.GetName] раптово помер[From.Monarch.GetMEndLA]. Хто повинен [From.Monarch.GetMEndJOGO] замінити?"
  elections.EVTNAME711:0 "Колоніальна асамблея"
  elections.EVTDESC711:0 "Наша колонія [From.GetName] вирішила сформувати асамблею, щоб розподіляти податки та формувати річний бюджет. Вони стверджують, що ці питання краще вирішувати в колонії, хоча це підозріло схоже на перший крок до незалежності..."
  elections.EVTOPTB711:0 "Справді підозріло..."
