@@ -2789,7 +2789,7 @@
  flavor_pol.EVTNAME3481:0 "Боротьба за королівську владу"
  flavor_pol.EVTDESC3481:1 "Напруга між [Root.Monarch.GetTitleKYM] і сеймом досягла межі. [Root.Monarch.GetTitle] ста[Root.Monarch.GetMEndVLa] повністю нетолерантн[Root.Monarch.GetMEndAYJ] до безкінечних компромісов зі шляхтою в спробах досягти бодай мінімального консенсусу в уравлінні. Ці великопани знаходять найменший привід виступити проти короля. [Root.Monarch.GetTitle] вважає, що нарешті прийшов час покласти край владі сейму в [Root.GetTagDE]."
  flavor_pol.EVTOPTA3481:0 "Розв'язати неприємний, але мирний конфлікт"
- flavor_pol.EVTOPTB3481:1 "Що ще робити [Root.Monarch.GetMTitleOMU]?"
+ flavor_pol.EVTOPTB3481:1 "Що ще робити [Root.Monarch.GetTitleOMU]?"
  flavor_pol.EVTOPTC3481:2 "Почати війну зі шляхтою."
  flavor_pol.EVTNAME10:0 "Конфедерація"
  flavor_pol.EVTDESC10:2 "Подібно до того, як [Root.Monarch.GetTitleKHTO] [Root.Monarch.GetName] виріши[Root.Monarch.GetMEndVLa] позбавити сейм влади, так і сейм пред'явив свої вимоги до [Root.Monarch.GetTitleOGO]. Миколай Зебжидовський, Ян Щасний-Гербут, Станіслав Стадніцький, Олександр Юзеф Лісовський та Януш Радзивілл створили рокош, або напівлегальне повстання, у Стежиці та Любліні. Дворяни, зібравшись у рокоші, утворили конфедерацію, яка виклала вимоги в 67 статтях, вимагаючи детронізації [Root.Monarch.GetTitleOGO] за порушення Генрикових артикулів, а також право сейму призначати державних чиновників замість [Root.Monarch.GetTitleOGO]."
