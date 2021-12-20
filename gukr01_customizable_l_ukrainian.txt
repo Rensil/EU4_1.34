@@ -55,3 +55,21 @@
  ### Latin character I = Î
  ### Latin character ss = ß
  ### Latin character
+ 
+ ### Назви місяців скорочено
+ Jan:0 "Січ."
+ Feb:0 "Лют."
+ Mar:0 "Бер."
+ Apr:0 "Квіт."
+ May:0 "Трав."
+ Jun:0 "Черв."
+ Jul:0 "Лип."
+ Aug:0 "Серп."
+ Sep:0 "Вер."
+ Oct:0 "Жовт."
+ Nov:0 "Лист."
+ Dec:0 "Груд."
+ 
+
+ 
+ 
