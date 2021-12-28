@@ -952,7 +952,7 @@
  jewish_name_CHYM_CAP:0  "Юдаїзмом"  #ReligionNameCHYM_CAP
  zoroastrian_name_CHYM_CAP:0  "Зороастризмом"  #ReligionNameCHYM_CAP 
  hussite_name_CHYM_CAP:0  "Гусизмом"  #ReligionNameCHYM_CAP
- dreamtime_name_CHYM_CAP:0  "ТАльчерою"  #ReligionNameCHYM_CAP
+ dreamtime_name_CHYM_CAP:0  "Альчерою"  #ReligionNameCHYM_CAP
  #Прикметник релігійної групи "" 
  christian_adj:0  "християнськими"  #ReligionGroupAdjective
  muslim_adj:0  "ісламськими"  #ReligionGroupAdjective
