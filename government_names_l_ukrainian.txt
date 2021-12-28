@@ -532,7 +532,7 @@
  GREAT_POSADNITSA:0 "Велика посадниця"
  HOCHMEISTER_fem:0 "Хохмейстерін"
  LANDMEISTER_fem:0 "Ландмейстерін"
- GROSSMEISTER_fem:0 "Гросмейстерын"
+ GROSSMEISTER_fem:0 "Гросмейстерін"
  IMAM_fem:0 "Імам"
  GREAT_IMAM_fem:0 "Великий імам"
  HIGH_IMAM_fem:0 "Високий імам"
