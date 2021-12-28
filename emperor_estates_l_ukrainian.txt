@@ -35,7 +35,7 @@
  estate_dhimmi_manpower_revoke_effect_tooltip:0 "Модифікатор §Y'Призов зіммі'§! буде вилучено з усіх приналежних НЕ §Yмусульманських§! провінцій."
  estate_dhimmi_manpower_mod:0 "Призов зіммі"
  desc_estate_dhimmi_manpower_mod:0 "Держава збільшила призов зіммі."
- estate_dhimmi_tolerance:0 "Гарантовані права релігійних меншин"
+ estate_dhimmi_tolerance:0 "Гарантовано права релігійних меншостей"
  estate_dhimmi_guaranteed_autonomy:0 "Збільшення автономії зіммі"
  estate_dhimmi_guaranteed_autonomy_effect_tooltip:4 "Кожна приналежна НЕ §Yмусульманська§! провінція отримає:\nМісцева ефективність місіонерів: §R-100%§!\nМісцевий вплив на релігійну єдність: §G-100%§!"
  estate_dhimmi_guaranteed_autonomy_revoke_effect_tooltip:0 "Модифікатор §Y'Збільшення автономії зіммі'§! буде вилучено з усіх приналежних НЕ §Yмусульманських§! провінцій."
