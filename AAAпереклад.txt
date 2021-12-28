@@ -48,7 +48,7 @@ achievements_l_ukrainian.yml - в.1.32.1, без перекладу рядки: 
 aow_l_ukrainian.yml - в.1.32, перекладено / 2361
 areas_regions_l_ukrainian.yml - в.1.32, перекладено / 2844
 astu_1_31_l_ukrainian.yml - в.1.31.5, перекладено / 48
-capybara_l_ukrainian.yml - в.1.31.6, без перекладу рядки: Epic 8-24 (17) / 24
+capybara_l_ukrainian.yml - в.1.31.6, перекладено / 24
 common_sense_l_ukrainian.yml - в.1.32, перекладено / 1691
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.32.2, перекладено / 936
