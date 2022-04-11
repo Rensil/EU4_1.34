@@ -99,12 +99,12 @@ ledger_l_ukrainian.yml - в.1.32, перекладено / 214
 leviathan_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори 2-54 (44), native_americans 55-184 (126), мінори 188-235 (42), PROV 236-285 (50), aboriginal 335-363 (28), мінори 367-482 (96), мінори 758-853 (81), мінори 866-964 (99), 971-1038 (56), Polynesian Events 1071-1246 (142), native_federations_event 1501-1534 (35), colonial_nation 1542-1588 (45), custom 1660-1790 (130), alcheringa_events 1791-1820 (30) / 1841
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-manchu_l_ukrainian.yml - в.1.32, перекладено / 796
-mandala_missions_l_ukrainian.yml - в.1.31.5.2, без перекладу рядки: 229-909 (677) / 909
-mandate_of_heaven_l_ukrainian.yml - в.1.32, перекладено / 825
+manchu_l_ukrainian.yml - в.1.33, без перекладу рядки: 538-550 (13) / 824
+mandala_missions_l_ukrainian.yml - в.1.33, без перекладу рядки: 229-909 (677) / 909
+mandate_of_heaven_l_ukrainian.yml - в.1.33, перекладено / 828
 mare_nostrum_l_ukrainian.yml - в.1.32, перекладено / 446
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.32, перекладено, 756,782,3411-3414,3422,3435-3436,3447? точність перекладу / 7077
+messages_l_ukrainian.yml - в.1.33, перекладено / 7074
 missions_l_ukrainian.yml - в.1.28.3, перекладено / 361
 modifers_l_ukrainian.yml - в.1.31.5, без перекладу рядки: rus 1613-1663 (49) / 2360
 mughal_government_l_ukrainian.yml - в.1.32, перекладено / 97
