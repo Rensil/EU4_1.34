@@ -3420,7 +3420,7 @@
  REGENTOTHER_HEADER:0 "Вісник держави"
  REGENTOTHER_1:0 "$ACTOR$"
  REGENTOTHER_2:2 "$RMONARCHTITLE$, оскільки їхній $HEIRTITLE$ ще занадто юний,"
- REGENTOTHER_3:0 "регент."
+ REGENTOTHER_3:0 "регент"
  REGENTOTHER_4:0 "правитиме державою $COUNTRY$."
  REGENTOTHER_6:0 "Це на певний час послабило їхні дипломатичні можливості. Чи не сприятливий момент завдати їм удару?"
  REGENTOTHER_LOG:0 "Державою $COUNTRY$ починає правити регент."
