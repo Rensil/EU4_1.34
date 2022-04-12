@@ -111,7 +111,7 @@ mughal_government_l_ukrainian.yml - в.1.32, перекладено / 97
 muslim_dlc_l_ukrainian.yml - в.1.26, перекладено / 161
 native_flavor_events_l_ukrainian.yml - в.1.24, перекладено / 106
 native_rework_l_ukrainian.yml - в.1.32, перекладено / 16
-new_missions_l_ukrainian.yml - в.1.32, перекладено / 1993
+new_missions_l_ukrainian.yml - в.1.33, перекладено / 1997
 north_america_redone_l_ukrainian.yml - в.1.31, без перекладу рядки: 2-257 (256) / 271
 notlocalized_l_ukrainian.yml - в.1.30.1, перекладено / 6
 nudge_l_ukrainian.yml - в.1.24, перекладено / 8
@@ -120,12 +120,12 @@ nw_l_ukrainian.yml - в.1.31.5, перекладено / 241
 opinions_l_ukrainian.yml - в.1.30.1, перекладено / 217
 origins_l_ukrainian - в.1.33.2, без перекладу рядки: ETH FLAVOR EVENTS 3-77 (74), MAL FLAVOR EVENTS 79-290 (192), SON FLAVOR EVENTS 292-329 (36), KONGO FLAVOR EVENTS 335-382 (44), MUTAPA FLAVOR EVENTS 384-422 (39), AJUURAN FLAVOR EVENTS 424-472 (45), ADA FLAVOR EVENTS 474-498 (25), ESTATE PRIVILEGES 652-709 (34), DECISIONS 793-796 (4), MAL DECISIONS 799-817 (11), JEWISH MECHANICS 851-857 (5), DECISIONS 873-924 (39), MISSIONS 955-1017 (29), MAL MISSIONS 1019-1086 (48), SON MISSIONS 1089-1181 (89), KON MISSIONS 1183-1275 (93), ZIM MISSIONS 1277-1326 (50), AJU MISSIONS 1329-1380 (50), ZAN MISSIONS 1382-1426 (42), ZAN MISSIONS 1445-1451 (7), ETHIOPIA MISSION REWARDS 1454-1490 (37), OPINION MODIFIERS 1492-1504 (13), MALI MISSION MODIFIERS 1506-1536 (31), MALI EVENT MODIFIERS 1538-1585 (18), ESTATE MODIFIERS 1563-1576 (11), SON MISSION MODIFIERS 1578-1617 (40), KON MISSION MODIFIERS 1619-1626 (18), ZIM MISSION MODIFIERS 1628-1639 (12), KONGO 1645-1663 (19), JUDAISM MODIFIERS 1756-1765 (10), IDEAS ZAN 1774-1790 (17), MODIFIERS 1792-1914 (122), EAST AFRICAN MISSIONS 1917-1950 (34), EAST AFRICAN MODIFIERS 1952-1974 (23), CENTRAL AFRICAN GENERIC MISSIONS 1976-2011 (36), CENTRAL AFRICAN GENERIC MISSIONS MODIFIERS 2013-2028 (16), GENERIC HORN OF AFRICA MISSIONS 2030-2093 (64), WEST AFRICA MISSIONS 2095-2135 (41), MORE MISSIONS 2137-2166 (30), CAPITAL_MONOPOLY 2168-2321 (154), EVENTS 2323-2488 (196) / 2518
 personalityoptions_l_ukrainian.yml - в.1.30.1, перекладено / 706
-policies_l_ukrainian.yml - в.1.31.5.2, перекладено / 419
+policies_l_ukrainian.yml - в.1.33, перекладено / 419
 popserror_ukrainian.yml - в.1.31.5, без перекладу рядки: 2-17 (16) / 17
-powers_and_ideas_l_ukrainian.yml - в.1.32, без перекладу рядки: 1260-1275 (16), 4691-4720 (15), 5180-5258 (61), 5316-5326 (11), 5363-5375 (13), 5458-5611 (121), 5632-5645 (14), 5683-5764 (70), 5836-6219 (248), 6421-6500 (68), 6646-6676 (28), длс витоки 6782-6911 (92) / 6928
+powers_and_ideas_l_ukrainian.yml - в.1.33, без перекладу рядки: 1260-1275 (16), 4691-4720 (15), 5180-5258 (61), 5316-5326 (11), 5363-5375 (13), 5458-5611 (121), 5632-5645 (14), 5683-5764 (70), 5836-6219 (248), 6421-6500 (68), 6646-6676 (28), длс витоки 6782-6911 (92) / 6928
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
-prov_names_adj_l_ukrainian.yml - в.1.32.2, не перекладається / 3603
-prov_names_l_ukrainian.yml - в.1.32.2, без перекладу рядки / 3729
+prov_names_adj_l_ukrainian.yml - в.1.33, не перекладається / 3603
+prov_names_l_ukrainian.yml - в.1.33, без перекладу рядки / 3729
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.30.1, не перекладається
 red_queen_text_l_ukrainian.yml -  в.1.32, без перекладу рядки: 2-683 (636) / 701
@@ -133,13 +133,13 @@ regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.32, без перекладу рядки: 99-154 (15) / 159
 res_publica_l_ukrainian.yml - в.1.30.1, перекладено / 581
 richpresence_l_ukrainian.yml - в.1.29, перекладено / 10
-rights_of_man_l_ukrainian.yml - в.1.31.5, перекладено, триває редагування змінних - рядок 583 / 1682
+rights_of_man_l_ukrainian.yml - в.1.33, перекладено, триває редагування змінних - рядок 583 / 1682
 rule_britannia_l_ukrainian.yml - в.1.32, перекладено / 472
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.31.5, перекладено / 65
 social_l_ukrainian.txt - в.1.30.1, не перекладається
 sprite_packs_l_ukrainian.txt - в.1.32, не перекладається / 277
-startup_screen_l_ukrainian.yml - в.1.31.5, перекладено / 275
+startup_screen_l_ukrainian.yml - в.1.33, без перекладу рядки: 33-44 (12), 61-67 (7), 108-111 (4), 119, 137, 143 / 310
 subject_type_l_ukrainian.yml - в.1.31.5, перекладено / 68
 subscription_l_ukrainian - в.1.30,6 без перекладу рядки: 8-89 (70) / 89
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
