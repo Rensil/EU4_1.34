@@ -417,7 +417,7 @@
  MODIFIER_LIBERTY_DESIRE:0 "Бажання свободи"
  MODIFIER_FEMALE_ADVISOR_CHANCE:0 "Шанс появи жінки-радника"
  LIB_TOO_HIGH_TARIFF:0 "$CHANGE$ через те, що Ефективні Тарифи ($TARIFF|Y$) перевищують поточне Бажання свободи, яке складає $CURRENT|Y$.\n"
- LIB_FROM_OVERLORD:0 "$CHANGE$ у зв'язку із ситуацією в державі $OVERLORD$.\n"
+ LIB_FROM_OVERLORD:0 "$CHANGE$ у зв'язку з воєнною втомою держави $OVERLORD$.\n"
  LIBERTY_DESIRE_PLAIN:0 "Бажання свободи"
  LIBERTY_DESIRE:1 "Держава $COUNTRY$ має бажання свободи: $VAL$"
  LIBERTY_DESIRE_FROM_TEMP:1 "Події, ренегатство провінцій та провінції, які розбудовані сюзереном: $VAL$"
