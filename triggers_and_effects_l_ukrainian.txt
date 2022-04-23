@@ -138,7 +138,7 @@
  ADD_STRELTSY_SUB_UNIT_EFFECT:0 "Отримати полк '§Gстрільців§!' $UNIT$ в провінції §Y$WHERE$§!."
  ADD_COSSACKS_SUB_UNIT_EFFECT:0 "Отримати полк '§Gкозаків§!' $UNIT$ в провінції $WHERE|Y$."
  ADD_RAJPUT_SUB_UNIT_EFFECT:0 "Отримати полк '§Gраджпутів§!' $UNIT$ в провінції $WHERE|Y$."
- ADD_CAWA_SUB_UNIT_EFFECT:0 "Отримати полк '§Gкава§!' $UNIT$ в провінції $WHERE|Y$."
+ ADD_CAWA_SUB_UNIT_EFFECT:0 "Отримати полк '§Gчава§!' $UNIT$ в провінції $WHERE|Y$."
  CHANGE_GRAPHICAL_CULTURE_EFFECT:0 "Змінити графічну культуру на $CULTURE|Y$.\n"
  DO_NOT_OWN_OR_VASSAL_OF:1 "Не належить державі $COUNTRY$ або суб'єкту"
  OWNS_OR_VASSAL_OF:1 "належить державі $COUNTRY$ або суб'єкту"
