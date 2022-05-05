@@ -177,7 +177,7 @@
  forum_button_tooltip:0 "Перейти на форуми EUIV"
  facebook_button_tooltip:0 "Перейти на сторінку EUIV у Facebook"
  twitter_button_tooltip:0 "Перейти на сторінку EUIV у Twitter"
- MACRO_REQUIREMENT_NOT_FULFILLED_GREAT_PROJECT:0 "Ці переваги неможливо використати, оскільки необхідні для $TYPE$ $BUILDING$ вимоги в цій провінції не виконано."
+ MACRO_REQUIREMENT_NOT_FULFILLED_GREAT_PROJECT:0 "Ці переваги неможливо використати, оскільки необхідні для $TYPE$а $BUILDING$ вимоги в цій провінції не виконано."
  FORT_MAINTENANCE_LOCK_NONC:0 "Заборону консервації фортеці можна включити тільки на тих фортецях, які ви контролюєте, тому що тільки за них ви платите гроші."
  FORT_MAINTENANCE_LOCK_SIEGE:0 "Заборону консервації фортеці не можна переключити, коли провінція в облозі!"
  FORT_MAINTENANCE_LOCK_ON:0 "Фортеця в цій провінції ніколи не буде законсервована."
