@@ -23,7 +23,7 @@ Rensil - emperor_missions, рядки 1600-1654 (55).
 Rensil - modifers, рядки rus 1613-1663 (49).
 Rensil - flavor_events, рядки rus 1327-1337 (11).
 Rensil - powers_and_ideas, рядки rus 5146-5175 (21).
-
+Rostik18 - origins, 3 рядка 1774.
 
 
 
