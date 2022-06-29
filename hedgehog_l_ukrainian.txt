@@ -120,7 +120,7 @@
  MIGRATION_MODIFIER:0 "Додатково модифікується:\n$MOD$"
  NATIVE_TRIBES_CANT_COLONISE:0 "§RКорінні племена не можуть колонізувати.§!"
  FEDERATION_ADVANCEMENT_NO_FEDERATION:0 "§RНе входить до складу федерації.§!"
- NOT_MIGRATORY_TRIBE_TRIGGER:0 "Не мігруюче плем'я\n"
+ NOT_MIGRATORY_TRIBE_TRIGGER:0 "Немігруюче плем'я\n"
  MIGRATORY_TRIBE_TRIGGER:0 "Мігруюче плем'я\n"
  native_diplomatic_cermonies_reform:0 "Дипломатичні церемонії"
  native_hereditary_reform:0 "Спадкове правління"
