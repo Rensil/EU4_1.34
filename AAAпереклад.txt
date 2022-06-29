@@ -139,7 +139,7 @@ rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 sikh_l_ukrainian.yml - в.1.31.5, перекладено / 65
 social_l_ukrainian.txt - в.1.30.1, не перекладається
 sprite_packs_l_ukrainian.txt - в.1.32, не перекладається / 277
-startup_screen_l_ukrainian.yml - в.1.33, без перекладу рядки: 33-44 (12), 61-67 (7), 108-111 (4) / 310
+startup_screen_l_ukrainian.yml - в.1.33, перекладено, триває перевірка, рядки: 65-67 (3), 108-111 (4) / 310
 subject_type_l_ukrainian.yml - в.1.31.5, перекладено / 68
 subscription_l_ukrainian - в.1.33 без перекладу рядки: 8-99 (71) / 99
 synthetic_dawn_l_ukrainian.yml - в.1.27, не перекладається / 47 Пасхалка зі Стеларіс 
