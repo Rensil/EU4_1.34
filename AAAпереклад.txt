@@ -64,7 +64,7 @@ diplo_reasons_l_ukrainian.yml - в.1.33, перекладено / 375
 diplomacy_l_ukrainian.yml - в.1.33, перекладено / 898
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
-emperor_content_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори 626-667 (22), мінори 720-799 (53), мінори 1193-1311 (92), flavor 1761-1778 (13), flavor_swi 1814-1852 (14), мінори 2326-2777 (441), nahuatl 2823-2838 (16), мінори 2850-3001 (147) / 3424
+emperor_content_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори 626-667 (22), мінори 720-799 (53), мінори 1193-1311 (92), flavor 1761-1778 (13), flavor_swi 1814-1852 (14), мінори 2326-2777 (427), nahuatl 2823-2838 (16), мінори 2850-3001 (147) / 3424
 emperor_estates_l_ukrainian.yml - в.1.33, перекладено / 1286
 emperor_l_ukrainian.yml - в.1.33, перекладено / 1056
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
@@ -99,7 +99,7 @@ ledger_l_ukrainian.yml - в.1.32, перекладено / 214
 leviathan_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори 2-54 (44), native_americans 56-184 (101), мінори 188-235 (42), PROV 236-285 (50), aboriginal 335-363 (28), мінори 367-482 (96), мінори 758-853 (81), мінори 866-964 (99), 971-1038 (56), Polynesian Events 1071-1246 (142), native_federations_event 1502-1530 (6), colonial_nation 1542-1588 (45), custom 1660-1790 (130), alcheringa_events 1791-1820 (30) / 1841
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-manchu_l_ukrainian.yml - в.1.33, без перекладу рядки: 538-550 (13) / 824
+manchu_l_ukrainian.yml - в.1.33, перекладено / 824
 mandala_missions_l_ukrainian.yml - в.1.33, без перекладу рядки: 229-909 (677) / 909
 mandate_of_heaven_l_ukrainian.yml - в.1.33, перекладено / 828
 mare_nostrum_l_ukrainian.yml - в.1.32, перекладено / 446
