@@ -64,7 +64,7 @@ diplo_reasons_l_ukrainian.yml - в.1.33, перекладено / 375
 diplomacy_l_ukrainian.yml - в.1.33, перекладено / 898
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
-emperor_content_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори 626-667 (22), мінори 720-799 (53), мінори 1193-1311 (92), flavor 1761-1778 (13), flavor_swi 1814-1852 (14), мінори 2326-2777 (427), nahuatl 2823-2838 (16), мінори 2877-3001 (117) / 3424
+emperor_content_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори 626-667 (22), мінори 720-799 (53), мінори 1193-1311 (92), flavor 1761-1778 (13), flavor_swi 1814-1852 (14), мінори 2326-2777 (427), nahuatl 2823-2838 (16), мінори 2908-3001 (73) / 3424
 emperor_estates_l_ukrainian.yml - в.1.33, перекладено / 1286
 emperor_l_ukrainian.yml - в.1.33, перекладено / 1056
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
@@ -96,7 +96,7 @@ hnn_1_32_l_ukrainian.yml - в.1.33, перекладено / 8
 institutions_l_ukrainian.yml - в.1.32, перекладено / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.32, перекладено / 214
-leviathan_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори Півничної Америки 2-52 (23), native_americans 56-146 (64), aboriginal 335-363 (28), мінори 367-482 (96), мінори Полінезійського трикутника 773-853 (38), мінори Півничної Америки 917-964 (42), 971-1038 (56), Polynesian Events 1071-1246 (142), colonial_nation 1542-1588 (45), custom 1660-1790 (130), alcheringa_events 1791-1820 (30) / 1841
+leviathan_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори Півничної Америки 2-52 (23), native_americans 56-146 (64), aboriginal 335-363 (28), мінори 367-482 (96), мінори Полінезійського трикутника 773-853 (38), мінори Півничної Америки 917-964 (42), 971-1038 (56), Polynesian Events 1071-1246 (142), colonial_nation 1542-1588 (45), custom 1660-1790 (130), alcheringa_events 1807-1820 (4) / 1841
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
 manchu_l_ukrainian.yml - в.1.33, перекладено / 824
