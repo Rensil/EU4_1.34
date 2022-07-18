@@ -887,7 +887,7 @@
  PROV886:0 "Вако"
  PROV887:1 "Tickanwa'tic"
  PROV888:0 "Атакапа"
- PROV889:1 "Nawunena"
+ PROV889:1 "Навунена"
  PROV890:1 "Tokinahyup"
  PROV891:0 "Наїша"
  PROV892:1 "Kitkit'ish"
