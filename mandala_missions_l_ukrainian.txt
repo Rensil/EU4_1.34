@@ -811,7 +811,7 @@
  iroquois_haudenosaunee_desc:0 "Our similarities are stronger than our differences. Having followed the wise advice of our great leaders, it has become evident that a union between our equals is more necessary than ever. We must secure some allies among the Iroquoians in order to establish a powerful council without forgetting our own identifying characteristics."
  iroquois_the_five_nations_title:0 "The Five Nations"
  iroquois_the_five_nations_desc:0 "Mohawk, Onondaga, Oneida, Cayuga, and Seneca. Those were the original five nations that shaped the so called Iroquois Confederacy. We shall take those lands under our judicious wing, in one way or another."
- iroquois_one_nation:0 "One Nation"
+ iroquois_one_nation:0 "Одна нація"
  desc_iroquois_one_nation:0 "Our efforts have been rewarded and our tribes behave now as one cohesive nation."
  iroquois_keepers_of_the_eastern_door_title:0 "Keepers of the Eastern Door"
  iroquois_keepers_of_the_eastern_door_desc:0 "Many European nations have their eyes on our prosperous land. Out of all their greedy mouths, the French seem to be the most interested in the tribes around the Great Lakes. We must make sure that their advance is stopped on time."
