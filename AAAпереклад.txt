@@ -75,7 +75,7 @@ EU4_l_ukrainian.yml -  в.1.33, перекладено / 5068
 gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
 gecko_1_31_l_ukrainian.yml - в.1.32, перекладено / 9
 gecko_1_32_l_ukrainian.yml - в.1.32, перекладено / 1
-flavor_events_l_ukrainian.yml - в.1.33, без перекладу рядки: rus 1327-1337 (11), 4808-4935 (128), totemism_flavor 4951-5033 (64) / 5032
+flavor_events_l_ukrainian.yml - в.1.33, без перекладу рядки: rus 1327-1337 (11), події племен 4809-4928 (27), totemism_flavor 4951-5033 (64) / 5032
 generic_events_l_ukrainian.yml - в.1.33, перекладено / 4588
 golden_century_l_ukrainian.yml - в.1.33, без перекладу рядки: pirates 217-309 (20) / 539
 government_l_ukrainian.yml - в.1.33, перекладено / 357
