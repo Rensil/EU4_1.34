@@ -1758,7 +1758,7 @@
  opinion_our_pope_on_throne:0 "Наш Папа на престолі"
  opinion_pope_tuscan_homeland:0 "Батьківщина Папи Римського"
 
- WORLD_CRUSADE_WAR_NAME:0 "$ORDER$$FIRST$ Great Holy War against $SECOND$"
+ WORLD_CRUSADE_WAR_NAME:0 "$ORDER$$FIRST$ Велика священна війна проти $SECOND$"
  cb_world_crusade:0 "Велика Священна війна"
  cb_world_crusade_desc:0 "Цей світ блюзнірський і зіпсований; ми повинні прагнути очистити цей світ від пороку та гріха!"
  flavor_efr.EVTNAME1:0 "[Root.Monarch.GetName] претендує на Східну Фрізію"
