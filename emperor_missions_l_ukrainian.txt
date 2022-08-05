@@ -1976,7 +1976,7 @@
  peasants_likedealers_desc:0 "Until recently, a valiant group of outlaws named the Likedeelers would raid merchant shipping and redistribute their unjust profits to the poor. We must renew the Likedeelers so that the wealth of the north can be shared equally."
  peasants_hemmingstedt_title:0 "The Battle of Hemmingstedt"
  peasants_hemmingstedt_desc:0 "The King of Denmark wishes to subjugate the fiercely independent people of [Root.GetName]. Though we will surely be outnumbered and outmatched in many ways, we must put our faith in God and use every tactical advantage at our disposal to repel the Danish armies. If by the grace of God we succeed, we should push on and liberate Holstein from Danish rule."
- peasants_denmark_title:0 "Defeat Denmark"
+ peasants_denmark_title:0 "Перемогти Denmark"
  peasants_denmark_desc:0 "We will never be truly safe until the tyrant King of Denmark is defeated utterly. We must liberate the peasantry of Jutland and drive out the aristocracy from all of Denmark."
  peasants_conquest_of_bread_title:0 "The Conquest of Bread"
  peasants_conquest_of_bread_desc:0 "In other nations the noble laborers who work the fields and factories would be met with bayonets and grapeshot if they demanded bread for their toil. In [Root.GetName] no man, woman, or child shall ever die of hunger. Let us provide bread for all!"
@@ -2178,7 +2178,7 @@
  emp_mission_events.12.name:0 "[From.GetUsableNameCap] зберігає свою незалежність"
  emp_mission_events.12.desc:1 "Держава [From.GetUsableNameCap] відмовилася від наших розумних пропозицій, щоб вони об'єднали свої сили з нашими. Вони вважають за краще самостійно долати всі небезпеки незалежності."
  #Franconian Missions
- fkn_defeat_rivals_title:0 "Defeat Our Rivals"
+ fkn_defeat_rivals_title:0 "Перемогти Our Rivals"
  fkn_defeat_rivals_desc:0 "Franconia is divided between many weak, petty states. Only by military strength can unity be brought back to the duchy."
  fkn_liberty_title:0 "Franconian Liberty"
  fkn_liberty_desc:0 "Franconian weakness has allowed our neighbors to the north and west to encroach on our lands. We must end this occupation and restore our people's liberty."
