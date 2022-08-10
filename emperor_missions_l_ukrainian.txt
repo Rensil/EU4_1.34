@@ -787,13 +787,13 @@
  pal_kingdom_of_the_rhine_title:0 "Kingdom of the Rhine"
  pal_kingdom_of_the_rhine_desc:0 "The Rhineland is a territory of rich cities and fertile farmlands that, if united, would represent a significant force. However, it is extremely fragmented, with petty states dotting it from source to sea and little sense of common identity between its peoples. We must forge ourselves into a powerful state capable of dominating the Rhine and providing unity to its peoples, and claim for ourselves the title of Kings of the Rhineland."
  pal_protect_from_france_title:0 "The Western Border"
- pal_protect_from_france_desc:0 "As the French eye up expansion into Germany, our location makes likely to be one of their first targets. We must assert our superiority and ensure that we - and the Empire - are safe from attacks from the west."
+ pal_protect_from_france_desc:0 "As the French eye up expansion into Germany, our location makes likely to be one of their first targets. We must assert our superiority and ensure that we – and the Empire – are safe from attacks from the west."
  pal_protect_from_france_trigger_tooltip:0 "Жодна країна у регіоні Франції не має більшої армії, ніж [Root.GetName]."
  pal_religious_leadership_title:0 "Religious Leadership"
  pal_religious_leadership_desc:0 "Those who would desire greater independence from the Pope and a more just distribution of religious power in Europe look to us for military leadership. We must not let them down."
  pal_religious_leadership_trigger_tooltip:1 " сусідні країни сповідують §Y[Root.Religion.GetName]§!."
  pal_kingdom_of_bohemia_title:0 "The Bohemian Crown"
- pal_kingdom_of_bohemia_desc:0 "Sympathizers in Bohemia have suggested that, if we united our territories with theirs, we would represent an effective counterbalance to the Habsburgs of Austria. We should act on their plans and seize supremacy in the Empire - or at least try and fail in a blaze of glory..."
+ pal_kingdom_of_bohemia_desc:0 "Sympathizers in Bohemia have suggested that, if we united our territories with theirs, we would represent an effective counterbalance to the Habsburgs of Austria. We should act on their plans and seize supremacy in the Empire – or at least try and fail in a blaze of glory..."
  pal_glorious_palatine_title:0 "The Glorious Palatine"
  pal_glorious_palatine_desc:0 "We trace the origins of our title to the Count Palatines of the old Frankish kings. However, we cannot rest on the laurels that the antiquity of our titles brings. If we are to be taken seriously, it is imperative that our court maintains the highest standards of pomp and shows off our splendor to all of Europe."
  pal_kingdom_of_the_rhine_mod:0 "Kingdom of the Rhine"
@@ -2355,7 +2355,7 @@
 
  #Lubeck Missions
  hsa_hanseatic_army_mission_title:0 "Defend the City"
- hsa_hanseatic_army_mission_desc:0 "The city of Lübeck is vulnerable - our armies are small, and our immense wealth tempts many would-be expansionist powers. We must build our forces so that we may be safe from attack."
+ hsa_hanseatic_army_mission_desc:0 "The city of Lübeck is vulnerable – our armies are small, and our immense wealth tempts many would-be expansionist powers. We must build our forces so that we may be safe from attack."
  hsa_hanseatic_mecklenburg_mission_title:0 "Wismar & Rostock"
  hsa_hanseatic_mecklenburg_mission_desc:0 "Our strong ties with the cities of Wismar and Rostock have not prevented them from obeying the will of the Dukes of Mecklenburg, even against our own interests. We have allowed their intransigence to go on for far too long. It is time for us to impose greater control over them."
  hsa_baltic_trade_mission_title:0 "Відстояти балтійську торгівлю"
@@ -2419,7 +2419,7 @@
  hanseatic_queen_modifier:0 "The Queen of the Hanseatic League"
  desc_hanseatic_queen_modifier:0 "The splendor of the city of Lübeck draws many aspiring artists, intellectuals and foreign dignitaries to do business with the [Root.GovernmentName]."
  hanseatic_bookkeeping_modifier:0 "Hanseatic Bookkeeping"
- desc_hanseatic_bookkeeping_modifier:0 "Our diligent bookkeepers ensure that every penny ends up where it belongs - in our coffers."
+ desc_hanseatic_bookkeeping_modifier:0 "Our diligent bookkeepers ensure that every penny ends up where it belongs – in our coffers."
  hsa_north_sea_trading:0 "The North Sea Trade Route"
  desc_hsa_north_sea_trading:0 "We now dominate the North Sea as we once dominated the Baltic, drawing trade income from the colonies as well as from Russia into our coffers."
  # Events
