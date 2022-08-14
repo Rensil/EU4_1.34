@@ -1439,7 +1439,7 @@
  enlarge_the_gold_fleet:0 "Збільшити Золотий флот"
  increase_religious_control:0 "Посилити релігійний контроль"
  increase_integration_in_the_realm:0 "Збільшити інтеграцію з метрополією"
- increase_trade_power_transfer_from_colony:0 "Збільшити передачу торгового впливу"
+ increase_trade_power_transfer_from_colony:0 "Збільшити передачу торгової сили"
  encourage_cash_crops:0 "Стимулювати ріст товарних культур"
  encourage_cash_crops_tt:0 "З великою ймовірністю в наших провінціях з'являться торгові культури."
  increase_naval_force_limit_from_colony:0 "Збільшити колоніальний флот"
