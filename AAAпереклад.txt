@@ -13,21 +13,15 @@ Discord") (бажано) або на толоці. Будемо раді не л
 
 ПриватБанк: 5168 7422 4437 5741
 
-В файлі прогрес перекладу до версії 1.33. Пошук та зміну тексту виконано за допомогою WinMerge.
+В файлі прогрес перекладу до версії 1.34. Пошук та зміну тексту виконано за допомогою WinMerge.
 Якщо знайдені невказані неперекладені рядки - перекладайте або повідомте sergey-astral на сторінці перекладу Europa Universalis IV (2013) Гуртом https://toloka.to/t49250?sid=3e0c4c4385b3709bcaedb04089c9cb66
 ОБОВ'ЯЗКОВО повідомляйте про файли, які перекладаєте.
 
-sergey-astral - leviathan - весь файл.
-sergey-astral - emperor_content - весь файл.
-Rensil - emperor_missions, рядки 1600-1654 (55).
-Rensil - modifers, рядки rus 1613-1663 (49).
-Rensil - flavor_events, рядки rus 1327-1337 (11).
-Rensil - powers_and_ideas, рядки rus 5146-5175 (21).
-Hopeless dreamer - powers_and_ideas, з рядка 6850.
 
 
 
 Як читати: назва - перевірено до версії, прогрес перекладу/неперекладені рядки (кількість)/загалом рядків в файлі
+Загальна кількість рядків версії 1.34 48 файлів змінено + 4 нових
 Загальна кількість рядків версії 1.33 44 файли змінено
 Загальна кількість рядків версії 1.32 47 файлів змінено + 3 нових
 Загальна кількість рядків версії 1.31 5 файлів змінено + 9 нових
@@ -42,17 +36,18 @@ Hopeless dreamer - powers_and_ideas, з рядка 6850.
 Загальна кількість рядків версії 1.22 62095 /
 
 
-00_lanfang_l_ukrainian.yml - в.1.33, перекладено / 705
+00_lanfang_l_ukrainian.yml - в.1.34, перекладено / 705
 1283_l_ukrainian - в.1.28.3, перекладено / 2
-achievement_tooltips_l_ukrainian - в.1.30.1, перекладено / 57
-achievements_l_ukrainian.yml - в.1.33, без перекладу рядки: 222-677 (456) / 677
-aow_l_ukrainian.yml - в.1.33, перекладено / 2362
-areas_regions_l_ukrainian.yml - в.1.32, перекладено / 2844
+achievement_tooltips_l_ukrainian - в.1.34, без перекладу рядки: 58-63 (6) / 63
+achievements_l_ukrainian.yml - в.1.34, без перекладу рядки: 222-700 (479) / 677
+aow_l_ukrainian.yml - в.1.34, перекладено / 2364
+areas_regions_l_ukrainian.yml - в.1.34, перекладено / 2844
 astu_1_31_l_ukrainian.yml - в.1.33, перекладено / 48
+astu_1_34_l_ukrainian.yml - в.1.34, перекладено / 1 НЕ ВІДПРАВЛЕНО
 capybara_l_ukrainian.yml - в.1.31.6, перекладено / 24
-common_sense_l_ukrainian.yml - в.1.33, перекладено / 1691
+common_sense_l_ukrainian.yml - в.1.34, редагування, без перекладу рядки: 711-769 (59) / 1727 НЕ ВІДПРАВЛЕНО
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
-core_l_ukrainian.yml - в.1.33, перекладено / 936
+core_l_ukrainian.yml - в.1.34, перекладено / 937
 cossacks_l_ukrainian.yml - в.1.33, перекладено / 1504
 countries_l_ukrainian.yml -  в.1.33, перекладено / 1401
 cradle_of_civilization_l_ukrainian - в.1.33, перекладено / 871
@@ -75,6 +70,7 @@ EU4_l_ukrainian.yml -  в.1.33, перекладено / 5068
 gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
 gecko_1_31_l_ukrainian.yml - в.1.32, перекладено / 9
 gecko_1_32_l_ukrainian.yml - в.1.32, перекладено / 1
+gecko_1_34_l_ukrainian.yml - в.1.34, не перекладено / 14 НЕ ВІДПРАВЛЕНО
 flavor_events_l_ukrainian.yml - в.1.33, без перекладу рядки: rus 1327-1337 (11) / 5032
 generic_events_l_ukrainian.yml - в.1.33, перекладено / 4588
 golden_century_l_ukrainian.yml - в.1.33, без перекладу рядки: pirates 217-309 (20) / 539
@@ -93,6 +89,7 @@ hedgehog_l_ukrainian.yml - в.1.32, перекладено / 130
 hinduism_l_ukrainian.yml - в.1.31, перекладено / 225
 hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
 hnn_1_32_l_ukrainian.yml - в.1.33, перекладено / 8
+hnn_l_ukrainian.yml - в.1.34, не перекладено / 53 НЕ ВІДПРАВЛЕНО
 institutions_l_ukrainian.yml - в.1.32, перекладено / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.32, перекладено / 214
@@ -136,6 +133,7 @@ richpresence_l_ukrainian.yml - в.1.29, перекладено / 10
 rights_of_man_l_ukrainian.yml - в.1.33, перекладено, триває редагування змінних - рядок 583 / 1682
 rule_britannia_l_ukrainian.yml - в.1.32, перекладено / 472 перевірити рядок 382
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
+scandinavia_l_ukrainian.yml - в.1.34, не перекладено / 4689 НЕ ВІДПРАВЛЕНО
 sikh_l_ukrainian.yml - в.1.31.5, перекладено / 65
 social_l_ukrainian.txt - в.1.30.1, не перекладається
 sprite_packs_l_ukrainian.txt - в.1.32, не перекладається / 277
