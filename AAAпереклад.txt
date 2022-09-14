@@ -48,18 +48,18 @@ capybara_l_ukrainian.yml - в.1.31.6, перекладено / 24
 common_sense_l_ukrainian.yml - в.1.34, редагування, без перекладу рядки: 711-769 (59) / 1727 НЕ ВІДПРАВЛЕНО
 conquest_of_constantinople_l_ukrainian.yml - в.1.24, перекладено / 4
 core_l_ukrainian.yml - в.1.34, перекладено / 937
-cossacks_l_ukrainian.yml - в.1.33, перекладено / 1504
-countries_l_ukrainian.yml -  в.1.33, перекладено / 1401
-cradle_of_civilization_l_ukrainian - в.1.33, перекладено / 871
+cossacks_l_ukrainian.yml - в.1.34, перекладено / 1506
+countries_l_ukrainian.yml -  в.1.34, перекладено / 1401
+cradle_of_civilization_l_ukrainian - в.1.34, перекладено / 872
 cultures_phase4_l_ukrainian.yml - в.1.28.1, перекладено / 54
 custom_localisation_l_ukrainian.yml - в.1.30.1, перекладено / 130
-decisions_l_ukrainian.yml - в.1.33, перекладено / 208
-dharma_l_ukrainian.yml - в.1.33, перекладено / 977
-diplo_reasons_l_ukrainian.yml - в.1.33, перекладено / 375
-diplomacy_l_ukrainian.yml - в.1.33, перекладено / 898
+decisions_l_ukrainian.yml - в.1.34, перекладено / 208
+dharma_l_ukrainian.yml - в.1.34, перекладено / 977
+diplo_reasons_l_ukrainian.yml - в.1.34, перекладено / 376 перевірити рядки 110, 117?
+diplomacy_l_ukrainian.yml - в.1.34, перекладено / 899
 diplomatic_action_l_ukrainian.yml - в.1.24, перекладено / 7
 eldorado_l_ukrainian.yml - в.1.30.1, перекладено / 1112
-emperor_content_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори 2377-2777 (399), мінори 2908-3001 (73) / 3424
+emperor_content_l_ukrainian.yml - в.1.34, редагування, без перекладу рядки: мінори 1248-1254 (4), мінори 2377-2777 (399), мінори 2908-3001 (73) / 3424 НЕ ВІДПРАВЛЕНО
 emperor_estates_l_ukrainian.yml - в.1.33, перекладено / 1286
 emperor_l_ukrainian.yml - в.1.33, перекладено / 1056
 emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
