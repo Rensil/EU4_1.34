@@ -24,7 +24,7 @@
  REFILL_GARRISON_NO_INFANTRY:0 "У вибраній армії немає піхоти."
  REFILL_GARRISON_PROFESSIONALISM_LACKING:0 "Потрібно $LIMIT|Y%1$ §Yпрофесіоналізму арміі§! для поповнення гарнізонів."
  REFILL_GARRISON_NOT_ALLOWED:0 "Не має можливості поповнювати гарнізони."
- MODIFIER_YEARLY_ARMY_PROFESSIONALISM:0 "Щорічний професіоналізм армії"
+ MODIFIER_YEARLY_ARMY_PROFESSIONALISM:0 "Щорічна зміна професіоналізму армії"
  MODIFIER_MAY_BUILD_SUPPLY_DEPOT:0 "Можна будувати склади постачання"
  MODIFIER_MAY_REFILL_GARRISON:0 "Можна поповнювати гарнізони"
  MODIFIER_MAY_RETURN_MANPOWER_ON_DISBAND:0 "Повернення рекрутів після розпуску"
