@@ -7,4 +7,4 @@
  VIEW_SUBSCRIPTION:0 "Переглянути підписку"
  SUB_BANNER_NEW_SUB_INACTIVE:0 "Підпишіться на всі коли-небудь випущені DLC!"
  SUB_BANNER_NEW_SUB_ACTIVE:0 "Підписка активна!"
- SUB_BANNER_BUTTON_VIEW_NEW_SUB_INACTIVE:0 "Перейти до Steam" 
+ SUB_BANNER_BUTTON_VIEW_NEW_SUB_INACTIVE:0 "Перейти до Steam"
