@@ -66,16 +66,16 @@ emperor_map_l_ukrainian.yml - в.1.30.1, перекладено / 330
 emperor_mercs_l_ukrainian.yml - в.1.34, перекладено / 209
 emperor_missions_l_ukrainian.yml - в.1.34, без перекладу рядки: Serbian 1001-1078 (72), Albanian 1940-1963 (20), Peasant 1975-2018 (39), Croatian 2020-2046 (25) / 2548
 emperor_revolutions_l_ukrainian.yml - в.1.32, перекладено / 261
-EU4_l_ukrainian.yml -  в.1.33, перекладено / 5068
+EU4_l_ukrainian.yml -  в.1.34, перекладено / 5082 729, 1149, 1155, 1156, 1201, 1445?
 gecko_1_30_6_l_ukrainian.yml - в.1.31.6, перекладено / 4
 gecko_1_31_l_ukrainian.yml - в.1.32, перекладено / 9
 gecko_1_32_l_ukrainian.yml - в.1.32, перекладено / 1
 gecko_1_34_l_ukrainian.yml - в.1.34, не перекладено / 14 НЕ ВІДПРАВЛЕНО
-flavor_events_l_ukrainian.yml - в.1.33, без перекладу рядки: rus 1327-1337 (11) / 5032
-generic_events_l_ukrainian.yml - в.1.33, перекладено / 4588
-golden_century_l_ukrainian.yml - в.1.33, без перекладу рядки: pirates 217-309 (20) / 539
-government_l_ukrainian.yml - в.1.33, перекладено / 357
-government_names_l_ukrainian.yml - в.1.32, перекладено / 539
+flavor_events_l_ukrainian.yml - в.1.33, без перекладу рядки: rus 1327-1337 (11), 4594-4616(23) / 5059 НЕ ВІДПРАВЛЕНО НЕ ВІДПРАВЛЕНО
+generic_events_l_ukrainian.yml - в.1.34, перекладено / 4597
+golden_century_l_ukrainian.yml - в.1.34, без перекладу рядки: pirates 218-310 (20) / 540
+government_l_ukrainian.yml - в.1.34, перекладено / 357
+government_names_l_ukrainian.yml - в.1.34, перекладено / 540
 gukr00_customizable_l_ukrainian.yml - кастомні змінні
 gukr01_customizable_l_ukrainian.yml - кастомні змінні
 gukr_countries_l_ukrainian.yml - кастомні змінні
@@ -85,7 +85,7 @@ gukr_governmentCAP_l_ukrainian.yml - кастомні змінні
 gukr_religion_l_ukrainian.yml - кастомні змінні
 gukr_title_l_ukrainian.yml - кастомні змінні
 gukr_titleCAP_l_ukrainian.yml - кастомні змінні
-hedgehog_l_ukrainian.yml - в.1.32, перекладено / 130
+hedgehog_l_ukrainian.yml - в.1.34, перекладено / 161
 hinduism_l_ukrainian.yml - в.1.31, перекладено / 225
 hints_l_ukrainian.yml - в.1.30.1, перекладено / 342
 hnn_1_32_l_ukrainian.yml - в.1.33, перекладено / 8
@@ -119,7 +119,7 @@ origins_l_ukrainian - в.1.34, без перекладу рядки: ETH FLAVOR 
 personalityoptions_l_ukrainian.yml - в.1.34, перекладено / 710
 policies_l_ukrainian.yml - в.1.33, перекладено / 419
 popserror_ukrainian.yml - в.1.31.5, перекладено / 17
-powers_and_ideas_l_ukrainian.yml - в.1.33, без перекладу рядки: 1260-1275 (8), 4691-4720 (15), 5180-5258 (61), 5316-5326 (11), 5363-5375 (13), 5458-5611 (121), 5632-5645 (14), 5683-5764 (70), 5836-6219 (248), 6421-6500 (68), 6646-6676 (28) / 6928
+powers_and_ideas_l_ukrainian.yml - в.1.34, без перекладу рядки: 531-544 (14) пріоритетно 1.34, 1278-1290 (8), 4706-4735 (15), 5195-5273 (61), 5331-5341 (11), 5378-5390 (13), 5473-5626 (121), 5647-5660 (14), 5698-5779 (70), 5851-6234 (248), 6436-6515 (68), 6661-6691 (28) / 6928 НЕ ВІДПРАВЛЕНО
 privateers_l_ukrainian.yml - в.1.24, перекладено / 82
 prov_names_adj_l_ukrainian.yml - в.1.34, не перекладається / 3603
 prov_names_l_ukrainian.yml - в.1.34, без перекладу рядки / 3729
@@ -131,13 +131,13 @@ religion_l_ukrainian.yml - в.1.32, без перекладу рядки: 99-132
 res_publica_l_ukrainian.yml - в.1.30.1, перекладено / 581
 richpresence_l_ukrainian.yml - в.1.29, перекладено / 10
 rights_of_man_l_ukrainian.yml - в.1.33, перекладено, триває редагування змінних - рядок 583 / 1682
-rule_britannia_l_ukrainian.yml - в.1.32, перекладено / 472 перевірити рядок 382
+rule_britannia_l_ukrainian.yml - в.1.34, без перекладу рядки: 123-155 (25), 426-443 (18) / 514 НЕ ВІДПРАВЛЕНО
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 scandinavia_l_ukrainian.yml - в.1.34, не перекладено / 4689 НЕ ВІДПРАВЛЕНО
 sikh_l_ukrainian.yml - в.1.31.5, перекладено / 65
 social_l_ukrainian.txt - в.1.30.1, не перекладається
 sprite_packs_l_ukrainian.txt - в.1.34, не перекладається / 292
-startup_screen_l_ukrainian.yml - в.1.34, без перекладу рядки: 83-88 (4) / 316 НЕ ВІДПРАВЛЕНО
+startup_screen_l_ukrainian.yml - в.1.34, без перекладу рядки: 84-88 (4) / 316 НЕ ВІДПРАВЛЕНО
 subject_type_l_ukrainian.yml - в.1.31.5, перекладено / 68
 subscription_l_ukrainian - в.1.34, перекладено / 10
 synthetic_dawn_l_ukrainian.yml - в.1.34, не перекладається / 50 Пасхалка зі Стеларіс 
