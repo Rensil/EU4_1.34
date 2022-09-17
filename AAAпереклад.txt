@@ -131,7 +131,7 @@ religion_l_ukrainian.yml - в.1.32, без перекладу рядки: 99-132
 res_publica_l_ukrainian.yml - в.1.30.1, перекладено / 581
 richpresence_l_ukrainian.yml - в.1.29, перекладено / 10
 rights_of_man_l_ukrainian.yml - в.1.33, перекладено, триває редагування змінних - рядок 583 / 1682
-rule_britannia_l_ukrainian.yml - в.1.34, без перекладу рядки: 123-155 (25), 427-443 (9) / 514 НЕ ВІДПРАВЛЕНО
+rule_britannia_l_ukrainian.yml - в.1.34, без перекладу рядки: 123, 154-155 (2), 427-443 (9) / 514 НЕ ВІДПРАВЛЕНО
 rus_awaken_l_ukrainian.txt - в.1.24, перекладено / 4
 scandinavia_l_ukrainian.yml - в.1.34, не перекладено / 4689 НЕ ВІДПРАВЛЕНО
 sikh_l_ukrainian.yml - в.1.31.5, перекладено / 65
