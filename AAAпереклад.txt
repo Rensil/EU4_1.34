@@ -93,15 +93,15 @@ hnn_l_ukrainian.yml - в.1.34, не перекладено / 53 НЕ ВІДПР�
 institutions_l_ukrainian.yml - в.1.32, перекладено / 117
 insults_l_ukrainian.yml - в.1.30.1, перекладено / 76
 ledger_l_ukrainian.yml - в.1.32, перекладено / 214
-leviathan_l_ukrainian.yml - в.1.33, без перекладу рядки: мінори Півничної Америки 27-52 (13), native_americans 56-146 (64), aboriginal 335-363 (28), мінори 367-482 (96), General Polynesian Events 1071-1112 (14), Fijian Events 1113-1133 (21), Hawaiian Events 1135-1156 (22), Maori Events 1158-1181 (24), Samoan Events 1183-1206 (24), Tongan Events 1208-1234 (27), Easter Eggs 1236-1246 (21), custom 1671-1790 (119) / 1841
+leviathan_l_ukrainian.yml - в.1.34, без перекладу рядки: мінори Півничної Америки 27-52 (13), native_americans 56-146 (64), aboriginal 336-364 (28), мінори 369-483 (96), General Polynesian Events 1072-1113 (14), Fijian Events 1114-1134 (21), Hawaiian Events 1136-1157 (22), Maori Events 1159-1182 (24), Samoan Events 1184-1207 (24), Tongan Events 1209-1235 (27), Easter Eggs 1237-1247 (21), custom 1679-1798 (119) / 1849
 loadingtips_l_ukrainian.yml - в.1.31, перекладено / 104
 maghreb_formations_l_ukrainian.yml - в.1.24, перекладено / 9
-manchu_l_ukrainian.yml - в.1.33, перекладено / 824
-mandala_missions_l_ukrainian.yml - в.1.33, без перекладу рядки: 797-909 (112) / 909
+manchu_l_ukrainian.yml - в.1.34, перекладено / 826
+mandala_missions_l_ukrainian.yml - в.1.34, без перекладу рядки: 797-909 (112) / 909
 mandate_of_heaven_l_ukrainian.yml - в.1.33, перекладено / 828
-mare_nostrum_l_ukrainian.yml - в.1.32, перекладено / 446
+mare_nostrum_l_ukrainian.yml - в.1.34, перекладено / 446
 mercantilism_l_ukrainian.yml - в.1.24, перекладено / 56
-messages_l_ukrainian.yml - в.1.33, перекладено / 7074
+messages_l_ukrainian.yml - в.1.34, без перекладу рядки: 362-404 (43) / 7118 НЕ ВІДПРАВЛЕНО
 missions_l_ukrainian.yml - в.1.28.3, перекладено / 361
 modifers_l_ukrainian.yml - в.1.34, без перекладу рядки: 7, 866-867 (2), 1263, rus 1617-1667 (49) / 2364 НЕ ВІДПРАВЛЕНО
 mughal_government_l_ukrainian.yml - в.1.32, перекладено / 97
@@ -125,7 +125,7 @@ prov_names_adj_l_ukrainian.yml - в.1.34, не перекладається / 36
 prov_names_l_ukrainian.yml - в.1.34, без перекладу рядки / 3729
 Purple_Phoenix_l_ukrainian.yml - в.1.26, перекладено / 89
 random_new_world_l_ukrainian.yml - в.1.30.1, не перекладається
-red_queen_text_l_ukrainian.yml -  в.1.32, без перекладу рядки: 2-701 () / 701
+red_queen_text_l_ukrainian.yml -  в.1.34, без перекладу рядки: 2-714 () / 714
 regions_phase4_l_ukrainian.yml - в.1.24, перекладено / 38
 religion_l_ukrainian.yml - в.1.32, без перекладу рядки: 99-132 (5) / 159
 res_publica_l_ukrainian.yml - в.1.30.1, перекладено / 581
@@ -147,7 +147,7 @@ terrain_stuff_l_ukrainian.yml - в.1.24, перекладено / 3
 text_l_ukrainian.yml - в.1.34, перекладено / 8169 4405-4409? НЕ ВІДПРАВЛЕНО
 text_l_ukrainian_0_815.txt - файл відсутній з в.1.22
 third_rome_l_ukrainian.txt - в.1.34, перекладено / 393
-tmm_l_ukrainian.yml - в.1.33, без перекладу рядки: провінції 1048-1131 (73), імена 1208-1213 (4) / 1614
+tmm_l_ukrainian.yml - в.1.34, без перекладу рядки: провінції 311-314 (4), 1053-1136 (73), імена 1213-1218 (4), 1409-1425 (17), 1637-1746 (110) / 1746 НЕ ВІДПРАВЛЕНО
 tradenodes_l_ukrainian.yml - в.1.32, перекладено / 216
 triggers_and_effects_l_ukrainian.yml - в.1.34, перекладено / 677
 tutorial_l_ukrainian.yml - в.1.34, перекладено / 370
